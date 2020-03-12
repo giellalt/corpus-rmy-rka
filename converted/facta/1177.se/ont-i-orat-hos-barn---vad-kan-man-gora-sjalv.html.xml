@@ -1,0 +1,69 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>658</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="d.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="l1.html"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kana dukhal le glaten le kan - so šaj keres korkoro? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Kana dukhal le glaten le kan - so šaj keres korkoro?Ont i örat hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Maj vušoro anklel la glatake te phurdel, te sovel maj opre šerésa.</p>
+    </list>
+    <p type="title" xml:lang="swe">Butivar dukhal pe rat</p>
+    <p xml:lang="swe">Glati kaj si troznale šaj lel len dukh ande le kan ke le pixa ande le kan šuvlon. Vi šaj len jek dukh kana phubarda e inflamatcija ando maškarono kan, kaj phenel pe kaneski inflamatcija. Vi trozna aj kaneski inflamatcija si normalno infektacijako nasvalimos maškar glati. Butivar vušten le glati maškaral e rjat ke o šuvlimos ando kan butol kana von pašlon tele mosa. Šaj ačardol lenge maj mišto te thosa duj trin šeranda telal o šero.</p>
+    <p xml:lang="swe">Kaver problemori kaj šaj del le manušes kaneski dukh si inflamatcija ande truba ašundimaski truba kaj žal karing e duba le kaneski, vaj mom vaj problemo le felčensa.</p>
+    <p xml:lang="swe">Te pašlola vaj te sovél e glata vuče šerésa, hulel o šuvimos tele ando kan aj maj xanci dukhal. Jek fjalo si sar te važdes opre o šero si, te thos le šeranda telal e madrasa.</p>
+    <p type="title" xml:lang="swe">Kaneski inflamatcija dukhavel o maškarono kan</p>
+    <p xml:lang="swe">Jek kaneski inflamatcija ando maškarono kan avel univar fugo, numa či ašel ande but vramja. Naj ferdi ke dukhal e glata vi šaj ačarel e glata ke vrodi sar jek fedevo phandavel o kan aj kašukarel. Vi normalno si ke šaj lel e glata goronša. Univar šaj pařadol e kaneski truba aj pičal avri ande kaneski droma. Glati šaj avel len kaneski inflamatcija bi te dukhal len.</p>
+    <p type="title" xml:lang="swe">Drab te nakhel e dukh</p>
+    <p xml:lang="swe">Te žanesa ke si kaj čiri glata kaneski inflamatcija šaj des la drab kaj si ande late paracetamol te nakhel e dukh, naprimer Alvedon vaj Panodil, vaj draba kaj si len andre Ibuprofen, sar naprimer Ipren vaj Ibumetim. Si pimaske draba aj draba kaj thos ande bul aj vi sar te xas drab. Pe drabeski pačka si ramome vorta sar te pes le draba.</p>
+    <p xml:lang="swe">Kana si e glati telal le šov śon trubús te na des len draba te nakhel e dukh maj anglal so dan duma la lugerica vaj doktoro.</p>
+    <p xml:lang="swe">Glati kaj si telal le 18 berš aj kaj si len goronša te na len draba te nakhel le dukha kaj aj te hulel tele o goronša,draba kaj si ande lende acetylsalicylsyra, sar eksemplo Magnecyl, Treo aj Albyl minor, te na phenda o doktoro te si slobodia.</p>
+    <p type="title" xml:lang="swe">Nakhesko spray</p>
+    <p xml:lang="swe">Nakhesko spray po nakh kerel te hulel tele o šuvlimos ando nakh aj maj feder šaj phurdel e glata. Te ažutil o nakhesko spray pe kaneski inflamatcija, naj inke čačes.</p>
+    <p type="title" xml:lang="swe">Kanesko problemo aj te najos</p>
+    <p xml:lang="swe">Te šindila le kaneski duba trubús te ažukeres te najos ži pon či maj pečal ande kaneski truba. Kana kaneski duba sastili, kaj butivar źal sigo, šaj najos sar normalno. Te si le manušes jek truba ando kan vaj te si le manušes jek truba kaneski inflamatcija naštis te najos aj te thos o šero telal o paj.</p>
+    <p type="title" xml:lang="swe">Šaj avel ke trubús te les kontakto la špitasa</p>
+    <p xml:lang="swe">Glati šaj len dukh ande le kan kana si troznale. Numa te či nakhela e dukh, vi te dan drab te nakhel e dukh vaj te sovel le šeresa opre mosa, trubúl e glata te žal fugo kaj e špita vaj jouroski špita angla so nakhla duj trin džesa.</p>
+    <p xml:lang="swe">Te si e glata kovli, aj či dashtil te khelel peske aj či kamel te pel paj vaj te si e glata tela šov śon trubús te žas kaj špita anda jek data.</p>
+    <p xml:lang="swe">O manuš trubúl kana godi te lel kontakto la špitasa te pečala paj khatar o kan pe jek glata, vi te dukhala vaj ke niči.</p>
+    <p xml:lang="swe">Kana godi šaj marel o manuš kaj špitako ažutimos te lel ažutimos</p>
+  </body>
+</document>

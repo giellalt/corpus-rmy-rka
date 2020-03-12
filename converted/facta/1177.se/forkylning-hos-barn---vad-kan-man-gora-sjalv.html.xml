@@ -1,0 +1,82 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1129</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Forkylning-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Trozna kaj glati – so šaj keres korkoro? / Förkylning hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Trozna kaj glati – so šaj keres korkoro?Förkylning hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Limalo, xas aj univar gronša</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Maj vušoro anklel la glatake te phurdel, te sovel maj opre šerésa.</p>
+    </list>
+    <p xml:lang="swe">Glati kaj line gronža si butivar kovle, čine, sera rovlarde aj dukhade le anglune džesa. Butivar či birin te phurden o nakh vaj te limale aj šaj aven vi šaj xoljavon kana dukhal len e koř vaj kana dukhal len le kan. Vi šaj avel len jek vužuro xas aj univar šaj len gronža.</p>
+    <p xml:lang="swe">Anda gor si le lima butivar parno aj sar pajaslo pala duj trin džes kerdol o lim maj thulo, aj gelbenil peaj kerdol zeleno.</p>
+    <p xml:lang="swe">Telal le anglune džesa kana si la glata trozna si la glatake maj čořes. Pala źi kaj duj kurke sastol o manuš khatar e trozna. O profundo kaj jek normalno trozna si jek virus, aj karing virus naj draba kaj kerel te sastol e glata maj sigo.</p>
+    <p type="title" xml:lang="swe">Glati kaj si len gronša aj ačarem pe kolvle, trubún te bešen khere</p>
+    <p xml:lang="swe">Glati kaj si len gronša vaj ke si čine aj kovle trubún te bešen khere aj te hudinin. Pherdo glati trubún te aven khere le anglune džesa vi te naj len gronša, bi te na piliné te phen draba te hulel tele e gronša. Von trubún te saston aj te aven zurale te birin te źan kaj angluni škola vaj kaj e škola.</p>
+    <p type="title" xml:lang="swe">Hudina trubúl</p>
+    <p xml:lang="swe">Mišto si te des kaj e glata jek chansa te hudenin, naj ke si lenge mušaj te hudenin ando pato. E glata butivar ačarel korkoro sode dashtil te bešel opre.</p>
+    <p xml:lang="swe">Šaj avel la glatake maj vušoro te phurdel kana si te sovel te thosa maj but šeranda telal o šero</p>
+    <p xml:lang="swe">Cinoře glati šaj phiraves len ando hamo, vaj anda glatengo skamin vaj ande Le čanga kana bešes.</p>
+    <p type="title" xml:lang="swe">Dragosko xaben aj pimos</p>
+    <p xml:lang="swe">But glati či birin te xan sar normalno. O manuš šaj pravarel la glata xabenesa sar eksemplo thud, čuklo thud vaj morozo. Kana si kaj e glata goronša si mišto te pel e glata but paj.</p>
+    <p type="title" xml:lang="swe">Čirado paj ando lon vaj nakhesko drab kaj limalo nakh</p>
+    <p xml:lang="swe">Te si e glata limali šaj thol o manuš londžardo paj ando nakh, kaj vušoril le lima. Vi maj vušoril pe e lel o manuš avri le lima kovles londžardo paj šaj čines kaj e patika, vi šaj lašrel o manuš korkořo le pajesko drab, te bilares milelitro lon ande jek decelitra paj, te šaj thos o londo paj ande la glatako nakh šaj lel o manuš jek khotor bumbako.</p>
+    <p xml:lang="swe">Te si la glatako nakh phandado, atunči šaj les jek nakhesko drabte te šaj hulel tele o šuvlimos pa o nakh.</p>
+    <p xml:lang="swe">Gadala draba šaj čines ande patika bi reseptasa, na de o drab la gladake maj but so deš džes. Le nakheske draba lel pe pala la glatako berš, aj godo si ramome pe paška</p>
+    <p type="title" xml:lang="swe">Draba kaj či trubúl recepta te šaj hulel tele e gronša</p>
+    <p xml:lang="swe">Gronša naj kana godi kaj trubol te pel o manuš drab te hulel tele e gronša. But glati šaj len e gronša ande duj trin džes bi te avel vareso bari buči. O manuš šaj del la glata drab te hulel tele e gronša te dikhel o manuš te si defjal čořes la glatake, sar naprimer kana dukhal la glata o stato, kana e glata vačil pe, kana e glata či pel paj aj či xal, kana e glata či biril te sovel, vaj si la glatake phares te bešel ande pača pe rjat.</p>
+    <p xml:lang="swe">Te na del o manuš braba te hulel tele e gronša te si e glata telal le šov šon bi te les kontakto la špitasa.</p>
+    <p xml:lang="swe">Si draba kaj lel tele e gronša kaj si len andre paracetamol. Naprimer sar Alvedon vaj Panodil. De khatar le šov śonenge glati si lenge draba sar Iprem vaj Ibumetin, aj pe gadala draba či trubul recepta. Ande gadala draba si ibuprofen. Gadala draba šaj nakhaves vaj te thos ande bul, kaj si pe vorta mesura le cignoře glatenge. Le maj bare glatenge si vi pilúla. Le tut vorta pala so ašel pe e ram sar te des o drab. Na hamisar but fjálura draba. Glati kaj si telal 18 beršenge aj kaj si len goronša te na pen draba te hulel tele e goronša kaj si andre ande lende acetylsalicylsyra, sar naprimer Magnecyl, Treo vaj Albyl.</p>
+    <p type="title" xml:lang="swe">Drab pe koŕ kaj naj pe recepta</p>
+    <p xml:lang="swe">Xasésko drab kaj naj pe recepta butivar či ažutil. Te xasala e glata si važno te xasal e glata opre o čungar te šaj vužarel le droma te saj phurdel maj mišto. Xasésko drab kerel te avel maj phares la glatake te xasal opre e čungar. Drab pe čungar šaj avel maj xores. Te vušoril pe e xas, šaj zumavel o manuš te del kaj e glata tato vaj šudro paj. Kaj glati kaj naj inke duje beršenge šoha te na des len xasesko drab bi te na lel o manuš anglunes kontakto la špitasa.</p>
+    <p type="title" xml:lang="swe">Sar te kerel o manuš te na pherdon kaver źene?</p>
+    <p xml:lang="swe">Te na pherdon kaver źene si mišto te šičares la glata te del čik vaj te xasal te vušaravel o muj le vaj ando hertiako mosoviko. Te phenes la glatake te xalavel le vast maj butivar ando džes. Te zumaves te šičares la glata te na hunave ando nakh vaj te morel le jaka. Khote si kaj o virus vušoro thol pe. E glata či pherdol te na bešela vaj khelel pe kavre glatensa kaj si troznale. Mukh la glata te avel avri but, vi te si iven.</p>
+    <p xml:lang="swe">De tu gindo ke jek glata maj fugo troznavol katar e thuv le duhanosko.</p>
+    <p type="title" xml:lang="swe">Šaj trubús te les kontakto la špitasa</p>
+    <p xml:lang="swe">De fjal mišto si te dikhes maj but pe glata sar si lake. Trubúl o manuš te rodel sastarimos anda jek data kaj e špita vaj kaj sigo slučajo te si e glata čini j kovli aj aj te či biril te pel. Vi kana si phares la glatake te phurdel vaj te si kaj e glata jek xas kaj kerdol maj nasul, specialno te bašola de fjal zurales.</p>
+    <p xml:lang="swe">Te pičala paj khatar o kan trubús te les kontakto la špitasa vaj kaj jour špita, te šaj keren rodijimos pe la glata.</p>
+    <p xml:lang="swe">Te dukhla la glata o kan, aj či načol, trubúl o manuš te lel kontakto la špita pala jek džes.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pušimata pe ažutimos</p>
+    <p xml:lang="swe">Ko džes ko jat šaj des duma ando telefóno jekhe lugericasa kana kames ažutimos ande čire pušimata. Mar telefóno 1177. Von kaj važden o telefóno šaj phenen ande savi špita san ramome.</p>
+  </body>
+</document>

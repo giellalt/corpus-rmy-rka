@@ -1,0 +1,85 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1115</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Tristimos</origFileName>
+    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
+    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
+    <parallel_text xml:lang="sma" location="hujnesne.html"/>
+    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
+    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
+    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
+    <parallel_text location="togalopha.html" xml:lang="rmu"/>
+    <parallel_text location="mulano.html" xml:lang="rmf"/>
+    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tristimos</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Tristimos</p>
+    <p xml:lang="swe">Univar ando traijo ašarel o manuš kovlimos, tristimos, žavarimos vaj ašarel ke či del ando gor pe kančeste aj godo si jek normalno khotor ando traijo. Univar šaj avel sar eksemplo ke o manuš či dashtil vareso, ašarel ke kanči naj ande dragostija vaj ke si le manuš pra but gindori. Butivar načol godo nekazo pala jek skurto vramja. Si uni želi kaj o manuš korkoro dashtil te kerel te načol aj te avel le manušeske maj mišto, aj vi si ažutimos kaj šaj lel o manuš te trubúla.</p>
+    <p xml:lang="swe">Tristimos avel aj žaltar ando traijo. O manuš či trubúl te daral te mukhel te aven le čoře gindori angle aj sar o manuš ašarel pe. Te zumavela o manuš te tasavel o nekazo kana avel atunči šaj kerdol maj nasul o tristimos aj o nekazo. Pe uni želi mušaj te nakhel o tristimos aj univar mušaj te lel vramja te načol.</p>
+    <p type="title" xml:lang="swe">Univar žanel o manuš sostar</p>
+    <p xml:lang="swe">Univar žanel o manuš sostar ašarel pe tristo. Šaj avel sar eksemplo kana o manuš mukhel peske žuvlia vaj muršes pala jek lungo vramja, kana čiro dad aj dej mučin pe jek kavrestar vaj te si kaver problemori la familijasa vaj me le baratori.</p>
+    <p xml:lang="swe">O manuš vi šaj kerdol tristo te si vareso ando traijo kaj pařudol pe, sar eksemplo te mučila pe o manuš, te pařuvela o manuš škola vaj o manuš lel pe ande gimnazija vaj ande jek nevi buči.</p>
+    <p xml:lang="swe">Butivar del o manuš korkoro kana avel godo pharimos pe o manuš vaj ažutimastar khatar baratori aj khatar familja, vi te ašardola de fjal phares kana kerdol.</p>
+    <p xml:lang="swe">Vi normalno si ke o manuš šaj ašarel pe tristo bi te avel vareso. Te si le manušes sar eksemplo pra but te kerel vaj si le manušeske phares te sovel aj sar o stato pařudol pe šaj avel godo phares. Kaj šeja aj žuvlia von šaj kerdon tristi angla le džesa kana avel pe lende o žuvlikano šon.</p>
+    <p type="title" xml:lang="swe">Butivar či dičol avral sar si le manušeske</p>
+    <p xml:lang="swe">Butivar či ašarel varekon sar baratori, njamori, sitjaritoria vaj aver žene sar si čačes le manušeske. Naj sogoro ke dičol avral sar si le manušeske vi te ašarela o manuš korkoro ke trubúla godo te kerel.</p>
+    <p xml:lang="swe">Te si le manušes tristimos vi šaj kerdol o manuš vi maj xolariko aj vušoro kerdol o manuš grisime. Atunči dikhen le aver žene kaj si kruglom tutar ke san maj xolariko, numa kam či ašaren ke čačes si o manuš tristo aj nekizime. Anda godo si maj mišto te zumavel o manuš te phenen sar si lenge te šaj len ažutimos aj zor. Te dela o manuš duma varekasa maj butivar šaj ašarel o manuš sar si leske.</p>
+    <p type="title" xml:lang="swe">So šaj kerel o manuš korkoro?</p>
+    <p xml:lang="swe">O manuš korkoro šaj kerel želi te sar te avel leske vaj lake mišto. Le manušeske si leske maj mišto aj dashtil maj but te kerel te miškila pe, amborim te trenoil trivar ando kurko, sar te bešel o manuš khere vaj či kerel kanči. Atunič o manuš del ando gor te kerel želi maj vušoro kaj saste avel phare. O manuš šaj kerdol vi maj čino te sovela pra xanci vaj pra but.</p>
+    <p xml:lang="swe">Si pherdo želi kaj si laše te del pe gindo o manuš te si o manuš aba tristo:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Le manušeske kerdol maj mišto te dikhela aver manušen sar eksemplo te phiravel pe kaj peske baratori. Numa univar mušaj o manuš te avel jek sera korkoro kana si tristi.</p>
+      <p type="listitem" xml:lang="swe">Ažutil te miškila pe o manuš. Sar eksemplo te phires avri vaj te žal o manuš te trenoil godo ažutil te si le manuš pherdo gindori ando šero aj kerel te sovel o manuš maj mišto.</p>
+      <p type="listitem" xml:lang="swe">Te avel o manuš avri kana si vidaŕa, ke e vidaŕa kerel te ašarel pe o manuš maj mišto aj zuralo.</p>
+      <p type="listitem" xml:lang="swe">Vi baro ažutimos si te del duma o manuš me peske baratori vaj varekon ande familja. O manuš vi šaj žal sar eksemplo kaj školaki lugerica vaj kaj jek manuš kaj žanel pe sar te ašunel pe aver manuš.</p>
+      <p type="listitem" xml:lang="swe">O manuš šaj ramol sar ačarel pe. Te thola o manuš vorbi sar si le manušeske aj gindori atunči univar maj feder ačares sar si tuke, vi maj vučoro biril o manuš te dikhel te si jek problemo kaj šaj korkoro vortos godo.</p>
+    </list>
+    <p type="title" xml:lang="swe">Phimos aj draba naj mišto</p>
+    <p xml:lang="swe">Te si le manušes tristimos atunči ašardol ke phimos aj te lel o manuš draba ke godo si kaj ažutil. O manuš ašarelpe maj radujime aj bistrel godo so si phares tela jek skurto vramja, numa la vramjasa kerel godo te ašardol inke maj phares aj kerdol o tristomos maj zuralo. Vi šaj avel ke o phimos aj le draba si kaj kerel le manuš tristo.</p>
+    <p type="title" xml:lang="swe">Tristimos nakhel butivar</p>
+    <p xml:lang="swe">O manuš šaj avel leske vaj lake de fjal čořes kana avel pe lende o tristimos. Anda godo si den drag te žanel o manuš ke o tristimos butivar nakhel anda peste korkoro, vi te lela vramja.</p>
+    <p type="title" xml:lang="swe">Univar trubúl ažutimos</p>
+    <p xml:lang="swe">Univar šaj avel mišto le manušeske te del duma varekasa kaj si avral. Te kamela o manuš ažutimos atunči sar eksemplo šaj lel o manuš kontakto kaj jek ternimatengi špita, kaj špita vaj kaj la školaki studentongi sastarimos. Von si sikhade te arakhen manušen kaj si tristi. Aj te trubúla vi šaj ažutil le manušes kaj dikhes te lel o manuš kontakt osar eksemplo kaj jek psykologo vaj kaj jek doktoro.</p>
+    <p xml:lang="swe">Vi si telefonoske jour kaj čaj marel o manuš vaj thana po Interneto kaj khote dashtil o manuš te kerel divano opral po Interneto (chatt), te trades e-pošta vaj te džinel sar o manuš šaj lel ažutimos aj zor. Khote šaj avel o manuš bi prinžardo te kamela.</p>
+    <p type="title" xml:lang="swe">Depresija</p>
+    <p xml:lang="swe">Depresija si vareso aver khatar te avel o manuš tristo aj nekizime. O manuš šaj lel depresija te si o manuš tela pherdo kurke tristo aj nekizime</p>
+    <list>
+      <p type="listitem" xml:lang="swe">o manuš xasarel godo so sas leske vaj lake den drag te kerel</p>
+      <p type="listitem" xml:lang="swe">sovel pra sera vaj pra but</p>
+      <p type="listitem" xml:lang="swe">o manuš či biril te del pe gindo aj te kerel jek žela</p>
+      <p type="listitem" xml:lang="swe">xasarel o gosto te xal</p>
+      <p type="listitem" xml:lang="swe">xal maj but</p>
+      <p type="listitem" xml:lang="swe">o manuš kerdol maj vušoro grisime</p>
+      <p type="listitem" xml:lang="swe">o manuš či pačal ande peste aj kerdol nasul karing peste</p>
+      <p type="listitem" xml:lang="swe">o manuš či kamel te dikhel aver manušen</p>
+      <p type="listitem" xml:lang="swe">o manuš thol pherdo vramja pe gindori</p>
+      <p type="listitem" xml:lang="swe">o manuš lel problemori ande škola vaj pe e buči</p>
+      <p type="listitem" xml:lang="swe">o manuš lel les gindori te mudarel pe.</p>
+    </list>
+    <p xml:lang="swe">Te la o manuš depresija trubúl le manušes vorta aj profosionelo ažutimos te šaj avel le manušeske maj mišto. Te šaj lel o manuš godo ažutimos šaj les kontakto sar eksemplo kaj jek ternimatengi špita, kaj špita vaj kaj la školaki studentongi sastarimos.</p>
+  </body>
+</document>

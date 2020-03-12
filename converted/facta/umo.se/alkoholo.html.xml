@@ -1,0 +1,69 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>990</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Alkoholo</origFileName>
+    <parallel_text xml:lang="fin" location="alkoholi.html"/>
+    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
+    <parallel_text xml:lang="sma" location="alkohole.html"/>
+    <parallel_text xml:lang="sme" location="alkohola.html"/>
+    <parallel_text xml:lang="smj" location="alkohola.html"/>
+    <parallel_text xml:lang="swe" location="alkohol.html"/>
+    <parallel_text location="alkohol.html" xml:lang="rmu"/>
+    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
+    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Alkoholo</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Alkoholo</p>
+    <p xml:lang="swe">E vorba alkoholo snačilpe pimos sar biera, mol aj rečia. But manuš pen alkoholo ke drago lengo o gusto, aj uni te mangen te matčon. Numa o alkoholo šaj te avel nasul vi pe but fialori. O alkoholo šaj del but dukha aj nasvalimata, aj kerel vi le manušes te perel ande phare aj čore problemori. Uni šaj peren ande depresiona aj naj lenge mišto khana pile alkoholo.</p>
+    <p xml:lang="swe">Te šaj firin kodolen kaj si terne si zakonori pe berš kana šaj te činen alkoholo. 18 berš andel birtori aj 20 berš te činen po Systembolaget. Vi te si le manušes korkoro slobodia te činel alkoholo, naj slobodo te činel avri varekaske kaj naj slobodo.</p>
+    <p type="title" xml:lang="swe">Sostar pel o manuš?</p>
+    <p xml:lang="swe">But manuš pen ke si lenge drago aj lašo gusto. Uni pen de nervime kaj si. Te si ke o manuš pel alkoholo kašte te gindilpe te kerdo maj lašo ande pesko korkoro manušipe, vaj te aterdjarel o manuš peski deprisiona, vaj te pel o manuš pra but atunči šaj perel o manuš ando nasvalimos (alkoholismo). O manuš šaj avel leke nasul mismo kana pel ai vi pala kana pila o alkoholo.</p>
+    <p xml:lang="swe">Kana si o manuš terno šaj ačardol ke si jekh paso te phurolpe kana sumavenpe alkoholo. Univar pen le manuš khere, aj sumavel o manuš korkoro vaj baratonsa. Desa normalno si le manušenge ke či janen te si vorta kana si te pen e angluni data, numa pen ke le kaver manuš pen alkoholo, vaj gindin te ” kadia trubolpe”. Numa kodola kaj si le dosta zor te na pen aj te ajukeren kodola si te nirin but hasna. Sode maj but ajukeren te pen si maj mišto aj vorta, ke atunči si o risko maj xantsi te dukhadon vaj te kerdon piantsi (alkoholistori).</p>
+    <p type="title" xml:lang="swe">So kerdol kana pel-pe?</p>
+    <p xml:lang="swe">Kana mačol o manuš atunči remolpe e godji aj atunči remolpe le gindori, sar o balanso aj či eserel o manuš ke le celori či maj phiren sar trubolpe. Aj vi le manušeske organi či maj phiren sar trubolpe, sar le musklori.</p>
+    <p xml:lang="swe">Kana xasarel o manuš e kontrola atunčo či ačarel o manuš pestar sar kana si de trazo. Kam šaj te kerel djeli kaj či kerel: del duma maj but aj maj bute manušensa, khelel, aj sumavel peske kavera djeli sar testo. Kana si maj nasul kontrolo ka o manuš but maj phares si te ačarel pe so si risko vaj jekh bajo. Kana o manuš si mato anda alkoholo gindilpe o manuš te šaj kerel djeli kaj naj vorta aj šaj kerdol maj bare problemi.</p>
+    <p xml:lang="swe">Uni buča so šaj kerdol kana pen-pe:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Šaj te xasajvon djeli vaj te remonpe, de pala te nas vorta dikhimos vaj te čordol o manuš.</p>
+      <p type="listitem" xml:lang="swe">Le manuš peren ande čingar vaj marenpe. Čingar šaj anklel anda varesoste so či na či sas-te anklel ando trazimos.</p>
+      <p type="listitem" xml:lang="swe">Sekso bi te na manges. Te si o manuš mato šaj te avel phares te penel no, aj kodo šaj te kerel te o manuš vaj kodolentsa kaj hamilpe či perel mišto lenge maj palal.</p>
+      <p type="listitem" xml:lang="swe">Bi samasko sekso, šaj kerel te lel o manuš nasvalimata telal, vaj te anklel phari vaj keres varekas phari.</p>
+      <p type="listitem" xml:lang="swe">Kaj zumavenpe kaver draba/drogi. Kodola manuš kaj zumaven draba/droga e angluni data maj anglal pilé alkoholo ke atunči si len maj zor aj či gindin te si bajo aj beda.</p>
+      <p type="listitem" xml:lang="swe">Kaj perenpe ande bajori aj problemori. Aj o bajo vaj o problemo te dukhadol o manuš šaj na primer kerdol te perel vaj malavel o manuš mopedasa vaj la matorasa vaj perel ando paj.</p>
+      <p type="listitem" xml:lang="swe">O manuš šaj phagel aj romol djeli kaj si kavreske aj vi šaj lel le peske korkoro, makar naj leske djeli. O manuš vi šaj djal andre khote kaj naj leske slobodo.</p>
+      <p type="listitem" xml:lang="swe">O manuš šaj perel leske čores aj lel kejimos pala so pila. Šaj te avel ke kerdas buča kaj kejil pe vaj lažal varesostar, vaj avel sar jekh reaktsia ando stato.</p>
+      <p type="listitem" xml:lang="swe">Aj naštil o manuš maj te phirel vorta kaj peski buči vaj kaj e škola O alkoholo ašel ando stato pala o mačimos, aj šaj lel opral jekh djes djipon e godji le manušeski pale šaj te eserel pale le djeli mišto.</p>
+    </list>
+    <p xml:lang="swe">Uni manuš gindin te naj kodo baro bajo te na pela alkoholo kana godi numa pel alkholo ferdi varikana sa na primer jekh data ando kurko aj atunči vi šaj pen but alkoholo. Numa kodo naj čačes.</p>
+    <p type="title" xml:lang="swe">Pe teharin</p>
+    <p xml:lang="swe">Šaj te avel o manuš inke zalime pe teharin. Kodia ašel pe če but o manuš pila. Jekh primero si ke numa jekh biera zurali si inke ando stato pala trin dži ka štar časori. Naj či sosko aver fialo kaj šaj kerel maj sigo. Ai vi pe teharin o djes pala o pimos maj nasul si e kontrola le manušeski sar normalno aj maj phares si te les sama pala le buča kaj trubol te kerel o manuš Na primer beda si kon tradela sar mopeda vaj matora, ai te si ke inke si alkoholo ando stato si kriminalno.</p>
+    <p type="title" xml:lang="swe">Alkoholosko thasajimos (nasvalimos)</p>
+    <p xml:lang="swe">Sa le manuš si le but fialori reaktsi po alkoholo, aj či rivdin o alkoholo jekh fialo, numa kana godi si ka o stato le manušesko jekh granica kaj o stato či maj primil. Aj atunči šaj te anklel te o manuš šhadel opre vaj lel les le lindri aj sovel. Te perela varekon ando zalimos si atunči zurales nasul aj trubol sar maj sigo kaj špita.</p>
+    <p xml:lang="swe">Te si te kerdol o manuš nervime aj avel dhar po manuš anda varekaste kaj pila alkoholo, trubol atunči sar maj sigo te kontaktil maj phure manušen, špitakiinformatsia (sjukvårdsrådgivningen), le rajbaren (Polisen) vaj te traden kaj špita. Te perela varekon ando zalimos trubon keren telefono ka 112. Te na zumavel o manuš pe zor te kerdol te šhadel vaj te šhorel šudro paj late vaj pe leste kaj si mate ando alkoholo, ke risko si te šaj kerdolpe kaver bajori atunči.</p>
+  </body>
+</document>

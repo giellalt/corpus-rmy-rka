@@ -1,0 +1,69 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1080</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/umidimos-aj-asbajimos</origFileName>
+    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
+    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
+    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
+    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
+    <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
+    <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
+    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
+    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
+    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="umibe.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Čumidimos aj asbajimos</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Čumidimos aj asbajimos</p>
+    <p xml:lang="swe">Te čumiden pe aj te asbas jek avres, si vareso kaj but manuš si lenge drago te keren. Te šoha či kerda godo jek manuš butivar atunči den pe gindo aj doril o manuš te keren godo. Numa anda jek data šaj ačarel pe o manuš nežno angla o angluno čumidimos vaj asbajimos. Sar kerel o manuš kana asbas jek avres?</p>
+    <p xml:lang="swe">Te si le manuš gindori sar keren pe kana čumiden pe vaj asbas jek avres, šaj avel mišto te na del pe gindo o manuš, ke naj zakonori sar trubúl o manuš te kerel. O manuš šaj zumavel pe angle sar te keren pe aj godo so ačardol den drag le manušeske, atunči plačal pe butivar vi le manušes kaj čumides aj o asbajimos.</p>
+    <p type="title" xml:lang="swe">Čumides phandade mujesa</p>
+    <p xml:lang="swe">Kana o manuš čumiden pe, atunči thol o manuš le vuš karing le kavreske manušeske vuš vaj pe jek aver than pe o stato, butivar kerel o manuš vi anda jek data jek hango. Kana o manuš čumiden pe si phandade mujesa.</p>
+    <p type="title" xml:lang="swe">Čumides</p>
+    <p xml:lang="swe">Kana o manuš čumiden pe si butivar ke vi le vuš aj e šib asban pe. Godo si sar te asbas aj varekon asbal tut le šibasa aj vuštensa. O manuš butivar phenen ke sar ke zumaves jek kavres. Butivar lel pe o manuš te čumiden pe phanade mujesa angla so čumiden pe puterde mujesa. Te kamela o manuš te čumiden pe puterdi mujesa, šaj atunči putrel jek sera le vuš aj thos avri e šib jek sera, jek sera ferdi te asbal le aver manušeske vuš. Atunči dikhel o manuš te putrela vo vaj voj le vuš te šaj asban pe le šiba.</p>
+    <p xml:lang="swe">Naj zakonori sar o manuš trubúl te čumidel pe, sar eksemplo še dur te thol o manuš e šib andre vaj sode te putrej o muj, godo pořunčil o manuš korkoro. Butivar žal sa mišto kana duj manuš čumiden pe. Kana o manuš čumidel varekas, si mišto te del pe gindo te na spidel andre e šib ande kavresko muj aj te boldel i šib zoras. Te šaj plačal vi le dujen, si mišto te zumaven pe angle sar te keren.</p>
+    <p xml:lang="swe">Phares si te čumidel jek manuš vorta anglemosa, ke atunči malaven le nakha, anda godo trubúl o manuš te thol jek sera pe rig te šaj asban jek avres. Atunči si vi maj vušoro te phurdes le nakhes kana o manuš čumidel pe. O manuš mušaj te zumavel pe angle so plačal vi le dujen.</p>
+    <p xml:lang="swe">Mišto žal te čumiden pe te si le manušes sirma pe le dand aj piercning.</p>
+    <p xml:lang="swe">O manuš šaj vi čumiden pe jek avres pe o stato. Kaj pe o stato kaj o manuš čumidel vaj kamel te čumides alol aj pořunčil, vi le duj ande jek datan o manuš kaj čumiden pe.</p>
+    <p type="title" xml:lang="swe">Kana čides jek manušes ande če vast aj asbajimos</p>
+    <p xml:lang="swe">Le manušes plačal les vaj la kana asban jek manušesko stato, sar eksemplo kana čidel jek manušes ande le vast aj kana asban. O manuš šaj asban pe vi calensa aj bi calensa.</p>
+    <p type="title" xml:lang="swe">Asbajimos</p>
+    <p xml:lang="swe">Sar asbas jek manušes? Kana o manuš asbal butivar phenen pe kana čumiden pe, inkeren jek avre ande le vast aj asbas varekas. Kana o manuš čumidel pe aj čidel jek manuš ande peske vast, šaj avel vi godo asbajimos. Vorta sar o manuš asban aj čumiden le kavre manušesko stato šaj avel vi godo asbajimos. Kana o manuš asbal jek avres atunči čidel pe o manuš karing le kavresko stato aj morel pe karing jek avreske statori.</p>
+    <p xml:lang="swe">O manuš šaj asban pe, pe pherdo fjalori, sar eksemplo lokořes aj kovles vaj zorasa aj ande pripa. Butivar maladol pe aj pařudol pe o asbajimos la vramjasa. Vi šaj maladol pe pala svako data kana vi le duj asban pe, aj manuš pala manuš. O manuš šaj asban pe calensa, vaj te avel sera cali vaj te aven nange. O manuš šaj asban pe ande pherdo fjalori, sar eksemplo šaj asban pe kana si ande phuřende, vaj kana bešen vaj kana hudinin.</p>
+    <p xml:lang="swe">Te asban pe pherdo me ferdi jek sera cali vaj nange butivar phenen pe ke bušol zuralo asbajimos.</p>
+    <p type="title" xml:lang="swe">Dilarel</p>
+    <p xml:lang="swe">Uni manuš phenen kaj asbajimos ke dilaren. Numa e vorba dilarimos šaj avel vi kaver želi. Uni manuš ačaren sar eksemplo ke o manuš dilarel kana o manuš si phirado aj del pe bule varekas aver vajavrensa.. O manuš kaj phirda pala o phirado bušol, vi godo o manuš dilarel.</p>
+    <p type="title" xml:lang="swe">So kerel ta plačal le manušes kana čumiden pe aj asban pe?</p>
+    <p xml:lang="swe">Te avel o manuš paše aj te asban pe, kerdol vareso la morčiasa, la šibasa aj le vuštensa len jek reakcija aj tradel signalori kaj o šero te ačardol te plačal le manušes aj den drag. Vi godo kerel te ačardol ke kamel o manuš te kamel pe. Le vuni ando stato si kaj lel sama sar o manuš ačarel pe aj tradel kaj o šero signalori. Te šaj ačardol mišto aj te plačal le manušes kana asban pe, si važno ke o manuš mangel godo aj vi o aver ženo mangel godo.</p>
+    <p xml:lang="swe">Maladol pe pala manušeste sode drago si lenge te čumiden pe aj te asban pe. naj vreso kaj si vorta vaj čořes sar o manuš ačarel pe, numa mušaj o manuš te ašunel pe peste korkoro aj godo so plačal le manušes kana čumiden pe aj asban pe vaj te mangel o manuš te ačarel aver fjalo kana kamen pe.</p>
+    <p xml:lang="swe">Le manušes kana godi si les čačimos te phenel ke či mangel te čuminden pe vaj te asban pe, vaj te si vareso kaj či ačardol mišti tela e vramja kana asben pe. O manuš šoha či trubúl te cumidel varekas aj te asban pe ferdi te kamela o aver manuš.</p>
+    <p type="title" xml:lang="swe">Te zumaves aj khan</p>
+    <p xml:lang="swe">Sa le manuš si len jek khan aj gusto. Le manušesko gusto aj khan šaj pařudol pe, sar eksemplo maladol pe so o manuš xala, sar o manuš thol pe, sar le cali khanden aj maj dur. Te si o manuš nasvalo vaj infektacija atunči šaj o manuš khandel jek aver fjalo ando muj sar te či avelanas nasvalo.</p>
+    <p type="title" xml:lang="swe">Šaj kerdos ande Devleske vast vaj te lel o manuš nasvalimata telal le phurne kana asban pe?</p>
+    <p xml:lang="swe">O manuš naštil te kerdol ande Devleske vast kana asban pe duj žene. O manuš naštil te lel nasvalimata telal. O asbajimos si jek den drag aj sogoro žela te aven duj manuš paše paša jek avreste.</p>
+  </body>
+</document>

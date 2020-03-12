@@ -1,0 +1,82 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1234</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Te na puřis aj sekreteso / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Te na puřis aj sekretesoTystnadsplikt och sekretess</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So dźindol?</p>
+    <p type="title" xml:lang="swe">Sogodi ande špita naj lenge slobodo te puřin</p>
+    <p xml:lang="swe">Kana o manuš boldel pe karing e špita si važno te ačarel pe o manuš ke si len pačamos karing o personalo kaj von arakhen. Pačamos si važno te šaj ačarel pe sogoro aj te truman te den duma pa pengo nasvalimaske problemura aj symptomori kaj si line aj te šaj len godo ažutimos kaj trubul len. Anda godo džindol sogodi kaj keren bući kaj sastarimaski aj špitako ažutimos te naj lenge slobodo te puřin. Profundosko principo si ke konik kaj kerel bući ande špita, naj lenge slobodo te puřin vaj te den avri informatcija pa lende, te na dine le patienturja pengo slobodia. Godo si naprimer te den avri informacia pa le manušesko nasvalimos vaj pa o ažutimos kaj les vaj pe le manušeske privatno situacia</p>
+    <p xml:lang="swe">Ande špita džindol sa jek fjalo o sekreteso pe sa le patientori aj vi pe godola žene kaj si len pača te aven ando Švedo vaj niči.</p>
+    <p xml:lang="swe">E oblegatcija te na puřis, porunčíl o puterdó ketanimos aj o zakono pa sekretes (offentlighets- och sekretesslagen) pe godola džené kaj kerén bučí ándo foró, aj ánde regiona aj komunuri. ži pon godolá kaj kerén bučí kaj privatno ažutimos mušaj te len pe pala le zakónuri te na puřis aj sar te les sama pala patientonengo zakono. Godola džené kaj puřin kerdon krisdine ande kris vaj pe jek kavér fjálo kerdon von krisdine khatar o foro kaj dikhen opral pa e špita.</p>
+    <p xml:lang="swe">Maškár o personalo ande jek špita vaj sastjarimaski špita, naj lenge slobodo te puřin kaver ženenge. Ferdi godola žene kaj keren buči ande jekh than sar den duma pa le patientunenge nasvalimata thaj pe lengo privato situatcia. Godo si sar naprimer, jek doktoro šaj del duma kaver doktorosa pe savo ažutimos trubúl kaj o patiento, numa godo si ferdi kana le li duj doktora keren buči jekhe pationésa.</p>
+    <p xml:lang="swe">Antrego personalo kaj kerel bući ande špita naj lenge slobodo te puřin vareso pa jek patiento. Vi te si ande puterdi vaj privatno špita aj vi te si jek doktoro, vaj lugeritsa, vaj administartivno personalo. Tolmačotora kaj keren buči ande sastarimasko aj špitako ažutimos či lenge naj slobodo te puřin. Či e patika naj lenge slobodo te puřin.</p>
+    <p type="title" xml:lang="swe">Šaj alos korkoro</p>
+    <p xml:lang="swe">Vi le zakónuri phenén ke či manúš kaj si túke pašé, naj lénge slóbodo te žanén so von phenén vaj so žal ande špíta te či kamés tu te phenés lénge. Univar pušél o personalo kás te šaj den informácia pa túte. Atúnči tu kórkořo alós saví informácia si lénge slóbodo te den avri. Sar naprimér, maj anglál de sar te kerén jekh operátcia, šaj phenél o manúš le personalóske ke si len slóbodo te phenén sar nakhlá e operátcia jekhé manušéske kaj si túke pašé, maj anglal so tu vužtilán katár e operátcija.</p>
+    <p xml:lang="swe">Pa glati si slobodo kaj dad aj dej te žanen so phenel e špita aj so ašel ande lengo journalo, kana e glata kerdol maj phuri, atunči mušaj te pušen khatar e glata te si lenge slobodo te den kaj dad aj dej informatcija.</p>
+    <p xml:lang="swe">Numa e špita vaj socialno ažutimos te ačaren von te si e glata dukhadi vaj te te trail e glata čořes kaj le njamori, vaj o njamo naštil te le mišto sama pala e glata, či trubol atunči o personalo te del avri o journalo.</p>
+    <p xml:lang="swe">O journalo pa le patientori si źindo andre ando sekreteso, aj ferdi godola žene kaj šaj džinél lengo journalo si o personalo kaj lel sama pala o patiento. Atunči šaj avel o journalo pe hirtia vaj pe data.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kana či džindol</p>
+    <p type="title" xml:lang="swe">Kana či džindol te na puřis</p>
+    <p xml:lang="swe">Vi te si o zakono zurali pa sekreteso aj te naj lenge slobodo te puřin (tystnadsplikten), šaj univar te paghen o zakono, vi te na das o patiento pesko slobodía. Godo si kana:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Jek kris, fiškali, rajbaro, kaj cirdel love vaj o foro te trubúl len žanglimós pa jek manuš kaj si andre ande špita.</p>
+      <p type="listitem" xml:lang="swe">Socialno organisatcija lengi grupa pe krisa, socialno aj drabengo pušimata te trubúl len informatcija ande lengi bući.</p>
+      <p type="listitem" xml:lang="swe">Te trubúl kaj Matorengi organisatcija (transportstyrelsen), informatcija te dikhen te šaj avel kaj godo ženo o matorka lil, traktori lil vaj lil te šaj tradel taksi</p>
+      <p type="listitem" xml:lang="swe">Informatcija kana trubol te zumaven te si jek studento kaj si te phandavdo khatar educatcija ande vuči škola.</p>
+      <p type="listitem" xml:lang="swe">Informatcija kana trubúl kaj kej krisako drabengo rodijimos</p>
+    </list>
+    <p xml:lang="swe">Te acárena te si jek kriminalno akcij kaj si defjal zuralo kaj del le manušes o maj sera jek berš temnica si slobodo kaj la špitako personalo te puřin kaj le rajbare pa e kriminalno akcija aj vi te den advetori kaj le rajbare aj kaj o fiškali si len pušimata. Sar eksemplo pe kasavatar kriminalni akcija si kana mudarde, siluvimos (kana jek murš lel jekha žuvlia pe zor) aj te marda varekon zurales. Si vi uni trafikake kriminalni akcij kaj či del but berš temnica sar eksemplo kana jek manuš trada mato, si slobodo kaj la špitako personalo te puřin.</p>
+    <p type="title" xml:lang="swe">Kana čidžindól specialno pa glati</p>
+    <p xml:lang="swe">Kana či džindól pa glati šaj puřil la špitako personalo te ačaren ke si e glata dukhadi. Šaj avel te si e glata mardi vaj te nakhla e glata seksualni silniko.</p>
+    <p xml:lang="swe">Te ačarela la špitako personalo te si jek glata dukhadi, mušaj o personalo te puřil so voj vaj vo aćarda kaj o socialno ažutimos, aj von purme keren jek rodijimos aj te arakhline doš, keren puřa kaj le rajbare. Vi džindol te si jek akcija pe varesoste kaj trubol e glata te avel garadi. E špitako personalo si la oblegatcija te puřil informatcija kaj šaj avel važno kaj e akcija karing e glata.</p>
+    <p type="title" xml:lang="swe">Naj beršeske granica te šaj alol e glata korkořo</p>
+    <p xml:lang="swe">Kana si pa glati, atunči si o dad aj e dej kaj puřuncin pa savi informatcija kaj šaj den avri. Kana e glata maj phurol aj ačarel so žal atunči šaj alol e glata aj te phenel kaj špitako personalo so šaj den avri aj kaske. Naj jek specifikno granica kana e glata šaj alol korkoro, godo si pala manuš manušestar. Godo si ke či trubon te žanen le njamori sar si lengi glatako sastarimos.</p>
+    <p type="title" xml:lang="swe">Asuranciako kasa ( försäkringskassan) aj kaver asuranci ( försäkringsbolag)</p>
+    <p xml:lang="swe">O manuš alol korkoro pa sastarimasko- aj špitako ažutimos šaj den avri informatcija pa save nasvalimata si le manušes aj savatar ažutimos line. Te si o manuš nasvalo aj rodel te lel nasvalengo ažutimos khatar asuranciako kasa, atunči si slobodo kaj la špitako personalo te den avri informatcija, te dikhen te šaj den le manušes nasvalengo ažutimos.</p>
+    <p xml:lang="swe">Vi džindol kana jek manuš malavel-pe vaj nasvavol aj kamel te lel avri lovengo ažutimos khatar pesko asuranciako organisatcija. Atunči si slobodo kaj e asuranciako organisatcija te lel informatcija khatar e špita te dikhen te šaj den le manušes lovengo ažutimos.</p>
+    <p type="title" xml:lang="swe">Kriminalni akcija karing puřa</p>
+    <p xml:lang="swe">Vi te si uni situatciji kana špitako personalo si lenge slobodo te puřin vaj te den avri informatcija si ferdi kana či d źindol o zakono. O profundosko gindo si te na puřis avri patientori.</p>
+    <p xml:lang="swe">Numa te ačarél o patiento ke varekon anda špitako personalo kerda puřa šaj žal o patiento aj kerel puřa kaj le rajbare. Atunči arisel godo manuš ande kris aj kerdol krisdino.</p>
+  </body>
+</document>
