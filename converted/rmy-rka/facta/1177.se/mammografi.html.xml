@@ -1,0 +1,112 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1854</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Mammografi</origFileName>
+    <parallel_text xml:lang="eng" location="mammografi.html"/>
+    <parallel_text xml:lang="fin" location="mammografi.html"/>
+    <parallel_text xml:lang="fit" location="mammografi.html"/>
+    <parallel_text xml:lang="sma" location="mammografi.html"/>
+    <parallel_text xml:lang="sme" location="mammografi.html"/>
+    <parallel_text xml:lang="smj" location="mammografi.html"/>
+    <parallel_text xml:lang="swe" location="mammografi.html"/>
+    <parallel_text location="mammografi.html" xml:lang="rmn"/>
+    <parallel_text location="mammografi.html" xml:lang="rmu"/>
+    <parallel_text location="mammografi.html" xml:lang="yid"/>
+    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="mammografi.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Mamografija / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">MamografijaMammografi</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Phanglivorba</p>
+    <p type="title" xml:lang="swe">Prosto</p>
+    <p xml:lang="swe">Mamografia si jekh rengelimasko-dikhimos le čuča jekh specialno rengeliscko-teknika kaj del vuže patreturja</p>
+    <p xml:lang="swe">Kado dikhimos šaj te kerelpe te na aresel o nasvalimos sar jekh sastimasko-dikhimos, sar so bušol screening, vaj kana e žuvli korkořo vaj jekh doktoro ačardas jekh pařudimos ande le čuča .</p>
+    <p xml:lang="swe">O manuš či trubúl te nakhel perdal jekh mamografijako-dikhimos sar sastimasko-kontrolo te si e žuvli khamni/phari vaj te gindil o doktoro ke si jekh bubój ande čuči.</p>
+    <p type="title" xml:lang="swe">Getimos</p>
+    <p xml:lang="swe">O manuš či trubúl te getosarelpe pe varesoste.</p>
+    <p type="title" xml:lang="swe">Sar keren o kontrolo?</p>
+    <p xml:lang="swe">Kado dikhimos/kontrolo kerelpe pe jekh mamografijako-than, savo šaj avel korkořo rigate, vaj khetanes jekhe rengelosko-avdelningo ande jekh bolnitsa/špita. Mamografia kerelpe vi pe avri alome kolineske aj vi pe varesave sastimaske-centrali (vårdcentraler).</p>
+    <p xml:lang="swe">Anglunes del o manuš atvetura pe pušimata khatar e rengeleski-sastjarni te si e manušes dukha ande le čuča vaj te xas varesoske draba kaj si andre hormoni.</p>
+    <p xml:lang="swe">Pala kodo šudes tele le opraluné gada aj e satjarni dikhel pe le čuča aj somnozil/ramol tele te si varesoske parude semnura, sar majbare pipera vaj kaver semnura pala purane operaci. Šaj ke díčol pe rengeli thaj maj pharés avéla te dikhél o manúš så si.</p>
+    <p xml:lang="swe">O rengeli kerelpe tordjindos, aj tholpe jekh čuči pala e kaver čuči ande jekh kaj si la jekh patretosko detektoro (bilddetektor). E čuči čidelpe khetanes jekh khaver diskosa feliasa te šaj avel došta plato (platt). Kado kerel o patreto/bilda te avel vužo aj te avel e radiacijaki-doza somaj cigni. O vast si te inkrelpe opre aj te hodinel po aparato ži kaj duj vaj trin patretura/bildi lenpe/kerenpe. Pala kodo kerelpe sajekh procedura la kaver čučasa.</p>
+    <p xml:lang="swe">Kado šaj te ačardol (falato) beda/ruto/čores vaj te dukhal jekh skurto vrjama kana e čuči čičidelpe khetanes.</p>
+    <p type="title" xml:lang="swe">Sar ačarelpe o manuš pala kodo?</p>
+    <p xml:lang="swe">Pala o dikhimos ačarelpe o manuš pale prosto.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sostar trubúl o manuš te dikhel pes?</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Kodo si maj vušoro te ačarel bi-vorto ando dušo kana e čuči si sapujime. Vazde o vast, ačar perdal e čuči aj e thak bi bandžarde najénca aj jekh vušoro šežomasa/njomimos ...</p>
+      <p type="listitem" xml:lang="swe">… ker cigne řoatako miškimos, nakhimos pala nakhimos pe antrego čuči. Kezdisar krugóm o čučako-mugro aj de gata telal e thak.</p>
+    </list>
+    <p type="title" xml:lang="swe">Rengeli pe čuča</p>
+    <p xml:lang="swe">Ando jekh mamografiako-dikhimos žal o rengelimos pe čuča/kolin, kado kerelpe jekha teknikasa kaj del buth laše/vuže patretura.</p>
+    <p xml:lang="swe">Mamografia kerelpe vaj tena reselpe o nasvalimos sar jekh sastimaskodikhimos, sarso bušol screening, vaj anda koda ke e žuvli vaj o doktoro arakhlas jekh nevo tsukuj/tšomogo pe čuči. Sako berš kerelpe maj buth sar 500 000 dikhimos pe kolinesko-rengeli ando Švedo.</p>
+    <p type="title" xml:lang="swe">Jekh metoda te arakhelpe čučango cancer fugo</p>
+    <p xml:lang="swe">E rekomendacia katar o socialstyrelsen si te keren sa le žuvlja mamografia de katar le 40 ži kaj le 74 berš. O Landstinget del sa le žuvlja maškar 50 aj 69 berš šajimos te keren mamografiako-dikhimos. Ande e maj but themeske kotora (Län) šinavelpe/delpe inke/maj ažutimos grupenge maškar 40 aj 74 berš po dikhimos, de kodo naj sa jekh kana de sar lenpe te akharen vaj kači but vrjama žal o dikhimos. Le terne žuvljange si normalno te aven te keren e mamografia svako jekhto berš ži kaj jekh aj dopaš berš Ande kadala sastimaske kontrolurja šaj arakhén jekh canceresko tumoro ande čuči, maj anglál de sar nasvarel, kodo vi maj anglál de sar ačarelpe o tumoro ande čuči.</p>
+    <p xml:lang="swe">Žanglimaske studiji sikade ande pe kodola žuvlja save si/žan ande pe sastimaske-kontroli pe mamografia sanjarel tele o merimos ando kolinesko/čučango-cancero pe 40 procentrua.</p>
+    <p xml:lang="swe">E dar si te arakhelpe o cancer pala lungo vrama si ke o cancero areslas te žal maj dur, atunči trubúl maj buth aj maj bari beda po sastjarimos sar so te maj fugo.</p>
+    <p type="title" xml:lang="swe">Ačar ande/perdal le čuča maj butivar</p>
+    <p xml:lang="swe">Le žuvljake čuča naj sa jekh inkerimos/ačarimos Kodo si anda kodo ke si vi thudeske-punza aj čiken ande čuča, aj kodo kerel te ačarelpe bi-vorta. Karing le 50 berš le čuča kerdžon maj kovle kana e thudeske-vuni cirden pe palpale aj kerdžon čiken.</p>
+    <p xml:lang="swe">Le čuča pařudjon khatar e hormonura kana avel pe žuji lako lolo-kurko (podza) aj anda kodo le čuča šaj te ačarenpe kaver fjalo sa vi sar kana dikhenpe le čuča. O kaver djes pala o paluno lolo-kurkosko (podji) djes si jekh lašo djes te dikhes tut korkoři, kana le čuča si kovle aj vušoro te dikhinpe/azbanpe.</p>
+    <p xml:lang="swe">Sa le žuvlja trobun korkořa sagda te dikhen penge čuča. Maj feder si te alos avri jekh džes ando šon te šaj maj vušóro te dikhes/ačares e pařudimata ande la čuča. Jekh laši vrjáma šaj avel ando dušo ke atunči maj vušoro šaj dikhes tut kana ando sapuj, si makhle le čuča. Maj feder si kana šaj dikhes/ačares tut vi kana san ande punřende aj vi kana pašljos tele.</p>
+    <p type="title" xml:lang="swe">Normal si te avel laše tšomogura</p>
+    <p xml:lang="swe">Te avelasas kadja ke arakhelpe jekh tšomogo vaj zuralimos ande čuči, šaj te avel dar, de butivar kodo si jekh lašo pařudimos. Maj butivar kaj le terne žuvja. Kodo šaj te avel jekh cysta, savo si jekh pherdo bešika, vaj jekh lašo thulimos ande morči vaj ande le čuča.</p>
+    <p type="title" xml:lang="swe">Svako pařudimos si te dikhel o doktoro</p>
+    <p xml:lang="swe">Jekh pařudimos ande čučangi-punza šaj vi te avel katar čučango-cancer. Čučango-cancer si o maj prosto/normalno cancer-forma maškar e žuvlja. Sako berš len karing 7000 žuvlja aj 40 murš ando Švedo kolinesko/čučango-cancer. O riziko vučol kana o manuš beršestar phurol.</p>
+    <p xml:lang="swe">Jekh normalno simptomo si po čučango-cancero ke si jekh tšomogo ande čuči vaj tel al e thak. Jekh kaver si ke o mugro vaj e morči pe čuči cirdel pe palpale ande e čuči.</p>
+    <p xml:lang="swe">Maj ciřa prosti simptomura si ke avel bi te žanes jekh lolimos vaj šuvlimos krujal e čuči, val jekh rána/šindimos kaj či sastjol, vaj ratesko-hamime folimos la čučako-mugro.</p>
+    <p xml:lang="swe">Sako jekh pařudimos le čuča si te lelpe seriozno aj te dikhelpe doktorostar. Šaj te žalpe/boldes tut kaj o sastimaski centrala, kaj žuvlano sastimasko ažutimos vaj kaj jekh specialno čučange privirmos(mottagning) savo si varekači maj bare bolnitsi. O doktoro dikhel/ačarel mišto le čuča aj phenel te trubúla te kerelpe jekh mamografiako-dikhimos.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kadja kerelpe</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Musaj te tholpe jekh čuči ande vrjama karing/po jekh felia kaj si ande late jekh kaseta le rengelske-filmosa. Pala kodo čičidelpe khetanes e čuči, aj duj ži kaj trin bildi/paretura lenpe.</p>
+    </list>
+    <p type="title" xml:lang="swe">Jekh specialno rengel-aparato trubúl</p>
+    <p xml:lang="swe">Mamografia kerelpe butivar ando jekh mamografiako than, savo šaj te avel korkořo peske vaj khetanes jekhe rengelsesko-kotor/soba ande jekh bolnitsa. O dikhimos kerelpe vi pe avri alome čučange-primirmos aj pe varesave sastimaske centrali.</p>
+    <p xml:lang="swe">Kodo rengelsesko-aparato save šaj dikhelpe si specialno kerdo te šaj del laše bildi/patretura pa le čuča-andral pe/ku sa jekh cigni doza rengeleski-radiacia Vunivar šaj te arakhenpe cancersoko-tumori save ferdi si varekači milimetera de bare.</p>
+    <p type="title" xml:lang="swe">Kadja trubúl te kerelpe</p>
+    <p xml:lang="swe">O manuš či trubúl vareso special te getolpe Anglunes den atvetura te das anglal phenes te sas varesooske dukha ande kolin, vaj te les/xas varesoske draba so inkrel ande hormoni. Vi musaj te les tele le gada pa opraluno stato aj e doktorica dikhel po kolin te si varesavo pařudimos so dikhelpe, sar pipera vaj purane šindimata katar purane operaciji. Kodo šaj sikavelpe pe rengeleskepatretura aj šaj tolmačinpe sar canceroskotumori.</p>
+    <p xml:lang="swe">Pala kodo žalpe angle kaj o rengeli-aparato aj ande punřende tangla les/kodo. Jekh čuči pala e kaver čuči tholpe ande jekh felia/tabla savi inkrel ande patretosko-detektori. E čuči njomilpe khetanes jekha glažuna/perdaldikimaski felia/tabla savi čičidel/inkrel tele pe čuči. O vas inkrelpe opre aj hodonilpe pe kodo aparato ži pon duj trin patretura lenpe. Kodo si importanto te aves vorta miro/capeno/mucime. Pala kodo kerelpe sa jekh procedura vi pe kaver čuči. Antrego dikhimos lel 15-30 minuci, ferdi e patretura/bildi lel panž ži kaj deš minuci.</p>
+    <p type="title" xml:lang="swe">Sar ačardol e mamografia?</p>
+    <p xml:lang="swe">Kodo šaj te ačarelpe bi mišto vaj te dukhal jekh cigni vrjama kana e čuči njomilpe khetanes. Numa kodo musaj te kerelpe, ke o patreto/bilda avel avri maj feder aj o dikhimos si maj sigurno. Aj paša kado šaj te kerelpe pe maj cigni doza-radiacia sar so te na avel e čuči njomime/čičidini khetanes.</p>
+    <p type="title" xml:lang="swe">Univar múšaj o manuš te avel palpale</p>
+    <p xml:lang="swe">Butivar si duj rengelseske-doktora kaj dikhen pe mamografiako patreci korkoře bi-jekh kavrestar aj phenen pengo gindo. Kodo vazdel o sigurimos po atveto/gindo. Te si vareso so naj sar so trubúl atunči von akharen pale palpale po nevo dikhimos. Atunči lenpe maj but mamografiake-bildi/patretura aj butivar vi po ultra-hango žalpe.</p>
+    <p xml:lang="swe">O doktoro vi šaj lel jekh proba katar o semno/pařudimos. Te si jekh cigno semno/pařudimos savo šaj te avel phares te ačarelpe, šaj lelpe e proba pale paša jekh nevo mamografia vaj te lelpe žutimos khatar o ultra-hango. Jekh sani suv pusavelpe andre ando semno/pařudimos aj lelpe/cirdelpe jekh celaki-proba avri. E proba bišavelpe pe jekh mikroskopicko dikihimos/rodimos. Sa kado kerelpe te dikhelpe šel pe šel (sigurno) te si kado jekh cancer vaj naj.</p>
+    <p xml:lang="swe">O atveto anda mamografiako-dikhimos bišavelpe khere (direktno) ande duj kurke te sanas akardi pe jekh sastimasko-dikhimos. Te si o manuš remiterad/bišado po mamografia atunči lel o manuš o atveto/rezultato pa dikhimasko-rezultato katar pesko doktoro.</p>
+    <p type="title" xml:lang="swe">Hormonsosko-sastjarimos šaj te phařarel o gindo/atveto</p>
+    <p xml:lang="swe">Vúni žuvlja len hormon-sastjarimos angla aj pala o klimakteria vaj xan p-piller (preventivné drabá). Kačavo sastjarimos kerel le čuča te kerdon maj pherdi savo kerel e patretura/bildi te aven maj trudno te ačarelpe. Ando kodo importanto te phenelpe te si kade ke o manuš xal draba kaj si ande lende hormoni.</p>
+    <p type="title" xml:lang="swe">O dikhimos naj nasul</p>
+    <p xml:lang="swe">Kodo radiacia savi si kana kerelpe jekh mamografiako-dihimos si kade ciřa ke kado džinelpe ke naštil avel varesavi dar. Sa jekh data avél neví tekníka le gindósa te sanjarén e radiácia maj but de so si. Anda koda te na cirdel pe o manúš te žan pe mamografiáko-dikhimós te san akhardí, vaj te arakhlás o manúš jekh semno/pařudimós ande peski čuči</p>
+    <p xml:lang="swe">Sa kadjá mišto žal te dihkes tu ande mamografia te si tu jekh tohdení čučako implantáto. Naj dar ke si te šindól o implantáto, núma anda kodja ke naštín te njomilpe/čiden le čučá šaj sar pe kaver žuvlja kan naj len implantáto, šaj ável musáj te kerel o manuš jekh individualno dikhimós.</p>
+    <p type="title" xml:lang="swe">Kon či trubúlas te dikhel pe ande mamografia?</p>
+    <p xml:lang="swe">Kana o manuš si but terno atunči vunivar trubúl o dikhimos te kerelpe po ultra-hango de sar ánde mamografia. Kado si anda kodo ke le čuča si kodja khetanes/temime ke e patretura/bildi pa mamografia phares šaj te tolmačinpe. Atunči o ultra-hango del jekh maj sigurno/čačo atveto.</p>
+    <p xml:lang="swe">O doktoro te benuíla ke si jekh phungi ande čuči antunči o mamografia či kerelpe ke atunči dukhal kana njomilpe e čuči khetanes. Ande kodolesko than šaj avel maj-feder te kerelpe jekh ultra-hangosko-dikhimos, te dikhelpe te si phub savi trubúl te nandžar avri. Pala kodo kana e infekcija sasčilas trubúlas o manuš te žal po mamografia Kado si prja importanto te si o manuš maj phuro.</p>
+    <p xml:lang="swe">Te si e manušni phari/kamni či trubúl te nakhel perdal o sastimasko-dikhimos kaj bušol screening, po/kusa mamografia De te si kade ke o manuš arakhlas jekh pařudimos/semno pe čuči trubúl kana godi o manuš te kontakuil/žal kaj le doktora te šaj dikhel pes so maj sigo, vi te si e manušni khamni/phari. Atunči o dikhimos lel pe jekhe ultra-hangosa aj komlpeterilpe kusa o mamografia te trubúla.</p>
+  </body>
+</document>

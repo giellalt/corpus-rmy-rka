@@ -1,0 +1,103 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1691</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
+    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Te či plačala le manušes e špita / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Te či plačala le manušes e špitaOm man inte är nöjd med vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So džindol?</p>
+    <p type="title" xml:lang="swe">Si le manušes čačimos te vačil pe</p>
+    <p xml:lang="swe">Sar jek paciento ande la sastarimaski- aj špitaki ažutimos, si le manuš čačimos te arakhén aj dikhen la vaj les respektósa, aj te den ačardo informacia so phenelpe pa o sasjtarimos aj o nasvalimos, aj pe godola rodimata save le doktura kamen te keren maj angle.</p>
+    <p xml:lang="swe">Te či plačal o manuš e o sastarimos kaj dine vaj te či plačal tut sar dine duma tusa, si le manušes čačimos te vačil pe o manuš aj te phenes čire gindori la špita. Godo šaj avel de khatar cinoře problemori ži kaj phare situatciji kaj arelo o manuš ande phare došá ando merimos. O manuš šaj kerel vi puřa te šaj vortol pe la špitaki buči te phirel maj vorta.</p>
+    <p xml:lang="swe">Si but thana kaj šaj boldel pe o manuš te šaj kerel jek puřa. Mišto si te kana kamel o manuš ramome adveto palpale kana vačis, te šaj bešes ande pača kana džines o adveto aj te na avel ke či ačardan so si ramome ando adveto.</p>
+    <p type="title" xml:lang="swe">Anda jek data te vačil pe o manuš kaj le špitake bučarne</p>
+    <p xml:lang="swe">Mišto si anglunes te boldel pe o manuš anda jek data kaj godo doktoro vaj kaver špitake bučarne kaj kerde o rodijimos vaj o sastarimos. Butivar šaj avel ke vi le duj či ačarde jek kavres, aj godo kaj či ačardan šaj vortol pe te dena duma anda jek data, te na avel sa godola problemura pe dujtole. O manuš vi šaj boldel pe kaj la špitako šerotno kote kaj lan o sastjarimos, naprimer kaj o šerutno pe ortopedia.</p>
+    <p xml:lang="swe">Kana si pa komunalno sastarimasko- aj špitako ažutimos sar eksemplo kheresko sastarimos, boldel pe o manuš kaj e bari lugerica pe draba, kaj vi bušol MAS, ando komuno.</p>
+    <p xml:lang="swe">E buči kaj si ande regiona aj ande komunalno špita či anel sa jek fjalo ando antrego them. O manuš šaj pušel khatar pesko komuno vaj regiona, kon porunčíl pe sastjarimata. Butivar ašel pe komuna te len sama pa vušóro kheresko sastjarimos (hemsjukvård) ži pon e regiona lel sama pala maj phare sastjarimata ando kher.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Patientasko grupa</p>
+    <p type="title" xml:lang="swe">Čiden ande jek than le vačimata/puřimata</p>
+    <p xml:lang="swe">Jek than kaj šaj mukhes čire gindori aj vačimata si kaj o patientaski grupa, kaj vi univar bušol pačajimaski grupa (gruppnämnden). Patientaski grupa lašarel te avel jek vuči buči kana len sama pala le patientori ande sastarimasko- aj špitako ažutimos.</p>
+    <p xml:lang="swe">E grupa si ande svako regiona te šaj len khatar o narodo vačimata, puři aj gindori sar le špiti len sama pe le nasvale aj le nasvalenge ramá, draba aj pušimáta, pušinimata, divanori kaj trubún te aven garade aj sastarimasko garantcija. Ande grupa bešel raj kaj dikhen opral pa le zakonori ando them, politikori, jipon le foroske raj si kaj len sama pala le vačimata. La grupake politikcij aj le foroske raj naj lenge slobodo te puřin avri le vačimata aj le puři.</p>
+    <p xml:lang="swe">Patientaski grupa keren buči korkoro khatar sastarimasko- aj špitako ažutimos aj či kerel love te boldel pe o manuš lende te šaj keren puřa vaj te kamena te vačin.</p>
+    <p xml:lang="swe">Naj ferdi o sastarimasko- aj špitako ažutimos kaj si džindo andre ando patientaski grupa, numa vi le dandistori kaj keren buči ande regiona aj sar privatno dandisto kaj len sa le love vaj uni khotora khatar e regiona.</p>
+    <p xml:lang="swe">Vi andre ando sastarimasko- aj špitako ažutimos kaj keren buči ande komuna, vaj pala o phanglimos kaj si ando komuna, aj e puterdi sastarimasko ažutimos pala Socialno ažutimasko zakono kaj o manuš lel pala sastarimasko- aj špitako ažutimos.</p>
+    <p xml:lang="swe">Khatar patientaski grupa šaj lel o manuš ažutimos sar eksemplo</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Informatcija kaj trubúl le manušes te žanel pa sastarimasko- aj špitako ažutimos</p>
+      <p type="listitem" xml:lang="swe">Kontakto ko la špitako bučarne</p>
+      <p type="listitem" xml:lang="swe">Te arakhen vorta maškar le foroske raja</p>
+      <p type="listitem" xml:lang="swe">Te keren divano aj te ramon so von dikhle aj ašunde te sas vorta vaj ke niči, karing godo manuš kaj sastarel manušen vaj karing špitake grupi <em type="italic"></em></p>
+    </list>
+    <p type="title" xml:lang="swe">Vi mujestar aj ramomaske vačinimata keren rodimos</p>
+    <p xml:lang="swe">O manuš šaj marel telefono aj šaj tradel andre jek lil te vačil pe kaj la patientaski grupa. Le foroske rajá dikhen pe e puřa aj dikhén te avel o ram kaj le vorta manuš kaj si te len sama pa e puřa</p>
+    <p xml:lang="swe">Patienataski grupa naj len čačimos vaj putaŕa te šinen e kris pe špitake bučarne te kerde doš vaj niči. Godo si jek pušimata kaj dikhel la bučiako šerotno vaj o Socialstyrelsen.</p>
+    <p xml:lang="swe">Te kamela o manuš te lel kontakto karing patientaski grupa, trubúl te avel kaj špita kaj sas o manuš aj vi pe la regionoski web rig.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Socialstyrelsen</p>
+    <p type="title" xml:lang="swe">Von dikhen opral pa o kvaliteto aj te avel sogoro</p>
+    <p xml:lang="swe">Socialstyrelsen si le raja kaj dikhen opral pa sastarimaski- aj špitasko ažutimos kaj keren inspektatcija pe la špitake bučia te avel jek lašo aj sogoro than kaj le patientori, te dikhen te na dukhadol varekon aj te na avel dar ande špita. O Socialstyrelsen trubún te dikhen opral le došá kaj kerdilas, kaj bušol bučiaki doš, aj so šaj keren te na kerdol maj jek data.</p>
+    <p xml:lang="swe">Kaj Socialstyrelsen šaj kerel o manuš puřa pa jek situatcija vaj pe jek manušeski bučarni. Ande puřa či trubúl o manuš te den opre anava vaj kon kerda e doš pe e situatcija. Sa le bučarne kaj keren buči kaj sastarimaski- aj špitako ažurimos, vi te kerena buči ande komuna, regiona vaj ande jek privatno špita, šaj kerel o manuš pe lende puřa.</p>
+    <p xml:lang="swe">Ande puřa šaj avel doša karing e organisatcija vaj te avela puterde doša sar len sama pala le patientori, kaj trubúl te vortol pe. E puřa trubún te dikhen pe late puterde jakhensa. O manuš či trubúl te žanel kon si kaj kerda doš vaj če doš kerdilas, dosta si te kerel o manuš puřa so kerdilas.</p>
+    <p xml:lang="swe">Socialstyrelsen šaj del kritíka karing organáci, sar eksemplo e regiona, vaj karing jek špitako bučarno. Godo vi šaj kerdol vi te či avela jek puřa vaj jek vačimata khatar patientori vaj khatar manuš kaj si le paše njamo. Te trubúla te vortol kana len sama pala le patientori, biril o Socialstyrelsen te thon avri zakonori kaj si mušaj kaj e organisatcij te lel pe pala. Te trubúl anda le pacientonge sekuritá biril o Socialstyrelsen te den avri zakonura kaj musaj le organácia te lel pe pala lende. Socialstyrelsen birin vi te porunčín te den le rama kaj patientnämnden. Naštil o manuš te vačil pe pala leng desicia.</p>
+    <p xml:lang="swe">Puřimata pe kriminalne situaci, del pe le kaj le raj bare. Šaj te avel naprimer te sas jek anda o sastjarimasko personalo kaj si thodino beda ke kerda sexualno zor, vaj te marde varekas ande buči.</p>
+    <p xml:lang="swe">Vi e puřa karing o Socialstyrelsen aj e kris khatar o Socialstyrelsen si puterde rama kaj šaj džinel o narodo te kamena. Numa le rama khatar le nasvale aj kaver rama kaj si andre ando rodijimos naj puterde pala o zakono te garaves, sekreteso.</p>
+    <p type="title" xml:lang="swe">Kana dikhen pa Lex Maria-puři</p>
+    <p xml:lang="swe">Socialstyrelsen len sama pe godo kaj bušol Lex Maria-puřa, ke Lex Maria trubún kórkořo te den andre puřa kana von arakhlé bare bajura. Ande jek Lex Maria-puřa, trubún te keren jek rodimos te dikhén te liné sama pala le pacientonenge sikurita . Šaj žal maj dur te kerel o Socialstyrelsen puřa pe le špitake bučarne karing Sastarimaski- aj špitako ažutimos, e grupa kaj len sama aj pe skurto phenél pe, HSAN</p>
+    <p type="title" xml:lang="swe">Sastarimaski aj špitako ažutimos e grupa kaj len sama (Hälso- och sjukvårdens ansvarsnämnd)</p>
+    <p xml:lang="swe">Ferdi o Socialstyrelsen, Justitie ažutimos (Justitieombudsmannen) aj Justitie grupa (Justitiekanslern) Godo kerél pe te arakhliné vareso kaj musaj te len e desicia pa seguriake bučá, godo si ke šaj ašaven e buči aj sar von keren pengi buči kaj šaj avel nasul. HSAN biril te zumavel aj te puřončin pa</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te cirden andre e legitimatcija khatar doktorori aj lugerici kaj či kerde vorta pengi buči</p>
+      <p type="listitem" xml:lang="swe">Thon avri jek zumajimaski vrmaja, godo si ke jek doktoro vaj lugerica mušaj te avel telal jek dikhimos pe jek vramja kaj šaj avel ži kaj trin berš, aj vi musaj te keren jek specialno plano telal gadea vrjámja</p>
+      <p type="listitem" xml:lang="swe">Šaj xancarén aj vi sar cirden le doktorosko čačimos te maj ramol avri draba</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Maj jek drom kaj šaj keres puřa</p>
+    <p type="title" xml:lang="swe">Raj bare, pacientonge organacia aj politíkura</p>
+    <p xml:lang="swe">Te ačarela o manuš ke sas jek kriminalno akcija ande špita, šaj kerel o manuš puřa kaj le raj bare. E puřa šaj avel naprimer kana mulas varékon anda kavreski doš. Ando Švédo naj butivar te avel jek puřa kaj aresel kaj kris aj te ašél varékon došaló, anda goda ke pala kriminalno zakono, musaj te roden aj te len sama te kerdás e doš anda goda ke kamélas, vaj te či la dosta but sama, te šaj štrafoin le manušés.</p>
+    <p xml:lang="swe">Univart šaj ažutinle pacientoske organaci te keren buči kaj si pa puřa. Von vi šaj puřončin aj te dikhen save thana si maj laše te ingeren e puřa aj vi šaj ažutin te ramon jek puřa.</p>
+    <p xml:lang="swe">Diskriminatcijako ažutimos, DO, kaj keren buči pa diskriminatcija. Te ačarela o manuš ke nakhla diskriminatcija te si murš vaj žuvlia, muršako vaj žuvliango identiteto, sar jek murš vaj žuvli den duma, pala berš, anda savo them avel o manuš, religija vaj jek kaver religija, te si bange vaj kaver fjalo seksualno phirimos, šaj o manuš kerel puřa kaj DO.</p>
+    <p xml:lang="swe">O manuš kana godo šaj boldel pe aj ingerel e puřa kaj le špitake politikura kaj si lende e politikako obligatcija ande jek regiona vaj komuno.</p>
+    <p type="title" xml:lang="swe">Patientasko ažutimos</p>
+    <p xml:lang="swe">Ande uni regionori si jek specialno patientasko ažutimos (patientombudsmän), kaj šaj univar vi bušon patientasko ažutori vaj patientasko ažutori (patientvägledare) kaj sikhavel o drom.</p>
+    <p xml:lang="swe">Te ačarel o manuš ke si čořes dikhlo vaj te nas tuke drago o sastjarimos kaj dine tut, šaj lel o manuš atunči kontakto lensa. Patientasko ažutimos šaj ažutil le manušes vaj šaj sikhavel maj dur, te naj drago le manušeske o atvéto vaj sar line sama pa tute ande špita, pala goda so boldan tut anglunes kaj la špitako bučarne.</p>
+  </body>
+</document>

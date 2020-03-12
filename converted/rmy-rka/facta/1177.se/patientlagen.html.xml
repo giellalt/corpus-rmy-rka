@@ -1,0 +1,86 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>943</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Patientlagen</origFileName>
+    <parallel_text xml:lang="eng" location="patientlagen.html"/>
+    <parallel_text xml:lang="fin" location="patientlagen.html"/>
+    <parallel_text xml:lang="fit" location="patientlagen.html"/>
+    <parallel_text xml:lang="sma" location="patientlagen.html"/>
+    <parallel_text xml:lang="sme" location="patientlagen.html"/>
+    <parallel_text xml:lang="smj" location="patientlagen.html"/>
+    <parallel_text xml:lang="swe" location="patientlagen.html"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Patientako žakono / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Patientako žakonoPatientlagen</p>
+    <p xml:lang="swe">Patientako žakono line angle karing tuke kaj si patiento. Khote ramol sar te les tu informatcija pa čiro nasvalimos vaj savatar ažutimos si. Atunči vi tu šaj purončis sar te les ažutimos sar te sastos. Khate vi šaj žanes sar te alos godo sastarimos kaj trubol tut.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Informatcija</p>
+    <p xml:lang="swe">Kon tu san vaj khatar aves trubol la špitake lugeritsi te den tut informatcija kaj trubol tut. Godo si sar eksemplo te si te trubol la tut varikon te tolmačil vaj jek ramome informaticja, te šaj ačares sar žal o dikhimos kana roden kana o manuš si nasvalo.</p>
+    <p xml:lang="swe">E informaticija trubol te avel pala čiri situatcija aj tu te ačares so si. Važno si ke tu ačares aj te žanes sar tu te sastos. Tu alos korkoro če aktivno san, numa kana godi si tuke slobodo te phenes so kames.</p>
+    <p xml:lang="swe">Kana tu ačardan save alternativori aj save droma šaj alos atunči šaj premis, vaj te phenes pe jek kaver fjalo ke premis. Tu šaj alos te phenes ke či kames godo sastarimos kaj tel e špita. Vi te premisardan la spitako ažutimos te sastos, kana godi šaj pařuves o ažutimos.</p>
+    <p xml:lang="swe">Jek glata si vi lake slobodo te phenel pesko gindo. Te si e glata cinoři šaj avel ande jek than po godo manuš kaj purončil pe e glata, numa sode maj phurol e glata inke maj važno si ke o hen ačarel aj te purončil pa pesko sastarimos. Te šaj avel aktivno ande špitako sastarimos aj ažutimos si važno ke e glata ačarel e informatcija.</p>
+    <p type="title" xml:lang="swe">Savatar informatcija šaj avel?</p>
+    <p xml:lang="swe">Tu te les informatcija pa</p>
+    <list>
+      <p type="listitem" xml:lang="swe">čiro sastimos</p>
+      <p type="listitem" xml:lang="swe">savendar metodori si pe la špitako dikhimos, sastarimos aj ažutimos</p>
+      <p type="listitem" xml:lang="swe">savendar ažutimata si pe sastarimos</p>
+      <p type="listitem" xml:lang="swe">kana tu šaj les sastarimos khatar e špita</p>
+      <p type="listitem" xml:lang="swe">so šaj ažukeras khatar e špitako ažutimos</p>
+      <p type="listitem" xml:lang="swe">so šaj kerdol pe vaj komplikatcij kaj šaj kerdol pe</p>
+      <p type="listitem" xml:lang="swe">sar anel o ažutimos kana aba sanas tu kaj špita aj šar žal</p>
+      <p type="listitem" xml:lang="swe">savendar metodori si te na les nasvalimata vaj te malaves tut</p>
+      <p type="listitem" xml:lang="swe">sar te les ažutimos khatar e Försäkringskassa te kamesa te žanes sar te rodes špita ande jek EES-them vaj ande Schweiz.</p>
+    </list>
+    <p xml:lang="swe">Univar šaj avel ke čere njamori trubol len informatcija pa čiro sastarimos. Numa khatar o sekreteso ferdi šaj čire njamori len informatcija kana von si tusa kaj e špita vaj te dan tu slobodia kaj e špita te den len informatcija.</p>
+    <p xml:lang="swe">Kaj jek akutno situatcija, sar eksemplo te si o manuš po merimos atunči e špita tel tut godo ažutimos kaj trubol ke šaj avel ke san tu zalime vaj či biris te des slobodia.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Šaj alos fersavi špita ando antrego Švedo</p>
+    <p xml:lang="swe">Tu šaj les informatcija pa savi špita ando čiri regiona šaj den tut ažutimos. Vi šaj les informatcija te les kaver špitako ažutimos ande jek kaver regiona.</p>
+    <p xml:lang="swe">Tu šaj alos fersavi špita kaj godi tu kames ando Švedo. Godo si vi ke šaj alos špita kaj si paše paša tute khote kaj trajis vaj jek puterdi specialist špita te žas khote po jek dikhimos. Eksemplo pe jek puterdi specialist špita si vastesko kirurgo vaj operatcija pe jaka kaj si kaj phurore.</p>
+    <p xml:lang="swe">Naj či jek bari buči te si e špita puterdi kaj sa le manuš vaj te si privatno, ferdi te avel pučindi e špita khatar o regiona.</p>
+    <p xml:lang="swe">O manuš šaj alol te avel phanglo kaj jek špita aj godo bušol univar listning. Numa si tuke slobode te žas kaj fersavi špita kaj kames pe antrego Švedo. Kaj špita šaj alos te kamesa te avel tut kana godi kontakto kaj jek doktoro.</p>
+    <p xml:lang="swe">Tu šaj alos vi jek baro specialisto ande jek puterdi špita kaj jek regionoski špita ande jek kaver regiona. Sar eksemplo te dikhel e špita sar žal maj dur o ažutimos kaj jek cancer sastarimos.</p>
+    <p type="title" xml:lang="swe">Čire draba purončin</p>
+    <p xml:lang="swe">Kana rodes špita ande jek kaver regiona atunči dikhen von opral pa le draba kaj si tut kan šaj les vramja kaj e špita. Le draba kaj les purončil o doktoro save si aj sode te les. Tu trubos te les puterdi špitako ažutimos sar si kaj sa le manuš kaj si ramome ande regiona. Godo si sar eksemplo ke tu pušines sa jek fjalo o patienasko košto sar sa le kaver manus kaj roden špita. Tu korkoro mušaj te pušines le droma aj so xas te alosa špita ande jek kaver regiona.</p>
+    <p xml:lang="swe">Tu, kaj aves khatar jek kaver regiona, či žindol e špitaki garantcija ande godi regiona kaj alos.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nevi drabengi dikhimos</p>
+    <p xml:lang="swe">Te si tut jek nasul nasvalimos kaj šaj mudarel vaj jek baro nasvalimos, te maladan tut aj san angla jek baro drabengo decidcija šaj manges jek divano pa le draba. Godo phenel o kaver doktoro, na godo kaj si tut aba, vaj ande čiro kheresko regiona vaj ande jek kaver regiona.</p>
+    <p xml:lang="swe">Le košti pe o nevi drabengo ažutimos pušinel čiro goresko regiona.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Šaj avel kaver fjalo te trubol la tut remissa</p>
+    <p xml:lang="swe">Te si ke trubola jek remissa kaj e puterdi specialist špita ande čiro goresko regiona vaj ande e regiona kaj rodes ažutimos mušaj te les e remissa khatar goreski špita khote kaj bešes.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Te či plačala tut</p>
+    <p xml:lang="swe">Ande svako regiona si jek grupa manuš kaj purončin sar te ažutin le nasvalen. Von šaj ažutin kana tu ačares ke naj tut dosta dikhimos aj žanglimos pa čiro nasvalimos vaj te či plačala tut o ažutimos la špitako. E grupa manušeski kaj purončin sar te ažutin le nasvalen sar eksemplo von šaj ažutin tut te aves ando kontakto me o šerotno la špitake lugeritci aj les informatcija sar te keres jek raporto pa godo so kerdila.</p>
+  </body>
+</document>

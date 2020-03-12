@@ -1,0 +1,85 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>802</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Tolktjanst</origFileName>
+    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
+    <parallel_text xml:lang="sma" location="tolktjanst.html"/>
+    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
+    <parallel_text xml:lang="smj" location="tolktjanst.html"/>
+    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmn"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmu"/>
+    <parallel_text location="tolktjanst.html" xml:lang="yid"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Ažutimos pe tolmač / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Ažutimos pe tolmačTolktjänst</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Informatcija</p>
+    <p type="title" xml:lang="swe">Tolmač pe kaver śiba</p>
+    <p xml:lang="swe">Sastarimasko- aj špitako bućarne si len obligatcija te den informatcija te malavel pala svako manuš. La špitake bućarne trubún te dikhen aj te malaven pala lengi kultura aj śib kaj si kaj godo manuš. Te aćarela le bućarne te trubúla jek źeno te tolmačil lenge, te si mušaj, te šaj lel godo manuš informatcija. Korkořo šaj manges jek kaj tolmačil tuke, te či pušle tutar te trubúl tut jek. Atunči šaj boldes tut kaj o komuno, kaj lel sama pala themarénge tolmačori.</p>
+    <p xml:lang="swe">Themone kaj trubúl len tolmačori kana len kontakto karing sastarimos- aj špita si len butivar njamori aj baratori kaj šaj ažutin len te trubúla len te tolmačin. Vi te si jek manuš paša tute kaj šaj tolmačil tuke das rekomentatcija te les jek oficielno tolmač khatar e regiona vaj khatar le komunosko ažutimos. Kulturake diferencija aj diferencija ande źakonori maškar manuš khatar kaver thema si univar mišto te avel varekon kaj naj hamime te ažutil te tolmačil.</p>
+    <p type="title" xml:lang="swe">Kaj te boldel pe o manuš?</p>
+    <p xml:lang="swe">Te kamesa kontakto šaj mares telefono kaj o komuno aj von khotar ažutin tut.</p>
+    <p type="title" xml:lang="swe">Tolmačengo centrálno</p>
+    <p xml:lang="swe">Pherdo regionori si len tolmačengo centralno ji-pon den adveto te les ažutimos.</p>
+    <p xml:lang="swe">Pe o tolmačengo centrálno kerel bući tolmacori kaj si len jek specialno edukatcija ando:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Mutitsko tolmač pe glati kaj si mutsi, godo si kana jek manuš arakhadilo mutitsko vaj ašilo kašuko ande terne berš aj den duma mutitska sar angluni śib.</p>
+      <p type="listitem" xml:lang="swe">Mutitsko tolmač le phurénge, godo si kana jek manuš ašilo kašoko kana sas phuro aj si len sar švedicka sar angluni śib (butivar ramomasko tolmač) numa vi ažutimos kaj mutitska (TSS) aj te džinen.</p>
+      <p type="listitem" xml:lang="swe">Kořengo tolmač, si kaj manuš kaj si koře vaj xorales koře aj kašoke.</p>
+    </list>
+    <p xml:lang="swe">Le tolmačori ažutin le kašoken aj le mutitska te birin te den duma.</p>
+    <p xml:lang="swe">Či kerel love te avel varekon te tolmačil tuke te lan jek tolmač khatar regionosko tolmačengo centrálno ande sa le situatcij kaj o manuš trubúl te len godo ažutimos. Godo džindol vi kaj le mutitska glati, kašoke, phure kaj si koře, kašoke aj koře numa kaj birin te ašunen.</p>
+    <p type="title" xml:lang="swe">Kaj te boldel pe o manuš?</p>
+    <p xml:lang="swe">Kana trubúl ažutimos khatar tolmačori šaj les kontakto kaj čiri regionosko tolmačengo centrálno.</p>
+    <p type="title" xml:lang="swe">Źakono</p>
+    <p xml:lang="swe">Sastarimasko- aj špitako źakono, SFS 1982:763.</p>
+    <p type="title" xml:lang="swe">Ažutimos te des duma</p>
+    <p xml:lang="swe">Ažutimos te des duma či kerel love te si le manušes hangosko-, te des duma vaj śibasko pharimos. Pe ažutimos te des duma keren bući tolmačori pe ažutimos te des duma. Ažutimos te des duma si akana ande deš regionori. Khote šaj lel manuš ažutimos ande:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te des duma ažutimos, godo si ke le tolmačori den tut ažutimos ande komunikatcija kana les kontakto te si le manušeske phares. Von phenen butivar aj/ vaj vušorin o hango vaj sar godo manuš kamel te kerel komunikatcija.</p>
+      <p type="listitem" xml:lang="swe">Ažutimos pe telefono, godo si te šaj lel o manuš ažutimos te maren trin źene ando jek telefono kaj o tolmačori ažutil te des duma aj kana trubúl te phenen inke maj jek data e vorba te či aćarena, vaj ferdi bešel miro aj ašunen.</p>
+      <p type="listitem" xml:lang="swe">Ažutimos te džines- vaj te ramos, godo si ke les ažutimos te šaj džines vaj te ramos jek lil aj ramomata, te ramos punktori ande čidenimata.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kaj te boldel pe o manuš?</p>
+    <p xml:lang="swe">Regionosko telefono źanel karing kaj te boldes tut kana si pa Ažutimos te des duma te si ande čiri regiona vaj naj.</p>
+    <p type="title" xml:lang="swe">Śibasko hango</p>
+    <p xml:lang="swe">Śibasko hango či kerel love aj si ažutimos pe antrego them te si le manušeske phares pe hango-, te den duma- vaj pe śib. Pe Śibasko hango keren bući divanoske tolmačori aj tolmačin ferdi pe švedicka. Khote šaj les ažutimos ande:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Śibasko hango tolmačin phare vorbi vaj divanori te si le manušeske phares te ašunen vaj phares si lenge te aćaren.</p>
+      <p type="listitem" xml:lang="swe">Tolmačori phenen sar uni bući aj źeli si ande jek than. Von vi ažutin te maren telefon.</p>
+      <p type="listitem" xml:lang="swe">Śibasko hango si sar jek ažutimos pe jek antrego divano. Khote kaj von ašunen aj den ažutimos pe phare vorbi. Von ažutin pe le phare vorbi kaj či aćarel o manuš. Von vi šaj ramon tuke tele so von phenen aj traden tuke khere o lil kaj von ramonde tele.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kaj te boldel pe o manuš?</p>
+    <p xml:lang="swe">Šaj mares pe normalno telefono, le kheresko vaj le vastesko telefono o telefonsosko numero si 020-22 11 44. Jek divansko tolmač kaj Śibasko hango tel adveto aj ažutil aj del anglal aj ažutil tut ando antrego divano. O tolmač marel tuke opre kaj godo manuš te kamesa aj si tusa sar ažtimos pe antrego divano. Kana si gata o divano šindel o triti źeno divano aj biris pala godo te des duma le tolmačesa pa o divano so nakhlas.</p>
+  </body>
+</document>

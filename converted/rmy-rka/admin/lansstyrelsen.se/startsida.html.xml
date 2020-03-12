@@ -1,0 +1,53 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>160</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-kr/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="startsida.html"/>
+    <parallel_text xml:lang="fin" location="startsida.html"/>
+    <parallel_text xml:lang="fit" location="startsida.html"/>
+    <parallel_text xml:lang="sma" location="startsida.html"/>
+    <parallel_text xml:lang="sme" location="startsida.html"/>
+    <parallel_text xml:lang="swe" location="startsida.html"/>
+    <parallel_text location="startsida.html" xml:lang="rmu"/>
+    <parallel_text location="startsida.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="startsida.html" xml:lang="rmf"/>
+    <parallel_text location="startsida.html" xml:lang="rmn"/>
+    <parallel_text location="startsida.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Länsstyrelsen - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Länsstyrelsen</p>
+    <p type="title" xml:lang="swe">Pa Länsstyrelsen</p>
+    <p xml:lang="swe">Länsstyrelsen si jek temeski organizacia so si pashe pasha e manush ande svako län. Ame sam jek vazno vast mashkar e manush taj e kommuni pa jek rig taj pa kaver rig regering, riksdag taj Centrala myndigeter mos kaver rig. Landshövdingen si sherutno po Länsstyrelsen taj inkrel e buci te lel sama pala e buci te dikel e evulutcia taj te del informatcia e regeriungoske pa kodja so trobuj ando länet.</p>
+    <p xml:lang="swe">Länsstyrelsens missia si te keren buci te avel jek maj lasio miljö, bararimos taj lashie trajimaske konditci djan vast vastesa. Mos skurto keras buci te avel jek inkerdo mishtimos angle ando länet. Länsstyrelsen inkrel e responsebilita te aresen decizi anda riksdagen taj regeriungo taj te naken mosrrdal kodja bucia ande länet taj ame inkras ketanes e temeski buci. Kana si e buci pa e e evulutcia ande länet keras ame buci te avel mishto e privatno manusheke taj pala e temeske intressura.</p>
+  </body>
+</document>

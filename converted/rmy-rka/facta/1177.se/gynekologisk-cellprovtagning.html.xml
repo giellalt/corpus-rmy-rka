@@ -1,0 +1,133 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2541</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName>
+    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
+    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
+    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Gynekologicko celosko probakolinimos / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Gynekologicko celosko probakolinimosGynekologisk cellprovtagning</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Ando skurtimos</p>
+    <p xml:lang="swe">Kana del pe pe vrjami jekh gynekologicko celosko proba šaj te ašavel pe o nasvalimos pe mižako-kirleski-raka. Celosko proba lel pe anda trajoski-dejako-than anda telatuno-trajo (teladej) aj šaj sigo te sikavel te si varesosko celosko pařudimos savo šaj te ingrel po mižako-kirleski-raka</p>
+    <p xml:lang="swe">Maj but anda celosko pařudimata kaj arakhen si maj xanci vušor aj sastjol anda peste, numa jekh kotor musaj te len tele. Ande maj čudati dati saj sikavel o celosko proba ke si le manušes cancer. Atunči si o cancer ande jekh nevo stadio aj e satjarimata šaj anklel maj vušoro bi te avel komplisacia maj angle</p>
+    <p xml:lang="swe">Zuvlja ando Švedo akharen pe maj butivar ande vrjami po gynekologicko celosko proba kolinimos, sar so phenel pe screening. Te si o manuš maškar 23 aj 50 berš avel jekh akharimos sako trito berš. Svako panšto berš ži ponpherdol o manuš 60 berš phuro. Te si o manuš opral pa 50 berš, le rutinurja šaj aven hulavde depénde karing bešel o manuš ando them.</p>
+    <p xml:lang="swe">Šaj vi te del pe celosko proba kaj e šavorenge babica vaj kaj jekh gynekologo pe kodo te nakhel pe perdal jekh gynekologicko kontrólo anda kaver bajora.</p>
+    <p type="title" xml:lang="swe">Anglal getimos</p>
+    <p xml:lang="swe">Či trobul te preparil pe o manuš pe varesoste, numa mišto si te na sanas muršesa vaj te makhlan e vagina čikenása/salva maja anglal de 24 čásurja maj anglal de sar te keres o kontrolo. Atunči šaj avel trudsno te žinén le probi. E žuvlji či trubul te del e proba kana si la e menstruácia (kana avel pe late o lolo kurko).</p>
+    <p type="title" xml:lang="swe">Sar keren o kontrolo?</p>
+    <p xml:lang="swe">Kana e proba trobul te lel pe musaj si te lel pe tele e gada telal aj te pašljol pe ando jekh gynekologisko pato. O doktoro vaj e šavorengibabica šaj lel o proba pe maj but fjálura. Butivar lel pe ekh cino kaštořo savo cirdel pe pa mižakomuj/vušt aj pala kodo jekh cini kovli kangli ande mižakomagosko telatuno than/kotor.</p>
+    <p xml:lang="swe">Butivar musaj te des anglal pe le pušimáta kana des le probi. Le atveturi si importanti te šaj kerel pe analiza vorta.</p>
+    <p xml:lang="swe">O kontrólo či dukhal aj lel ferdi váresave minuci te kerel pe. Aveto po celoske probi butivar lell pe angla šov kurke.</p>
+    <p type="title" xml:lang="swe">Šar ačarel pe o manuš pala kado?</p>
+    <p xml:lang="swe">E propa si bi-rizikako. Vunivar šaj te folil o rat pala kodo ferdi ke naj naj bajo.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So si jekh gynekologicko celako proba?</p>
+    <p type="title" xml:lang="swe">Te del pe/mukel pe celako proba</p>
+    <p xml:lang="swe">Jekh gynekologicko celakiproba si jekh proba savo lell pe anda maj telatuno kotor anda mišako-kirlo savo phenel pe kodoleske mižakomuj/vuštaj ingrel avri anda e miš. E proba šaj sikavel ke si la manušnja celake-parujimata / Celako pařudimos savo šaj ingrel po mižako-kirleski/-o-raka. Le maj but celake-parujimata / Celako pařudimos save len pe sama si cigne parujimata save satjon korkoř anda pesde, numa varesave trobun te len pe tele khotar. O proba šaj vi te sikavel raka, vi te prja phares te avel.</p>
+    <p xml:lang="swe">O manuš ande vrjama te del celakiproba lel o manuš jekh zuralo ferdimos/ažutimos po mižako-kirleski/-o-rakaperdal ke celake-parujimata / Celako pařudimos šaj te arakhen pe angla kodo sarso kerdolas raka.</p>
+    <p xml:lang="swe">Celoske probi lel pe anda maj telatuno kotor anda mižakikor, po mižakomuj/vušt savo ingrel avri pe miš. Livmoder = Dejakomago Äggstock = Anreskibučuma/ Anrengo than Livmoderhals = Mižakikor Livmodertapp = Mižakomuj Slida = Miš</p>
+    <p type="title" xml:lang="swe">Ande vrjami kontroli</p>
+    <p xml:lang="swe">Jekh gynekologicko celakiproba si ande kodola sastimaske kotroli, sarso phenel pe screening, savo le žuvljá ando Švedo akharen te keren maj butivar/ande vrjami. Perdal kodo ke celake-parujimata/Celako pařudimosna atunči šaj len pe sama aj te sastjarel pe sigo, kerdas ke o mižako-kirleski/-o-raka but xancilas butesa ande kadala 40 berš.</p>
+    <p type="title" xml:lang="swe">Celakiproba/ande kavera vrjamja</p>
+    <p xml:lang="swe">Jekh gynekologicno celaki proba šaj vi te mukhel pe kana si o manuš kaj e šavorenge babica vaj kaj gynegologo aj si kaver examinaci. Univar šaj e celaki proba te avel jekh kotor ande gynokologosko rodimos aj univar te si pařudimos kana avel o rat, numa šaj vi te avel jekh laši vrjama te mukel pe jekh screening proba. Šaj te avel mišto te mukel pe kodo kana si vrjama pe proba, vaj te si kadja ke či gelas pe, pe jekh maj fugo vrjama.</p>
+    <p type="title" xml:lang="swe">Celako pařudimos aj raka</p>
+    <p xml:lang="swe">Celako pařudimos šaj te avel ke si variso so iritacija andral khatar bakteriji vaj te si jekh virus oskoinfektcia. Kodo si o maj normalno doš kaj jekh celosko pařudimos so šaj te sasteol anda peste. Kaver celake-parujimata save šaj te ingren po mižako-kirlesko-raka, šaj te lel pe tele jekhe cine šindimata.</p>
+    <p xml:lang="swe">Te si le manušes jekh celaki-proba savo naj normalno kerel pe jekh rodimos aj atunci butivar akhardhol pe pe jekh doktorosko-kontrólo. Atunci o manuš šaj te lel atveto/gindo/gičimos te šinel/lel pe avri o celako-pařudimos vaj te dikhel pe p pařudimos sastjola korko anda peste.</p>
+    <p xml:lang="swe">Kodo butivar lel lungo vrjama ži kaj celoske-pařudimos kerdjol mižako- kirlesko-raka, normalno lel deš ži kaj dešupanž berš. Kodo si ke prja phares si te arakhel pe gata/vužo raka kana kerel pe celaki probakinilnimos, numa unjivar/varekana maladjol vi kodo. Atunči butivar o raka si inke terno/nevo aj o satjarimos šaj avel maj vušoro maj ciřa artimasa/činosa/kaverdukha.</p>
+    <p xml:lang="swe">Sako berš len karing 450 švedicka žjuvlja mižako- kirlesko-raka finke but kaver, karing 30 000 žuvljá, len atveto ke lende si celako-pařudimos.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Žuvljá si akharde ande periodi</p>
+    <p type="title" xml:lang="swe">Le žuvljá akharen le svako trito berš</p>
+    <p xml:lang="swe">Sa sa le žuvljá maškar 23 aj 50 berš len jekh akharimos pe jekh celako-probako-kontrólo svako trito berš. Palá kodo lel pe jekh akharimos svako panžto berš kana si o manuš maškar 50 aj 60 berš. Te si o manuš oprall le 50 berš šaj pařudol vrjama po akharimos šaj avel ciřa pala kaver vrjami savo ašol pala kodo kaj trajil/bešel o manuš ando them. Žuvljá save angla kado line ažutimos/sasčarimos po celako-pařudimos šaj trobula te keren celake-probaki-kontrola vi pala 60 berš.</p>
+    <p xml:lang="swe">Akharimos bišavel pe pe kodo adreso kaj si o manuš ramomé aj kodo si sa jekh dáta puterdó te žal/avel ande.</p>
+    <p type="title" xml:lang="swe">Pe savi bolnitsa/špita/than mukel pe/del pe proba?</p>
+    <p xml:lang="swe">Kana las pe jekh akharimos lel pe celaki proba khatar jekh Glaténge babicáco than kaj si maj paše (tuke), kado savo vi bušol mödravårdscentral/dejangi sastimaski centrala. Maj butivar lel pe jekh vrjama savi šaj vi te pařuvel pe (avri). Pe vuni thana šaj vi te pařuvel pe, pe jekh kaver than/špita.</p>
+    <p xml:lang="swe">Te das o manuš celakiproba kana sanas po jekh gynekologicko kontrólo, sar kaj o gynegologo vaj kana sanas kaj o preventiv noažutimos, e probi vi ande ramomé kade ke o kaver akharimos pa celaki probaki kontrola avel kana nakhlás trin vaj panž berš.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Vuni či trobul te den/mukhen probi</p>
+    <p type="title" xml:lang="swe">Kodola save si telal 23 berš aj kodola save si oprál le 60 berš či akharen le</p>
+    <p xml:lang="swe">Te si o manuš telal le 23 berš či akharel pe pe celoske probaki kontrola. Celake-pařudimata/ Celako pařudimos si dosta normalno angla 23 berš, numa kodo xasávol korkořo anda peste kaj terne žuvljá. Kodja si prja/zurales čuda/phares te avel/kerdol mižako-kirleski/-o-rakakade sigo ando ternimos. Te nakhlas o manuš oprál gynekologicko celoskeprobakikontrola/-kontróloaj te sas buth normalni celoskeprobi kana pherda o manuš 60 berš o riziko ke e manušni/lel mižako-kirleski/-o-raka palakodo si de fjal cigno.</p>
+    <p type="title" xml:lang="swe">Kodola save nas len sekso či trobun te den probi</p>
+    <p xml:lang="swe">Tena nas e manušes šoha sekso či trobul te del pe celakiproba. Mižako-kirleski/-o-raka avel ferdi kaj žuvljá kas sas len sekso aj atunči pherdjili jekhe specialno tipo anda HPV, humant papillomvirus.</p>
+    <p type="title" xml:lang="swe">Te si o manuš homoseksualno</p>
+    <p xml:lang="swe">Te si o manuš homoseksualno atunči si mišto te žal o manuš pe periodiaki celoske probako kontrolurja, anda kodja ke o viruso šaj kerel celake-pařudimata aj šaj pherdol på o nasvalimos žuvljátar ži kaj žuvlji.</p>
+    <p type="title" xml:lang="swe">O manuš te kerdas operacia pe dejakomago (te line la avri)</p>
+    <p xml:lang="swe">Te si ke kerdá o manus jekh operácia aj koté ankalde avrí sa la dejakomago/-sumburo, kodja operácia bušól antrégo hysterektomi, atúnči či trubúl o manúš te žal pe le celoske kontrollourja, ánda kodjá ke liné avrí sa la dejakomago/-sumburo ande operácia. Numa te si ke kerdine e operatcia ánda kodjá ke sas o navalimós ánde vaginako –kirlesk raka, vaj ánda kodjá ke sas celáko pařudimáta ándo vaginako –kirlo, trubúl te maj phirél o manúš pe kontrolorurja. Atúnči len jekh próba ánda la vagináko opralunó than .</p>
+    <p xml:lang="swe">Te si ke o manuš či žanel savi operacia nakhlas, vaj so šindiné avrí, šaj pušél o manúš pe e klínika koté kaj kerdiné e operácia. Vi šaj ažutíl e babica ándo babiciako klínika vaj pe le dejangi sastjarimaskó centraló te ažutín te len anglé e informácia kaj mangés. Te či san konténto, maj mišto sas te avél te des andré jekh próba te maj žanés.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kadja žal o kontrólo</p>
+    <p type="title" xml:lang="swe">Preparacija</p>
+    <p xml:lang="swe">O manuš či trobul te getol pe angla celoske probi pe varesosko modo, de o manuš či trobul te kamavel pe vaj te lel varesoske kremi/čiken/kremi ande/pe vagina pe 24 časura angla o kontrólo. Te na avela kadja atuči e proba phares šaj tolmačilpe/dikhelpe. E žuvlji či trobul te del proba kana si la menstruácia (avel pe late o lolo kurko).</p>
+    <p type="title" xml:lang="swe">Proba khatar mižakomuj/vuš</p>
+    <p xml:lang="swe">Kana trubúl o manúš te del e próba, músaj o manúš te lel telé péska telatuné gadá, pála kodjá te pašljol pe jekh gynekologicko pato. Kodo savó lel e próba, šaj avel jekh si jekh glaténgo babica vaj jekh doktoro, pořavél lokhes la vagináke rigá jekhé gynekologicko instrumentósa savo trubúl te avél sa kadjá tató sar o státo</p>
+    <p xml:lang="swe">Sar len pe le probi šaj te avel cigni variacia than thanestar. O normálo si te lel pe jekh kaštuni vaj plastikosko řoj aj cirdel la pe mižakomuj/vušt aj pala kodja lel pe jekh cigni kovli kangli ande mižakomagoskothan majteluno than/kotor.</p>
+    <p xml:lang="swe">Jekh probáko kontrólo žal fugo aj lel butivar ferdi varekači minuci. Kodo či (trobulas te) dukhal. Vuni manuš šaj te ačaren pe namišto de kodo sigo načol.</p>
+    <p type="title" xml:lang="swe">Pušimata te del pe vorbi/atvetura pe</p>
+    <p xml:lang="swe">Butivar musaj te des anglál pe varesave pušimata kana keres o probako linimos, sar naprimér</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kana sas e palatuuni podjako/menstruacijako angluno džes, vaj te ašadilas e menstruacia</p>
+      <p type="listitem" xml:lang="swe">te si ke e manušní lel preventivni-draba, atúnči save si kodolá drabá</p>
+      <p type="listitem" xml:lang="swe">te lel o manuš sastjasomós/ažutimos pe hormoni aj klimakteriakedukha/-činura</p>
+      <p type="listitem" xml:lang="swe">te si ke e manušni phari la, vaj te arakhádili lake jekh gláta ándo nakhló berš.</p>
+    </list>
+    <p xml:lang="swe">Le vorbi/informacija bišaven pe kusa e probi aj ažutisarel ando laboratorio te kerel pe lengo gindo/šinimos.</p>
+    <p type="title" xml:lang="swe">Pala kodo šaj te lel pe/avel jekh cigno ratvalo folimos/šordimos</p>
+    <p xml:lang="swe">Mižako-kirleski sajalikapa ratvarel vušoro aj kodo si normalno te avel jekh cigno aj binasul ratesko-folimos pala jekh kontrólo. E ratesko folimos načol pala varesavo džes.</p>
+    <p type="title" xml:lang="swe">Khamne šaj den proba</p>
+    <p xml:lang="swe">Probako linimos si bi riziko aj šaj te kerel pe e proba vi te si e manušni khamni. Te nakhlás prja lúngo vrjáma ándo khmnimós, anklél maj trúdsno te róden ánde analísia so si normálno vaj nasúl.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kana lel o manuš vorba/ateveto?</p>
+    <p type="title" xml:lang="swe">E maj but probi/vorbi/atvetura sikaven či soske parujimata/doša</p>
+    <p xml:lang="swe">Maj anglál so nakhlás šov kurké trubulas te avél pálpale jekh lil kaj sikavél le probáko resultáturja, núma vunívar šaj lel maj lúngo vrjáma. Karíng 95 ánda 100 próbi, si bi celake pařudimáta haj kodjá dikhén sar normálno. O lil le atvetósa avél ánda jekh dáta kheré katár o labratório</p>
+    <p xml:lang="swe">Te si dinó e próba ánde jekh gynekologicko klinika vaj ánde jekh preventivno drabéngo klinika, ašél pe kodjá klinika kaj la e próba te del pálpale o atveto.</p>
+    <p xml:lang="swe">Vunívar ašél ke naštín te kerén e analisia pe próba, naprimér kana si but podjáko rat ánde próba. Antúnči avél e manušní pálpale akhardí pe dújtole te del nevé celáke próbi.</p>
+    <p type="title" xml:lang="swe">Te si celaki pařudimáta ande próba</p>
+    <p xml:lang="swe">Te sikavel e próba ke si varesosko celako pařudimos maj si te roden. Te si kaj e žuvli cigne celako pařudimata haj voj nakhla le 30 vaj 35 berš, (kadó beršeski-granica šaj avel pařudo ande vuni thana ando them), anda jekh data si te maj roden haj vi si te len jekh proba pa virus. E proba kontrolil te si kaj e žuvli jekh tipo anda HPV, (humant papillomvirus), kaj šaj del mižaki-kirleski. Numa ferdi kodolá kaj si len kadó tipo anda HPV, trubun te avén pe o kontrólo. Te si cigne celako pařudimáta kaj si andre kasavó virus trubul e žuvli ferdi te kerel jekh kontrolo jekh berš pala kodo</p>
+    <p xml:lang="swe">Kana si pa svako celake-parujimata / Celako pařudimos kaj le žuvljá save si telal 30 vaj 35 berš si e rekomendacia akana te kerel pe o kontrólo kaj jekh gynekologo, de vi kodo maladol ke pe varesave thana/forura ando them šaj avel o manušni akardi pe jekh nevo celoskoprobakolinimos kaj e glatenge babica. Žuvljá save nakhle 30 vaj 35 berš aj kaste si kaver celake-parujimata / Celako pařudimos sar le maj cigne celako pařudimata, si e rekomendacia vi von te keren jekh kontrolo kaj jekh gynekologo.</p>
+    <p type="title" xml:lang="swe">Celosko proba kolinimos či del jekh či del antrego zor kontra</p>
+    <p xml:lang="swe">Celosko probakoli nimos ande vrjami del jekh zuralo ažutimos po mižako-kirleski/-o-raka, numa ke kodo naj šel pe šel. E manušni šaj lel mižako-kirleski/-o-raka vi te sas le celoske probi normalne, numa či kodo naj normalno pra phares (čuda) si te maladjol. Bi kodolesko te žal o manuš te lel celosko probako kontrolo. Pe kontrolime vrjami trobul o manuš anda kodo kana godi te rodel sastjarimos ka doktoro te si le manušes ratvalimos kana ando kamlimos o manuš, vai te si le manušes pala jekh paš kavreste eller butivar ratvalimata maškar menstruacia, vaj te lel o manuš ratvalimos pala kodo kana ašilas e menstruacia.</p>
+    <p xml:lang="swe">O manus sa jekh data šaj marel telefono kaj nasvalengo informaciako kantora (sjukvårdsrådgivningen) te lel ažutimos karing te boldel pe.</p>
+    <p type="title" xml:lang="swe">O manuš šaj ačarel dar maj anglal de sar te del probi, aj pe le probaki atveturja</p>
+    <p xml:lang="swe">Ote del pe/mukel pe celakiproba šaj ačarel pe/avel čino/pharipe. O manuš šaj sar naprimer/primeri te ačarel pes daravno ande kodo vrjama kaj o manuš žukarel pe kodo so sikaven e probi. Atunči mišto si te gindin pe kodo ke Celoskoprobakolinimos si jekh drom/faelo kaj ferdi tut po raka. Kodola parudimos save arakhen pe šaj sagda te len pe tele jekhe cine šinimasa/xučilimos kade te ferdipe o manuš angle ande vrjama po raka.</p>
+    <p xml:lang="swe">Maj but čuda si te sikavela jekh proba ke si le manušes gata raka. Kodola xanci dati kana arakhline ke si raka kana kerdine celako proba, butivar si ke arakhline la fugo thaj kodo kerel ke maj vušoro si te sastjaren thaj vi maj xancarel le komplikacia kaj šaj avel. Anda koda ke kerdas pe celako proba, arakhline o navalimos maj fugo aj o riziko te phares nasvavol o manuš, maj xancol.</p>
+    <p type="title" xml:lang="swe">O manuš korkořo porunčil te garavel pe le probi vaj naj</p>
+    <p xml:lang="swe">Vunivar garaven le probi kana o manuš del andre jekh celosko proba. Le probi šaj aven laše kana si te roden varesave kaver želi, kodo musaj te avel apseptime aj nakhlo katar jekh rodimasko komiteto. Te či kamel o manus te aven le probi garade ži pon maj angle, saj phenel o manuš kodoleske kaj kerda la, te šuden e proba.</p>
+    <p xml:lang="swe">E informacia pa le probi, vi kodola garaven le ande jekh kvalitetosko registro te šaj keren buči le probensa. Sa te šaj maj baraven o kavliteto ando satjarimasa. Te či kames te avel čire informacia ande kaver buča, šaj phenes lenge ke musaj te len le tele.</p>
+  </body>
+</document>

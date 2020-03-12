@@ -1,0 +1,66 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>729</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Te-kerdol-o-manu-belenkerevo</origFileName>
+    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
+    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
+    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
+    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
+    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
+    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
+    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
+    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
+    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Te kerdol o manuš belenkerevo</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Te kerdol o manuš belenkerevo</p>
+    <p xml:lang="swe">Te nakhela o manuš belenkerevo si de fjal vušoro te ašarel pe o manuš žavarime aj si le manušeske čořes. Univar šaj pařudol pe antrego traijo, aj o manuš ašarel ke si les vaj la jek čořo pačajimos ande peste aj zumavel te nakhel godolendar situatciji kaj šaj arakhen godola kaj belenkerevin. Numa či jek manuš či trubúl te garavel pe khatar manuš kaj belenkerevin.</p>
+    <p xml:lang="swe">Uni kaj kerdon belekerevin len pe te gindin ke von si le dočale. O manuš kam si les vaj la gindori te pařuven pe te na maj kerdon belenkerev. O manuš či trubúl te pařuvel pe želi kaj si lenge intresantno vaj savatar hurajimos si le manušes, vaj ferdi te si kaver manuš žagale avre manušensa. O manuš si les čačimos te na nakhel belenkerevi.</p>
+    <p type="title" xml:lang="swe">Kana si belenkerevo?</p>
+    <p xml:lang="swe">Belenkerevo si kana jek manuš kerdol butivar prasando, kana daraven le manušes, kana maren muj khatar jek manuš, mardo vaj dukhado. Belenkerevo šaj avel kana den duma lokořes ande le kan, zakensa, asajimasa, pe e dap aj žagale vorbensa. Belenkerevo si kana šoha či mukhen le manušes te avel aver manušensa ande jek than vaj kana jek manuš ingerel xoxamne čoře vesti pa jek aver manuš.</p>
+    <p xml:lang="swe">Šaj avel kana jek manuš tradel jek žagalo sms vaj e-pošta, ramol žagale divanori pe facebook, vaj ande jek blogg vaj pe kaver thana po Interneto. Vaj kana jek manuš thol opre patresti te dukhavel vaj kaj si nasul po Interneto.</p>
+    <p xml:lang="swe">Vaj kana jek manuš phenel žagale vorbi sar jek aver manuš anel aj sar hurjavel pe vaj anel aver fjalo, te si o manuš bango, atunči si godo belenkerevo. Te si ke o manuš nakhel godo, aj ašarel ke si leske vaj lake čořes, šaj lel o manuš ažutimos te šaj getol o belenkerevo.</p>
+    <p type="title" xml:lang="swe">Te puřis pa belenkerevo</p>
+    <p xml:lang="swe">O manuš šaj ašarel ke daral aj lažal pe te puřil ke kerdol belenkerevin. O manuš kam gindil ke kerdol maj nasul te puřila avri. O manuš kam lažal pe ke si avral. Numa godo manuš kaj kerdol belenkerevo naj vo vaj voj dočale!</p>
+    <p xml:lang="swe">Te nakhela o manuš belenkerevo si o maj mišto te puřis avri kaj jek phuro manuš kaj si tut pačajimos ande leste vaj late, te ašaven o belenkerevo. O manuš šaj puřil sar eksemplo kaj o sitjaritori, kaj školaki kuraturi vaj kaj školaki lugerica.</p>
+    <p xml:lang="swe">So si maj mišto si te puřila o manuš pa belenkerevo anglunes kaj phuro manuš kaj si les vaj la pačajimos ande lende, sar eksemplo kaj jek ženo ande familja, aj purme te len ažutimos te puřin kaj jek manuš ande škola.</p>
+    <p xml:lang="swe">E škola te žanena te si jek manus kaj nakhel belenkerevo, mušaj von ande jek data te dikhen so kerdila. Von vi mušaj te zumaven te šoha maj či kerdol godo. Le phure manuš ande škola si len obligatcija te dikhen te na nakhel jek studento belenkerevo vaj te daraven jek studento. Vi ando zakono ašel ke si la školaki obligatcija te dikhen te na nakhel či jek glata belenkerevo.</p>
+    <p xml:lang="swe"><em type="italic">Laše punktori te si o manuš belenkerevin: </em></p>
+    <list>
+      <p type="listitem" xml:lang="swe">O manuš naštil šoha korkoro te dočarel pe. ke kerdol belenkerevin.</p>
+      <p type="listitem" xml:lang="swe">Si zakonori kaj ašel ke naj slobodo te belenkerevis, sar eksemplo ande škola vaj pe jek buči.</p>
+      <p type="listitem" xml:lang="swe">Godo si vi jek kriminalno akcija te daraves jek manušes, sar eksemplo dapasa vaj te daraves te hulaves avri patretsi po Interneto.</p>
+      <p type="listitem" xml:lang="swe">Školi aj bučake šerotne si len obligatcija te zumaven te ašaren pe sogodi ande pača.</p>
+      <p type="listitem" xml:lang="swe">O manuš trubúl te lel kontakto jekhe phure manušesa kaj si la vaj les pačajimos ande godo phuro manuš, sar eksemplo dad vaj dej vaj jek aver manuš kaj prinžares.</p>
+      <p type="listitem" xml:lang="swe">O manuš šaj lel kontakto me jek školaki kuratori vaj kaj jek ternimatengi špita te šaj del duma te lel ažutimos aj zor.</p>
+      <p type="listitem" xml:lang="swe">Te si o manuš belenkerevo ande škola aj te či lela o manuš ažutimos khatar e škola šaj atunči o manuš te kerel puřa kaj Glatengo- aj studentongi ažutimos.</p>
+      <p type="listitem" xml:lang="swe">O manuš šaj lel kontakto le rajbarensa te si varekon kaj hulavel avri patretsi kaj o manuš či da slobodija. Jek kriminalno akcija si khatar o zakono pa manušesko informatcija. Te dukhaves vaj te belenkerevin jek manušes po Interneto si jek kriminalno akcija sa jek fjalo avri ande školaki barr, pe vulica vaj ando khere pala škola kaj khelen pe.</p>
+    </list>
+    <p xml:lang="swe">» Prasajimo</p>
+  </body>
+</document>

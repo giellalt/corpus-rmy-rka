@@ -1,0 +1,69 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>723</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Inflamatcija ande le jakha kaj glati - So šaj keres korkoro? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Inflamatcija ande le jakha kaj glati - So šaj keres korkoro? Ögoninflammation hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Xalav e jakh jekhe kompresosa vaj bumbakosa.</p>
+    </list>
+    <p type="title" xml:lang="swe">Načol butivar pala jek kurko</p>
+    <p xml:lang="swe">Butivar len glati inflamatcija ande le jakha butivar si pala jek virus infektacija kana si le troznale. E parni ande jak kerdol loli aj dukhadi aj pičal pixa kaj butivar si galbeno, kaj si butivar galbeno khatar e jakh. Butivar vi anel e jak šuvli. E jakh sastol butivar telal jek kurko bi drabengo. Jakhengo inflamatcia, vušoror pherdol kavren.</p>
+    <p xml:lang="swe">Glati šaj len inflamatcija ande jakha khatar kaver źeli. Šaj avel pala jek alergitcko reaktcija vaj ke e glata malada pe vaj da andre mel ande jakh. Inflamatcija si jek bući kana o stato sastarel pe korkoro.</p>
+    <p type="title" xml:lang="swe">Šaj žal e glata kaj angluni škola?</p>
+    <p xml:lang="swe">Glati kaj si len inflamatcija ande jakha aj si len lole jakha aj pičal lendar pixa kana kana von si ciřa troznale, či trubte bešen khere khatar kathar škola te či ačaren pe navsvle. Glati kaj phiren ande angluni škola trubún te aven zurale te šaj birin te keren sa le aktivitetori. Glati kaj si len alergia ande jaka či von či trubún te bešen khere.</p>
+    <p type="title" xml:lang="swe">Glati trubún te bešen khere kana pičal phub khatar e jakh</p>
+    <p xml:lang="swe">Te si ke la glataki jakh phandaili aj mušaj te khoses phub khatar e jakh maj butivar sar jek data ando džes si la glata jek zurali infektacija. Butivar si atunči ke vi le duj jakha si dukhade aj avel phub khatar le jaka. Atunči trubúl e glata te bešel khere khatar e angluni škola, ke vušoro šaj pherel kavren, vi anda godo ke e jakh trubúl xaladi butivar ando džes. E glata šaj žal palpale kaj le glatengi grupa kana sastila khatar e zurali inflamatcija aj či maj pičal phub khatar jakh.</p>
+    <p xml:lang="swe">Jakhenge infektatcija pherel pe vušoro maškar le glati anda goda ke khelen pe paše jek kavreste . Von pheren jek kavres kana jek glata morel e jakh aj thol vast pe le cinořenge khelimaske dželi vaj thon vast pe kaver glati. Glati kaj phiren ande škola či bešen sa jek fjalo paša jek kavres numa kana si len jek zurali infektacija ande jakha šaj bešen khere te si e jakh dukhadi.</p>
+    <p type="title" xml:lang="swe">Xalav e jakh pajesa</p>
+    <p xml:lang="swe">Te pičal phub khatar e jakh kaj e glata si mišto te xalaves e jakh butivar pajesa . Te les jek kompreso vaj bumbako aj te xalaves avral ži andre ande jakh.</p>
+    <p type="title" xml:lang="swe">Te xalaves vorta le vast</p>
+    <p xml:lang="swe">Te na lel o manuš infektacija ande jakha si mišto te xalaves vorta le vast kana pherdo žene kruglom tutar si troznale. Mišto si vi khere aj vi anda angluni škola te pařuves butivar le peškiria.</p>
+    <p type="title" xml:lang="swe">Kana arakhadol jek glata</p>
+    <p xml:lang="swe">Kana jek glata arakhadol si normalno ke si len sar galbeno pixa ande jakh godo si ke enge asvenge kanaluri si maj tang de sar kaj jek glata aj kaj le phure. Xalav e jakh avral ži andre kaj jakh jekhe kompresosa vaj bumbakosa kaj čindžares pajesa kaj naj či pra tato vaj šudro vaj šudro paj kaj si čirado ando lon.</p>
+    <p type="title" xml:lang="swe">Šaj trubús te les kontakto la špitasa</p>
+    <p xml:lang="swe">Inflamatcija ande jakha te či nakhla pala jek kurko šaj avel ke trubúl te lel o manuš te sastol e jakh. Šaj les kontakto la špitasa. So nakhla duj džes pala goda so thodan le draba ande le jakha, či pheres kavren la infektiasa aj e glata šaj biril te phirel pale ande škola.</p>
+    <p xml:lang="swe">Te na ažukerel o manuš te lel kontakto la špitasa te si kaj e glata zurali inflamatcia thaj te si pherdo bhub ande jakh. Vi godo si te lel o manuš sama te molestil e vedara la glata vaj te sas zurales troznali Te si ke e glata si de fjal dukhadi ferdi pe jek jakh aj gindis ke e glata malada e jakh či atunči te na ažukeres te les kontakto la špitasa.</p>
+    <p xml:lang="swe">Te si ke jek glata kana arakhadol inflamatcija ande jakha trubús anda jek data te les kontakto la špitasa.</p>
+    <p xml:lang="swe">Šaj mares telefono kaj la špitako ažutimos te šaj les ažutimos.</p>
+  </body>
+</document>

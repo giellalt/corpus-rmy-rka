@@ -1,0 +1,47 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>150</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/vedoske-nationalne-minoritetori-aj-lenge-iba-</origFileName>
+    <parallel_text xml:lang="fin" location="ruotsin-kansalliset-vahemmistot-ja-vahemmistokielet.html"/>
+    <parallel_text xml:lang="fit" location="ruottin-kansaliset-vahemistot-ja-niitten-kielet.html"/>
+    <parallel_text xml:lang="sma" location="sveerjen-nasjovnelle-unnebelahkoeh-jih-dej-gielh.html"/>
+    <parallel_text xml:lang="sme" location="ruoa-nauvnnala-minoritehtat-ja-sin-giella.html"/>
+    <parallel_text xml:lang="smj" location="minoritetssprakstext.html"/>
+    <parallel_text xml:lang="swe" location="nationella-minoritetssprak.html"/>
+    <parallel_text location="svedijos-nacionalikano-haripar-ta-dovas-rakkrepra.html" xml:lang="rmu"/>
+    <parallel_text location="svedosko-nationelne-minoriteturi-ta-lengo-tibja.html" xml:lang="rmf"/>
+    <parallel_text location="minoritetssprakstext.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="e-vedskakere-nacionalno-minoritetia-hem-olengere-hibja.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Švedoske nationalne minoritetori aj lenge šiba</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Švedoske nationalne minoritetori aj lenge šiba</p>
+    <p xml:lang="swe">Švedoske finlandesuri, judovori, samer aj tornedalingar si le Švedoske nacionálne minoriteturi. Godo si ke lende si jek lungo vramjaki šibako aj kulturako phanglimos maškar le nacionalni grupasko phanglimata. Svako manuš šaj alol aj puřončil te avel jek anda le nationalni minoritetori vaj ke niči. Gado si sar o manuš ačarel ande savi grupa dikhel e aj ačarel phanglimos lensa.</p>
+    <p xml:lang="swe">Ando 1999 phende ke si panž grupori sar nacionalne minoriteturi khatar o parlamento. Ando 2010 avilo jek nevo zakono kaj zurarel le nacionalne minoriteturi ačimos aj te zuravol lenge minoritetoske šiba.</p>
+    <p xml:lang="swe">1177 Špitasko ažutimos aj Umo.se lašarde rama aj textori pa sastarimos, špita aj čačimos pa špita pe dešoduj dialektori khatar le panž nacionelne minoritetengo šiba.</p>
+    <p xml:lang="swe">Ame lam-ame khatar Śibako konsiljo, aj le textori si inspektime ande jek than khatar manuš khatar le minoritetori.</p>
+  </body>
+</document>

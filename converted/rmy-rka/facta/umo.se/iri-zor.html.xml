@@ -1,0 +1,108 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1208</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/iri-zor</origFileName>
+    <parallel_text xml:lang="eng" location="self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="itsetunto.html"/>
+    <parallel_text xml:lang="fit" location="ittentunto.html"/>
+    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
+    <parallel_text xml:lang="sme" location="iedovdu.html"/>
+    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
+    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
+    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
+    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Čiri zor</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Čiri zor</p>
+    <p xml:lang="swe">Čiri zor si pa godola gindori kaj si tut katar tute aj pa čiro manušipe. Naj pa so dashtis te keres, te źanes te keres źeli vaj ke niči, e bući si ke san zorali ande tute, ke san tu. Tu korkoro dashtis te važdes aj te zurares čiri zor opre.</p>
+    <p xml:lang="swe">Le manušeski zor si sar o manuš traijil aj te si leske mišto. Jek laśi manušeski zor si kana keres te avel tuke mišto, te tromas te keres źeli kaj kames te keres, te tromas te phandes tut aj te les neve kontaktori neve manušensa aj te biris te phenes vi jo aj vi niči kaj źeli.</p>
+    <p xml:lang="swe">Te si le manušes problemo me peski zor šaj boldel-pe ke či keres źeli kaj kames te keres. Atunči keres źeli kaj čačes či kames te keres vaj keres źeli te plačal avren aj naj anda tute.</p>
+    <p type="title" xml:lang="swe">Čiri zor aj čiro pačajimos ande tute, naj sa jek fjalo</p>
+    <p xml:lang="swe">Čiri zor aj čiro pačajimos ande tute univar hamis len ande jek then, numa naj sa jek fjalo.</p>
+    <p xml:lang="swe">Čiro pačajimos ande tute si pa čiri presentatcija, godo si sode tu pačas ande tute te dashtis te keres źeli.</p>
+    <p xml:lang="swe">Čiri zor, čiro manusipe, <em type="italic"></em>si sar tu dikhes čačes pe tute, te dikhes pe čire zurale riga aj vi pe čire kolve riga ando čiro manušipe. </p>
+    <p xml:lang="swe">Te si kaj o manuš jek zurali zor či dukhados kači but sar kaver źene dikhen pe tute aj sar von gindin pa tute. Tromas te sikhaves kon tu san. Či xal tut griža kaj kaver źene te či aćarena von ke źanes tut pe pherdo źeli mišto.</p>
+    <p xml:lang="swe">Te naj le manušeski zor zurali atunči bodel-pe aj pherel tuke phares kana varikon phenel tuke jek vorba, sar eksemplo sar tu anes.</p>
+    <p type="title" xml:lang="swe">Konekcija maškar putaŕa aj ciri zor</p>
+    <p xml:lang="swe">Si jek konekcija maškar čiri zor aj goda putaŕa kaj si tut opral pa čiro traijo. Kana aćares ke šaj korkoro porunčis opral pa čiro traijo vi atunči si maj vušoro te avel tut jek laśi zor.</p>
+    <p xml:lang="swe">Univar šaj boldel-pe čiri zor aj hulel dele aj aćares ke naj tut putaŕa. Godo sar eksemplo šaj aćardol phares te vortos čiri situatcija kana rodan defjal lungo vramja pala bući, vaj godo źeno kaj tu bešes lesa ande jek than porunčil opral pa čiro traijo.</p>
+    <p type="title" xml:lang="swe">Sar šaj prinžares ke si zurali čiri zor?</p>
+    <p xml:lang="swe">Ande periodori si le manušeski zor zurali vaj kovli aj vi univar maladol-pe če zurali-la ande savi situatcija si o manuš. Kana si le manušes jek laśi zor dičol pe kana</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kana aćares ke biris te keres sa, vi te či desa ando gor</p>
+      <p type="listitem" xml:lang="swe">kana aćares ke si tuke slobodo te les baro than, te dičos aj te ašundos aj te aćares tu respektime</p>
+      <p type="listitem" xml:lang="swe">te tromas te phenes sar si tuke vaj te phenes so tu kames</p>
+      <p type="listitem" xml:lang="swe">te aceptis ke sa le manuš naštin te kamen tut</p>
+      <p type="listitem" xml:lang="swe">te aćares ke si tut putaŕa te phenes jo vaj ke niči kaj źeli</p>
+      <p type="listitem" xml:lang="swe">te šaj manges ažutimos kana kames</p>
+      <p type="listitem" xml:lang="swe">te aćares ke san dosta manuš te avel tuke mišto, te les sama pala tute korkoro aj te keres źeli kaj kerdos sasti</p>
+      <p type="listitem" xml:lang="swe">te tromas te zmaves te keres nevi źeli aj neve situatciji</p>
+      <p type="listitem" xml:lang="swe">te tromas te xasares</p>
+      <p type="listitem" xml:lang="swe">te tromas te les nevo kontakto neve manušensa</p>
+      <p type="listitem" xml:lang="swe">te šaj des vi positivno aj negativno kritika khatar kaver źene</p>
+      <p type="listitem" xml:lang="swe">te aves godo źeno kaj san aj vi sar anes</p>
+      <p type="listitem" xml:lang="swe">te aćares tut mišto vi te či avela sa perfekto</p>
+      <p type="listitem" xml:lang="swe">te tromas te phenes godo so keres aj godo so kerdan</p>
+      <p type="listitem" xml:lang="swe">te tromas te phenes ke kerdan čořes aj te manges jertimod te dukhadan varikas</p>
+      <p type="listitem" xml:lang="swe">te luvudis tut korkoro aj te barares tut korkoro.</p>
+    </list>
+    <p type="title" xml:lang="swe">Sar šaj prinžares kana naj le manušes zurali zor</p>
+    <p xml:lang="swe">Kana si le manušeski zor kovlo prinžares godo sar</p>
+    <list>
+      <p type="listitem" xml:lang="swe">ke si tuke čořes, aj či aćares ke san verto</p>
+      <p type="listitem" xml:lang="swe">te keres źeli kaj naj mišto tuke</p>
+      <p type="listitem" xml:lang="swe">či san kavre manušensa</p>
+      <p type="listitem" xml:lang="swe">či kames te zumaves te keres neve źeli</p>
+      <p type="listitem" xml:lang="swe">zumaves te plačas avren maškar čire baratori vaj khatar čiro kamlimos relatcijia</p>
+      <p type="listitem" xml:lang="swe">či les baro than aj či les than ande situatcij</p>
+      <p type="listitem" xml:lang="swe">butivar si tut o kalo nasvalimos aj špiliduš pe aver źene</p>
+      <p type="listitem" xml:lang="swe">kerdos defjal tristo kana či dashtis te keres variso.</p>
+    </list>
+    <p xml:lang="swe">Kana si le manušeski zor kovli dičol pe vi ke godo manuš marel pe, prasal kavren źenen aj naj laśo kavrensa. Vi šaj avel ke kames te garaves kana naj tut zurali zor aj zumaves te aves defjal laśi aj maj mišto pe sa le źeli kaj keres.</p>
+    <p type="title" xml:lang="swe">Sostar si kaj o manuš kovli zor?</p>
+    <p xml:lang="swe">Pherdo bućia si sostar si kaj o manuš kovli zor. Sa le manuš trubon te len barimos, te dičon aj te aven respektime anda godo kaj von si. Butivar manuš kana baron opre te ašunena ke naj dosta laśe, ke naj pe hažna vaj ke si lenge pe čino kerdol lengi zor kovli.</p>
+    <p xml:lang="swe">Numa vi ande jek data šaj avel jek manuš kaj la luvudimos kana voj vaj vo kerda variso mišto, sar eksemplo kompeticija pe sporto vaj kana kerda jek testo ande škola, atunči gindil voj vaj vo ke ferdi atunči kerde von variso mišto. Ke či san dosta manuš ke ferdi traijis aj san.</p>
+    <p xml:lang="swe">Le manušeski zor šaj kerdol negativno ke či dikhen tut varikon kana baros opre, sar eksemplo khatar čire njamori vaj kana barilan opre nas lem manuš thosa khere aj sanas maj but korkoro khere, te sas čire njamori nasvale, vaj lenas draba vaj ratjia, vaj sas len ra but bući e keren aj nas len vramja aj či dashtisnas te dikhen peske glaten.</p>
+    <p xml:lang="swe">Kana tu aćares ke či san dosta šaj avel če dukhadi san anda gor. Te san dukhadi šaj avel le manušes kovli žor, vi te sas tut mišto kana barili lan opre.</p>
+    <p xml:lang="swe">So si vaj so naj, te si le manušeski zor kovli, sa maj angle kerdol maj mišto.</p>
+    <p type="title" xml:lang="swe">Te aćares tut aver fjalo, avral aj te kames te aves sar aver źene</p>
+    <p xml:lang="swe">But źindol sar si čiri zor, sode anes pe čiri familja vaj pe godola manuš kaj barilan opre lende. Te si te kamena sogodi sporto aj tuke naj drago godo, atunči šaj aćares ke konik či aćarel tut aj či san sogoro ande tute. Aver źeli kaj hulel dele čiri zor si</p>
+    <list>
+      <p type="listitem" xml:lang="swe">aćarese tut avral aj san prasando ande škola</p>
+      <p type="listitem" xml:lang="swe">naj tut bući</p>
+      <p type="listitem" xml:lang="swe">phares tuke te alos so kames te keres ando čiro traijo, savatar edukatcija te les vaj savatar bući te alos</p>
+      <p type="listitem" xml:lang="swe">te aves nasvali pe le nervi, sar eksemplo te si tut pharimos vaj ke aćares ke si tut tristimos.</p>
+    </list>
+    <p xml:lang="swe">But źene kamen te aven sar aver źene vaj sar le manuš kaj dikhes pe reklama vaj ande media. Sode maj vužo levelo kaj thos pe tute – te keres sa mišto, te aves šukar aj vestome – pharimos thos tuke korkoro aj či źines tut dosta.</p>
+    <p type="title" xml:lang="swe">Čiri zor či dičol kana godi avral</p>
+    <p xml:lang="swe">Phares si te dikhes pe jek manuš aj sar von dikhen pe peski zor. Uni šaj anen radiujime, si šukar aj šukar hurade, mišto źal lenge ande škola aj si len pherdo baratori, numa čačes si lende jek kovli zor aj ke voj vaj vo či aćaren-pe ke si źinde aj ke naj dosta.</p>
+    <p xml:lang="swe">» Ideori sar te vortos čiri zor</p>
+  </body>
+</document>

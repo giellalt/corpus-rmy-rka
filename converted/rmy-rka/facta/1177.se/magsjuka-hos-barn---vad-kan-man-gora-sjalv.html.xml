@@ -1,0 +1,76 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1173</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="f12.html"/>
+    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dukh džieske kaj glati – so šaj keres korkoro? / Magsjuka hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Dukh džieske kaj glati – so šaj keres korkoro? Magsjuka hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <list>
+      <p type="listitem" xml:lang="swe">La glata trubol la paj. Univar si maj vušoro te des la glatabutivar te pel la řojása.</p>
+    </list>
+    <p type="title" xml:lang="swe">E dukh avel fugo</p>
+    <p xml:lang="swe">Kana jek glata lel džieski dukh si normalno ke von šaden pe aj si len prolivo. Vi šaj dukhal len o dži aj vi šaj len gronša. Dukh džieski si butivar pala jek infektatcija kaj si pala jek virus. Pala cinoře glati si gado texto kaj glati źi opre kaj 5-6 beršenge.</p>
+    <p xml:lang="swe">Le dukha len pe pala duj trin džesa de katar e glata pherdili aj nasvajli. O nasvalimos avel fugo. Butivar pherdon le źene ande familja aj le źene ande angluni škola. Normalno načol e infektatcija pala duj trin džesa. Pala jek džes či maj šaden pe, numa o prolivo šaj ašel jek kurko.</p>
+    <p type="title" xml:lang="swe">Glati si maj dukhade kana xasaren paj khatar o stato</p>
+    <p xml:lang="swe">O manuš xasarel paj aj lon khatar o stato kana o manuš šadel pe aj si len prolivo. Maj nasul si kana glati xasaren paj aj lon katar o stato de sar jek maj phuro manuš. Godo paj kaj pel e glata aj te xasarela maj but pa so pel kerdol e glata maj nasvali. Kana si la glatá groša, vuči gronša xasarel inke maj but paj khatar o stato. Anda godo si važno te pel e glata paj aba anglunes kana lel-pe e infektacija. Terne glati si de fjal dukhade te xasarena paj khatar o stato.</p>
+    <p type="title" xml:lang="swe">Te xala e glata čuči vaj ande holba</p>
+    <p xml:lang="swe">Te xala e glata čuči trubúl e dej te pravarel la glata vi te si nasvali. Trubol e dej maj but te pravarel la glata sar normalno. Vi te šadel pe e glata trubúl e dej te pravarel la glata butivar. Vi te pela e glata thud anda e holba. Te či kamela e glata te xal čuči vaj anda e holba trubol e dej te lel o thud aj te pravarel la glata řojasa. E dej biril te lel avri thud khatar e čuči le vastesa vaj mašinkasa. Jek mašinka šaj činel o manuš ande e patika.</p>
+    <p xml:lang="swe">Te sas kaj e glata jek baro prolivo naj dosta te phel e glata čuciako thud, la glata trubúl la atunči te pel paj te na šučol o stato.</p>
+    <p type="title" xml:lang="swe">Paj te na šučol o stato</p>
+    <p xml:lang="swe">Te si jek glata kaj šadel pe but, mišto avelasas te del o manuš la glata te pel vareso te na šučol o stato. Paj te na šučol o stato le glatenge, šaj čines ande patika. Khatar godo londo paj vortol pe le pajésko balanso ando stato.</p>
+    <p xml:lang="swe">Te si jek glata kaj šadel pe but, mišto avelasas te del o manuš la glata te pel vareso te na šučol o stato. Paj te na šučol o stato le glatenge, šaj čines ande patika. Khatar godo londo paj vortol pe le pajésko balanso ando stato.</p>
+    <p xml:lang="swe">Univar šaj ke si la glatake maj vušoro te pel kaver fjalo pimata. Atunči mušaj o manuš te zumavel godo, ke važno si te pel e glata paj. Numa trubús te zumaves te nas des gugle paja, sar eksemplo gugle paja, ke pra but zaro kerel inke maj but prolivo. O manuš te na den gugle paja bi zarosko anda godo ke naj žaro andre.</p>
+    <p type="title" xml:lang="swe">Kana či maj šadel aj inke prolivil</p>
+    <p xml:lang="swe">Normalno si ke anglunes ašel o šaglimos numa inke prolivil jek vramja. Te si kaj jek glata prolivo aj e glata xal čuči trubúl e dej inke te pravarel la glata čučasa. Te xala e glata thud anda holba, šaj pravarel la glata thudesko thud (modermjölksersättning) te na šučol o stato, herezo- vaj pe pesato numa godo malavel pala glataske berš. Anglunes trubús te pravares sera thudesa te dikhel o manuš te dashtila e glata te inkerel o xaben ando stato.</p>
+    <p xml:lang="swe">Kana e glata lel-pe te xal xaben si mišto te pravares la glata xabenisa aj vi ciřa maj but čikenalo xaben. Te kamela o manuš te zumaves xamos kaj ašarel o prolivo šaj pravares la glata morkojengi zumasa, kaj si lašardi pe ličarde morkoja ando paj ka si le glatenge opral šove šoneskeski. Na bister ke frukto kerel te prolivil e glata aj te si kaj e glata zurali prolivo aj te na pravares la glata pe thulo bombasko thud. Ažuker aj pravares la glata xabenesa kaj řandel o peř źi kaj e glata sastili.</p>
+    <p type="title" xml:lang="swe">Te avela palpale o šaglimos</p>
+    <p xml:lang="swe">Te avela palpale o šaglimos, trubúl o manuš te pravarel la glata pajesa te na šučol o stato, numa trubúl o manuš te dikhel te kerdila e glata kovli aj čini.</p>
+    <p type="title" xml:lang="swe">Sar te kerel o manuš te na pherdon kaver źene?</p>
+    <p xml:lang="swe">Anda goda ke džiesko nasvalimos si jek infetcia aj vušóro pherel kaver manušen, si mišto te xalavel e familia penge vast šordo sapojésa maj anglal de sar te xan, aj te sanas ande toaleta. Mišto si te avel svako manušes ande família pesko pištíri,vaj hertiako pištiri Vi šaj butivar te xalaven e toaleta</p>
+    <p xml:lang="swe">Te si kaj e glata pharne si mišto te lel o manuš le purnane pharne ande plasikosko gono angla so šudes le pharne gunoj. Xalav vorta e skafedi khote kaj pačares la glata aj te xalavel o manuš vorta le vast kana pačardan la glata.</p>
+    <p xml:lang="swe">Glati kaj šaden aj si len prolivo trubún te bešen khere. Te phirel e glata ande angluni škola vaj ande familiako džesesko kher (familjedaghem) šaj bolden palpale kana či maj šaden aj nal len prolivo pe duj džes palpale.</p>
+    <p type="title" xml:lang="swe">O manuš kam trubol te lel kontakto la špitasa</p>
+    <p xml:lang="swe">O manuš trubúl te rodel sastarimos ande špita vaj kaj sigo slujaso anda jek data te si te šadela aj provilil e glata aj sikhavel semnori ke naj la dosta paj, godo si ke si de fjal čino aj či xal la e griša so źal kruglom latar, vi te mutrel pe ciř vaj te či mutrela pe. O manuš trubúl te rodel sastarimos anda jek data kana e glata na ferdi šadel pe aj si la provolimos numa vi te si la vi vuči gronša vaj de fjal but dukhal la glata o dži, vaj te si vaj te si rat vaj čungar hamime andeo provilomos</p>
+    <p xml:lang="swe">O manuš šaj marel telefono kaj špitasko ažutimos vaj šaj les kontakto kaj sastarimaski špita te či sastili e glata telal jek džes aj rjat, vaj te sas kaj e glata dukh džieski numa sastili aj te sas la prolivo maj but so duj kurke.</p>
+    <p xml:lang="swe">Te si e glata telal le šov šon aj šadel pe aj si la provilo trubúl o manuš kana godi te lel kontakto kajla špitasko ažutimos vaj kaj e špita kaj si maj paše tute.</p>
+    <p xml:lang="swe">Te la e glata provilo kana sas ande le thema trubúl o manuš te lel kontakto la špitasa vaj kaj jek glatengo špita.</p>
+  </body>
+</document>

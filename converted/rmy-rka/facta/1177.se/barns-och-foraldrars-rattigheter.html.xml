@@ -1,0 +1,131 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2387</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter</origFileName>
+    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fit" location="barns-och-.html"/>
+    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Glatengo aj dadengo aj dejáko čačimos ande špita / Barns och föräldrars rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Glatengo aj dadengo aj dejáko čačimos ande špitaBarns och föräldrars rättigheter i vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So si o čačimos ande špita?</p>
+    <p xml:lang="swe">Glatengo aj dadengo aj dejáko čačimos ande špita malavel ande jek than pa e obligacija sar jek manuš sastarel kavre manušes. E obligacija si ramome ando sastarimasko- aj špitako zakono (HSL) aj o (sjukvårdslagen och patientsäkerhet) sar te les sama pala lende (PSL). O manuš či naštil te thol zor karing le čačimata aj te vačis kaj e kris e bari. HSL si pa sar le špiti ando Švedo trubúl te kerel organicatcija aj te žal anglemosa. Le fundosko gindo kaj HSL si te sa le manuš ando Švedo te lel jek lašo aj sogoro sastarimos pe sa jek fjalo čačimos sar jek kaver ženo. Pala HSL trubúl e špita te lel pravda ande jek than me o patiento, godo si ke o patiento phenda ej karing e špita.</p>
+    <p xml:lang="swe">Pe PSL ašel te len sama te den le špiti jek seguro sastjarimos, aj vi te den o patiento prava te puřil le došá kaj vo arakla ando sastjarimata.</p>
+    <p xml:lang="swe">Ánde jek kavér zakono kaj si pa le gláti aj le dadá , kaj bušól föräldrabalken, koté ašel ke le glatenge dád vaj dej, vaj godo ženo kaj porunčíl aj lel sáma pa e gláta, si len o čačimós aj obligatcija te porunčín pa pušimáta kaj si pa e gláta. Gadalá manúš porunčín ži pon phérdile le gláti 18 berš, vaj ži kaj e gláta ansuríl pe maj angla so pherdól 18 berš. Godo ašél atúnči ke le dadá si kaj porunčín aj te len sáma savó sastjarimos kaj e špita si te den la</p>
+    <p xml:lang="swe">Trubún te den la glata pačiv pa lako sastjarimos aj pa e vrjámja so nakhél ži kaj e glata kórkořo šaj purončil pa peste. Le glatengo čačimos si vi ramome ande le Čidine Themake konventacija (FN) pa glatengo čačimos, glatengo konventacija (barnkonventionen), jek internationalno phanglimos kaj o Švedo ramonda telal. Glatengo konventacija si pa godola dželi sar pa:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">La glata si la čačimos te traijil aj te avel la o maj lašo sastarimos aj špita.</p>
+      <p type="listitem" xml:lang="swe">La glatako mištimos musaj te avel ando pervo ando divano le glatengo.</p>
+      <p type="listitem" xml:lang="swe">La glata si la čačimos te phenel so voj gindil aj te avel lako divano respektime.</p>
+      <p type="listitem" xml:lang="swe">Le dadén si len e maj bari obligatcija te len but sama pala e glata.</p>
+      <p type="listitem" xml:lang="swe">La glata si la čačimos aj protecia ande peski privatno trajo aj lako manušipe.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Glatengo čačimos ande špita</p>
+    <p xml:lang="swe">Naj či jek beršéske granica kana jek glata šaj šinel andre ando divano pa pesko nasvalimasko situatcia. La glatako čačimos te purončil korkořo, malavel te si e glata ande peske berš aj sar malavel sar de phari si e desicia si aj sar avel lako trajo maj angle</p>
+    <p xml:lang="swe">Eksemplo so šaj e glata purončil pa sastarimos:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te avel jek anda le dada lensa telal goda vramja kana si e glata andre ande špita. Jek glata trubúl la sastjarimos ande jek glatengo špita kaj si manuš kaj si len specialno kopetencia te keren buči glatensa, sar te sičarél e škola, te šaj khelel pe aj te sar kerel kaver hudinimaske aktivitetura la glatasa.</p>
+      <p type="listitem" xml:lang="swe">Te šaj šinen jek nasvalimasko rodimos vaj sastjarimos te kamen jek pausa, vaj te zumaven te keren o nasvalimasko rodimos aj o sastjarimos pe dujtole jek kaver data.</p>
+      <p type="listitem" xml:lang="swe">Maj phure glati si len sar čačimos te šaj den duma korkoro la špitake bučarnensa bi te avel le dada lensa vaj te žanen so e glata la špitake bučarne.</p>
+      <p type="listitem" xml:lang="swe">Maj phure glati si len sar čačimos te roden pita korkoro aj si len čačimos te len sastarimasko ažutimos bi te aven le dadaa khote vaj te si lenge mušaj te žanen o rezultato vaj savo sastarimos.</p>
+      <p type="listitem" xml:lang="swe">Te bešel jek glata andre ande špita, aj te kamela voj korkoro, šaj avel jek phej vaj phral te avel pe visita, aj vi šaj birin te soven khote.</p>
+      <p type="listitem" xml:lang="swe">Jek murš si les o čačimos te lel informácia so si jek muršikano genetalicko šindimata (omskärelse), aj vi korkořo te porunčíl te kamel vo te kerel e šindimata vaj niči. Jek murš kaj kerda e šindimata si les čačimos te lel draba te nakhel le dukha. E operacia šaj kerel jek doktoro kaj si les legitimacia te kerel e operacia, vaj katar jek manuš kaj si les jek specialno slobodimos te kerel e operacia.</p>
+      <p type="listitem" xml:lang="swe">Genetalicko šindimata pe šejora aj žuvlia naj slobodo ando Švedo, vi te kamela voj godo.</p>
+      <p type="listitem" xml:lang="swe">Glati si len čačimos te len informatcia, te si jek anda le dadá kaj si len varesavo funktsionako pharimos, te si pharé dukhade, statosko nasvalimata, godžako nasvalimos, vaj te mula varekon anda le dadá.</p>
+      <p type="listitem" xml:lang="swe">Te na pučinen strafo pe bi pučinde špitako dikhimos. Le dada si len obligatcija te pučinen te si godo sastarimos pe lovende.</p>
+    </list>
+    <p xml:lang="swe">Eksemplo pe dželi so šaj e glata saj purončil pa sastarimos:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Sar kamel te lel o drab sar eksemplo, sar drab, drab ande bul vaj te pen o drab.</p>
+      <p type="listitem" xml:lang="swe">Ande savo naj vaj vast kaj site pusaven e suv aj te kamela e glata te makhen jek drab kajl lel e dukh khote kaj si te den e suv.</p>
+      <p type="listitem" xml:lang="swe">Te kamela e glata te ande peste morči aj celori.</p>
+      <p type="listitem" xml:lang="swe">Maj phure glati purončin korkoro te kamen te den avri informatcija pa pesko sastarimos aj kaske. Numa te si informatcija kaj trubúl pe jek rodijimos maškor o Socialno vaj kaj le rajbare.</p>
+      <p type="listitem" xml:lang="swe">Maj phure glati si len čačimos te phandaven peske špitake rama kaj kaver špitenge aj špitako ažutimos, sar eksemplo te sas vo vaj voj kaj jek ternimatengi špita.</p>
+    </list>
+    <p xml:lang="swe">Eksemplori pe dželi kaj naj slobodo la glatake te purončil:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">De fjal bare pušimata kaj trubúl drabengo žanglimos sar eksemplo pe jek operatcija, jek sastarimos vaj jek rodijimos te trubúl vaj niči. E glata šaj butivar avel khote aj phenel so kamel ande uni kotora kana si pa lako sastarimos.</p>
+      <p type="listitem" xml:lang="swe">Glati aj ternimata naštil te phenel ke či kamel sastarimos te si ke trubúla len sastarimos pala o zakono te na pheren kavren nasvalimata, o zakono pe purončimos te len sama pala glati (LVU) vaj o zakono pe psykiatrisko, pe zor te avel sastarimos (LPT). Žal te vačis opral godola purončimata.</p>
+      <p type="listitem" xml:lang="swe">E glata naštil korkoro te phenel ke si ande peske berš te šaj alol aj te purončil. Godo manuš si kaj purončil pe e glata kaj šaj phenel ke si e glata dosta phuri aj te si ande peske berš te šaj purončil karing pušimata pa pesko sastarimos.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Goda kaj len sama pe le glati aj lengo čačimos ande e satjarimata</p>
+    <p xml:lang="swe">Godo manuš kaj purončil aj bararel peski glata si len pašte svako data čačimos te avel pe divano aj te purončil pa sastarimos kaj si pa leski vaj laki glata. Kana godi si la glatako mištimos kaj kaj trubúl o manuš te lel sama. E glata si la čačimos pala peske berš te purončil.</p>
+    <p xml:lang="swe">Univar kerdol phare situatciji kana te phenes aj te purončis, aj inke maj phares kerdol kana o manuš či žanel so si maj mišto la glatake. Univar naj kana godi jek lašo alternativno. Mišto si, te avel le dadá ampetšimé jek kavresa sar te arakhen jek lašo drom, aj mišto si, te si len dosta but informácia naprimer te džinen e informácia vaj te pušen le manuš kaj keren buči ande špita aj te len sama so šaj anklel lašo vaj čořo ande o satstjarimos.</p>
+    <p xml:lang="swe">Eksemplo sar jek dad aj dej si len čačimos/vaj te aven khote te purončin:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Von šaj purončin te trubúl la glata sastarimos vaj niči. Godo či džindol te si la glata sastarimos pala o zakono pe purončimata te len sama pala glati (LVU), o zakono te na pheren nasvale le kaver manušen, vaj o zakono pe psykiatrisko, pe zor te avel sastarimos (LPT).</p>
+      <p type="listitem" xml:lang="swe">So si maj važno si ke vi o dad aj e dej te avel lengi vorba džindi kaaring o sastarimos. Ando fugasko situatciji vaj kaj naj de fjal važne pušimata si dosta ke jek ženo purončil. Te si ke o dad aj dej či birin te alon šaj avel ke la glataki vorba si kaj žindol. Te si ke o dad aj e dej univar vaj šoha či birin te alon pa glatako sastarimos, atunči univar šaj avel o maj lašo drom ke jek anda le duj te porunčíl.</p>
+      <p type="listitem" xml:lang="swe">Te si jek anda le duj dada kaj či kamel te lel e glata sastarimos pe psykiatrisko vaj psykologisko rodijimos vaj sastarimos kaj si pala HSL, šaj purončil o socialno te lel e glata vaj o rodijimos.</p>
+      <p type="listitem" xml:lang="swe">Te len informatcija sar si la glatake, sav rodijimata kaj kerel e špita,savestar sastarimos aj kaver droma kaj kerdol maj angle aj so šaj kerdol te či len godo sastarimos.</p>
+      <p type="listitem" xml:lang="swe">Šaj phenen so kamen aj te avel len gindori karing e špita.</p>
+      <p type="listitem" xml:lang="swe">Šaj šinen o sastarimos vaj te phenen ke či kamen godo rodijimos vaj draba. Godo či džindod te si la glata sastarimos pala o zakono pe purončimata te len sama pala glati (LVU), o zakono te na pheren kavren nasvalimatasa, vaj o zakono pe psykiatrisko, pe zor te avel sastarimos (LPT).</p>
+      <p type="listitem" xml:lang="swe">Či trubún te aven ande soba vaj te inkeren la glata zorasa te si lenge pharo kana keren rodijimos vaj sastarimos. Šaj aves khote te les sama pala e glata vaj angla vaj kana dine gata o sastarimos.</p>
+      <p type="listitem" xml:lang="swe">Šaj soves le glatasa ande špita.</p>
+      <p type="listitem" xml:lang="swe">Šaj te sikavén e špita le manušénge aj te phenen save reglura aj zakonura si ande e špita.</p>
+      <p type="listitem" xml:lang="swe">Šaj len ažutimos sar te sastaren la glata te si e glata ande sastarimasko levelo vaj ande špita.</p>
+      <p type="listitem" xml:lang="swe">Šaj len šibako vaj kakušengo tolmač.</p>
+      <p type="listitem" xml:lang="swe">Šaj purončin te mukhena la glata te avel ando rodijimasko projekto vaj ke niči.</p>
+      <p type="listitem" xml:lang="swe">Šaj purončin te si jek manuš kaj kerel pesko edukatcija šaj avel andre ande soba vaj te dikhen kana e glata lel sastarimos vaj rodijimos.</p>
+      <p type="listitem" xml:lang="swe">Le dada si len čačimos te den la glata sastarimos aj ažutimos khatar o zakono kaj purončil, sar te les sama pala jek glata (LVU). Sar eksemplo te si le manušes jek ternimata kaj trubúl les vaj la jek baro sastarimos vaj te lel draba te sastol, kana e ternimata či kamen. Le dadá šaj len korkořo kontako la socialása, aj von šaj roden kaj kris pa sastarimos aj ažutimos khatar o LVU. E socialno šaj ažutil la familja maj dur kaj čačimos kaj sastarimos.</p>
+      <p type="listitem" xml:lang="swe">Te len kopija pe la glatake špitake rama. Numa maj phure glati musaj te den pengi vorba te šaj den avri la špitáke rama te si pe maj phure glati mušaj von te phenen te si slobodo te den avri la špitake rama. Univar ande čudatsi situatciji šaj avel jek garadimos pe e glata karing le dad.</p>
+      <p type="listitem" xml:lang="swe">Te si e glata de fjal pharo nasvalimos vaj site keren jek de fjal pharo sastarimos si le njamon čačimos te bolden pe karing jek kaver špita vaj specialisto.</p>
+      <p type="listitem" xml:lang="swe">Le dadá šaj len pučin ke xasarde bučake lové anda goda ke bešlé la glatasa ande špita, le love bušón föräldrarpenning.</p>
+      <p type="listitem" xml:lang="swe">Te len pučin katar le patientonengo asuránsa vaj katar le drabengo asuránsa, te maladili e glata ande špita kana la o satstjarimos.</p>
+      <p type="listitem" xml:lang="swe">Te dikhena la špitake bučarne te si e glata kaj inke či arakhadili dukhado pala la žuvliako slučajso šaj lel la špitake bučarne kontakto kaj o socialno. O socialno šaj den ažutimos la žuvliake kaj si ande le. Devleske vast aj vi la glata kaj inke či arakhadili.</p>
+      <p type="listitem" xml:lang="swe">E žuvli kaj si ande Devleske vast voj korkoro purončil te keren jek operatcija vaj vareso kaver buči kaj trubúl, te šaj arakhadol e glata.</p>
+    </list>
+    <p xml:lang="swe">Eksemplori pe dželi kaj naj slobodo le njamonge te purončin:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Le dadá naj lenge slobodo te mangen sastjarimos péska glatake, te žal o sastjarimós kontra pe vuše zumado sastjarimásko žanglimós.</p>
+      <p type="listitem" xml:lang="swe">Naj le dadénge slóbodo te ašaven la špitáke bučarne te vužtaven la glatá po merimós.</p>
+      <p type="listitem" xml:lang="swe">Le njamonge naj lenge slobodo te ašaven te den la glata drabengo sastarimos aj sastarimos te sas te kerdol jek bajo karing la glatako sastarimos vaj te ašaven la glata te barol. La špitake bučarne keren puřa kaj o socialno kaj šaj žan andre aj si len ažutimos khatar o zakono kaj si la pravda te purončil te len sama pala glati (LVU). Osocialno lel atunči khatar o dad aj khatar e dej e putaŕa te purončin aj von si kaj purončin opral pa e glata goda vramja ka trubúl la glata te sastol.</p>
+      <p type="listitem" xml:lang="swe">Le dada naj len čačimos te phenen ke či kamen sastarimos te si kaj e glata jek nasul nasvalimos kaj šaj pherel nasvalimata aj lel sastimos pala o zakono te na pherel kavren.</p>
+      <p type="listitem" xml:lang="swe">Le dada naj len čačimos te phenen ke či kamen sastarimos te dena la glata sastarimos pala o zakono pa psykiatrisko pe zor te len sama (LPT).</p>
+      <p type="listitem" xml:lang="swe">Te ačaren la špitake bučarne te si jek glata kaj si te avel dukhadi te den avri informacia kaj le dadá.</p>
+      <p type="listitem" xml:lang="swe">Le dada naj len čačimos te len kopija khater lenge maj phure glati pa lenge špitake rama. Le phure glati mušaj te phenen ke si slobodo te šaj den avri lenge špitake rama.</p>
+      <p type="listitem" xml:lang="swe">Le dada naj len čačimos te ašaven informatcija pa le glatenge špitake rama kaj kaver špiti.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Karing kaj šaj boldes tut te vačis?</p>
+    <p xml:lang="swe">Gadala kaj bušol la patientosko čačimos si ke naštil le dadá te bolden pe kaj e kris aj te mangen penge glatengo <span type="quote" xml:lang="swe">"čačimos"</span>. Numa si le manušes jek chansa te boldel pe kaj patientonengi grupa kaj šaj jek anda lenge buči te ažutin patientura te len informatcija kaj trubúl len te šaj len sama pala lengo sastarimos aj špitako ažutimos.</p>
+    <p xml:lang="swe">Te ačarel o manuš ke le manušeski glata la čořo sastimos khatar e špita vaj sastarimos, trubúl o manuš anglunes te boldel pe kaj goda špita kaj sas o manuš la glatasa.Lende si musaj te dikhen aj te roden so sas. O manuš šaj lel kontako kaj patiengaski grupa vaj te kerel puřa kaj Socialstyrelsen.</p>
+    <p xml:lang="swe">O manuš šaj lel vi lovengo ažutimos univar te boldela pe o manuš karing Patientasko garancia vaj Drabengi garancia. Te ačarel o dad aj e dej ke e špita kerda kriminalni akcija karing lengi glata šaj keren puřa kaj le rajbare. Atunči šaj godo so kerdilas šaj žal kaj kris.</p>
+  </body>
+</document>

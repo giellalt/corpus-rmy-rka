@@ -1,0 +1,74 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>808</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Ideori-sar-te-vortos-iri-zor</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Ideori sar te vortos čiri zor</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Ideori sar te vortos čiri zor</p>
+    <p xml:lang="swe">Si pherdo źeli kaj šaj keres te zuravol čiri zor. Khate sikhavav so šaj zumaves te keres:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te si le manušes jek kovli zor si vužoro univar te avel le manušes negativno gindori pa peste. Kana si le manušes čoře gindor šaj zumaves te keres aver fjalo aj te pušes tutar korkoro: ažutil man te avel man čoře gindori? Čačes si ke naj variso kaj či biriv te kerav?</p>
+      <p type="listitem" xml:lang="swe">Te šaj skipes khatar le gindori sar anes aj pa čiri prestatcija, kaj naj pa čiri zor, šaj manges khatar jek źeno kaj pačas tut ande leste aj te pušes pa čiro manušipe. Šaj manges khatar godo źeno te ramol tele pe jek ram sar punktori aj te thos e ram pe jek than kaj si tuke vušoro te dikhes.</p>
+      <p type="listitem" xml:lang="swe">Vi šaj des tu gindo pe kavrengo manušipe, aj te dikhes so plačal tut ando lengo manušipe. So si maj važno čačes? Te aves <span type="quote" xml:lang="swe">”šukar”</span>, te aves maj laśi pe le testori ande škola vaj te aves interesuime, te xal tut griža, te avel le manušes visiona vaj te tromas te aves sar san?</p>
+      <p type="listitem" xml:lang="swe">Tu šaj zurares čiri zor te avel tut laśi relatcija khatar aver źene, vi kaj čire baratori, khatar čiro kamlimos aj čiri familja. Te si źene ande čiri familja vaj manuš paše paša tut kaj phenen čoře vorbi karing jek kavreste, šaj phenes lenge te ašaven. Kam si maj mišto te phenen jek kavereske positivna źeli?</p>
+      <p type="listitem" xml:lang="swe">Šaj les tut te keres źeli kaj šoha či kerdan. Tu te šoha san godo źeno kaj važdel opre o vast, šaj zumaves te keres godo pe e kaver klasa. Vaj šaj zumaves te phenes ke či premis kana jek źeno marel muj khatar jek aver źeno, te rodes jek bući kaj tu kames, vaj te mares telefono kaj jek źeno kaj si tuke drago vaj te sikhaves čiro novelo kaj tu ramosardan kaj čiro barato.</p>
+      <p type="listitem" xml:lang="swe">Intanje astardos ande čoře gindori vi te kerdan variso čořes maj anglal ando čiro traijo, zumav aj premisar godo so kerdila aj so tu aćardan atunči. Te si sar eksemplo ke čire njamori či dine tut godo řindo kana sanas cinoři, kam si kaver źene paša tute adžes kaj šaj den tut godo řindo kaj trubol tut. Vi šaj pušes tutar korkoro so si tuke maj mišto te keres akana. Či phenav ke naj tuke slobodo te aves tristo pa źeli so kerdila, šaj avel ke si tuke mušaj te źelis dela jek vramja te šaj źas purme angle-mosa.</p>
+    </list>
+    <p type="title" xml:lang="swe">Le maj laśe ideori khatar ternimatengo panelo</p>
+    <p xml:lang="swe">UMO:s lengo ternimatengo panelo del peske maj laśe ideori sar te zuravol čiri zor:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te zumaves te na daras aj te tromas maj but: te tromas te ašes čiri vorbaki, te tromas te pušes pa godo kaj či źanes tut, te tromas te pherel tuke lajav aj te tromas te des pačiv.</p>
+      <p type="listitem" xml:lang="swe">Te phires manušens kaj si tuke drago aj san sogoro ande lende.</p>
+      <p type="listitem" xml:lang="swe">Šaj aćares ke maj tromas aj zuravos kana ašunes pe gilia kaj si tuke drago, kana sar eksemplo san po drom aj či aćares tut sogora angla, vaj kana keres variso kaj si tuke sera darano.</p>
+      <p type="listitem" xml:lang="swe">Šaj premis kana varikon luvodil tut aj del tut komplimangori. Te na aćares ke pherel tuke lajav, šaj phurdes lokořes, phen lenge nais aj muk le vorbi te hulen andre aj muk tut korkoro te radois tut.</p>
+      <p type="listitem" xml:lang="swe">Tu šaj korkoro luvodis tut aj te mukhes te aćares tut raduime kana sar eksemplo kerdan la školaki bući vaj kana mardan jek telefono kaj sas tuke phares.</p>
+      <p type="listitem" xml:lang="swe">Šaj aves jek laśo barato kaj aver źene aj te ažutis len aj te alos korkoro čire baratori kaj si laśe khatar tute aj kamen tut, sar tu san.</p>
+      <p type="listitem" xml:lang="swe">Na inker ande tute le komplimangori numa te sikhaves opre e pačiv kon dume san.</p>
+      <p type="listitem" xml:lang="swe">Te des bukha pherdo!</p>
+      <p type="listitem" xml:lang="swe">Vi te naj čiro pačamos ande tute aj ciri zor sa jek fjalo, numa čiri zor šaj butol aj te barol kana keres źeli kaj źanes tut.</p>
+      <p type="listitem" xml:lang="swe">Ramosar opre źeli kaj si tuke drago pa tute.</p>
+      <p type="listitem" xml:lang="swe">Ramosar źeli kaj raduijl tut.</p>
+      <p type="listitem" xml:lang="swe">Tho opre jek punkto so site keres adžes, sar eksemplo te keres variso kaj raduijl tut vaj te zumaves te keres variso kaj šoha či kerdan aj te na xal tut bući te gela mišto vaj ke niči, de kerdila šukar vaj źungales.</p>
+      <p type="listitem" xml:lang="swe">Čiri zor si phanglo ande jek than me čiro doxo. Te san źagalo varikasa, pherel tuke phares aj si tuke čořes. Numa pe kaver rig si te san laśo aj dumolo, atunči vi maj mišto tuke aj vi maj laśi kerdol čiri zor.</p>
+      <p type="listitem" xml:lang="swe">Jek laśo sitjaritorka kaj ažutil tut važdel opre čiro patreto aj zor.</p>
+      <p type="listitem" xml:lang="swe">Rode ažutimos kaj jek psykologo vaj kurator te trubola, sar eksemplo kaj jek ternimatengo špita.</p>
+    </list>
+    <p xml:lang="swe">» Čiri zor</p>
+  </body>
+</document>

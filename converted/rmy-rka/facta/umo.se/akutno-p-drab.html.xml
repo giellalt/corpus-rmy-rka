@@ -1,0 +1,80 @@
+<document xml:lang="rmy-rka" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>750</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rka"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Akutno-p-drab</origFileName>
+    <parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/>
+    <parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="akute-p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/>
+    <parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/>
+    <parallel_text xml:lang="swe" location="akut-p-piller.html"/>
+    <parallel_text location="kris-p-drabb.html" xml:lang="rmu"/>
+    <parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/>
+    <parallel_text location="akutno-p-piller-preventivno-tabletka.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="akutno-pipula.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Akutno-p-drab</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Akutno-p-drab</p>
+    <p xml:lang="swe">Akutno-p-drab si jekh drab kaj e šeja šaj te len tena anklen/peren khamne/. Kado naj prosto žutimos tena avel khamni/phari, kade ke kado naj kaj lelpe sar žutimos tena avelpe khamni/phari či angla vaj ando kamlimos. Akutno-p-drab te lelpe ferdi sar jekh musajimos aj tena avel jekh drab kaj kana godi pelpe tena anklen khamne.</p>
+    <p xml:lang="swe">Akutno-p-drab si jekh drom kaj ašavel jekh khamni/pharimos aba te sas jekh bi-sama kamlimos, šajke te bisterdaspe te lelpe žutimos/garajimos, vaj tena kamlas te lel žutimos/garajimos vaj te nakhlas perdal seksual-zor/sila.</p>
+    <p xml:lang="swe">Trobulas vi te lelpe o akutno-p-drab vo te si jekh riziko ke kodo žutimos so sas tut nas lašo, sar te phenelpe e gumiva te šindolas vaj te shaglaspe avri pesko p-drab.</p>
+    <p xml:lang="swe">O drab/tableta kaj lelpe si ande o hormono gestagen (gulkroppshormon/galbenopostavakohormono). Kodo kerel tena avel la manušnja anreskomukimos vaj o anreskomukimos te šudelpe angle.</p>
+    <p xml:lang="swe">O gestageno si vi sar prosti p-drab, numa ke ando jekh akutno-p-drab e doza si butesa maj but. Kodo kerel te šaj avel aver maj zurale dukha vi gado gerdol but.</p>
+    <p xml:lang="swe">O akutno-p-drab te lelpe ferdi kana naj aver so te kerelpe aj tena lelpe butivar sar žutimos tena avelpe khamni/phari.</p>
+    <p xml:lang="swe">O akutno-p-drab ašavel jekh khamni/pharimos aj anda kodo naj sajekh sar jekh aborto/šudajimos vaj sar jekh šudajimaskodrab.</p>
+    <p type="title" xml:lang="swe">Sar lelpe o akutno-p-drab?</p>
+    <p xml:lang="swe">Unjivar bušol o akutno-p-drab sar pala-o-djes-drab (drab pala djes) Kodo si cera xoxamni ke o drab naj musaj te lelpe pala o kamlimos. Jekh akutno-p-drab šaj lelpe angla 72 časura, kade ke trin djes, pala o kamilmos te avel hasna/žutil.</p>
+    <p xml:lang="swe">Somaj sigo lelpe o drab somaj cinoj o riziko te avelpe khamni/phari/phari/ Varesavo vaj varekači djes pala kodo kana laspe jekh akutno-p-drab šaj lelpe ratvalimos, de e maj but či len kodo.</p>
+    <p xml:lang="swe">Si inke jekh alome akutno-p-drab kaj šaj te lelpe ži kaj panž djes pala jekh bi-samalinimasko kamlimos. Kodo šaj ramol avri ferdi po recepto khatar barnmorska/phuvakidej vaj doktoro.</p>
+    <p xml:lang="swe">Te kamelpe kado recepto šaj lelpe kontakto jekhe ungdomsmottagning/ternimatongoprimimos, sex- aj samlevnadsmottagning/khetanetrajimaskoprimimos, vårdcentral/sasčarimaskicentrala, barnmorskemottagning/phuvakidejakoprimimos vaj kvinnoklinik/žuvljakiklinika. Majbutivar počinelpe pe kodo. Pe varesave primimos šaj te lelpe be te počinelpe vareso.</p>
+    <p type="title" xml:lang="swe">Kaj šaj te lelpe o akutno-p-drab?</p>
+    <p xml:lang="swe">Šaj lelpe jekh akutno-p-drab pe majbute ungdomsmottagningar, sex- och samlevnadsmottagningar, vårdcentraler.</p>
+    <p xml:lang="swe">Šaj vi te lelpe akutno-p-drab pe varesave barmmorskemottagningar vaj kvinnokliniker.</p>
+    <p xml:lang="swe">Von ši vi te činenpe pe patika bi recepto/receptosko.</p>
+    <p xml:lang="swe">Te žalape sar kaj o ungdomsmottagning te lelpe akutno-p-drab šaj vi te lelpe jekh nevi vrama te kerelpe khamni/pharimaskotesto aj, te kamelpe, jekh klamydiatesto.</p>
+    <p xml:lang="swe">Šaj vi te lelpe žutimos/garajimos po khamni/pharimos aj po konsjukdomar/telunonasvalimos majangle te kamelpe te žanelpe.</p>
+    <p type="title" xml:lang="swe">Sode Kerel o akutno-p-drab</p>
+    <p xml:lang="swe">Te čindape o akutno-p-drab ande patika bi recepto musaj si te počinelpe pe kodo. Ando ungdomsmottagningen šaj lelpe o drab bi lovengo/počinimos.</p>
+    <p type="title" xml:lang="swe">Sodi sigurnoj o akutno-p-drab?</p>
+    <p xml:lang="swe">O riziko te perelpe khamni/phari si cino pala kodo kana pilaspe o drab. O riziko o akutno-p-drab tena žutil, te phenelpe ke khamnjolpe, barol/zurajvel somaj lungo vrama načol pala kamimos/kurimos kana lape/pila o drab.</p>
+    <p xml:lang="swe">Te šaglape trin časura pala kodo kana laspe o drab vaj te si šindilo o dji, atunči naj sigurno ke o stato las opre o hormono. Anda kodo musaj si te lelpe jekh drab somaj sigo, ke tena lesa si riziko ke ašes khamni/phari/phari/.</p>
+    <p xml:lang="swe">So si vorta pa kodo akutno-p-drab kaj pelpe šaj žinavelpe ando bipacksedeln/lilandopaketo. O lilandopaketo si jekh hertija kaj si ando paketo kana lelpe vaj kana činelpe pesko akutno-p-drab. Šaj kana godi te pušelpe jekha barnmorska po sar te phenelpe ando ungdomsmottagning vaj pe morčako- aj telunonasvalimos tena ačares tut mišto.</p>
+    <p xml:lang="swe">Te žanelpe mišto ke či ašilan khamni/phari trubulas te keres jekh khamni/pharimaskotesto/-zumajimos pala trin kurke pala kodo kana lan/pilan o drab.</p>
+    <p type="title" xml:lang="swe">Kačivar šaj lelpe o akutno-p-drab?</p>
+    <p xml:lang="swe">Naj granica kačivar šaj les o akutno-p-drab ando sako žuvljanošon. Te sas bi-samalinimasko kamlimos aj či kamelpe te avelpe khamni/phari, anda kodo majfeder te lelpe jekh akutno-p-drab majbutivar ando žuvljakošon, sarso tena lelpe, vi te si o riziko pe maškarutne-ratvalimos aven majbutivar.</p>
+    <p xml:lang="swe">Te si musaj te lelpe o akutno-p-drab butivar, trobul te gindolpe sar te lelpe sama po sojimpe/kamajimos aj kam trobul kado te paruvelpe. Te trobul ažutimos pe kado šal lelpe kontakto jekhe ternimatoskoprimipe, sasčarimaskicentrala vaj ando močako- aj telunonasvalimoskoprimipe.</p>
+    <p type="title" xml:lang="swe">Lašimata/mišto</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tena o manuš las pes sama vaj kodo garajimos savo laspe či gelas/žutindas, si kodo jekh drom te cinjarelpe o riziko po khamni/pharimos.</p>
+    </list>
+    <p type="title" xml:lang="swe">Čorimata/namišto</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Akutno-p-drab či žutil/ašavel pe telunenasvalimata.</p>
+      <p type="listitem" xml:lang="swe">O hormono šaj kerel o manuš te lel dukha sar ando šero, čidimos ando kolin vaj ačarelpes zalime, de kado butivar načol aj či inkrel majbut sar jekh djes/24 časura.</p>
+    </list>
+  </body>
+</document>
