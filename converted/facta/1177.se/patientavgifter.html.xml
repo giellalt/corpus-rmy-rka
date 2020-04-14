@@ -1,99 +1,56 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1401</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Patientavgifter</origFileName>
-    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
-    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
-    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
-    <parallel_text xml:lang="sma" location="patientavgift.html"/>
-    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
-    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
-    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
-    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Patientosko košto / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Patientosko koštoPatientavgifter</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Pe soste počinés ?</p>
-    <p type="title" xml:lang="swe">Butivar počinél pe o manuš kana žal kaj špita</p>
-    <p xml:lang="swe">Sastarimask aj špitako ažutimos ando Švedo si maj but počindo but khatar regionosko- aj komunoske love. O košto kaj o manuš počinés sar eksemplo kana o manuš žal kaj e špita te dikhel le doktoros, atunči o manuš ferdi počinés jek cinořo khotor, khatar sode čačes kerel.</p>
-    <p xml:lang="swe">Godo či džindo kana si antrego špita privatno, sar eksemplo sar plastikosko kirurgia te na avela sastarimos palal. Atunči počinel o manuš korkoro sa le lové .</p>
-    <p type="title" xml:lang="swe">Naj sa jek fjalo le koštori ande le regionuri aj komunora</p>
-    <p xml:lang="swe">E regiona aj komuna (Landstinget), von si kaj alonon korkoro sode o manuš trubúl te pušinel kana o manuš žal kaj špita vaj te trubúl kaver ažutimos khatar špita. O dikhimos opral pa le košti anel pašte sa jek fjalo ande le regionori. Te trubúl le manušés but sastjarimos si atunči o vučo protekcijako košto ( högkostnadskydd), kaj si maj but ramome ando kavér kapitelo kaj avel maj telal.</p>
-    <p xml:lang="swe">Sastarimasko aj špitako ažutimos si ivja ande pašte sa le regionori te si o manuš telal 20 beršengo.</p>
-    <p xml:lang="swe">Le koštor so ramolpe telal, naj sa jek data sa jek fjealo ando oficiálno sastjarimata (offentliga vården) aj privatno špita kaj si phangle la regionósa (Landstinget).</p>
-    <p xml:lang="swe">Kana bešel o manúš ande špita pučinél o manúš jek džeséko lov kaj či nakhel opral pa 100 kronurja</p>
-    <p xml:lang="swe">Kana o manuš žal kaj špita kaj pesko doktoro Šaj avél le košti maškar 100 aj 300 kronurja. Kaj e žuvlikano aj glatengo doktoro šaj avél le košti maškar 200 aj 350 kronurja. Te si le manušes remísa te žal kaj o doktoro, vaj te lel o manuš patréci ande glinda vaj vareso kaver špitáke dželi, atunči či trubúl o manuš te počinel. Te žala o manuš kaj jek doktoro kaj si specialisto Šaj avél te počines 150 aj 350 kronurja. Te aresla o manuš kaj sigo slucajo ande špita, saj kerel ži khatar 220-380 kroni. Te žala o manuš kaj jek lugerica vaj kaj nasvalengo gymnastikako ažutimos saj kerel maškar 50-220 kronurja svako data kana žal o manuš.</p>
-    <p xml:lang="swe">Te žas kaj mamografia te roden te si čučango raka vaj te roden kaver fjalura rodimáta pe materica kaj bušól gynekologicko rodimáta, šaj kerel ži kaj 200 kronurja.</p>
-    <p xml:lang="swe">Ande uni regionuri músaj te počinés korkořo o transporto kaj e špita te žas pe ambulanco, vaj pe helikoptra.</p>
-    <p xml:lang="swe">Uni regionori pušinel palpale o košto te ažukerda o manuš opral e vramja kaj von dine tut. Te či del o manuš palpale e vramja kaj a doktoro da tut aj te či gelan kaj e špita kana trubusas, ašel o manuš te počinel o manuš te pušinel kaj či sas o manuš kaj e špita.</p>
-    <p type="title" xml:lang="swe">Kaver špitako ažutimos šaj avel len kaver koštori</p>
-    <p xml:lang="swe">Godola manuš kaj si len privatno vaj katar e buči sastjarimásko asuransa (Sjukvårdsförsäkring), lende šaj te avel kaver reglura sar te počinel pe.</p>
-    <p xml:lang="swe">Godola manuš kaj si len privatno vaj katar e buči sastjarimásko asuransa (Sjukvårdsförsäkring), lende šaj te avel kaver reglura sar te počinel pe.</p>
-    <p xml:lang="swe">Ando le Švedosko Komuna aj Regionasko webrig arakhes adresori kaj komunori, aj regionori. Lende si le manj aktualno informatcija pa sa le košti.</p>
-    <p type="title" xml:lang="swe">Košti pe themune manuš</p>
-    <p xml:lang="swe">Themune manuš si len čačimos kaj sigo špita ando Švedo.</p>
-    <p xml:lang="swe">Te avela jek manuš khatar jek kaver EU them, EES them vaj anda Schweizera, trubúl te avel le manušes jek evropako nasvalengo, garantcija lil ke te šaj sikhaven ke si len čačmos kaj sigo špita sar jek normalno patientosko košto. Te naj le manušes godo atunči mušaj te pušinel antergo košto.</p>
-    <p xml:lang="swe">Numa te kamel o manuš sastarimos kaj jek špita kaj naj sigo slucajo aj te či kamen te pušinen maj but sar patientosko košto, trubúl le manušes jek ram kaj sikhavel ke lengo them pušinel o košto. Te avela bi la ramasa mušaj o manuš te pušinel antrego košto.</p>
-    <p xml:lang="swe">But manuš kaj aven avra khatar le EU, EES aj Schweiz lénge si músaj te počinen o antrego pušinen antrego košto korkoro, vi te trubúla le manušes sigo slucajo.</p>
-    <p type="title" xml:lang="swe">Te si o manuš švedano aj nasvavol ande le thema</p>
-    <p xml:lang="swe">O evropako nasvalengo garantcijaki ram, kaj šaj manges khatar Garantcijaki kasa, ( Försäkringskassan) del le o švedaja čačimos kaj sigo slucajo ande kaver EU-, EES-thema aj ando Schweiz, sa jek fjalo košto sar si kaj o narodo ande godo kaj san. Ande le kaver Skandinavicka thema či trubúl o manuš te sikhavel e ram.</p>
-    <p xml:lang="swe">Te trubúla le manušés sastjarimós ande jek špita avrjál o EU, EES-thema aj ando Schweiz, atunči si but themá kaj či lel o manuš palpale le lové kaj počindán katar o Švédo, vaj katár godo them kaj san andré. Anda goda si važno te avel le manušés jek privatno phirimásko asuránsa (reseförsäkring) kaj vušaravel le koštori sar naprimé o transpórto. Te si le manušes kheresko asuránsa si la univar phirimásko garantía kaj vušaravel uni koštori.</p>
-    <p xml:lang="swe">Kaj Garantcijaki kasa (Försäkringskassan) pe lengi webrig si inke maj but informatcija pa sastarimos ande špita te si o manuš ande jek kaver them.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Vučo koštoski protekcija (Högkostnadskydd)</p>
-    <p type="title" xml:lang="swe">Ivjá karta kana o manuš aresla ži opre kaj o čardáko</p>
-    <p xml:lang="swe">Si jek čardáko sode o manuš trubúl te pušinel ande sastarimasko- aj špitako ažutimos. Godo bušol vučo koštoski protekcij (högkostnadsskydd) aj anel sa jek fjalo ande sa le regionori. Godo vi džindol te rodel o manuš špita ande jek kaver regiona aj vi te bešél o manúš pe kavér than.</p>
-    <p xml:lang="swe">O Vučo koštoski protekcija (Högkostnadsskyddet) si, te počindan telal dešuduj šon 1100 kronura pe patientosko košto (sode počinda le doktorenge). O manuš lel pe te džinel katár o pervo dáta kana sas kaj o doktoro, aj godo šaj džinel pe katar fer savo šon ando berš. Kana o manuš počinda 1100 kronura, lel o manuš jek ivjakarta (frikort) kaj valíl ande dešuduj šon de katar sanas pervo data kaj o doktoro. Kana nakhle le dešuduj šon lel pe o manuš pale pe dujtole po lokes vrjamasa te počinel pe kana žal o manuš kaj e špita ži kaj pale areslan te ke počindan 1100 kroni.</p>
-    <p xml:lang="swe">Vučo koštoski protekcija či džindol butivar pe</p>
-    <list>
-      <p type="listitem" xml:lang="swe">kana o manuš pušinel svako džes kana bešel andre ande špita</p>
-      <p type="listitem" xml:lang="swe">vaccinatcija</p>
-      <p type="listitem" xml:lang="swe">rama aj sastarimasko rodijimos</p>
-      <p type="listitem" xml:lang="swe">kaver sastarimasko rodijimos, sar eksemplo mammografi kontrolo</p>
-      <p type="listitem" xml:lang="swe">košto kaj mušaj te pušines kana či gelo o manuš kaj špita dino vramja</p>
-      <p type="listitem" xml:lang="swe">košto te kamel o manuš kopicija pe o journalno</p>
-      <p type="listitem" xml:lang="swe">expedititcijako košto, kaj len avri kana o manuš lel vunžile vaj traden khere e ram te pušines.</p>
-    </list>
-    <p xml:lang="swe">Kaj o dandisto či džindo butivar la špitako vučo koštoski protekcija (högkostnadskydd).</p>
-    <p xml:lang="swe">Numa o vučo koštoski protekcija džindol kaj o dandisto, te si le manušes jek baro aj lungo vramjasko sastarimos pe le dand ande pesko trajo. O vučo koštoski protekcija vi džindol te si le manušes jek nasvalimos kaj si andre ande jek drabengo sastarimos. Te si kaj jek manuš jek nasvalimos kaj kerel te rimol pe le dand, vaj te si le manušes problemura sar te xalavel le dand, šaj atunči o manuš lel khatar o dandisto te žindol sar špitako košto kaj si andre vučo koštoski protekcija.</p>
-    <p xml:lang="swe">Pe draba kaj si ramome avri khatar jek doktoro, lugerica vaj jek kaver lugerica ande špita si jek vučo koštoski protekcija, kaj si mušaj te pušinel o manuš sar maj but 2200 kronurja telal jek berš. Draba kaj či trubúl recepta či džindon andre ande vučo koštoski protekcija.</p>
-    <p xml:lang="swe">Si vi vučo koštoski protekcija pe nasvalengo tradijimos aj teknisko ažutimos, kaj puřončil e regiona. Godola zakonuri naj sa jek fjalo ando svako regiona.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Bi koštosko sastarimos aj špitako ažutimos</p>
-    <p xml:lang="swe">Ande uni sastarimaske- aj špitako ažutimos šaj avel ivja ande uni regionori. Draba kaj si ramome avri kana dikhlan le doktoros kaj si ivja,mušaj o manuš te pušinel.</p>
-    <p xml:lang="swe">Te žal o manuš kaj dejango- aj glatengi špita (MVC aj BVC) si ivja ando antrego them.</p>
-    <p xml:lang="swe">Ande la školako sastarimos či trubúl o manuš te počinel vareso,aj le vaccenatcija kaj den khote si ivja.</p>
-    <p xml:lang="swe">But ande le regionori pušinel glati aj ternimata ži kaj 20 beršenge kanči, ke ivja si lenge pa sastarimos aj špitako ažutimos, sar eksemplo kana žan kaj špita vaj ternimatengi špita.</p>
-    <p xml:lang="swe">Sastjarimos aj draba kaj trubúl le manušes, kana trubúl sastjarimos ande jek nasvalimos kaj šaj pherel o manuš kavren si ivja katar o zakono pe nasvalimata kaj šaj pherdon (Smittskyddslagen).</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1392</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Patientavgifter</origFileName><parallel_text xml:lang="eng" location="patientavgifter.html"/><parallel_text xml:lang="fin" location="patientavgifter.html"/><parallel_text xml:lang="fit" location="patientavgifter.html"/><parallel_text xml:lang="sma" location="patientavgift.html"/><parallel_text xml:lang="sme" location="patientavgifter.html"/><parallel_text xml:lang="smj" location="patientavgifter.html"/><parallel_text xml:lang="swe" location="patientavgifter.html"/><parallel_text location="patientavgifter.html" xml:lang="rmn"/><parallel_text location="patientavgifter.html" xml:lang="rmu"/><parallel_text location="patientavgifter.html" xml:lang="yid"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/><parallel_text location="patientavgifter.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Patientosko košto / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Patientosko koštoPatientavgifter</p>
+<p xml:lang="swe"></p>
+<p type="title">Pe soste počinés ?</p>
+<p type="title">Butivar počinél pe o manuš kana žal kaj špita</p>
+<p>Sastarimask aj špitako ažutimos ando Švedo si maj but počindo but khatar regionosko- aj komunoske love. O košto kaj o manuš počinés sar eksemplo kana o manuš žal kaj e špita te dikhel le doktoros, atunči o manuš ferdi počinés jek cinořo khotor, khatar sode čačes kerel.</p>
+<p>Godo či džindo kana si antrego špita privatno, sar eksemplo sar plastikosko kirurgia te na avela sastarimos palal. Atunči počinel o manuš korkoro sa le lové .</p>
+<p type="title">Naj sa jek fjalo le koštori ande le regionuri aj komunora</p>
+<p>E regiona aj komuna (Landstinget), von si kaj alonon korkoro sode o manuš trubúl te pušinel kana o manuš žal kaj špita vaj te trubúl kaver ažutimos khatar špita. O dikhimos opral pa le košti anel pašte sa jek fjalo ande le regionori. Te trubúl le manušés but sastjarimos si atunči o vučo protekcijako košto ( högkostnadskydd), kaj si maj but ramome ando kavér kapitelo kaj avel maj telal.</p>
+<p>Sastarimasko aj špitako ažutimos si ivja ande pašte sa le regionori te si o manuš telal 20 beršengo.</p>
+<p>Le koštor so ramolpe telal, naj sa jek data sa jek fjealo ando oficiálno sastjarimata (offentliga vården) aj privatno špita kaj si phangle la regionósa (Landstinget).</p>
+<p>Kana bešel o manúš ande špita pučinél o manúš jek džeséko lov kaj či nakhel opral pa 100 kronurja</p>
+<p>Kana o manuš žal kaj špita kaj pesko doktoro Šaj avél le košti maškar 100 aj 300 kronurja. Kaj e žuvlikano aj glatengo doktoro šaj avél le košti maškar 200 aj 350 kronurja. Te si le manušes remísa te žal kaj o doktoro, vaj te lel o manuš patréci ande glinda vaj vareso kaver špitáke dželi, atunči či trubúl o manuš te počinel. Te žala o manuš kaj jek doktoro kaj si specialisto Šaj avél te počines 150 aj 350 kronurja. Te aresla o manuš kaj sigo slucajo ande špita, saj kerel ži khatar 220-380 kroni. Te žala o manuš kaj jek lugerica vaj kaj nasvalengo gymnastikako ažutimos saj kerel maškar 50-220 kronurja svako data kana žal o manuš.</p>
+<p>Te žas kaj mamografia te roden te si čučango raka vaj te roden kaver fjalura rodimáta pe materica kaj bušól gynekologicko rodimáta, šaj kerel ži kaj 200 kronurja.</p>
+<p>Ande uni regionuri músaj te počinés korkořo o transporto kaj e špita te žas pe ambulanco, vaj pe helikoptra.</p>
+<p>Uni regionori pušinel palpale o košto te ažukerda o manuš opral e vramja kaj von dine tut. Te či del o manuš palpale e vramja kaj a doktoro da tut aj te či gelan kaj e špita kana trubusas, ašel o manuš te počinel o manuš te pušinel kaj či sas o manuš kaj e špita.</p>
+<p type="title">Kaver špitako ažutimos šaj avel len kaver koštori</p>
+<p>Godola manuš kaj si len privatno vaj katar e buči sastjarimásko asuransa (Sjukvårdsförsäkring), lende šaj te avel kaver reglura sar te počinel pe.</p>
+<p>Godola manuš kaj si len privatno vaj katar e buči sastjarimásko asuransa (Sjukvårdsförsäkring), lende šaj te avel kaver reglura sar te počinel pe.</p>
+<p>Ando le Švedosko Komuna aj Regionasko webrig arakhes adresori kaj komunori, aj regionori. Lende si le manj aktualno informatcija pa sa le košti.</p>
+<p type="title">Košti pe themune manuš</p>
+<p>Themune manuš si len čačimos kaj sigo špita ando Švedo.</p>
+<p>Te avela jek manuš khatar jek kaver EU them, EES them vaj anda Schweizera, trubúl te avel le manušes jek evropako nasvalengo, garantcija lil ke te šaj sikhaven ke si len čačmos kaj sigo špita sar jek normalno patientosko košto. Te naj le manušes godo atunči mušaj te pušinel antergo košto.</p>
+<p>Numa te kamel o manuš sastarimos kaj jek špita kaj naj sigo slucajo aj te či kamen te pušinen maj but sar patientosko košto, trubúl le manušes jek ram kaj sikhavel ke lengo them pušinel o košto. Te avela bi la ramasa mušaj o manuš te pušinel antrego košto.</p>
+<p>But manuš kaj aven avra khatar le EU, EES aj Schweiz lénge si músaj te počinen o antrego pušinen antrego košto korkoro, vi te trubúla le manušes sigo slucajo.</p>
+<p type="title">Te si o manuš švedano aj nasvavol ande le thema</p>
+<p>O evropako nasvalengo garantcijaki ram, kaj šaj manges khatar Garantcijaki kasa, ( Försäkringskassan) del le o švedaja čačimos kaj sigo slucajo ande kaver EU-, EES-thema aj ando Schweiz, sa jek fjalo košto sar si kaj o narodo ande godo kaj san. Ande le kaver Skandinavicka thema či trubúl o manuš te sikhavel e ram.</p>
+<p>Te trubúla le manušés sastjarimós ande jek špita avrjál o EU, EES-thema aj ando Schweiz, atunči si but themá kaj či lel o manuš palpale le lové kaj počindán katar o Švédo, vaj katár godo them kaj san andré. Anda goda si važno te avel le manušés jek privatno phirimásko asuránsa (reseförsäkring) kaj vušaravel le koštori sar naprimé o transpórto. Te si le manušes kheresko asuránsa si la univar phirimásko garantía kaj vušaravel uni koštori.</p>
+<p>Kaj Garantcijaki kasa (Försäkringskassan) pe lengi webrig si inke maj but informatcija pa sastarimos ande špita te si o manuš ande jek kaver them.</p>
+<p xml:lang="swe"></p>
+<p type="title">Vučo koštoski protekcija (Högkostnadskydd)</p>
+<p type="title">Ivjá karta kana o manuš aresla ži opre kaj o čardáko</p>
+<p>Si jek čardáko sode o manuš trubúl te pušinel ande sastarimasko- aj špitako ažutimos. Godo bušol vučo koštoski protekcij (högkostnadsskydd) aj anel sa jek fjalo ande sa le regionori. Godo vi džindol te rodel o manuš špita ande jek kaver regiona aj vi te bešél o manúš pe kavér than.</p>
+<p>O Vučo koštoski protekcija (Högkostnadsskyddet) si, te počindan telal dešuduj šon 1100 kronura pe patientosko košto (sode počinda le doktorenge). O manuš lel pe te džinel katár o pervo dáta kana sas kaj o doktoro, aj godo šaj džinel pe katar fer savo šon ando berš. Kana o manuš počinda 1100 kronura, lel o manuš jek ivjakarta (frikort) kaj valíl ande dešuduj šon de katar sanas pervo data kaj o doktoro. Kana nakhle le dešuduj šon lel pe o manuš pale pe dujtole po lokes vrjamasa te počinel pe kana žal o manuš kaj e špita ži kaj pale areslan te ke počindan 1100 kroni.</p>
+<p>Vučo koštoski protekcija či džindol butivar pe</p>
+<list><p type="listitem">kana o manuš pušinel svako džes kana bešel andre ande špita</p>
+<p type="listitem">vaccinatcija</p>
+<p type="listitem">rama aj sastarimasko rodijimos</p>
+<p type="listitem">kaver sastarimasko rodijimos, sar eksemplo mammografi kontrolo</p>
+<p type="listitem">košto kaj mušaj te pušines kana či gelo o manuš kaj špita dino vramja</p>
+<p type="listitem">košto te kamel o manuš kopicija pe o journalno</p>
+<p type="listitem">expedititcijako košto, kaj len avri kana o manuš lel vunžile vaj traden khere e ram te pušines.</p>
+</list><p>Kaj o dandisto či džindo butivar la špitako vučo koštoski protekcija (högkostnadskydd).</p>
+<p>Numa o vučo koštoski protekcija džindol kaj o dandisto, te si le manušes jek baro aj lungo vramjasko sastarimos pe le dand ande pesko trajo. O vučo koštoski protekcija vi džindol te si le manušes jek nasvalimos kaj si andre ande jek drabengo sastarimos. Te si kaj jek manuš jek nasvalimos kaj kerel te rimol pe le dand, vaj te si le manušes problemura sar te xalavel le dand, šaj atunči o manuš lel khatar o dandisto te žindol sar špitako košto kaj si andre vučo koštoski protekcija.</p>
+<p>Pe draba kaj si ramome avri khatar jek doktoro, lugerica vaj jek kaver lugerica ande špita si jek vučo koštoski protekcija, kaj si mušaj te pušinel o manuš sar maj but 2200 kronurja telal jek berš. Draba kaj či trubúl recepta či džindon andre ande vučo koštoski protekcija.</p>
+<p>Si vi vučo koštoski protekcija pe nasvalengo tradijimos aj teknisko ažutimos, kaj puřončil e regiona. Godola zakonuri naj sa jek fjalo ando svako regiona.</p>
+<p xml:lang="swe"></p>
+<p type="title">Bi koštosko sastarimos aj špitako ažutimos</p>
+<p>Ande uni sastarimaske- aj špitako ažutimos šaj avel ivja ande uni regionori. Draba kaj si ramome avri kana dikhlan le doktoros kaj si ivja,mušaj o manuš te pušinel.</p>
+<p>Te žal o manuš kaj dejango- aj glatengi špita (MVC aj BVC) si ivja ando antrego them.</p>
+<p>Ande la školako sastarimos či trubúl o manuš te počinel vareso,aj le vaccenatcija kaj den khote si ivja.</p>
+<p>But ande le regionori pušinel glati aj ternimata ži kaj 20 beršenge kanči, ke ivja si lenge pa sastarimos aj špitako ažutimos, sar eksemplo kana žan kaj špita vaj ternimatengi špita.</p>
+<p>Sastjarimos aj draba kaj trubúl le manušes, kana trubúl sastjarimos ande jek nasvalimos kaj šaj pherel o manuš kavren si ivja katar o zakono pe nasvalimata kaj šaj pherdon (Smittskyddslagen).</p>
+</body></document>

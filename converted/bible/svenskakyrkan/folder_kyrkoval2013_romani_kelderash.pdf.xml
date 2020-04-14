@@ -1,69 +1,45 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1037</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=1032504</origFileName>
-    <parallel_text xml:lang="sma" location="folder_kyrkoval2013_sydsamiska.pdf"/>
-    <parallel_text xml:lang="sme" location="folder_kyrkoval2013_nordsamiska.pdf"/>
-    <parallel_text xml:lang="swe" location="rostkortsfolder_2013.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">čo glaso trubul ame! </em></p>
-    <p>Kurke o 15 septembro 2013 si halomos/votimos khangeriako tai čo glaso si djindo. Eta katka či glasoski kartsia. Kas des tu či konfiansa te keren le importantsi halomata ande kadala štar berš? Kado zjal vi pe buči la khangeriaki tai vi pe kaver bare buča pe antrego Švedisko khangeri. Pe soste zjala čo lov la khangeriako? savendar djeli kamlanas tu te kerdjon pe o gor kai bešes tu? Save porončimata trubul te kerel e khangeri? Le kadia bax ta poronči vi tu.</p>
-    <p>Mišto primime san te halos/votis ando halomos la khangeriako!</p>
-    <p><em type="bold">Glasoski kartsia </em></p>
-    <p>Ande jekh than kadala hertiasa si tut vi či glasoski kartsia. Lela tusa kana site keres voto (halomos)</p>
-    <p><em type="bold">Pe kaste šai thos čo glaso? </em></p>
-    <p>Ando halomos la khangeriako thos čo glaso pe le gruppi kai si ande nominatsia tai lenge kandidaturi. le gruppi ande nominatsia si si la khangeriako halomos si jekh fialo sar si le kaver partidi ande halomata/voturi. Le gruppi korkoro den informatsia pa so von kamen te keren tai te lašaren. Ramomata si pe sa le gruppi ande nominatsia tai lenge kandidaturia si po www.svenskakyrkan.se/kyrkoval. Sai vi des duma ča khangeriasa pa kado.</p>
-    <p><em type="bold">Glasosko halomos pe trin kandidaturi </em></p>
-    <p>Šai keres glasosko halomos pe trin kandidaturi te keresa jekh trušul pe kudola zjene pe halomaski kartsia. Kudo trušul šai kerel te neril kudo kandidato tai te reprezentuil tut. Te si ke nai či jekh trušul kai le kanditongo anav atunči čiro glaso zjal pe le gruppi ande nominatsia. atunči nai djindo o glaso personel.</p>
-    <p><em type="bold">Kai tai kana šai thos čo glaso? </em></p>
-    <p>2-11 septembro šai keres halomos pe sa le expeditsi ande antrego them. Šai trades vi jehk lill te keres halomos, kudo si mišto te san ande kaver them. Univar  si specialno thana halomaske. O djes le halomasko o 15 septembro šai keres halomos ande čo halomaski sala vai pe kaver riga kai si len halomasko than. Mai but informatsia si pe šo glasoski kartisa.</p>
-    <p><em type="bold">Xasardan čiri glasoski kartsia? </em></p>
-    <p>Te xasardan či glasoski kartsia šai zjas ka či khangeri. Šai vi manges jekh nevi kartsia te zjasa pe kača rig www.svenskakyrkan.se/kyrkoval vai kai le Švedisko khangeriako informativno servicio, telefono 018-16 96 00. Le glasoski kartsia avela tradidni ka kudo adreso kai san ramome. Jekh nevi glasoski kartsia vi šai traden po faxo ande Švedisko khangeriake themisko khangeria.</p>
-    <p><em type="bold">Sar gelape čo halomos? </em></p>
-    <p>Ando www.svenskakyrkan.se/kyrkoval si ramome le mai svezno resultaturi kana sa le glasuria avena djinde kana phandavena le halomaske sali. Atunči nai djinde le glasuria personel. O pazletno resultado ramolape pe sa kudo than kana si djinde sa le glasuria.</p>
-    <p><em type="bold">Glaso </em></p>
-    <p>Ando halomos la khangeriako šai thos čo glaso ande trin halomata; khangeriako fullmäkige, stiftfullmäktige tai khangeriako čidimos. Kudo kai si leske voja te halol ando Göteborg tai lengi khangeri kotse kudo thol pesko glaso sa kotse, kamel te phenel ande štar halomata/voturi. Čo glaso phiravel e Švedisko khangeri lokalnio, regionalnio tai nationalno.</p>
-    <p><em type="bold">HALOMOS KA KHANGERIAKOFULLMÄKTIGE - ČIRO LOKALNIO HALOMOS </em></p>
-    <p>Tu halos pe khangeriakofullmäktige ande či khangeri vai, te si ke či khangeri kerel buči ketane kavre khangeriantsa, atunči zjal e djela po khangeriakofullmäktige ando čo pastorat. Khangeriakofullmäktigo porončil le ramči kudola bučake kai si paša tute. Naprimer soski buči avela pe sama le glatengi tai le thernenge ande khangeri, vai sar site miazon le koral - tai konsertoske buča. Parne halomaske hertiji.</p>
-    <p><em type="bold">HALOMOS KAI O STIFTELSE - REGIONALNO </em></p>
-    <p>E Švedisko khangeri si huladi ande 13 stifturi. Stiftfullmäktige si le stiftoske mai baro porončimasko organo. Le stiftoski pervo buči si te zjutin le khangeria</p>
-    <p><em type="bold">HALOMOS KAI KHANGERIAKOČIDIMOS - NATIONALNO </em></p>
-    <p>La khangeriakočidimos si le Švedoski khangeriako mai baro porončimasko organo len si 251 porončimaske manuč. Von porončin pe la khangeriake ketane tai bare pušimata. La khangeriakočidimos diken sar te keren mai mišto buši pa problemo le klimatosko tai save psalmuria trubun te aven ande kniška le psalmongi. <em type="italic">Galbeja hertiji. </em></p>
-    <p><em type="bold">HALOMOS KAI KHANGERI TAI KETANIPE ANDO GÖTEBORG </em></p>
-    <p>Ando Göteborg si khangeriako ketanipe kai hulaven e responsablita sar kai ramolpe katka opral telal kai si o halomos pe khangeriakofullmäktige - čiro lokalnio halomos maškar jekh khangeriakofullmäktige ando Göteborgs khangeriako ketanipe tai khangeriakofullmäktige ande le khangeria kai si andre ando ketanipe.</p>
-    <p>Khangeriakofullmäktige ando Göteborg khangeriako ketanipe len deciziona pa ekonomiko- tai kherenge pušimata. Tu kai bešes ando Göteborg sai ande kado beršesko halomos te thos čo glaso pe štar halomata. Zeleja hertiji ka khangeriakofullmäktige ande khangeri tai parne hertiji ka khangeriakofullmäktige ando ketanipe (te kamesa te thos čo glaso ando lill šai les jehk zeleno hertija tai extra glasosko kanverto naprimer katar o stiftelse Göteborg.</p>
-    <p><em type="bold">Kames te zjanes mai but? </em></p>
-    <p>po www.svenskakyrkan.se/kyrkoval mai si informatsia pe vušoro švedisko šib, pe finlandesisko, nordsamisko, sydsamisko, luleåsamisko, romanes, meänkeli, englezisko, frantsuzisko, niamtsisko, arabisko, spanjulisko, tai pe semnoskešiba. vorbimaski informatsia pe švedisko šib šai len tele sar jekh hangoski fil vai šai manges jekh cd katar e švedisko khangeriako informativno servicio, telefono 018-16 96 00 vai po e-post info@svenskakyrkan.se. Šai zjas kai či khangeri vai zja andre po www.svenskakyrkan.se/kyrkoval kotse mai but informatsia.</p>
-    <p><em type="bold">E ŠVEDISKO KHANGERI SILA THAN SVAKONESKE </em></p>
-    <p>E švedisko khangeri si pe antrego Švedo tai voi si jekh puterdi narodoskikhangeri kai si than svakoneske.</p>
-    <p><em type="bold">ZJUVINDI SOBA </em></p>
-    <p>Kruglom ando Švedo si pašti 3 400 khangeria. Von si svezno khera, kuči kulturako rensia tai zjuvinde sobi pe slušbi, pača, hodina, ketanipe, djiliabaimos tai muzika.</p>
-    <p><em type="bold">E KHANGERI ANDO PROSTODJES </em></p>
-    <p>Sar membro si tuke voja te phiraves le švedoski khangeriaki buči naprimer ande koral djiliango, azjutimos le čorenge, spitakikhangeri, familjako koniljo tai buča pe sama le šavorenge tai ternimatsenge.</p>
-    <p><em type="bold">LE TRAJOSKE DJELI </em></p>
-    <p>Ande khangeri maladjovas pe važno buča sar ambolimos, konfirmatsiona, ansurimos tai gropomos.</p>
-    <p><em type="bold">PAČAMOS TAI ODUT </em></p>
-    <p>Le švedoski khangeri del tu jekh antrego posibilita te šai maladjovas jekh avresa, te hulavas pačamos tai odut tai te pašuvas paša o Del.</p>
-    <p><em type="bold">INTERNATINALNO BUČI </em></p>
-    <p>E švedisko khangeri kerel buči kavre khangeriantsa tai organizontsa pe jekh čači lumia bi bokako, čorimos tai panglimos. Ketane biris te keras variso!</p>
-    <p><em type="bold">ZJUTIMOS PO BAJO TAI KATASROFA </em></p>
-    <p>Le manuš kai keren buči kai švedoski khangeri kotse le kana si acsidanturi, krisi tai katastrofi. Vi ande thema tai ando Švedo.</p>
-    <p><em type="bold">ARAKAIMASKE THANA ANDO SVEDO TAI ANDE THEMA </em></p>
-    <p>E Švedisko khangeri arakel manušen vi ando Švedo tai vi ande thema sar le milaski khangeri, fjällkhangeri, špitakikhangeri, školaki-khangeri, themiskokhangeri tai normalnio e khangeri koste kai bešes tu.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>1037</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.svenskakyrkan.se/default.aspx?id=1032504</origFileName><parallel_text xml:lang="sma" location="folder_kyrkoval2013_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_kyrkoval2013_nordsamiska.pdf"/><parallel_text xml:lang="swe" location="rostkortsfolder_2013.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">čo glaso trubul ame! </em></p>
+<p>Kurke o 15 septembro 2013 si halomos/votimos khangeriako tai čo glaso si djindo. Eta katka či glasoski kartsia. Kas des tu či konfiansa te keren le importantsi halomata ande kadala štar berš? Kado zjal vi pe buči la khangeriaki tai vi pe kaver bare buča pe antrego Švedisko khangeri. Pe soste zjala čo lov la khangeriako? savendar djeli kamlanas tu te kerdjon pe o gor kai bešes tu? Save porončimata trubul te kerel e khangeri? Le kadia bax ta poronči vi tu.</p>
+<p>Mišto primime san te halos/votis ando halomos la khangeriako!</p>
+<p><em type="bold">Glasoski kartsia </em></p>
+<p>Ande jekh than kadala hertiasa si tut vi či glasoski kartsia. Lela tusa kana site keres voto (halomos)</p>
+<p><em type="bold">Pe kaste šai thos čo glaso? </em></p>
+<p>Ando halomos la khangeriako thos čo glaso pe le gruppi kai si ande nominatsia tai lenge kandidaturi. le gruppi ande nominatsia si si la khangeriako halomos si jekh fialo sar si le kaver partidi ande halomata/voturi. Le gruppi korkoro den informatsia pa so von kamen te keren tai te lašaren. Ramomata si pe sa le gruppi ande nominatsia tai lenge kandidaturia si po www.svenskakyrkan.se/kyrkoval. Sai vi des duma ča khangeriasa pa kado.</p>
+<p><em type="bold">Glasosko halomos pe trin kandidaturi </em></p>
+<p>Šai keres glasosko halomos pe trin kandidaturi te keresa jekh trušul pe kudola zjene pe halomaski kartsia. Kudo trušul šai kerel te neril kudo kandidato tai te reprezentuil tut. Te si ke nai či jekh trušul kai le kanditongo anav atunči čiro glaso zjal pe le gruppi ande nominatsia. atunči nai djindo o glaso personel.</p>
+<p><em type="bold">Kai tai kana šai thos čo glaso? </em></p>
+<p>2-11 septembro šai keres halomos pe sa le expeditsi ande antrego them. Šai trades vi jehk lill te keres halomos, kudo si mišto te san ande kaver them. Univar  si specialno thana halomaske. O djes le halomasko o 15 septembro šai keres halomos ande čo halomaski sala vai pe kaver riga kai si len halomasko than. Mai but informatsia si pe šo glasoski kartisa.</p>
+<p><em type="bold">Xasardan čiri glasoski kartsia? </em></p>
+<p>Te xasardan či glasoski kartsia šai zjas ka či khangeri. Šai vi manges jekh nevi kartsia te zjasa pe kača rig www.svenskakyrkan.se/kyrkoval vai kai le Švedisko khangeriako informativno servicio, telefono 018-16 96 00. Le glasoski kartsia avela tradidni ka kudo adreso kai san ramome. Jekh nevi glasoski kartsia vi šai traden po faxo ande Švedisko khangeriake themisko khangeria.</p>
+<p><em type="bold">Sar gelape čo halomos? </em></p>
+<p>Ando www.svenskakyrkan.se/kyrkoval si ramome le mai svezno resultaturi kana sa le glasuria avena djinde kana phandavena le halomaske sali. Atunči nai djinde le glasuria personel. O pazletno resultado ramolape pe sa kudo than kana si djinde sa le glasuria.</p>
+<p><em type="bold">Glaso </em></p>
+<p>Ando halomos la khangeriako šai thos čo glaso ande trin halomata; khangeriako fullmäkige, stiftfullmäktige tai khangeriako čidimos. Kudo kai si leske voja te halol ando Göteborg tai lengi khangeri kotse kudo thol pesko glaso sa kotse, kamel te phenel ande štar halomata/voturi. Čo glaso phiravel e Švedisko khangeri lokalnio, regionalnio tai nationalno.</p>
+<p><em type="bold">HALOMOS KA KHANGERIAKOFULLMÄKTIGE - ČIRO LOKALNIO HALOMOS </em></p>
+<p>Tu halos pe khangeriakofullmäktige ande či khangeri vai, te si ke či khangeri kerel buči ketane kavre khangeriantsa, atunči zjal e djela po khangeriakofullmäktige ando čo pastorat. Khangeriakofullmäktigo porončil le ramči kudola bučake kai si paša tute. Naprimer soski buči avela pe sama le glatengi tai le thernenge ande khangeri, vai sar site miazon le koral - tai konsertoske buča. Parne halomaske hertiji.</p>
+<p><em type="bold">HALOMOS KAI O STIFTELSE - REGIONALNO </em></p>
+<p>E Švedisko khangeri si huladi ande 13 stifturi. Stiftfullmäktige si le stiftoske mai baro porončimasko organo. Le stiftoski pervo buči si te zjutin le khangeria</p>
+<p><em type="bold">HALOMOS KAI KHANGERIAKOČIDIMOS - NATIONALNO </em></p>
+<p>La khangeriakočidimos si le Švedoski khangeriako mai baro porončimasko organo len si 251 porončimaske manuč. Von porončin pe la khangeriake ketane tai bare pušimata. La khangeriakočidimos diken sar te keren mai mišto buši pa problemo le klimatosko tai save psalmuria trubun te aven ande kniška le psalmongi. <em type="italic">Galbeja hertiji. </em></p>
+<p><em type="bold">HALOMOS KAI KHANGERI TAI KETANIPE ANDO GÖTEBORG </em></p>
+<p>Ando Göteborg si khangeriako ketanipe kai hulaven e responsablita sar kai ramolpe katka opral telal kai si o halomos pe khangeriakofullmäktige - čiro lokalnio halomos maškar jekh khangeriakofullmäktige ando Göteborgs khangeriako ketanipe tai khangeriakofullmäktige ande le khangeria kai si andre ando ketanipe.</p>
+<p>Khangeriakofullmäktige ando Göteborg khangeriako ketanipe len deciziona pa ekonomiko- tai kherenge pušimata. Tu kai bešes ando Göteborg sai ande kado beršesko halomos te thos čo glaso pe štar halomata. Zeleja hertiji ka khangeriakofullmäktige ande khangeri tai parne hertiji ka khangeriakofullmäktige ando ketanipe (te kamesa te thos čo glaso ando lill šai les jehk zeleno hertija tai extra glasosko kanverto naprimer katar o stiftelse Göteborg.</p>
+<p><em type="bold">Kames te zjanes mai but? </em></p>
+<p>po www.svenskakyrkan.se/kyrkoval mai si informatsia pe vušoro švedisko šib, pe finlandesisko, nordsamisko, sydsamisko, luleåsamisko, romanes, meänkeli, englezisko, frantsuzisko, niamtsisko, arabisko, spanjulisko, tai pe semnoskešiba. vorbimaski informatsia pe švedisko šib šai len tele sar jekh hangoski fil vai šai manges jekh cd katar e švedisko khangeriako informativno servicio, telefono 018-16 96 00 vai po e-post info@svenskakyrkan.se. Šai zjas kai či khangeri vai zja andre po www.svenskakyrkan.se/kyrkoval kotse mai but informatsia.</p>
+<p><em type="bold">E ŠVEDISKO KHANGERI SILA THAN SVAKONESKE </em></p>
+<p>E švedisko khangeri si pe antrego Švedo tai voi si jekh puterdi narodoskikhangeri kai si than svakoneske.</p>
+<p><em type="bold">ZJUVINDI SOBA </em></p>
+<p>Kruglom ando Švedo si pašti 3 400 khangeria. Von si svezno khera, kuči kulturako rensia tai zjuvinde sobi pe slušbi, pača, hodina, ketanipe, djiliabaimos tai muzika.</p>
+<p><em type="bold">E KHANGERI ANDO PROSTODJES </em></p>
+<p>Sar membro si tuke voja te phiraves le švedoski khangeriaki buči naprimer ande koral djiliango, azjutimos le čorenge, spitakikhangeri, familjako koniljo tai buča pe sama le šavorenge tai ternimatsenge.</p>
+<p><em type="bold">LE TRAJOSKE DJELI </em></p>
+<p>Ande khangeri maladjovas pe važno buča sar ambolimos, konfirmatsiona, ansurimos tai gropomos.</p>
+<p><em type="bold">PAČAMOS TAI ODUT </em></p>
+<p>Le švedoski khangeri del tu jekh antrego posibilita te šai maladjovas jekh avresa, te hulavas pačamos tai odut tai te pašuvas paša o Del.</p>
+<p><em type="bold">INTERNATINALNO BUČI </em></p>
+<p>E švedisko khangeri kerel buči kavre khangeriantsa tai organizontsa pe jekh čači lumia bi bokako, čorimos tai panglimos. Ketane biris te keras variso!</p>
+<p><em type="bold">ZJUTIMOS PO BAJO TAI KATASROFA </em></p>
+<p>Le manuš kai keren buči kai švedoski khangeri kotse le kana si acsidanturi, krisi tai katastrofi. Vi ande thema tai ando Švedo.</p>
+<p><em type="bold">ARAKAIMASKE THANA ANDO SVEDO TAI ANDE THEMA </em></p>
+<p>E Švedisko khangeri arakel manušen vi ando Švedo tai vi ande thema sar le milaski khangeri, fjällkhangeri, špitakikhangeri, školaki-khangeri, themiskokhangeri tai normalnio e khangeri koste kai bešes tu.</p>
+</body></document>

@@ -1,74 +1,36 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1022</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-kr/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Firmi taj föreningura - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Firmi &amp; föreningura</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Firmi taj föreningura</p>
-    <p xml:lang="swe"><em type="italic">Länsstyrelsen del stimulatcia kaj e firmi taj e föriningura te birij pe te inkrel pe jek lashi ekonomia taj te vazdel pe opre bucia. Länsstyrelsen del zor kaj e ekonomiake firmi te keren buci kusa jekipe, miljö taj integratcia te birij pe te vazdel pe opre jek lashi vrama. </em></p>
-    <p type="title" xml:lang="swe">Evulutcia pe ekonomiake firmi</p>
-    <p xml:lang="swe">Länsstyrelsen del stimulatcia pe e regionoske firmi bute bucianca te avel jek lasio ekonomiako inkeripe taj te vazdel pe opre e bucia mashkar e manush. Ame keras buci ketanes kusa e kommuni, firmi taj kavere organizaciensa te aresel pek haj e nationalne cellura taj pe e regionalne vazdimaske politiki. Dromesa ke ame das love taj azutipe del o Länsstyrelsen vast te avel jek lasio klimato pe e firmi, lashi infra struktura lashie dromenca, kommunikatciasa, edukatcia taj rodipe taj biripe kaj jek kapitali. Ame penas vi te den e firmi vast pe jek jekipe, miljö, integratcia te zurarel pe jek lasio drom pe evulutcia taj bararipe.</p>
-    <p type="title" xml:lang="swe">Firmengo azutipe</p>
-    <p xml:lang="swe">Svako bersh lel o Länsstyrelsen love katar o regeriungo taj kadal love si te djan kaj differentne azutimos kaj e firmi. O azutipe si te azutij e firmen ande län te birin von te keren buci but bersh taj vi te len jek njeripe. O azutipe si differentno mashkar e differentne län taj mashkar e differentno vrama kana o regeriungo del e love taj so o tem kamel te love te djan. Ame dashtilte dasazutipe kaj investatci, reklami, evulutcia oe innovatcia taj edukatcia ande cine taj mashkarutne firmi. Pasha kado si jek specialno azutipe pe bikinimasko servico po gav, exemplo bolti taj bensinmack.</p>
-    <p type="title" xml:lang="swe">Konkurrensia</p>
-    <p xml:lang="swe">Konkurrensia si jek drom te avel maj feder e foreske ke maj but tana biknel taj atunci trjain maj but firmi po marketi. Länsstyrelsen si te kerel buci pashe kusa o Konkurrensverket taj von si te den vast te avel konkurrensia ande privatne taj temeske tana. Ame si te das informatci pa e pushimos so si pa konkurrensia taj te vazdas opre e zakoni so si pa kado taj te dikas ke e firmi inkren pe pala kadal zakonura. Kontaktulin amen te si tut gindo ke varisave mansuh zumaven te malaven tele e konkurrensia..</p>
-    <p type="title" xml:lang="swe">Projektosko azutipe</p>
-    <p xml:lang="swe">Länsstyrelsen dashtilte del tut ekonomiako azutipe kaj jek projekta so kerel ke chiri buci dashtilte del vast e regiona taj e evulutcia. Dashtilte manges projektosko azutipe te si tut kusa kaveren jek gindo so tume kamen te keren ande jek projekta. E projekta si te avel nevi, si te avel avri ande e kaver bucia taj si vi te avel vrama shutino pe kado. Resultato pe kadi projekta si te avel vi pe hasna kaverenge.</p>
-    <p type="title" xml:lang="swe">Lovengo tojimos taj finansia po terrorismo</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel jek reponsebilita te malavel tele kodja te birin firmi te toven kale love po parnot haj te del pe finansia po terrorismo taj dashtil kodolesa te kerel rodipe pe manush vaj pe firmi. Lovengo tojimos si kana kriminalne love kerdjion parne ande deklaratci. Terroristicno finanso si kana del pe love so djal kaj o terrorismo vaj so dashtilte azutij o terrorismo.</p>
-    <p type="title" xml:lang="swe">Stiftelser</p>
-    <p xml:lang="swe">Länsstyrelsen si jek lishimasko tan pe kodol stiftelser so si ando länet taj ame sam kodol so keras registratcia pe kado. Jek stiftelse si kana jek barvalimos kerdjiol pe po jek specialno buci taj dashtilte azutij kodja. Jek manush – förvaltare inkrel e responsebilita pe kadal love. Länsstyrelsen inkrel jek data bas kaj biris te arakes e stiftelser ando Svedo, lengo gindo, kontaktmanush taj kaver bucia.</p>
-    <p xml:lang="swe">&gt;&gt; Gå till databasen med stiftelser (svenska)</p>
-    <p type="title" xml:lang="swe">Lishimaske firmi</p>
-    <p xml:lang="swe">Jek lishimaski firma lishij kera, tana taj kaver bucia, temeske bucia vaj privatne manushen.Sa lishimaske firmi musaj te inkren jek slobodia, kado bushiol auktorisation, katar o Länsstyrelsen. Naj dosta auktorisering pala kodja si ame te penas kon dashtilte kerel kote buci taj kon nashtik, vi kodola so naj väktare, taj te das shajipe a firma te avel len lishimaske djukel.</p>
-    <p type="title" xml:lang="swe">Mashiara</p>
-    <p xml:lang="swe">Länsstyrelsen buciazi te avel jek lasio barvalo tan mashienca taj te avel lashie tana so inkren mashiaren pe jek lungo vrama maj angle te avel mashie e manushenge. Länsstyrelsen del permissi kodolenge so birin te keren specialne mashienge tana kaj bararen mashien-, raki, taj kaver musslonge tana. Ame dashtilvi te das ekonomiako azutipe kaj licensovane mashiara te birin von te inkren benge mashienge chokaja taj dashtilte das lovenge kompenzaci pe chokaja so pagerdjile. Länsstyrelsen del vi EU-love ande investatci mashiarenge so si profferesionalura, edukatci taj kaver ekonomiake azutimos pe kaver bucia. Ame dashtilvi te das lashe vorbi taj ekonomiako azutipe kodolenge so kamen te kerel lashie firmi so kamen te etablirulin pe taj te sikaven penge mashiearenge firmi e turistonge.</p>
-    <p type="title" xml:lang="swe">Vurdonengo skroto</p>
-    <p xml:lang="swe">Kodolen kas si vurdonengo skroto musaj te avel acceptovano kotar o Länsstyrelsen ande kodja län kaj e buci avla kerdi. Ame keras kontrollik e o tan inkrel pe pala e kommunonge miljö mangimos taj kodja kon mangel kado si vi te inkrel jek bygglov taj kaver atorizaci so trobun. Pagerde vurdona dashtilvi te aven mukle pe jek kaver tan, jek tan so e producentura line avro. Kado tan sit e avel pendo kaj o Länsstyrelsen katar e vurdonenge producentura.</p>
-    <p type="title" xml:lang="swe">Pantbanker - Lombardo</p>
-    <p xml:lang="swe">Jek lombardo si jek firma so del tut unzhule love kana tu des les variso ando lombardo.O länsstyrelsen so del e permissia po lombardo lishij vi kodo tan. Kodja kon kamel te putrl jek lombardo si te mangel jek permissia katar o Länsstyrelsen ande kodo län kaj kado avla. Jek lombardos haj ferdi te avel inkerdo katar jek svedicko aktiebolag vaj jek sa kasavi firma so si ande kaver EES-tem.</p>
-    <p type="title" xml:lang="swe">Kelimos taj sporto</p>
-    <p xml:lang="swe">Te kames te keres jek kompetitca vurdonenca po drom musaj te manges slobodia katar o Länsstyrelsen ande kodja län kaj e kompetitcia lel pe. Te keres jek treningo- kompetitciako, vaj sikajimaske matchura ande marimaske sportura trobuj jek kaver premissia so si te avel manglo katar o Länsstyrelsen ande Örebro län. Te si te avel jek bingo vaj lotteria so si te avel ande differentne kommuni ande jek län si te del o Länstyrelsen jek slobodia. Numa te kamel jek föreningo te kerel jek lotteria si von te mangen slobodia katar e kommuna.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1022</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-kr/naringsliv-och-foreningar/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Firmi taj föreningura - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe">Firmi &amp; föreningura</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Firmi taj föreningura</p>
+<p><em type="italic">Länsstyrelsen del stimulatcia kaj e firmi taj e föriningura te birij pe te inkrel pe jek lashi ekonomia taj te vazdel pe opre bucia. Länsstyrelsen del zor kaj e ekonomiake firmi te keren buci kusa jekipe, miljö taj integratcia te birij pe te vazdel pe opre jek lashi vrama. </em></p>
+<p type="title">Evulutcia pe ekonomiake firmi</p>
+<p>Länsstyrelsen del stimulatcia pe e regionoske firmi bute bucianca te avel jek lasio ekonomiako inkeripe taj te vazdel pe opre e bucia mashkar e manush. Ame keras buci ketanes kusa e kommuni, firmi taj kavere organizaciensa te aresel pek haj e nationalne cellura taj pe e regionalne vazdimaske politiki. Dromesa ke ame das love taj azutipe del o Länsstyrelsen vast te avel jek lasio klimato pe e firmi, lashi infra struktura lashie dromenca, kommunikatciasa, edukatcia taj rodipe taj biripe kaj jek kapitali. Ame penas vi te den e firmi vast pe jek jekipe, miljö, integratcia te zurarel pe jek lasio drom pe evulutcia taj bararipe.</p>
+<p type="title">Firmengo azutipe</p>
+<p>Svako bersh lel o Länsstyrelsen love katar o regeriungo taj kadal love si te djan kaj differentne azutimos kaj e firmi. O azutipe si te azutij e firmen ande län te birin von te keren buci but bersh taj vi te len jek njeripe. O azutipe si differentno mashkar e differentne län taj mashkar e differentno vrama kana o regeriungo del e love taj so o tem kamel te love te djan. Ame dashtilte dasazutipe kaj investatci, reklami, evulutcia oe innovatcia taj edukatcia ande cine taj mashkarutne firmi. Pasha kado si jek specialno azutipe pe bikinimasko servico po gav, exemplo bolti taj bensinmack.</p>
+<p type="title">Konkurrensia</p>
+<p>Konkurrensia si jek drom te avel maj feder e foreske ke maj but tana biknel taj atunci trjain maj but firmi po marketi. Länsstyrelsen si te kerel buci pashe kusa o Konkurrensverket taj von si te den vast te avel konkurrensia ande privatne taj temeske tana. Ame si te das informatci pa e pushimos so si pa konkurrensia taj te vazdas opre e zakoni so si pa kado taj te dikas ke e firmi inkren pe pala kadal zakonura. Kontaktulin amen te si tut gindo ke varisave mansuh zumaven te malaven tele e konkurrensia..</p>
+<p type="title">Projektosko azutipe</p>
+<p>Länsstyrelsen dashtilte del tut ekonomiako azutipe kaj jek projekta so kerel ke chiri buci dashtilte del vast e regiona taj e evulutcia. Dashtilte manges projektosko azutipe te si tut kusa kaveren jek gindo so tume kamen te keren ande jek projekta. E projekta si te avel nevi, si te avel avri ande e kaver bucia taj si vi te avel vrama shutino pe kado. Resultato pe kadi projekta si te avel vi pe hasna kaverenge.</p>
+<p type="title">Lovengo tojimos taj finansia po terrorismo</p>
+<p>Länsstyrelsen inkrel jek reponsebilita te malavel tele kodja te birin firmi te toven kale love po parnot haj te del pe finansia po terrorismo taj dashtil kodolesa te kerel rodipe pe manush vaj pe firmi. Lovengo tojimos si kana kriminalne love kerdjion parne ande deklaratci. Terroristicno finanso si kana del pe love so djal kaj o terrorismo vaj so dashtilte azutij o terrorismo.</p>
+<p type="title">Stiftelser</p>
+<p>Länsstyrelsen si jek lishimasko tan pe kodol stiftelser so si ando länet taj ame sam kodol so keras registratcia pe kado. Jek stiftelse si kana jek barvalimos kerdjiol pe po jek specialno buci taj dashtilte azutij kodja. Jek manush – förvaltare inkrel e responsebilita pe kadal love. Länsstyrelsen inkrel jek data bas kaj biris te arakes e stiftelser ando Svedo, lengo gindo, kontaktmanush taj kaver bucia.</p>
+<p xml:lang="swe">&gt;&gt; Gå till databasen med stiftelser (svenska)</p>
+<p type="title">Lishimaske firmi</p>
+<p>Jek lishimaski firma lishij kera, tana taj kaver bucia, temeske bucia vaj privatne manushen.Sa lishimaske firmi musaj te inkren jek slobodia, kado bushiol auktorisation, katar o Länsstyrelsen. Naj dosta auktorisering pala kodja si ame te penas kon dashtilte kerel kote buci taj kon nashtik, vi kodola so naj väktare, taj te das shajipe a firma te avel len lishimaske djukel.</p>
+<p type="title">Mashiara</p>
+<p>Länsstyrelsen buciazi te avel jek lasio barvalo tan mashienca taj te avel lashie tana so inkren mashiaren pe jek lungo vrama maj angle te avel mashie e manushenge. Länsstyrelsen del permissi kodolenge so birin te keren specialne mashienge tana kaj bararen mashien-, raki, taj kaver musslonge tana. Ame dashtilvi te das ekonomiako azutipe kaj licensovane mashiara te birin von te inkren benge mashienge chokaja taj dashtilte das lovenge kompenzaci pe chokaja so pagerdjile. Länsstyrelsen del vi EU-love ande investatci mashiarenge so si profferesionalura, edukatci taj kaver ekonomiake azutimos pe kaver bucia. Ame dashtilvi te das lashe vorbi taj ekonomiako azutipe kodolenge so kamen te kerel lashie firmi so kamen te etablirulin pe taj te sikaven penge mashiearenge firmi e turistonge.</p>
+<p type="title">Vurdonengo skroto</p>
+<p>Kodolen kas si vurdonengo skroto musaj te avel acceptovano kotar o Länsstyrelsen ande kodja län kaj e buci avla kerdi. Ame keras kontrollik e o tan inkrel pe pala e kommunonge miljö mangimos taj kodja kon mangel kado si vi te inkrel jek bygglov taj kaver atorizaci so trobun. Pagerde vurdona dashtilvi te aven mukle pe jek kaver tan, jek tan so e producentura line avro. Kado tan sit e avel pendo kaj o Länsstyrelsen katar e vurdonenge producentura.</p>
+<p type="title">Pantbanker - Lombardo</p>
+<p>Jek lombardo si jek firma so del tut unzhule love kana tu des les variso ando lombardo.O länsstyrelsen so del e permissia po lombardo lishij vi kodo tan. Kodja kon kamel te putrl jek lombardo si te mangel jek permissia katar o Länsstyrelsen ande kodo län kaj kado avla. Jek lombardos haj ferdi te avel inkerdo katar jek svedicko aktiebolag vaj jek sa kasavi firma so si ande kaver EES-tem.</p>
+<p type="title">Kelimos taj sporto</p>
+<p>Te kames te keres jek kompetitca vurdonenca po drom musaj te manges slobodia katar o Länsstyrelsen ande kodja län kaj e kompetitcia lel pe. Te keres jek treningo- kompetitciako, vaj sikajimaske matchura ande marimaske sportura trobuj jek kaver premissia so si te avel manglo katar o Länsstyrelsen ande Örebro län. Te si te avel jek bingo vaj lotteria so si te avel ande differentne kommuni ande jek län si te del o Länstyrelsen jek slobodia. Numa te kamel jek föreningo te kerel jek lotteria si von te mangen slobodia katar e kommuna.</p>
+</body></document>

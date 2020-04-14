@@ -1,81 +1,34 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>966</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Goronša kaj glati – so šaj keres korkoro? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Goronša kaj glati – so šaj keres korkoro?Feber hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Goronša si jek khotor ando statosko proketcija</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Zumav te keres sar maj feder e šavoreske. Mištoj te del pe butivar te pel pe paji.</p>
-    </list>
-    <p xml:lang="swe">Goronša si le statosko temperatura ke si maj vuči sar trubúl te avel. Godo anda peste naj bajo ke o stato kerel protekcija karing infektacija. Glati len vušoro goronša aj godo si pala infektacija kaj si pala virus, sar trožna, xas aj kana dukhal e koŕ, kaj kerel te važdel pe opre le statoski temperatura. E temperatura šaj važdel pe opre kana glati khelde pe zurales vaj miškinde pe zurales. Univar kana si le manušes goronša šaj avel ke o manuš si but nasvalo.</p>
-    <p xml:lang="swe">Kaj jek glati si goronša te si e temperatura opral pa 38 graduri kana akana so vuštile de diminjaci, aj vi pala kana pašlile ande dupaš čáso.</p>
-    <p xml:lang="swe">Butivar dikhes kana si kaj jek glata goronša. Žanes te si goronša kaj e glata, šaj mesuris e temperatura pe e glata. Te si le manušes gindo te lel kontakto la špitasa si mišto te mesurisardan e temperatura.</p>
-    <p xml:lang="swe">Te avel o manuš sogoro kana les mesura pe statoski temperatura si mišto te les e mesura khatar e bul. Si vi te šaj les mesura ando o kan, godo si lašo te džanes sar te keres . Jek godolatar si phares te les mesura pe de fjal cigne glati ke lenge kaneski truba si pra tang.</p>
-    <p type="title" xml:lang="swe">Mukh e glata te pašlol aj te pel but paj</p>
-    <p xml:lang="swe">Jek glata kana si la goronša šaj bešel khere khatar e škola khatar e angluni škola te šaj pašlol aj te sastol. E glata či trubúl te bešel ando pato antrego vramja, numa te na kerel dželi kaj čijarel. Maj mišto si te alola e glata korkoro sode biril te bešel vuštadi.</p>
-    <p xml:lang="swe">E glata trubol te pel maj but paj sar normalno kana si la goronša. Te šaj lel e glata dosta but paj, si mišto si te zumaves te des la glatá butivar paj te pel. De la glatá so si lake maj drago te xal aj te pel naprimer morozo,legumosko krema vaj thud.</p>
-    <p xml:lang="swe">Te či del la glatá dži te xal, či trubúl e glata te xal normalno xaben. Naj bajo te či xal vorta xaben tela duj trin džesa. Te či mutrel pe glata vorta vaj vaj te ačarel pe kovli aj čino šaj avel ke či pela dosta but paj. Zumav ta ker te avel maj mišto la glatáke. Vi mišto si te des la glata butivar te pel paj.</p>
-    <p type="title" xml:lang="swe">Te avel sar maj mišto</p>
-    <p xml:lang="swe">Te si la glateke maj feder šaj mukhes la glata te sovel ande sani teluni faca vaj ferdi ande telune gada. Te izdrala aj si la glatake šil, godo si normalno kana vučol e goronša, šaj thos opral pe e glata jek paplono te šaj avel la glatake maj mišto.</p>
-    <p type="title" xml:lang="swe">Draba kaj naj pe recepta</p>
-    <p xml:lang="swe">Goronša či trubúl kana godi te des draba te hulel tele e goronša. But anda le glati kaj si len goronša telal duj trin džesa aj či trubul te avel vareso bajo. Šaj des la glata drab te hulel tele e goronša te si te dikhesa ke si la glatake de fjal čořes khatar e goronša, sar eksemplo te dukha la o stato, aj vačil pe, vaj te xal aj pel paj, sovel čořes vaj si lake phares aj naj la pača pe rjat.</p>
-    <p xml:lang="swe">Te na des draba kaj jek glata kaj si telal le šov šon te hulel tele o goronša. Trubus maj anglal te leles kontako la špitasa.</p>
-    <p xml:lang="swe">Si drab te hulel tele e goronša le glaténge kaj nakhle trin šon kaj si andre paracetamol, sar eksemplo Alvedon vaj Panodil. Khatar le šov śonenge glati si draba kaj si andre ibuprofen, sar eksemplo kaj bičinen telal o anav Ipren vaj Ibumetin. Draba kaj šaj nakhaves vaj kaj thos ande bul, kaj si pe vorta mesura pe cinoře glati. Pe maj phure glati si vi draba. Le tut vorta sar ašel pe e ram sar te des o drab. Na hamisar pherdo fjaluri draba. Glati kaj si telal 18 berš aj kaj si len goronša te na pen draba te hulel tele e goronša kaj si andre acetysyra, sar eksemplo Magnecyl, Treo vaj Albyl.</p>
-    <p type="title" xml:lang="swe">Šaj trubús te les kontakto la špitasa</p>
-    <p xml:lang="swe">So si maj važno si ke trubos te dikhes sar si la glatake te šaj alos te trubúla te les kontakto la špitasa vaj niči. Kana godi šaj mares telefono kaj la špitako ažutimos vaj kaj e špita kaj si paše tute te či san sogoro, aj maj but te si kaver dukha kaj e glata kana si la goronša.</p>
-    <p xml:lang="swe">Trubús te rodes sastarimos anda jek data kaj si paša tute vaj kaj e bari špita te si la glata goronša aj aj te si la maj but anda gadala dukha:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">te naj tut nornalno kontakto la glatása</p>
-      <p type="listitem" xml:lang="swe">te anel čini haj kovli</p>
-      <p type="listitem" xml:lang="swe">kKana si e temperatura opral 41 gradori.</p>
-    </list>
-    <p xml:lang="swe">Trubús kana godi te les kontakto la špitasa vaj jek jouršpita kana e glata si</p>
-    <list>
-      <p type="listitem" xml:lang="swe">maj terni sar trine śoneski glata aj si la goronša opral 38 gradori</p>
-      <p type="listitem" xml:lang="swe">maškar trin aj šov śoneski glata aj si la goronša opral 39 gradori.</p>
-    </list>
-    <p xml:lang="swe">Trubos te les kontakto la špitasa te či hulista tele e goronša pala štar džes, phuri vaj cinoři glata.</p>
-    <p type="title" xml:lang="swe">Pušimata pa ažutimos</p>
-    <p xml:lang="swe">Tu šaj vi mares telefona ko džes ko rjat te des duma jek lugericasa kaj šaj del tut ažutimos. Godola kaj den anglal ando telefonon šaj phenen tuke savi špita kaj san tu ramome andre.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>957</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Goronša kaj glati – so šaj keres korkoro? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Goronša kaj glati – so šaj keres korkoro?Feber hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<p type="title">Goronša si jek khotor ando statosko proketcija</p>
+<list><p type="listitem">Zumav te keres sar maj feder e šavoreske. Mištoj te del pe butivar te pel pe paji.</p>
+</list><p>Goronša si le statosko temperatura ke si maj vuči sar trubúl te avel. Godo anda peste naj bajo ke o stato kerel protekcija karing infektacija. Glati len vušoro goronša aj godo si pala infektacija kaj si pala virus, sar trožna, xas aj kana dukhal e koŕ, kaj kerel te važdel pe opre le statoski temperatura. E temperatura šaj važdel pe opre kana glati khelde pe zurales vaj miškinde pe zurales. Univar kana si le manušes goronša šaj avel ke o manuš si but nasvalo.</p>
+<p>Kaj jek glati si goronša te si e temperatura opral pa 38 graduri kana akana so vuštile de diminjaci, aj vi pala kana pašlile ande dupaš čáso.</p>
+<p>Butivar dikhes kana si kaj jek glata goronša. Žanes te si goronša kaj e glata, šaj mesuris e temperatura pe e glata. Te si le manušes gindo te lel kontakto la špitasa si mišto te mesurisardan e temperatura.</p>
+<p>Te avel o manuš sogoro kana les mesura pe statoski temperatura si mišto te les e mesura khatar e bul. Si vi te šaj les mesura ando o kan, godo si lašo te džanes sar te keres . Jek godolatar si phares te les mesura pe de fjal cigne glati ke lenge kaneski truba si pra tang.</p>
+<p type="title">Mukh e glata te pašlol aj te pel but paj</p>
+<p>Jek glata kana si la goronša šaj bešel khere khatar e škola khatar e angluni škola te šaj pašlol aj te sastol. E glata či trubúl te bešel ando pato antrego vramja, numa te na kerel dželi kaj čijarel. Maj mišto si te alola e glata korkoro sode biril te bešel vuštadi.</p>
+<p>E glata trubol te pel maj but paj sar normalno kana si la goronša. Te šaj lel e glata dosta but paj, si mišto si te zumaves te des la glatá butivar paj te pel. De la glatá so si lake maj drago te xal aj te pel naprimer morozo,legumosko krema vaj thud.</p>
+<p>Te či del la glatá dži te xal, či trubúl e glata te xal normalno xaben. Naj bajo te či xal vorta xaben tela duj trin džesa. Te či mutrel pe glata vorta vaj vaj te ačarel pe kovli aj čino šaj avel ke či pela dosta but paj. Zumav ta ker te avel maj mišto la glatáke. Vi mišto si te des la glata butivar te pel paj.</p>
+<p type="title">Te avel sar maj mišto</p>
+<p>Te si la glateke maj feder šaj mukhes la glata te sovel ande sani teluni faca vaj ferdi ande telune gada. Te izdrala aj si la glatake šil, godo si normalno kana vučol e goronša, šaj thos opral pe e glata jek paplono te šaj avel la glatake maj mišto.</p>
+<p type="title">Draba kaj naj pe recepta</p>
+<p>Goronša či trubúl kana godi te des draba te hulel tele e goronša. But anda le glati kaj si len goronša telal duj trin džesa aj či trubul te avel vareso bajo. Šaj des la glata drab te hulel tele e goronša te si te dikhesa ke si la glatake de fjal čořes khatar e goronša, sar eksemplo te dukha la o stato, aj vačil pe, vaj te xal aj pel paj, sovel čořes vaj si lake phares aj naj la pača pe rjat.</p>
+<p>Te na des draba kaj jek glata kaj si telal le šov šon te hulel tele o goronša. Trubus maj anglal te leles kontako la špitasa.</p>
+<p>Si drab te hulel tele e goronša le glaténge kaj nakhle trin šon kaj si andre paracetamol, sar eksemplo Alvedon vaj Panodil. Khatar le šov śonenge glati si draba kaj si andre ibuprofen, sar eksemplo kaj bičinen telal o anav Ipren vaj Ibumetin. Draba kaj šaj nakhaves vaj kaj thos ande bul, kaj si pe vorta mesura pe cinoře glati. Pe maj phure glati si vi draba. Le tut vorta sar ašel pe e ram sar te des o drab. Na hamisar pherdo fjaluri draba. Glati kaj si telal 18 berš aj kaj si len goronša te na pen draba te hulel tele e goronša kaj si andre acetysyra, sar eksemplo Magnecyl, Treo vaj Albyl.</p>
+<p type="title">Šaj trubús te les kontakto la špitasa</p>
+<p>So si maj važno si ke trubos te dikhes sar si la glatake te šaj alos te trubúla te les kontakto la špitasa vaj niči. Kana godi šaj mares telefono kaj la špitako ažutimos vaj kaj e špita kaj si paše tute te či san sogoro, aj maj but te si kaver dukha kaj e glata kana si la goronša.</p>
+<p>Trubús te rodes sastarimos anda jek data kaj si paša tute vaj kaj e bari špita te si la glata goronša aj aj te si la maj but anda gadala dukha:</p>
+<list><p type="listitem">te naj tut nornalno kontakto la glatása</p>
+<p type="listitem">te anel čini haj kovli</p>
+<p type="listitem">kKana si e temperatura opral 41 gradori.</p>
+</list><p>Trubús kana godi te les kontakto la špitasa vaj jek jouršpita kana e glata si</p>
+<list><p type="listitem">maj terni sar trine śoneski glata aj si la goronša opral 38 gradori</p>
+<p type="listitem">maškar trin aj šov śoneski glata aj si la goronša opral 39 gradori.</p>
+</list><p>Trubos te les kontakto la špitasa te či hulista tele e goronša pala štar džes, phuri vaj cinoři glata.</p>
+<p type="title">Pušimata pa ažutimos</p>
+<p>Tu šaj vi mares telefona ko džes ko rjat te des duma jek lugericasa kaj šaj del tut ažutimos. Godola kaj den anglal ando telefonon šaj phenen tuke savi špita kaj san tu ramome andre.</p>
+</body></document>

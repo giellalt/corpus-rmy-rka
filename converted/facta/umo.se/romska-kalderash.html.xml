@@ -1,120 +1,75 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1169</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash</origFileName>
-    <parallel_text xml:lang="eng" location="umo-in-english.html"/>
-    <parallel_text xml:lang="fin" location="finska.html"/>
-    <parallel_text xml:lang="fit" location="meankieli.html"/>
-    <parallel_text xml:lang="sma" location="sydsamiska.html"/>
-    <parallel_text xml:lang="sme" location="nordsamiska.html"/>
-    <parallel_text xml:lang="smj" location="lulesamiska.html"/>
-    <parallel_text location="resanderomska.html" xml:lang="rmu"/>
-    <parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="romska-kale.html" xml:lang="rmf"/>
-    <parallel_text location="romska-arli.html" xml:lang="rmn"/>
-    <parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Romani chib kalderašicko (romska kalderash)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Romani chib kalderašicko (romska kalderash)</p>
-    <p xml:lang="swe">UMO – ternimatengi špita pe Interneto</p>
-    <p xml:lang="swe"><em type="italic">So arakhes pe UMO: </em></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Kana ačares tut nasvalo</p>
-      <p type="listitem" xml:lang="swe">Kana san ande čingar aj maskerimata</p>
-      <p type="listitem" xml:lang="swe">Pimos, duhano, draba</p>
-      <p type="listitem" xml:lang="swe">Me</p>
-      <p type="listitem" xml:lang="swe">Kamel pe</p>
-      <p type="listitem" xml:lang="swe">Kamlimos aj baratori</p>
-      <p type="listitem" xml:lang="swe">Stato</p>
-    </list>
-    <p xml:lang="swe"><em type="italic">Divanori: </em></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tolmač</p>
-      <p type="listitem" xml:lang="swe">Šibako inspektimos</p>
-      <p type="listitem" xml:lang="swe">Rodijimata/testori</p>
-      <p type="listitem" xml:lang="swe">Kana o manuš lel korkoro sama pala peski glata</p>
-      <p type="listitem" xml:lang="swe">Zakonori aj čačimos</p>
-    </list>
-    <p type="title" xml:lang="swe">Alkoholo</p>
-    <p xml:lang="swe">E vorba alkoholo snačilpe pimos sar biera, mol aj rečia. But manuš pen alkoholo ke drago lengo o gusto, aj uni te mangen te matčon. Numa o alkoholo šaj te avel nasul vi pe but fialori. O alkoholo šaj del but dukha aj nasvalimata, aj kerel vi le manušes te perel ande phare aj čore problemori. Uni šaj peren ande depresiona aj naj lenge mišto khana pile alkoholo.</p>
-    <p xml:lang="swe">» Alkoholo</p>
-    <p type="title" xml:lang="swe">Akutno-p-drab</p>
-    <p xml:lang="swe">Akutno-p-drab si jekh drab kaj e šeja šaj te len tena anklen/peren khamne/. Kado naj prosto žutimos tena avel khamni/phari, kade ke kado naj kaj lelpe sar žutimos tena avelpe khamni/phari či angla vaj ando kamlimos. Akutno-p-drab te lelpe ferdi sar jekh musajimos aj tena avel jekh drab kaj kana godi pelpe tena anklen khamne.</p>
-    <p xml:lang="swe">» Akutno-p-drab</p>
-    <p type="title" xml:lang="swe">Buledimos angluni data</p>
-    <p xml:lang="swe">Pašte savore khelde pe pesa korkoro angla so dene pe bule. O angluno buledimos kaj but dende, kerde pesa korkoro. Normalno si ke le manušes si les but gindori aj ažukerimata sar te avela e anguni data kana dena pe bule varekasa.</p>
-    <p xml:lang="swe">» Buledimos angluni data</p>
-    <p type="title" xml:lang="swe">Čiri zor</p>
-    <p xml:lang="swe">Čiri zor si pa godola gindori kaj si tut katar tute aj pa čiro manušipe. Naj pa so dashtis te keres, te źanes te keres źeli vaj ke niči, e bući si ke san zorali ande tute, ke san tu. Tu korkoro dashtis te važdes aj te zurares čiri zor opre.</p>
-    <p xml:lang="swe">» Čiri zor</p>
-    <p type="title" xml:lang="swe">Čumidimos aj asbajimos</p>
-    <p xml:lang="swe">Te čumiden pe aj te asbas jek avres, si vareso kaj but manuš si lenge drago te keren. Te šoha či kerda godo jek manuš butivar atunči den pe gindo aj doril o manuš te keren godo. Numa anda jek data šaj ačarel pe o manuš nežno angla o angluno čumidimos vaj asbajimos. Sar kerel o manuš kana asbas jek avres?</p>
-    <p xml:lang="swe">»Čumidimos aj asbajimos</p>
-    <p type="title" xml:lang="swe">Dar</p>
-    <p xml:lang="swe">Manuš šaj aćarel zurales e dar sar savarimos aj bojaznosti kaj aćardol pe antrego stato, aj but źene šaj len godo varikana. Dar šaj avel darani bući, numa mušaj te zumaves te keres godo kaj kames aj te ne źas pe thana vaj situatcija kaj gindis ke lel tut dar.</p>
-    <p xml:lang="swe">» Dar</p>
-    <p type="title" xml:lang="swe">Ideori sar te vortos čiri zor</p>
-    <p xml:lang="swe">Si pherdo źeli kaj šaj keres te zuravol čiri zor. Khate sikhavav so šaj zumaves te keres.</p>
-    <p xml:lang="swe">» Ideori sar te vortos čiri zor</p>
-    <p type="title" xml:lang="swe">Infektacija maškar le purne</p>
-    <p xml:lang="swe">Infektacija telal si normalno pašte kaj svako jek. Univar maj butol aj atunči šaj kerdol čino tuke. Gado si maj but kaj žuvlia. Trin khatar štar žuvlia len infektacija telal varekana ando traijo aj kaj but źene avel gado čino palpale maj butivar. Vi murš šaj len gado infektacija. E infektacija naj baro nasvalimos numa šaj avel čino ke butivar xarundel aj votcil.</p>
-    <p xml:lang="swe">» Infektacija maškar le purne</p>
-    <p type="title" xml:lang="swe">Kana e glata kerdol ternimata</p>
-    <p xml:lang="swe">Maškar kana o manuš si 10 aj 13 beršengo, atunči but žene den andre te kerdon ternimata. Kana o manuš kerdol ternimata pařudol pe o stato khatar jek glata aj kerdol jek ternimata. Sar eksemplo pařudol pe o hango, o manuš šaj lel phugňa aj o manuš lel pe te avel lenge intresantno pa kamlimos.</p>
-    <p xml:lang="swe">» Kana e glata kerdol ternimata</p>
-    <p type="title" xml:lang="swe">Kana e žuvli šudel pestar</p>
-    <p xml:lang="swe">Kana jek žuvli šudel pestar si ke činel kana si ande Devlesko vast. Te sas le manuš gindori te šudel pestar šaj avel ke si le manušes pherdo pušimata. O manuš šaj dikhel jek manušes te šaj lel advetori pe peske pušimata. Vi te kamela godo manuš kaj kerda la žuvlia ande Devleske vast.</p>
-    <p xml:lang="swe">» Kana e žuvli šudel pestar</p>
-    <p type="title" xml:lang="swe">Kondom</p>
-    <p xml:lang="swe">Jekh kondom si jekh cini posa anda but sani gumiva (lateks) kaj šaj tholpe po kar vaj po ekh seksosko-bajo te avla e manušes sekso.</p>
-    <p xml:lang="swe">» Kondom</p>
-    <p type="title" xml:lang="swe">Lolo kurko</p>
-    <p xml:lang="swe">Lolo kurko si kodo ratimos/ratvalimos anda miž kaj e žuvla len majbuth vaj maj cera andevrami khatar o puberteto. Lolo kurko Si te sikhavel te phenel ke naj aba šejori.</p>
-    <p xml:lang="swe">» Lolo kurko</p>
-    <p type="title" xml:lang="swe">Prasajimo</p>
-    <p xml:lang="swe">Kana jekh manuš si čores inkerdo le manušendar kruglom jekheste, si kado akhardo prasajimo. Jekh ćini prasamaske buči či žindol sar prasajimo. Kana kodo butivar maladjol aj kerel kodoleske kaj dukhadol te avel leske čores, kodo žindolpe sar prasape.</p>
-    <p xml:lang="swe">» Prasajimo</p>
-    <p type="title" xml:lang="swe">Preventivno drab</p>
-    <p xml:lang="swe">Preventino drab si jek preventino sar jek drabengi forma pe žuvlia. So si o prevetivno drab si ke čačes si hamime preventivna draba. Andre ando drab si duj fjalori hormonori, jek kaj bušol žuvlikano hormono, östrogen, aj jek kaj bušol galbeno statosko hormona, gestagen, kaj vi kerel te ašavel e žuvli te kerel statosko anro aj te na kerdol ande Devleske vast.</p>
-    <p xml:lang="swe">» Preventivno drab</p>
-    <p type="title" xml:lang="swe">Seksualno manušipe – bi, hetero, homo</p>
-    <p xml:lang="swe">Seksualno manušipe si pa ande kaste o manuš lel kamlimos vaj te kamel pe, te si o manuš murš vaj žuvli. O manuš šaj avel bi seksualno, hetero seksualno vaj homo seksualno.</p>
-    <p xml:lang="swe">» Seksualno manušipe – bi, hetero, homo</p>
-    <p type="title" xml:lang="swe">Te kerdol o manuš belenkerevo</p>
-    <p xml:lang="swe">Te nakhela o manuš belenkerevo si de fjal vušoro te ašarel pe o manuš žavarime aj si le manušeske čořes. Univar šaj pařudol pe antrego traijo, aj o manuš ašarel ke si les vaj la jek čořo pačajimos ande peste aj zumavel te nakhel godolendar situatciji kaj šaj arakhen godola kaj belenkerevin. Numa či jek manuš či trubúl te garavel pe khatar manuš kaj belenkerevin.</p>
-    <p xml:lang="swe">» Te kerdol o manuš belenkerevo</p>
-    <p type="title" xml:lang="swe">Te phes duhano</p>
-    <p xml:lang="swe">Kana o manuš pel duhano cirdel andre miji votravi dželi. O manuš kaj pel duhano šaj lel pherdo fjalori dukha ando stato aj nasvalimata, aj pašte svako dujto manuš kaj pel duhano merel maj sigo katar vo vaj voj kaj či pen duhano. Vi kuči si o duhano, aj kerel te lel o manuš phugnia pe o muj, rimol le manušeski zor aj rimol le manušeske te kamel pe.</p>
-    <p xml:lang="swe">» Te phes duhano</p>
-    <p type="title" xml:lang="swe">Te probilpe o manuš</p>
-    <p xml:lang="swe">Te sas e manušes biferdime sekso si mišto o manuš te probilpe pe telunenasvalimos. Sar žal o probimos ašol pala kodo telunonasvalimos so o manuš probilpe anda. Butivar delpe jekh mutereski- vaj rateskiproba. Te probistut pe jekh telunonasvalimos savo si ande ragaljošozakono (smittskyddslagen) či trobul o manuš te počinel kanči.</p>
-    <p xml:lang="swe">» Te probilpe o manuš</p>
-    <p type="title" xml:lang="swe">Tristimos</p>
-    <p xml:lang="swe">Univar ando traijo ašarel o manuš kovlimos, tristimos, žavarimos vaj ašarel ke či del ando gor pe kančeste aj godo si jek normalno khotor ando traijo. Univar šaj avel sar eksemplo ke o manuš či dashtil vareso, ašarel ke kanči naj ande dragostija vaj ke si le manuš pra but gindori. Butivar načol godo nekazo pala jek skurto vramja. Si uni želi kaj o manuš korkoro dashtil te kerel te načol aj te avel le manušeske maj mišto, aj vi si ažutimos kaj šaj lel o manuš te trubúla.</p>
-    <p xml:lang="swe">» Tristimos</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1164</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash</origFileName><parallel_text xml:lang="eng" location="umo-in-english.html"/><parallel_text xml:lang="fin" location="finska.html"/><parallel_text xml:lang="fit" location="meankieli.html"/><parallel_text xml:lang="sma" location="sydsamiska.html"/><parallel_text xml:lang="sme" location="nordsamiska.html"/><parallel_text xml:lang="smj" location="lulesamiska.html"/><parallel_text location="resanderomska.html" xml:lang="rmu"/><parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/><parallel_text location="romska-kale.html" xml:lang="rmf"/><parallel_text location="romska-arli.html" xml:lang="rmn"/><parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Romani chib kalderašicko (romska kalderash)</p>
+<p type="title" xml:lang="swe">Romani chib kalderašicko (romska kalderash)</p>
+<p>UMO – ternimatengi špita pe Interneto</p>
+<p><em type="italic">So arakhes pe UMO: </em></p>
+<list><p type="listitem">Kana ačares tut nasvalo</p>
+<p type="listitem">Kana san ande čingar aj maskerimata</p>
+<p type="listitem">Pimos, duhano, draba</p>
+<p type="listitem">Me</p>
+<p type="listitem">Kamel pe</p>
+<p type="listitem">Kamlimos aj baratori</p>
+<p type="listitem">Stato</p>
+</list><p xml:lang="swe"><em type="italic">Divanori: </em></p>
+<list><p type="listitem">Tolmač</p>
+<p type="listitem">Šibako inspektimos</p>
+<p type="listitem">Rodijimata/testori</p>
+<p type="listitem">Kana o manuš lel korkoro sama pala peski glata</p>
+<p type="listitem">Zakonori aj čačimos</p>
+</list><p type="title">Alkoholo</p>
+<p>E vorba alkoholo snačilpe pimos sar biera, mol aj rečia. But manuš pen alkoholo ke drago lengo o gusto, aj uni te mangen te matčon. Numa o alkoholo šaj te avel nasul vi pe but fialori. O alkoholo šaj del but dukha aj nasvalimata, aj kerel vi le manušes te perel ande phare aj čore problemori. Uni šaj peren ande depresiona aj naj lenge mišto khana pile alkoholo.</p>
+<p>» Alkoholo</p>
+<p type="title">Akutno-p-drab</p>
+<p>Akutno-p-drab si jekh drab kaj e šeja šaj te len tena anklen/peren khamne/. Kado naj prosto žutimos tena avel khamni/phari, kade ke kado naj kaj lelpe sar žutimos tena avelpe khamni/phari či angla vaj ando kamlimos. Akutno-p-drab te lelpe ferdi sar jekh musajimos aj tena avel jekh drab kaj kana godi pelpe tena anklen khamne.</p>
+<p>» Akutno-p-drab</p>
+<p type="title" xml:lang="swe">Buledimos angluni data</p>
+<p>Pašte savore khelde pe pesa korkoro angla so dene pe bule. O angluno buledimos kaj but dende, kerde pesa korkoro. Normalno si ke le manušes si les but gindori aj ažukerimata sar te avela e anguni data kana dena pe bule varekasa.</p>
+<p xml:lang="swe">» Buledimos angluni data</p>
+<p type="title">Čiri zor</p>
+<p>Čiri zor si pa godola gindori kaj si tut katar tute aj pa čiro manušipe. Naj pa so dashtis te keres, te źanes te keres źeli vaj ke niči, e bući si ke san zorali ande tute, ke san tu. Tu korkoro dashtis te važdes aj te zurares čiri zor opre.</p>
+<p>» Čiri zor</p>
+<p type="title">Čumidimos aj asbajimos</p>
+<p>Te čumiden pe aj te asbas jek avres, si vareso kaj but manuš si lenge drago te keren. Te šoha či kerda godo jek manuš butivar atunči den pe gindo aj doril o manuš te keren godo. Numa anda jek data šaj ačarel pe o manuš nežno angla o angluno čumidimos vaj asbajimos. Sar kerel o manuš kana asbas jek avres?</p>
+<p>»Čumidimos aj asbajimos</p>
+<p type="title" xml:lang="swe">Dar</p>
+<p>Manuš šaj aćarel zurales e dar sar savarimos aj bojaznosti kaj aćardol pe antrego stato, aj but źene šaj len godo varikana. Dar šaj avel darani bući, numa mušaj te zumaves te keres godo kaj kames aj te ne źas pe thana vaj situatcija kaj gindis ke lel tut dar.</p>
+<p xml:lang="swe">» Dar</p>
+<p type="title">Ideori sar te vortos čiri zor</p>
+<p>Si pherdo źeli kaj šaj keres te zuravol čiri zor. Khate sikhavav so šaj zumaves te keres.</p>
+<p>» Ideori sar te vortos čiri zor</p>
+<p type="title">Infektacija maškar le purne</p>
+<p>Infektacija telal si normalno pašte kaj svako jek. Univar maj butol aj atunči šaj kerdol čino tuke. Gado si maj but kaj žuvlia. Trin khatar štar žuvlia len infektacija telal varekana ando traijo aj kaj but źene avel gado čino palpale maj butivar. Vi murš šaj len gado infektacija. E infektacija naj baro nasvalimos numa šaj avel čino ke butivar xarundel aj votcil.</p>
+<p>» Infektacija maškar le purne</p>
+<p type="title">Kana e glata kerdol ternimata</p>
+<p>Maškar kana o manuš si 10 aj 13 beršengo, atunči but žene den andre te kerdon ternimata. Kana o manuš kerdol ternimata pařudol pe o stato khatar jek glata aj kerdol jek ternimata. Sar eksemplo pařudol pe o hango, o manuš šaj lel phugňa aj o manuš lel pe te avel lenge intresantno pa kamlimos.</p>
+<p>» Kana e glata kerdol ternimata</p>
+<p type="title">Kana e žuvli šudel pestar</p>
+<p>Kana jek žuvli šudel pestar si ke činel kana si ande Devlesko vast. Te sas le manuš gindori te šudel pestar šaj avel ke si le manušes pherdo pušimata. O manuš šaj dikhel jek manušes te šaj lel advetori pe peske pušimata. Vi te kamela godo manuš kaj kerda la žuvlia ande Devleske vast.</p>
+<p>» Kana e žuvli šudel pestar</p>
+<p type="title" xml:lang="swe">Kondom</p>
+<p>Jekh kondom si jekh cini posa anda but sani gumiva (lateks) kaj šaj tholpe po kar vaj po ekh seksosko-bajo te avla e manušes sekso.</p>
+<p xml:lang="swe">» Kondom</p>
+<p type="title">Lolo kurko</p>
+<p>Lolo kurko si kodo ratimos/ratvalimos anda miž kaj e žuvla len majbuth vaj maj cera andevrami khatar o puberteto. Lolo kurko Si te sikhavel te phenel ke naj aba šejori.</p>
+<p>» Lolo kurko</p>
+<p type="title">Prasajimo</p>
+<p>Kana jekh manuš si čores inkerdo le manušendar kruglom jekheste, si kado akhardo prasajimo. Jekh ćini prasamaske buči či žindol sar prasajimo. Kana kodo butivar maladjol aj kerel kodoleske kaj dukhadol te avel leske čores, kodo žindolpe sar prasape.</p>
+<p>» Prasajimo</p>
+<p type="title">Preventivno drab</p>
+<p>Preventino drab si jek preventino sar jek drabengi forma pe žuvlia. So si o prevetivno drab si ke čačes si hamime preventivna draba. Andre ando drab si duj fjalori hormonori, jek kaj bušol žuvlikano hormono, östrogen, aj jek kaj bušol galbeno statosko hormona, gestagen, kaj vi kerel te ašavel e žuvli te kerel statosko anro aj te na kerdol ande Devleske vast.</p>
+<p>» Preventivno drab</p>
+<p type="title">Seksualno manušipe – bi, hetero, homo</p>
+<p>Seksualno manušipe si pa ande kaste o manuš lel kamlimos vaj te kamel pe, te si o manuš murš vaj žuvli. O manuš šaj avel bi seksualno, hetero seksualno vaj homo seksualno.</p>
+<p>» Seksualno manušipe – bi, hetero, homo</p>
+<p type="title">Te kerdol o manuš belenkerevo</p>
+<p>Te nakhela o manuš belenkerevo si de fjal vušoro te ašarel pe o manuš žavarime aj si le manušeske čořes. Univar šaj pařudol pe antrego traijo, aj o manuš ašarel ke si les vaj la jek čořo pačajimos ande peste aj zumavel te nakhel godolendar situatciji kaj šaj arakhen godola kaj belenkerevin. Numa či jek manuš či trubúl te garavel pe khatar manuš kaj belenkerevin.</p>
+<p>» Te kerdol o manuš belenkerevo</p>
+<p type="title">Te phes duhano</p>
+<p>Kana o manuš pel duhano cirdel andre miji votravi dželi. O manuš kaj pel duhano šaj lel pherdo fjalori dukha ando stato aj nasvalimata, aj pašte svako dujto manuš kaj pel duhano merel maj sigo katar vo vaj voj kaj či pen duhano. Vi kuči si o duhano, aj kerel te lel o manuš phugnia pe o muj, rimol le manušeski zor aj rimol le manušeske te kamel pe.</p>
+<p>» Te phes duhano</p>
+<p type="title">Te probilpe o manuš</p>
+<p>Te sas e manušes biferdime sekso si mišto o manuš te probilpe pe telunenasvalimos. Sar žal o probimos ašol pala kodo telunonasvalimos so o manuš probilpe anda. Butivar delpe jekh mutereski- vaj rateskiproba. Te probistut pe jekh telunonasvalimos savo si ande ragaljošozakono (smittskyddslagen) či trobul o manuš te počinel kanči.</p>
+<p>» Te probilpe o manuš</p>
+<p type="title">Tristimos</p>
+<p>Univar ando traijo ašarel o manuš kovlimos, tristimos, žavarimos vaj ašarel ke či del ando gor pe kančeste aj godo si jek normalno khotor ando traijo. Univar šaj avel sar eksemplo ke o manuš či dashtil vareso, ašarel ke kanči naj ande dragostija vaj ke si le manuš pra but gindori. Butivar načol godo nekazo pala jek skurto vramja. Si uni želi kaj o manuš korkoro dashtil te kerel te načol aj te avel le manušeske maj mišto, aj vi si ažutimos kaj šaj lel o manuš te trubúla.</p>
+<p>» Tristimos</p>
+</body></document>

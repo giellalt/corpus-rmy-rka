@@ -1,49 +1,17 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>243</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/le-minoriteton%c3%a9nge-pr%c3%b3vinci.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-tjuottjudusguovlo.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-forvaltningsomraden.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Le minoritetonénge Próvinci - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Le minoritetonénge Próvinci</p>
-    <p xml:lang="swe"><em type="italic">E kris pa le nationálne minoritétora thaj pa lénge šibá, areslé gadea dur ke maj barilé le purané Próvinci pa le trin minoritetonénge šibá, le finlandesonénge, le saménge le meänkieliénge šibá, de katár eftá komúnora ándo Norrbottens provínca, ži kaj 64 komúnora ándo Švédo. </em></p>
-    <p xml:lang="swe"><em type="italic">Ánde le finlandísko minoritetonénge próvinci, ašén le komúnora </em>Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar thaj Övertorneå. </p>
-    <p xml:lang="swe"><em type="italic">Ánde le samícka minoritetonénge próvinci, ašén le komúnora </em>Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. </p>
-    <p xml:lang="swe"><em type="italic">Le minoritetonénge próvinci pa meänkieli ašen le komúnora </em>Gällivare, Haparanda, Kalix, Kiruna, Pajala thaj Övertorneå. </p>
-    <p xml:lang="swe">Ánde le provínci pa le šibá finlandícka samícka, thaj meänkieli ašél vi le Lansdtingurja ánde Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland thaj Västra Götalandsregionen. Vi kavér komúnora šaj róden péngo than, te kaména von te den andré ánde le minoritetonénge provínci. O them lel sáma pa e pušaimáta katár le komúnora te šaj den andré ánde le provínci vaj níči. O pušaimásko ram músaj te avél tradinó kaj autoritetonénge kantóra (regeringen) maj anglál de sar o 1 aprílo.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>243</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/le-minoriteton%c3%a9nge-pr%c3%b3vinci.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/><parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/><parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/><parallel_text xml:lang="smj" location="nat-min-tjuottjudusguovlo.html"/><parallel_text xml:lang="swe" location="nat-min-forvaltningsomraden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Le minoritetonénge Próvinci - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Le minoritetonénge Próvinci</p>
+<p><em type="italic">E kris pa le nationálne minoritétora thaj pa lénge šibá, areslé gadea dur ke maj barilé le purané Próvinci pa le trin minoritetonénge šibá, le finlandesonénge, le saménge le meänkieliénge šibá, de katár eftá komúnora ándo Norrbottens provínca, ži kaj 64 komúnora ándo Švédo. </em></p>
+<p xml:lang="swe"><em type="italic">Ánde le finlandísko minoritetonénge próvinci, ašén le komúnora </em>Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar thaj Övertorneå. </p>
+<p xml:lang="swe"><em type="italic">Ánde le samícka minoritetonénge próvinci, ašén le komúnora </em>Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. </p>
+<p><em type="italic">Le minoritetonénge próvinci pa meänkieli ašen le komúnora </em>Gällivare, Haparanda, Kalix, Kiruna, Pajala thaj Övertorneå. </p>
+<p>Ánde le provínci pa le šibá finlandícka samícka, thaj meänkieli ašél vi le Lansdtingurja ánde Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland thaj Västra Götalandsregionen. Vi kavér komúnora šaj róden péngo than, te kaména von te den andré ánde le minoritetonénge provínci. O them lel sáma pa e pušaimáta katár le komúnora te šaj den andré ánde le provínci vaj níči. O pušaimásko ram músaj te avél tradinó kaj autoritetonénge kantóra (regeringen) maj anglál de sar o 1 aprílo.</p>
+</body></document>

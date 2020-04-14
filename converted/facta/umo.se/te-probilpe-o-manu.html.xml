@@ -1,75 +1,35 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1080</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Te-probilpe-o-manu</origFileName>
-    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
-    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
-    <parallel_text xml:lang="sma" location="teestedh.html"/>
-    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
-    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
-    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
-    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
-    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Te probilpe o manuš</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Te probilpe o manuš</p>
-    <p xml:lang="swe">Te sas e manušes biferdime sekso si mišto o manuš te probilpe pe telunenasvalimos. Sar žal o probimos ašol pala kodo telunonasvalimos so o manuš probilpe anda. Butivar delpe jekh mutereski- vaj rateskiproba. Te probistut pe jekh telunonasvalimos savo si ande ragaljošozakono (smittskyddslagen) či trobul o manuš te počinel kanči.</p>
-    <p xml:lang="swe">Te avel/si sekso šaj avel mišto, loš aj čičidimos. Šaj avel kade vorta ande kodo vrama o manuš tena xal les briga/griža pa kacave buča so si importanto. Sar primeri o manuš te ferdilpe te cinjarel o riziko te lel varesavo telunonasvalimos. O manuš te pindjarel korko pes ande kodo šaj avel vrama te žal aj te probil pes.</p>
-    <p type="title" xml:lang="swe">Sostar trobul o manuš te probil pes pe telunonasvalimos?</p>
-    <p xml:lang="swe">Kodo si kana godi mišto te probil pes pe telunonasvalimos te sas e manušes biferdime sekso. Kodo si vi te ačarelpe o manuš sasto ke varesave telunenasvalimata či den/sikaven varesave simtomura.</p>
-    <p xml:lang="swe">Te aresel o manuš varekas kasa kamel te avel les phangli relacija aj planiril tena ferdil pes, atunči kodo si mišto selduj te žan aj te probin pen anglunes.</p>
-    <p xml:lang="swe">Šaj avel vi kade ke varesavesa kasa sas e manušes sekso probisardas pes aj sikadadjilas ke sas jekh telunonasvalimos. Te si o nasvalimos ando ragaljošozakono, šaj o manuš te lel jekh lil/hertija vaj mares po telefono anda varesavo mottagning khote khatar mangen te žalpe te probilpe.</p>
-    <p xml:lang="swe">Kodo naj sigurno ke korko o manuš pherdjilas po telunonasvalimos, de o manuš si došalo/musajitime te žal aj te probil pes te cinjarelpe o riziko tena žal/pherdjol o nasvalimos maj dur.</p>
-    <p type="title" xml:lang="swe">Kana trobul o manuš te probil pes pe telunenasvalimata?</p>
-    <p xml:lang="swe">Šoha naj pra pozno te probil pes o manuš pe telunenasvalimata te sas e manušes biferdime sekso. Kana si pa varekači nasvalimata šaj žukarelpe pherdi šona aj unjivar (megvi) vi berš khatar kodo kana laspe o nasvalimos ži kaj lelpe sama vareso.</p>
-    <p xml:lang="swe">De unjivar šaj aver sigo te žalpe te probil (dikhel) pes. Či žal te probis/dikhes tut o jekh djes pala kodo kana sas tut o bi-ferdime sekso, anda kodo ke o viruso vaj e bakteriji save keren e infekcija či reslas te barol/žal dosta but te sikadjol ande jekh proba.</p>
-    <p xml:lang="swe">Sar te phenelpe e klamydia aj franca (gonorre) butivar šaj o manuš te probil/dikhel pes maj sigo jekh kurko pala kodo kana sas e manušes biferdime sekso. De pe varesave nasvalimata, sar te phenelepe hiv, šaj žukarel pe ži kaj trin šon pala kodo kana laspe kodo ži kaj sigurno šaj sikavel te si e manušes o nasvalimos (hiv).</p>
-    <p xml:lang="swe">Sositeti/sarsitesi o nasvalimos o manuš trobul te žal kaj jekh bolnitsa/špita/than te si o manšus darako vaj te si dukha. Te žanelpe ke o riziko si baro ke laspe jekh telunonasvalimos, sar te phenelpe ke o manuš žanel ke sas les sekso jekhe ženesa kas si telunonasvalimos, šaj o manuš unjivar te lel sasčarimos majsigo sarso e probi si gata.</p>
-    <p xml:lang="swe">Tena nas e manušes sekso varekasa o manuš naštik lel (avel les) jekh telunonasvalimos. Atunči o manuš či trobul te žal te probil/dikhel pes.</p>
-    <p type="title" xml:lang="swe">Kaj šaj o manuš te probil pes pe telunenasvalimata?</p>
-    <p xml:lang="swe">Te kamel o manuš te probil/dikhel pes pe jekh telunonasvalimos šaj te kaj jekh ternimatengothan, hud- aj könsmottagning vaj vårdcentral. Vi po RFSU si len thana kaj šaj o manuš te probil/dikhel pes pe telunenasvalimata.</p>
-    <p xml:lang="swe">Žuvla šaj vi te žan kaj ekh žuvlaniklinika vaj ekh gynekologo/gynekologo. Klamydiaproba šaj o manuš anavel/lel/bestelil pa webo/internet vaj te činel pe patika.</p>
-    <p xml:lang="swe">Te žanelpe kaj šaj boldelpe o manuš te probil pes khote katar bešelpe šaj te akharelpe kaj o nasvalengežutora 1177.</p>
-    <p type="title" xml:lang="swe">Sar žal o probimos/dikhimos?</p>
-    <p xml:lang="swe">Te probil pes pe telunenasvalimata žal sigo aj si vušoro. O probimos ašol pala savo nasvalimos o manuš probil pes aj sar aj sosko sekso sas e manušes aj sar šaj pherdjilas o manuš.</p>
-    <p xml:lang="swe">Te sas e manušes mižakokurimos šaj o manuš te del butivar jekh urinproba. Le muršenge save probinpen pe klamydia butivar dosta te den/mukhen urinproba (muter). Žuvla musaj vi te den proba anda miž/vagina. Kodo šaj te kerel o manuš korkoro jekh kaštesa kaj si opre bumbako kaj lel o manuš khote kaj žal te probil pes vaj kaj akharel khere jekh testo.</p>
-    <p xml:lang="swe">O manuš te žanel ke trobul te del/mukhel jekh urinakiproba tena mutrel jekh ži kaj duj časura angla kodo kaj probil/dikhel (zumavel) pes o manuš.</p>
-    <p xml:lang="swe">Pe varesave nasvalimata, vorta pe franca (gonorre), lelpe jekh proba jekhe sane probakekaštesa kaj medol sar jekh sano tops. Provtagningspinnen tovolilpe/boldelpe lokhes/kovles pe slemhinnan ande miž/vagina, mutreskičiva, kor vaj toma avral pe buljakomuj/buljakoputerimos. Kaj lelpe e proba ašol pala kodo sar sas e manušes o sekso. Kodo šaj te ačardjolpe čores, de butivar kodo sigo/fugo delpe gata aj či ačarelpe kade but.</p>
-    <p xml:lang="swe">Pe aver nasvalimata šaj o manuš te mukhel jekh rateskiproba. Kodo lelpe telal jekh pusajimos jekha sana suvasa ando vastesko phagimosko rateskivuna.</p>
-    <p xml:lang="swe">Kodo kon probil tut te gindila ke si e manušes herpes, lelpe unjivar jekh proba anda ekh herbešbešika jekhe bumbakokaštesa.</p>
-    <p xml:lang="swe">Te si e manušes gata kondylom save dikhenpe/dičon či trobul butivar te kerelpe probakolinimos, andakodo ke kodo kon dikhel (o doktoro) butivar dikhel so si andajekh/direkno so kodo si.</p>
-    <p type="title" xml:lang="swe">Kana lel o manuš divano/vorba/atveto?</p>
-    <p xml:lang="swe">Pe majbutende probi lel o manuš vorba/atveto ande jekh kurko. Kana o manuš del/mukhel proba butivar o manuš vorbilpes lenca te lel o manuš e divano/vorba/atveto. Sar primeri te akharen, bišaven lil/hertia vaj te žal khote o manuš.</p>
-    <p xml:lang="swe">Te žukarelpe jekh probakivorba šaj avel phares e manušeske. Kodo si naturalno/normalno ke o manuš daral aj e vrama žikaj avel e vorba/atveto ačarelpe lungo/bari. Tena naj mišto e manušeske mišto avelas te vorbil pe varekasa pa peske gindura aj ačarimata. Šaj avel jekh vortako/amal/kolega, varekon ande familija vaj varekon kaver kon si tuke paše.</p>
-    <p xml:lang="swe">O manuš šaj vi te kontaktulil jekh ternimatengothan. E bučara/butjara khote šaj te žutin kana naj mišto e manušeske aj von si sikle pe pušimata aj pe gindura krujal e telunenasvalimata.</p>
-    <p type="title" xml:lang="swe">Kači/Sode love kerel te probil pes?</p>
-    <p xml:lang="swe">Pe telunenasvalimata save si ande smittskyddslagen, sar primeri klamydia, gonorré aj hiv šoha či kerel kado kanči te probil pes o manuš bi te dikhelpe kači beršengo san vaj kaj kerelepe kado.</p>
-    <p xml:lang="swe">Te sumaven/dikhel pes pe kavera nasvalimata šaj koštalil/kerel majbut vaj maj cera zavisil kaj bešel o manuš aj pe savo mottagning žal o manuš. Butivareste o manuš probil/dikhel pes pe majbut sorti nasvalimata anda jekh data. Atunči dostaj te avel jekha anda lende (probi) te avel ande pe nasvalimaskozakoni tena avel musaj te počinel o manuš.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1075</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Te-probilpe-o-manu</origFileName><parallel_text xml:lang="fin" location="seksitautitestit.html"/><parallel_text xml:lang="fit" location="testata-ittea.html"/><parallel_text xml:lang="sma" location="teestedh.html"/><parallel_text xml:lang="sme" location="testet-ieas.html"/><parallel_text xml:lang="smj" location="ietjas-atsadit.html"/><parallel_text xml:lang="swe" location="att-testa-sig.html"/><parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/><parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/><parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/><parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Te probilpe o manuš</p>
+<p type="title">Te probilpe o manuš</p>
+<p>Te sas e manušes biferdime sekso si mišto o manuš te probilpe pe telunenasvalimos. Sar žal o probimos ašol pala kodo telunonasvalimos so o manuš probilpe anda. Butivar delpe jekh mutereski- vaj rateskiproba. Te probistut pe jekh telunonasvalimos savo si ande ragaljošozakono (smittskyddslagen) či trobul o manuš te počinel kanči.</p>
+<p>Te avel/si sekso šaj avel mišto, loš aj čičidimos. Šaj avel kade vorta ande kodo vrama o manuš tena xal les briga/griža pa kacave buča so si importanto. Sar primeri o manuš te ferdilpe te cinjarel o riziko te lel varesavo telunonasvalimos. O manuš te pindjarel korko pes ande kodo šaj avel vrama te žal aj te probil pes.</p>
+<p type="title">Sostar trobul o manuš te probil pes pe telunonasvalimos?</p>
+<p>Kodo si kana godi mišto te probil pes pe telunonasvalimos te sas e manušes biferdime sekso. Kodo si vi te ačarelpe o manuš sasto ke varesave telunenasvalimata či den/sikaven varesave simtomura.</p>
+<p>Te aresel o manuš varekas kasa kamel te avel les phangli relacija aj planiril tena ferdil pes, atunči kodo si mišto selduj te žan aj te probin pen anglunes.</p>
+<p>Šaj avel vi kade ke varesavesa kasa sas e manušes sekso probisardas pes aj sikadadjilas ke sas jekh telunonasvalimos. Te si o nasvalimos ando ragaljošozakono, šaj o manuš te lel jekh lil/hertija vaj mares po telefono anda varesavo mottagning khote khatar mangen te žalpe te probilpe.</p>
+<p>Kodo naj sigurno ke korko o manuš pherdjilas po telunonasvalimos, de o manuš si došalo/musajitime te žal aj te probil pes te cinjarelpe o riziko tena žal/pherdjol o nasvalimos maj dur.</p>
+<p type="title">Kana trobul o manuš te probil pes pe telunenasvalimata?</p>
+<p>Šoha naj pra pozno te probil pes o manuš pe telunenasvalimata te sas e manušes biferdime sekso. Kana si pa varekači nasvalimata šaj žukarelpe pherdi šona aj unjivar (megvi) vi berš khatar kodo kana laspe o nasvalimos ži kaj lelpe sama vareso.</p>
+<p>De unjivar šaj aver sigo te žalpe te probil (dikhel) pes. Či žal te probis/dikhes tut o jekh djes pala kodo kana sas tut o bi-ferdime sekso, anda kodo ke o viruso vaj e bakteriji save keren e infekcija či reslas te barol/žal dosta but te sikadjol ande jekh proba.</p>
+<p>Sar te phenelpe e klamydia aj franca (gonorre) butivar šaj o manuš te probil/dikhel pes maj sigo jekh kurko pala kodo kana sas e manušes biferdime sekso. De pe varesave nasvalimata, sar te phenelepe hiv, šaj žukarel pe ži kaj trin šon pala kodo kana laspe kodo ži kaj sigurno šaj sikavel te si e manušes o nasvalimos (hiv).</p>
+<p>Sositeti/sarsitesi o nasvalimos o manuš trobul te žal kaj jekh bolnitsa/špita/than te si o manšus darako vaj te si dukha. Te žanelpe ke o riziko si baro ke laspe jekh telunonasvalimos, sar te phenelpe ke o manuš žanel ke sas les sekso jekhe ženesa kas si telunonasvalimos, šaj o manuš unjivar te lel sasčarimos majsigo sarso e probi si gata.</p>
+<p>Tena nas e manušes sekso varekasa o manuš naštik lel (avel les) jekh telunonasvalimos. Atunči o manuš či trobul te žal te probil/dikhel pes.</p>
+<p type="title">Kaj šaj o manuš te probil pes pe telunenasvalimata?</p>
+<p>Te kamel o manuš te probil/dikhel pes pe jekh telunonasvalimos šaj te kaj jekh ternimatengothan, hud- aj könsmottagning vaj vårdcentral. Vi po RFSU si len thana kaj šaj o manuš te probil/dikhel pes pe telunenasvalimata.</p>
+<p>Žuvla šaj vi te žan kaj ekh žuvlaniklinika vaj ekh gynekologo/gynekologo. Klamydiaproba šaj o manuš anavel/lel/bestelil pa webo/internet vaj te činel pe patika.</p>
+<p>Te žanelpe kaj šaj boldelpe o manuš te probil pes khote katar bešelpe šaj te akharelpe kaj o nasvalengežutora 1177.</p>
+<p type="title">Sar žal o probimos/dikhimos?</p>
+<p>Te probil pes pe telunenasvalimata žal sigo aj si vušoro. O probimos ašol pala savo nasvalimos o manuš probil pes aj sar aj sosko sekso sas e manušes aj sar šaj pherdjilas o manuš.</p>
+<p>Te sas e manušes mižakokurimos šaj o manuš te del butivar jekh urinproba. Le muršenge save probinpen pe klamydia butivar dosta te den/mukhen urinproba (muter). Žuvla musaj vi te den proba anda miž/vagina. Kodo šaj te kerel o manuš korkoro jekh kaštesa kaj si opre bumbako kaj lel o manuš khote kaj žal te probil pes vaj kaj akharel khere jekh testo.</p>
+<p>O manuš te žanel ke trobul te del/mukhel jekh urinakiproba tena mutrel jekh ži kaj duj časura angla kodo kaj probil/dikhel (zumavel) pes o manuš.</p>
+<p>Pe varesave nasvalimata, vorta pe franca (gonorre), lelpe jekh proba jekhe sane probakekaštesa kaj medol sar jekh sano tops. Provtagningspinnen tovolilpe/boldelpe lokhes/kovles pe slemhinnan ande miž/vagina, mutreskičiva, kor vaj toma avral pe buljakomuj/buljakoputerimos. Kaj lelpe e proba ašol pala kodo sar sas e manušes o sekso. Kodo šaj te ačardjolpe čores, de butivar kodo sigo/fugo delpe gata aj či ačarelpe kade but.</p>
+<p>Pe aver nasvalimata šaj o manuš te mukhel jekh rateskiproba. Kodo lelpe telal jekh pusajimos jekha sana suvasa ando vastesko phagimosko rateskivuna.</p>
+<p>Kodo kon probil tut te gindila ke si e manušes herpes, lelpe unjivar jekh proba anda ekh herbešbešika jekhe bumbakokaštesa.</p>
+<p>Te si e manušes gata kondylom save dikhenpe/dičon či trobul butivar te kerelpe probakolinimos, andakodo ke kodo kon dikhel (o doktoro) butivar dikhel so si andajekh/direkno so kodo si.</p>
+<p type="title">Kana lel o manuš divano/vorba/atveto?</p>
+<p>Pe majbutende probi lel o manuš vorba/atveto ande jekh kurko. Kana o manuš del/mukhel proba butivar o manuš vorbilpes lenca te lel o manuš e divano/vorba/atveto. Sar primeri te akharen, bišaven lil/hertia vaj te žal khote o manuš.</p>
+<p>Te žukarelpe jekh probakivorba šaj avel phares e manušeske. Kodo si naturalno/normalno ke o manuš daral aj e vrama žikaj avel e vorba/atveto ačarelpe lungo/bari. Tena naj mišto e manušeske mišto avelas te vorbil pe varekasa pa peske gindura aj ačarimata. Šaj avel jekh vortako/amal/kolega, varekon ande familija vaj varekon kaver kon si tuke paše.</p>
+<p>O manuš šaj vi te kontaktulil jekh ternimatengothan. E bučara/butjara khote šaj te žutin kana naj mišto e manušeske aj von si sikle pe pušimata aj pe gindura krujal e telunenasvalimata.</p>
+<p type="title">Kači/Sode love kerel te probil pes?</p>
+<p>Pe telunenasvalimata save si ande smittskyddslagen, sar primeri klamydia, gonorré aj hiv šoha či kerel kado kanči te probil pes o manuš bi te dikhelpe kači beršengo san vaj kaj kerelepe kado.</p>
+<p>Te sumaven/dikhel pes pe kavera nasvalimata šaj koštalil/kerel majbut vaj maj cera zavisil kaj bešel o manuš aj pe savo mottagning žal o manuš. Butivareste o manuš probil/dikhel pes pe majbut sorti nasvalimata anda jekh data. Atunči dostaj te avel jekha anda lende (probi) te avel ande pe nasvalimaskozakoni tena avel musaj te počinel o manuš.</p>
+</body></document>
