@@ -1,81 +1,37 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>945</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Te-phes-duhano</origFileName>
-    <parallel_text xml:lang="fin" location="tupakointi.html"/>
-    <parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/>
-    <parallel_text xml:lang="sma" location="rievhkestimmie.html"/>
-    <parallel_text xml:lang="sme" location="borgguheapmi.html"/>
-    <parallel_text xml:lang="smj" location="suovastibme.html"/>
-    <parallel_text xml:lang="swe" location="rokning.html"/>
-    <parallel_text location="tyja.html" xml:lang="rmu"/>
-    <parallel_text location="thuviba.html" xml:lang="rmf"/>
-    <parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="pijbe-cigare.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Te phes duhano</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Te phes duhano</p>
-    <p xml:lang="swe">Kana o manuš pel duhano cirdel andre miji votravi dželi. O manuš kaj pel duhano šaj lel pherdo fjalori dukha ando stato aj nasvalimata, aj pašte svako dujto manuš kaj pel duhano merel maj sigo katar vo vaj voj kaj či pen duhano. Vi kuči si o duhano, aj kerel te lel o manuš phugnia pe o muj, rimol le manušeski zor aj rimol le manušeske te kamel pe.</p>
-    <p xml:lang="swe">Te lel o manuš sama pala terne manuš katar so šaj kerdol te pena duhano, si jek zakono kaj phenel ke naj slobodo te činen duhano te si o manuš telal 18 beršengo.</p>
-    <p type="title" xml:lang="swe">Duhano</p>
-    <p xml:lang="swe">O manuš šaj pel duhano ande papiroša, cigara, sani cigara, lulava aj pajeski lulava. E papiroša si o maj normalno. E papiroša naj ferdi andre duhano, ando thuv katar jek jag dini papiroša si pašte 4000 drabengi dželi. But anda lende del le manušes raka. Le maj nasul draba andre ande papiroša si:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Nikotino, jek drab kaj si ferdi slobodo andre ando duhano aj andre ande dželi kaj ažutin manušen te mukhen le papiroši. O nikotino si de fjal nasul aj te lela o manuš katar štar papiroši anda jek data ando rat saste merel o manuš.</p>
-      <p type="listitem" xml:lang="swe">Cyanväte, si jek gaso/gazo kaj si andre velino.</p>
-      <p type="listitem" xml:lang="swe">Kolmonoxid, si jek gaso/gazo kaj si andre velino kaj si hamime katar matorenge gasori/gazori.</p>
-      <p type="listitem" xml:lang="swe">Ricij, kaj si andre pherdo dželi, jek anda sa godola dželi šaj del le manušes raka. Ricji naj ferdi ande papiroši, si vi ande droma aj ande farbi.</p>
-      <p type="listitem" xml:lang="swe">Aver eksemplori pe nasul dželi ande papiroša si molivi, kadmium, ammoniak, bensen aj radioaktivno polonium.</p>
-    </list>
-    <p type="title" xml:lang="swe">Sostar lel pe o manuš te pel duhano?</p>
-    <p xml:lang="swe">O maj normalno si kana san me baratori si e angluni data kaj zumavel o manuš te pel duhano. O manuš kamel te zumavel sar si o aj sar ašardol. Kam ašarel o manuš ke si godo vareso barimos. Pašte konik naj lenge lašo kana zumaven te pen papiroši e angluni data.</p>
-    <p xml:lang="swe">Uni pen duhano te anen vaj te ašaren pe maj phure, vaj ke von purončin pe peste korkoro. Vi šaj gindin ke maj vušoro si te aven kavrensa, kaj pen duhano.</p>
-    <p type="title" xml:lang="swe">But žene žanen ke si nasul</p>
-    <p xml:lang="swe">But žene žanen ke si nasul te pen duhano. Numa maj vušoro si te gindis ke le nasvalimata či pherel pe tute korkoro, vaj te mukhes o duhano angla so kerdol nasul.</p>
-    <p xml:lang="swe">Te lela pe o manuš te pel duhano si uni dželi kaj o manuš prinžarel ando sigo, sar eksemplo ke rimol pe le manušeski zor. Godo si ke o stato či biril te phurdel barval kaj pel duhano, aj o nikotino kaj si ando duhano kerel te marel o ilo maj sigo.</p>
-    <p xml:lang="swe">Sode maj sigo lel pe o manuš te pel duhano, maj bari chansa si ke kerdol o manuš phanglo kaj o duhano aj o manuš dukhavel o stato aj lel nasvalimata katar o duhano. Angla so barile le parne buke gata si von de fjal dukhade katar o thuv katar o duhano. Vi te či birila o manuš te lel duhano ke si telal 18 beršengo, len pe pherdo žene kaj si terne te pen duhano.</p>
-    <p type="title" xml:lang="swe">Žene kaj si paše godo ženo kaj pel duhano</p>
-    <p xml:lang="swe">Te si jek ženo paše godo ženo kaj pel duhano, sar eksemplo ande jek soba, lel godo aver ženo gaso/gazo kaj si ando thuv. Godo bušol pasivno thuv. Vi pasivno thuv si nasul naj slobodo te pen duhano ande birtori, kafanava, pe buči aj pe puterde thana ande khera.</p>
-    <p type="title" xml:lang="swe">Te mukhes o duhano</p>
-    <p xml:lang="swe">Vušoro šaj phandel pe o manuš kaj o duhano. Ferdi pala duj trin papiroši kerdol e godži phangli katar o nikotino, aj kana kerdol phares te či pela duhano o manuš, bušol godo abstinens dukha vaj ke o manuš kerdol zavarime te či pela duhano. Numa vi gado si ke o manuš astardol, aj o manuš kerdol sikhado te pel o duhano.</p>
-    <p xml:lang="swe">Phares si te mukhes o duhano, vi te kamela o manuš te skepil katar o duhano. Numa žal pe, aj sode maj sigo mukhel o manuš o duhano vi maj mišto si. But anda statoske dukha aj nasvalimata kaj del le manušes pala duhano, šaj del pe palpale.</p>
-    <p xml:lang="swe"><em type="italic">Lašo razlogo te na pes duhano: </em></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Šaj avel tut le love pe varesoste kaver, kuči si te pes duhano.</p>
-      <p type="listitem" xml:lang="swe">Maj laši konditcija si le manušes te či pela duhano.</p>
-      <p type="listitem" xml:lang="swe">O manuš maj sasto bi duhanosko, vi akana aj vi maj angle ando traijo.</p>
-      <p type="listitem" xml:lang="swe">Čačares maj lungo vramja traijl o manuš bi duhanosko.</p>
-      <p type="listitem" xml:lang="swe">Či trubúl o manuš te dukhavel peske deja aj dades vaj aver žene aj te xolares.</p>
-      <p type="listitem" xml:lang="swe">O manuš či trubúl te avel phanglo aj te ašarel abstinenso te kamel te pel duhanno, te kerdol lenge pharimos aj zavarime.</p>
-      <p type="listitem" xml:lang="swe">Le cali či site kanden duhano.</p>
-      <p type="listitem" xml:lang="swe">O manuš či trubúl te khandel lesko muj vaj te galbinin le dand.</p>
-      <p type="listitem" xml:lang="swe">Te si o manuš telal 18 beršengo šaj kerel o manuš kaver želi kaj si maj den drag sar te rodel duhono.</p>
-      <p type="listitem" xml:lang="swe">Le manušesko muj či kerdol borčome maj anglal.</p>
-      <p type="listitem" xml:lang="swe">Kana bararen opre te keredol duhano rimol pe e okolino pe pherdo fjalori aj kana bararen opre o duhano si vi votrava te šaj barol maj sigo.</p>
-    </list>
-    <p xml:lang="swe">Te či žanela o manuš so te kerel te pel duhano vaj ke niči, šaj atunči te zumaves te keres jek ram pe mištimos aj pe nasulimos. Šaj avel cinoře dželi aj bare dželi, kaj si pa čiro traijo, pa aver manuš, pa o kolino aj kaver bučia. Godo si čiri ram, aj o manuš korkoro purončil sar te lel pe o manuš pala e ram, aj sar kames te keres pa o duhano.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>940</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Te-phes-duhano</origFileName><parallel_text xml:lang="fin" location="tupakointi.html"/><parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/><parallel_text xml:lang="sma" location="rievhkestimmie.html"/><parallel_text xml:lang="sme" location="borgguheapmi.html"/><parallel_text xml:lang="smj" location="suovastibme.html"/><parallel_text xml:lang="swe" location="rokning.html"/><parallel_text location="tyja.html" xml:lang="rmu"/><parallel_text location="thuviba.html" xml:lang="rmf"/><parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/><parallel_text location="pijbe-cigare.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Te phes duhano</p>
+<p type="title">Te phes duhano</p>
+<p>Kana o manuš pel duhano cirdel andre miji votravi dželi. O manuš kaj pel duhano šaj lel pherdo fjalori dukha ando stato aj nasvalimata, aj pašte svako dujto manuš kaj pel duhano merel maj sigo katar vo vaj voj kaj či pen duhano. Vi kuči si o duhano, aj kerel te lel o manuš phugnia pe o muj, rimol le manušeski zor aj rimol le manušeske te kamel pe.</p>
+<p>Te lel o manuš sama pala terne manuš katar so šaj kerdol te pena duhano, si jek zakono kaj phenel ke naj slobodo te činen duhano te si o manuš telal 18 beršengo.</p>
+<p type="title">Duhano</p>
+<p>O manuš šaj pel duhano ande papiroša, cigara, sani cigara, lulava aj pajeski lulava. E papiroša si o maj normalno. E papiroša naj ferdi andre duhano, ando thuv katar jek jag dini papiroša si pašte 4000 drabengi dželi. But anda lende del le manušes raka. Le maj nasul draba andre ande papiroša si:</p>
+<list><p type="listitem">Nikotino, jek drab kaj si ferdi slobodo andre ando duhano aj andre ande dželi kaj ažutin manušen te mukhen le papiroši. O nikotino si de fjal nasul aj te lela o manuš katar štar papiroši anda jek data ando rat saste merel o manuš.</p>
+<p type="listitem">Cyanväte, si jek gaso/gazo kaj si andre velino.</p>
+<p type="listitem">Kolmonoxid, si jek gaso/gazo kaj si andre velino kaj si hamime katar matorenge gasori/gazori.</p>
+<p type="listitem">Ricij, kaj si andre pherdo dželi, jek anda sa godola dželi šaj del le manušes raka. Ricji naj ferdi ande papiroši, si vi ande droma aj ande farbi.</p>
+<p type="listitem">Aver eksemplori pe nasul dželi ande papiroša si molivi, kadmium, ammoniak, bensen aj radioaktivno polonium.</p>
+</list><p type="title">Sostar lel pe o manuš te pel duhano?</p>
+<p>O maj normalno si kana san me baratori si e angluni data kaj zumavel o manuš te pel duhano. O manuš kamel te zumavel sar si o aj sar ašardol. Kam ašarel o manuš ke si godo vareso barimos. Pašte konik naj lenge lašo kana zumaven te pen papiroši e angluni data.</p>
+<p>Uni pen duhano te anen vaj te ašaren pe maj phure, vaj ke von purončin pe peste korkoro. Vi šaj gindin ke maj vušoro si te aven kavrensa, kaj pen duhano.</p>
+<p type="title">But žene žanen ke si nasul</p>
+<p>But žene žanen ke si nasul te pen duhano. Numa maj vušoro si te gindis ke le nasvalimata či pherel pe tute korkoro, vaj te mukhes o duhano angla so kerdol nasul.</p>
+<p>Te lela pe o manuš te pel duhano si uni dželi kaj o manuš prinžarel ando sigo, sar eksemplo ke rimol pe le manušeski zor. Godo si ke o stato či biril te phurdel barval kaj pel duhano, aj o nikotino kaj si ando duhano kerel te marel o ilo maj sigo.</p>
+<p>Sode maj sigo lel pe o manuš te pel duhano, maj bari chansa si ke kerdol o manuš phanglo kaj o duhano aj o manuš dukhavel o stato aj lel nasvalimata katar o duhano. Angla so barile le parne buke gata si von de fjal dukhade katar o thuv katar o duhano. Vi te či birila o manuš te lel duhano ke si telal 18 beršengo, len pe pherdo žene kaj si terne te pen duhano.</p>
+<p type="title">Žene kaj si paše godo ženo kaj pel duhano</p>
+<p>Te si jek ženo paše godo ženo kaj pel duhano, sar eksemplo ande jek soba, lel godo aver ženo gaso/gazo kaj si ando thuv. Godo bušol pasivno thuv. Vi pasivno thuv si nasul naj slobodo te pen duhano ande birtori, kafanava, pe buči aj pe puterde thana ande khera.</p>
+<p type="title" xml:lang="swe">Te mukhes o duhano</p>
+<p>Vušoro šaj phandel pe o manuš kaj o duhano. Ferdi pala duj trin papiroši kerdol e godži phangli katar o nikotino, aj kana kerdol phares te či pela duhano o manuš, bušol godo abstinens dukha vaj ke o manuš kerdol zavarime te či pela duhano. Numa vi gado si ke o manuš astardol, aj o manuš kerdol sikhado te pel o duhano.</p>
+<p>Phares si te mukhes o duhano, vi te kamela o manuš te skepil katar o duhano. Numa žal pe, aj sode maj sigo mukhel o manuš o duhano vi maj mišto si. But anda statoske dukha aj nasvalimata kaj del le manušes pala duhano, šaj del pe palpale.</p>
+<p><em type="italic">Lašo razlogo te na pes duhano: </em></p>
+<list><p type="listitem">Šaj avel tut le love pe varesoste kaver, kuči si te pes duhano.</p>
+<p type="listitem">Maj laši konditcija si le manušes te či pela duhano.</p>
+<p type="listitem">O manuš maj sasto bi duhanosko, vi akana aj vi maj angle ando traijo.</p>
+<p type="listitem">Čačares maj lungo vramja traijl o manuš bi duhanosko.</p>
+<p type="listitem">Či trubúl o manuš te dukhavel peske deja aj dades vaj aver žene aj te xolares.</p>
+<p type="listitem">O manuš či trubúl te avel phanglo aj te ašarel abstinenso te kamel te pel duhanno, te kerdol lenge pharimos aj zavarime.</p>
+<p type="listitem">Le cali či site kanden duhano.</p>
+<p type="listitem">O manuš či trubúl te khandel lesko muj vaj te galbinin le dand.</p>
+<p type="listitem">Te si o manuš telal 18 beršengo šaj kerel o manuš kaver želi kaj si maj den drag sar te rodel duhono.</p>
+<p type="listitem">Le manušesko muj či kerdol borčome maj anglal.</p>
+<p type="listitem">Kana bararen opre te keredol duhano rimol pe e okolino pe pherdo fjalori aj kana bararen opre o duhano si vi votrava te šaj barol maj sigo.</p>
+</list><p>Te či žanela o manuš so te kerel te pel duhano vaj ke niči, šaj atunči te zumaves te keres jek ram pe mištimos aj pe nasulimos. Šaj avel cinoře dželi aj bare dželi, kaj si pa čiro traijo, pa aver manuš, pa o kolino aj kaver bučia. Godo si čiri ram, aj o manuš korkoro purončil sar te lel pe o manuš pala e ram, aj sar kames te keres pa o duhano.</p>
+</body></document>

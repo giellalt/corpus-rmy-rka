@@ -1,82 +1,40 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1116</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Dar</origFileName>
-    <parallel_text xml:lang="fin" location="ahdistus.html"/>
-    <parallel_text xml:lang="fit" location="ahistus.html"/>
-    <parallel_text xml:lang="sma" location="asve.html"/>
-    <parallel_text xml:lang="sme" location="aestus.html"/>
-    <parallel_text xml:lang="smj" location="goavgge.html"/>
-    <parallel_text xml:lang="swe" location="angest.html"/>
-    <parallel_text location="nervolo.html" xml:lang="rmu"/>
-    <parallel_text location="dar.html" xml:lang="rmf"/>
-    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="baridar.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Dar</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Dar</p>
-    <p xml:lang="swe">Manuš šaj aćarel zurales e dar sar savarimos aj bojaznosti kaj aćardol pe antrego stato, aj but źene šaj len godo varikana. Dar šaj avel darani bući, numa mušaj te zumaves te keres godo kaj kames aj te ne źas pe thana vaj situatcija kaj gindis ke lel tut dar.</p>
-    <p xml:lang="swe">Dar si jek reakcija ando systemo pe le nervori kaj tu naštis korkoro te porunčis. Mišto si te źanes ke dar naj nasul aj kana godi nakhel vramjasa.</p>
-    <p type="title" xml:lang="swe">Šaj aćardol pe antrego stato</p>
-    <p xml:lang="swe">Te avel le manušes dar aćares tut defjal darano aj bojaznosti. Godo aćares zurales pe antrego stato. Kana aćares e dar atunči vi marel o ilo vi maj sigo aj zurales, phurdes maj zurales aj le musklori cirden pe ande jek than. Le paia šoren tut, zalis, istras vaj dasados, vaj aćares jek pharimos opral pa kolin, sar te avelosas tuke phares te phurdes.</p>
-    <p xml:lang="swe">Anglunes aćardol defjal zurales aj maj zuravol, numa pala jek vramja manaj zuralo. Atunči maj hodinime san, aj e dar xancol.</p>
-    <p xml:lang="swe">E dar šaj avel defjal darano. Pala jek vramja maj aćardol maj mišto, naj nasul.</p>
-    <p xml:lang="swe">E dar šaj aćardol svako data kaver fjalo. Naj kana godi ke źanes ke aćares dar ando stato.</p>
-    <p xml:lang="swe">Butivar phenes e vorba dar kana aćares ke si variso phares. Univar phenen ke aćares dar sar eksemplo kana keres jek testo ande škola vaj kana si pra but bući te keres. Numa dar šaj avel maj but sar svako džesesko čore gindori, kaj šaj avel maj but ke si le manušes pritisko (stresso).</p>
-    <p type="title" xml:lang="swe">Či źanas kana godi sostar lel le manušes dar</p>
-    <p xml:lang="swe">But źene lel len varikana dar, godo maladol pe če butivar aj sode. Uni źene lel len dar varikana. Kaver źene šaj avel len maj zurali dar aj si len maj butivar, vaj e dar inkerdol lungo vramja. Vaj lel le manušes skurtsi tristimaske atackori kaj nakhel sigo.</p>
-    <p xml:lang="swe">Univar źanel o manuš sostar lel dar aj tristimos. Godo šaj avel kana si le manušeske phares, vaj kana źanes varikas kaj merel. Le manušes šaj lel dar, kana nakhla te len la zorasa. Vaj te sas varikon čoro tusa opral pe Interneto, vaj zumade te xoxaven pe tute vaj line čori hažna pe tute.</p>
-    <p xml:lang="swe">Uni źene len dar angla jek testo vaj kana roden bući aj źan pe jek intervjuo. Vaj kana site keres variso kaj tuke naj mišto aj si tuke darani bući. Godo šaj avel defjal phares, numa atunči źanes sostar lel le manušes dar vaj tristimos. Godo šaj avel maj vušoro le manušeske.</p>
-    <p xml:lang="swe">Dar šaj avel kana o manuš phel phimos vaj kana lel draba.</p>
-    <p xml:lang="swe">Dar šaj avel bi te źanes kana aj sostar, vaj pe źeli kaj o manuš či del pe gindo ke šaj les dar. Godo šaj kerel te avel e dar inke maj phares aj kerel te daral o manuš inke maj but.</p>
-    <p xml:lang="swe">Naj jek granica maškar godolendar formi pe dar. Šaj avel ke o manuš źanel anda sostar lel dar, numa aćarel ke pra zuralolo, sar eksemplo ke marel o ilo, zalimos aj te čorden tut le paia angla testori aj examinatcija.</p>
-    <p type="title" xml:lang="swe">Xal le manušeski lindri aj sar o manuš aćarel pe</p>
-    <p xml:lang="swe">Dar šaj kerel te avel le manušeske phares te avel hodinime aj te sovel mišto. O manuš šaj pominil-pe maškarel e r’at aj či sotan vorta vaj pra sera sotan. Dar šaj kerel te aćares tut ke naj tut pača ando stato, naj tut ravda aj san sera xolariko, vaj maj vušoro kerdos tristo aj les tut te roves.</p>
-    <p type="title" xml:lang="swe">Daras karing e dar</p>
-    <p xml:lang="swe">Dar del le manušes bare aj zurale reaktcija ando stato ke univar aćarel o manuš ke merel vaj ke dilajlo. Kana nakhalan e dar šaj avel tuke defjal phares aj zumaves te na kerdol inke maj jek data. Atunči šaj lel le manuš dar karing e dar. Godo bušol ažukeri dar.</p>
-    <p xml:lang="swe">Šaj kerdos savarime te les e dar kana kaver manuš si paša tute, aj si tuke phares te phenes lenge. Godo kerel univar ke či maj san ande jek than kavre manušens kaj tu čačes kames te dikhes vaj te keres kaver źeli kaj čačes kames te keres. E dar karing e dar phandel tut ande čire džeseke źeli.</p>
-    <p xml:lang="swe">Te na keres źeli kaj tu gindis ke del tut dar naj mišto, ke atunči kerdol e dar maj nasul. Atunči trubos te rodes ažutimas angla so maj kerdol maj nasul. Si laśo ažutimos.</p>
-    <p type="title" xml:lang="swe">So šaj kerav me korkoro?</p>
-    <p xml:lang="swe">Si sastarimos pe o nasvalimos e dar. Butivar šaj korkoro sastares tut khatar e dar. Khate si tut sera laśe idéori.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Univar ažutil te des duma pa čiri dar kaj jek źene kaj tu pačas tut. Te thos vorbi pe godo kaj si tuke phares maj vušoril-pe te des tu gindo aj te aćares so si.</p>
-      <p type="listitem" xml:lang="swe">Kaj but źene vušoril-pe lenge te ramon tele godo vaj te makhen patretsi vaj te keren kaver bući vastensa.</p>
-      <p type="listitem" xml:lang="swe">Pritisko (stresso) kerel te les maj but dar. Te san pritisko, trubos te kerel kaver fjalo te na aves pritiskime, atunči vi xansol e dar.</p>
-      <p type="listitem" xml:lang="swe">Šaj miškis tut te kovlos. Po Interneto šaj cirdes dele vaj šaj kines jek cd pe patika.</p>
-      <p type="listitem" xml:lang="swe">Dar kerel butivar ke soves čores. Te dashtis te soves mišto xansol e dar. Anda godo si važno te zumaves te soves vorta.</p>
-      <p type="listitem" xml:lang="swe">E dar šaj xansol te miškisa tut aj te trenis vaj te phires tuke delal avri.</p>
-      <p type="listitem" xml:lang="swe">Te phesa duhano, burnutotis, phes řećija vaj phes pra but kafa šaj zumaves te na keres godo pra but aj te dikhes te ažutila tut godo. Pherdo nikotino aj kofeino kerel te les maj xor e dar aj či biris te soves mišto</p>
-      <p type="listitem" xml:lang="swe">Šaj gines pa dar vaj te les ažutimos khatar kaver źene, sar eksemplo po Inerneto. Si organisatciji kaj źas andre te les ažutimos aj sar te keres.</p>
-      <p type="listitem" xml:lang="swe">Te kamesa te des duma varikasa, šaj atunči mares telefono kaj godola telefonosko ažutimata kaj si.</p>
-    </list>
-    <p xml:lang="swe">Te na phes řećija vaj te les kaver draba te xansol e dar. Aćardol sar ke ažutil ando godo momento, numa e dar avel palpale aj atunči site avela inka maj nasul e dar.</p>
-    <p type="title" xml:lang="swe">Savatar ažutimos šaj les?</p>
-    <p xml:lang="swe">Šaj les ažutimos aj sastarimos khatar e dar. O normalno ažutimos si ande jek forma te des duma varikasa, draba vaj te miškis tut te kovlol o stato.</p>
-    <p xml:lang="swe">Godo kaj ažutil tut či trubol te avel laśo kaj jek kaver źeno. Anda godo važno si te les ažutimos kaj si malado pala tute aj godo so trubol tut.</p>
-    <p xml:lang="swe">Šaj les tut anda gor te les kontakto me jek ternengo-čidinimos, studentongo sastarimos vaj kaj jek sastarimasko kher. Te trubola šaj godo źeno kaj ažutil tut te les kontakto, sar eksemplo kaj jek psykologo vaj doktoro.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1111</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Dar</origFileName><parallel_text xml:lang="fin" location="ahdistus.html"/><parallel_text xml:lang="fit" location="ahistus.html"/><parallel_text xml:lang="sma" location="asve.html"/><parallel_text xml:lang="sme" location="aestus.html"/><parallel_text xml:lang="smj" location="goavgge.html"/><parallel_text xml:lang="swe" location="angest.html"/><parallel_text location="nervolo.html" xml:lang="rmu"/><parallel_text location="dar.html" xml:lang="rmf"/><parallel_text location="ongesto.html" xml:lang="rmy-rlo"/><parallel_text location="baridar.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Dar</p>
+<p type="title" xml:lang="swe">Dar</p>
+<p>Manuš šaj aćarel zurales e dar sar savarimos aj bojaznosti kaj aćardol pe antrego stato, aj but źene šaj len godo varikana. Dar šaj avel darani bući, numa mušaj te zumaves te keres godo kaj kames aj te ne źas pe thana vaj situatcija kaj gindis ke lel tut dar.</p>
+<p>Dar si jek reakcija ando systemo pe le nervori kaj tu naštis korkoro te porunčis. Mišto si te źanes ke dar naj nasul aj kana godi nakhel vramjasa.</p>
+<p type="title">Šaj aćardol pe antrego stato</p>
+<p>Te avel le manušes dar aćares tut defjal darano aj bojaznosti. Godo aćares zurales pe antrego stato. Kana aćares e dar atunči vi marel o ilo vi maj sigo aj zurales, phurdes maj zurales aj le musklori cirden pe ande jek than. Le paia šoren tut, zalis, istras vaj dasados, vaj aćares jek pharimos opral pa kolin, sar te avelosas tuke phares te phurdes.</p>
+<p>Anglunes aćardol defjal zurales aj maj zuravol, numa pala jek vramja manaj zuralo. Atunči maj hodinime san, aj e dar xancol.</p>
+<p>E dar šaj avel defjal darano. Pala jek vramja maj aćardol maj mišto, naj nasul.</p>
+<p>E dar šaj aćardol svako data kaver fjalo. Naj kana godi ke źanes ke aćares dar ando stato.</p>
+<p>Butivar phenes e vorba dar kana aćares ke si variso phares. Univar phenen ke aćares dar sar eksemplo kana keres jek testo ande škola vaj kana si pra but bući te keres. Numa dar šaj avel maj but sar svako džesesko čore gindori, kaj šaj avel maj but ke si le manušes pritisko (stresso).</p>
+<p type="title">Či źanas kana godi sostar lel le manušes dar</p>
+<p>But źene lel len varikana dar, godo maladol pe če butivar aj sode. Uni źene lel len dar varikana. Kaver źene šaj avel len maj zurali dar aj si len maj butivar, vaj e dar inkerdol lungo vramja. Vaj lel le manušes skurtsi tristimaske atackori kaj nakhel sigo.</p>
+<p>Univar źanel o manuš sostar lel dar aj tristimos. Godo šaj avel kana si le manušeske phares, vaj kana źanes varikas kaj merel. Le manušes šaj lel dar, kana nakhla te len la zorasa. Vaj te sas varikon čoro tusa opral pe Interneto, vaj zumade te xoxaven pe tute vaj line čori hažna pe tute.</p>
+<p>Uni źene len dar angla jek testo vaj kana roden bući aj źan pe jek intervjuo. Vaj kana site keres variso kaj tuke naj mišto aj si tuke darani bući. Godo šaj avel defjal phares, numa atunči źanes sostar lel le manušes dar vaj tristimos. Godo šaj avel maj vušoro le manušeske.</p>
+<p>Dar šaj avel kana o manuš phel phimos vaj kana lel draba.</p>
+<p>Dar šaj avel bi te źanes kana aj sostar, vaj pe źeli kaj o manuš či del pe gindo ke šaj les dar. Godo šaj kerel te avel e dar inke maj phares aj kerel te daral o manuš inke maj but.</p>
+<p>Naj jek granica maškar godolendar formi pe dar. Šaj avel ke o manuš źanel anda sostar lel dar, numa aćarel ke pra zuralolo, sar eksemplo ke marel o ilo, zalimos aj te čorden tut le paia angla testori aj examinatcija.</p>
+<p type="title">Xal le manušeski lindri aj sar o manuš aćarel pe</p>
+<p>Dar šaj kerel te avel le manušeske phares te avel hodinime aj te sovel mišto. O manuš šaj pominil-pe maškarel e r’at aj či sotan vorta vaj pra sera sotan. Dar šaj kerel te aćares tut ke naj tut pača ando stato, naj tut ravda aj san sera xolariko, vaj maj vušoro kerdos tristo aj les tut te roves.</p>
+<p type="title">Daras karing e dar</p>
+<p>Dar del le manušes bare aj zurale reaktcija ando stato ke univar aćarel o manuš ke merel vaj ke dilajlo. Kana nakhalan e dar šaj avel tuke defjal phares aj zumaves te na kerdol inke maj jek data. Atunči šaj lel le manuš dar karing e dar. Godo bušol ažukeri dar.</p>
+<p>Šaj kerdos savarime te les e dar kana kaver manuš si paša tute, aj si tuke phares te phenes lenge. Godo kerel univar ke či maj san ande jek than kavre manušens kaj tu čačes kames te dikhes vaj te keres kaver źeli kaj čačes kames te keres. E dar karing e dar phandel tut ande čire džeseke źeli.</p>
+<p>Te na keres źeli kaj tu gindis ke del tut dar naj mišto, ke atunči kerdol e dar maj nasul. Atunči trubos te rodes ažutimas angla so maj kerdol maj nasul. Si laśo ažutimos.</p>
+<p type="title">So šaj kerav me korkoro?</p>
+<p>Si sastarimos pe o nasvalimos e dar. Butivar šaj korkoro sastares tut khatar e dar. Khate si tut sera laśe idéori.</p>
+<list><p type="listitem">Univar ažutil te des duma pa čiri dar kaj jek źene kaj tu pačas tut. Te thos vorbi pe godo kaj si tuke phares maj vušoril-pe te des tu gindo aj te aćares so si.</p>
+<p type="listitem">Kaj but źene vušoril-pe lenge te ramon tele godo vaj te makhen patretsi vaj te keren kaver bući vastensa.</p>
+<p type="listitem">Pritisko (stresso) kerel te les maj but dar. Te san pritisko, trubos te kerel kaver fjalo te na aves pritiskime, atunči vi xansol e dar.</p>
+<p type="listitem">Šaj miškis tut te kovlos. Po Interneto šaj cirdes dele vaj šaj kines jek cd pe patika.</p>
+<p type="listitem">Dar kerel butivar ke soves čores. Te dashtis te soves mišto xansol e dar. Anda godo si važno te zumaves te soves vorta.</p>
+<p type="listitem">E dar šaj xansol te miškisa tut aj te trenis vaj te phires tuke delal avri.</p>
+<p type="listitem">Te phesa duhano, burnutotis, phes řećija vaj phes pra but kafa šaj zumaves te na keres godo pra but aj te dikhes te ažutila tut godo. Pherdo nikotino aj kofeino kerel te les maj xor e dar aj či biris te soves mišto</p>
+<p type="listitem">Šaj gines pa dar vaj te les ažutimos khatar kaver źene, sar eksemplo po Inerneto. Si organisatciji kaj źas andre te les ažutimos aj sar te keres.</p>
+<p type="listitem">Te kamesa te des duma varikasa, šaj atunči mares telefono kaj godola telefonosko ažutimata kaj si.</p>
+</list><p>Te na phes řećija vaj te les kaver draba te xansol e dar. Aćardol sar ke ažutil ando godo momento, numa e dar avel palpale aj atunči site avela inka maj nasul e dar.</p>
+<p type="title">Savatar ažutimos šaj les?</p>
+<p>Šaj les ažutimos aj sastarimos khatar e dar. O normalno ažutimos si ande jek forma te des duma varikasa, draba vaj te miškis tut te kovlol o stato.</p>
+<p>Godo kaj ažutil tut či trubol te avel laśo kaj jek kaver źeno. Anda godo važno si te les ažutimos kaj si malado pala tute aj godo so trubol tut.</p>
+<p>Šaj les tut anda gor te les kontakto me jek ternengo-čidinimos, studentongo sastarimos vaj kaj jek sastarimasko kher. Te trubola šaj godo źeno kaj ažutil tut te les kontakto, sar eksemplo kaj jek psykologo vaj doktoro.</p>
+</body></document>

@@ -1,93 +1,53 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>2120</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Kana-e-glata-kerdol-ternimata</origFileName>
-    <parallel_text xml:lang="fin" location="murrosika.html"/>
-    <parallel_text xml:lang="fit" location="pyberteetti.html"/>
-    <parallel_text xml:lang="sma" location="puberteete.html"/>
-    <parallel_text xml:lang="sme" location="ravasmanahki.html"/>
-    <parallel_text xml:lang="smj" location="pubertahtta.html"/>
-    <parallel_text xml:lang="swe" location="puberteten.html"/>
-    <parallel_text location="puberteten.html" xml:lang="rmu"/>
-    <parallel_text location="puberiteti.html" xml:lang="rmf"/>
-    <parallel_text location="puberteto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="puberteti.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kana e glata kerdol ternimata</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Kana e glata kerdol ternimata</p>
-    <p xml:lang="swe">Maškar kana o manuš si 10 aj 13 beršengo, atunči but žene den andre te kerdon ternimata. Kana o manuš kerdol ternimata pařudol pe o stato khatar jek glata aj kerdol jek ternimata. Sar eksemplo pařudol pe o hango, o manuš šaj lel phugňa aj o manuš lel pe te avel lenge intresantno pa kamlimos.</p>
-    <p xml:lang="swe">O ternimos del pe jag khatar hormonori. Hormonori si jek khotor kaj kerdol ando statoske masore. Le hormonori mezajin le statos te phirel pe pherdo fjalori. Sar eksemplo puřončin von e lindri, ce vučo si o rat, sar si le manušeske aj sode paj si le manušes ando stato. Le hormonori si vi kaj puřončin sode aj kana o stato te pařudol pe.</p>
-    <p xml:lang="swe">Kana o manuš kerdol ternimata aj sar o manuš ačarel pe, godo maladol pe pala manušeste. Uni manuš ažukeren te avel o žuvlikano šon aj uni te kerdon šorvale jipon aver žene si lenge čino.</p>
-    <p xml:lang="swe">Te avela sigo vaj te lela lungo vramja te kerdol o manuš ternimata, naj vareso kaj o manuš dashtil te puřončil opral. Kaj šeja te kerdon ternimata si kana von si maškar 10 aj 12 beršenge aj pe šave si maškar 11 aj 13 beršenge. Normalno si te kerdol vi sigo aj lel vi vramja. Sode phuro si o manuš kana kerdon ternimata si vi but pala e vica.</p>
-    <p xml:lang="swe">Antrego vramja te kerdos ternimata lel ži khatar panž zi kaj šov berš aj antrego vramja maladol pe če sigo žal vaj ke niči. Kana o manuš lundžol sigo si kana lel pe te kerdos ternimata. Univar šaj ačarel pe o manuš ke sa pherel anda le manušeske vast, numa godo si ke uni khotora pe o stato či barol sa ande jek data. Sar eksemplo butivar barol le vast aj le purne pherdo anglunes.</p>
-    <p xml:lang="swe">Kana o manus del avri anda ternimos atunči o manuš barila gata pe vučimos.</p>
-    <p type="title" xml:lang="swe">Te aves ternimata</p>
-    <p xml:lang="swe">Butivar ašunel o manuš ke phares si e vramja kana kerdos ternimata. Godo šaj avel kaj uni manuš, numa na kaj sa le manuš. Kaj uni si lenge den drag aj laši vramja ando traijo, kana kerdol neve bučia le manušesa aj vi kruglom le manušes. Kaj but manuš si lenge drago te baron aj te avel len maj phuro stato aj muj, numa na svako manuš. Univar šaj ačardol zavarimos kana o stato pařudol pe, aj univar šaj avel ke o manuš či ačarel.</p>
-    <p xml:lang="swe">Univar šaj ačardol ke si gindori aj si le manušeske mušaj, sar eksemplo sar trubúl o manuš te anel, te anel sar jek šej vaj ke murš. Phure šaj avel len gindori sar ternimata trubún te <span type="quote" xml:lang="swe">”aven”</span>, kaj šaj avel jek negativno vorba, sar ternimata si čino aj maren pe. O manuš trubúl te serel ke naj slobodo te aves čořo khatar jek aver manuš, aj o manuš si les čačimos te avel godo sar vo kamel.</p>
-    <p xml:lang="swe">Te si te ačarelo o manuš ke pharimos si, šaj avel mišto te del duma o manuš varekasa. Godo šaj avel sar eksemplo la školaki lugerica, školako kuratori vaj varekon pe ternimatengi špita.</p>
-    <p type="title" xml:lang="swe">So kerdol kana o manuš si ternimata?</p>
-    <p type="title" xml:lang="swe">Čuča</p>
-    <p xml:lang="swe">Pe šeja si o angluno semno ke barol pe lende le čuča kana kerdon ternimata. Godo šaj dikhel o manuš ke barila sar cinoře xorale kompori palal e nok. O kombo ande čuči si kaj barol. Na le čuča baron šaj xaronden aj dukhade le. Vi normalno si te dukhal te malavela pe o manuš vaj avel vareso karing le čucča pra zurales.</p>
-    <p xml:lang="swe">Butivar barol jek čuči anglunes angla e aver čuči. Normalno si te baron le čuča ande pesko takto, jek šaj barol maj sigo aj e aver le jek vramja, numa vi le duj čuča baron.</p>
-    <p xml:lang="swe">Pašte dopaš anda sa le murš barol lenge čučake kombori aj vi o manuš biril te dikhel aj vi ačardol sar jek cinořo kombo telal jek muk vaj vi le muka. La čučiake kombori šaj ačardon jek sera dukhade, numa naj bajo. Pala jek vramja kerdol la čučaki kombo pale cinořo. Godo šaj lel duj kaj trin berš.</p>
-    <p type="title" xml:lang="swe">Bal pe o stato</p>
-    <p xml:lang="swe">Kana kerdos ternimata barol vi bal telal, pe miš aj pe o kar. Le bal len pe te baron opral aj kring i ija. Vi murš aj šeja šaj barol lenge bal khatar o buriko.</p>
-    <p xml:lang="swe">Le manušeske barol vi bal telal e takh aj normalno barol le bal pe o stato maj but sar pe kaver thana pe o stato, sar eksemplo pe le vast aj le purne. Murš šaj barol lenge bal vi pe le zeja aj pe o kolin.</p>
-    <p xml:lang="swe">Pe le murš barol lenge šor. Godo lel pe butivar pe le vuš opral purme žal godo pe le buši aj pe e falka. Kaj uni murš barol le bal te butol aj zuravol vi kana si phure.</p>
-    <p xml:lang="swe">Kana manuš si ternimata erdon le bal pe o šero vušoro melale aj čikenale sar maj anglal. Godo si ke le kombori pe o statosko čiken lašaren maj but čiken. Anda godo trubúl o manuš te xalaven maj butivar le bal.</p>
-    <p type="title" xml:lang="swe">Miš</p>
-    <p xml:lang="swe">E miš pařudol pe kana kerdos ternimata, vi o barimos aj farba. Le statoske čikeneske kombori len pe te dičon maj but, aj maj dičol pe ke si semnori aj cinoře, cinoře kombori kaj si normalno aj naj darane. Paja aj kaver statoske pixa len pe te kerdon telal ande miš aj vi khandel vi kaver fjalo sar angla.</p>
-    <p xml:lang="swe">Pe šeja kerdon le avral aj le andral le mišake vuš te kerdon maj zurale aj tunaričo. Butivar barol o andralono mišaki vuš da dičol vi avral. Vi o lindiko barol. E miš, materica aj le žuvlikane anreske droma kaj si andral ando stato vi barol. Le žuvlikane anre len pe.</p>
-    <p xml:lang="swe">Pe murš si le pele te baron. Vi o pelo aj o kar barol aj kerdol baro aj le pele kerdon maj tunariča. Sode barol o kar maladol pe pala svako manuš. Vi andral le kombori kaj bušol prostata aj getzoske gone baron. Le kareski morči buflol aj barol aj telal le kareski morči lel pe smegman, jek parno paj sar pixa, te barol</p>
-    <p type="title" xml:lang="swe">Getzo</p>
-    <p xml:lang="swe">Kana le pele baron šaj aven jek sera dukhade. Godo si jek semno ke lel pe te kerdol getzo. Godo kerdol kana si jek murš 14-15 beršengo, numa vi šaj lel pe vi maj sigo vaj lel vramja. Te avela getzo kana mukhel pe jek murš, atunči si gata murš. Atunči biril jek murš te kerel jek žuvlia ande Devleske vast. Tela ternimata si normalno ke mukhel pe o murš tela e ŕat kana o murš sovel. Kaj uni murš kerdol godo jek vaj ke duvar jipon aver murš si len svako ŕat mukhen pe kana soven tela pherdo berš.</p>
-    <p type="title" xml:lang="swe">Pixa</p>
-    <p xml:lang="swe">Angla so avel o žuvlikano šon pičal pixa. Godo dikhel o manuš ke kerdol sar parno aj galbeno pixa ande le sost’a. Le pixa keren ke le pixa ande miš inkerdon činge, aj inkerel e miš vuži aj lel sama te na lel o manuš infektatcija.</p>
-    <p type="title" xml:lang="swe">Žuvlikano šon</p>
-    <p xml:lang="swe">Kana avel o žuvlikano šon si ke lel pe le zuvlikane anre te aven. Godo si ke kerdilan žuvli, atunči šaj kerdol e žuvli ande Devleske vast aj šaj avel la glati.</p>
-    <p xml:lang="swe">Angluno žuvlikano šon avel pašte pala duj berš kana aba barile le čuča. Butivar lel pe te avel jek sera rat ande le sost’a vaj pe e hirtija kana o manuš kosel pe.</p>
-    <p xml:lang="swe">Vi normalno si te avel melaxno pixa angla so avel o žuvlikano šon. Godo si ke o stato phenel ke akanaš avel o žuvlikano šon. Hamime rat ande pixa si butivar tunariča aj melaxne, godo si ke o rat šučol jek sera angla so avel avri.</p>
-    <p xml:lang="swe">Anda gor si normalno ke či avel o žuvlikano šon pe vramja. Sar eksemplo šaj avel o zuvlikano šon aj purme lel pherdo šona kana avel palpale o žuvlikano šon. Godo si normalno aj naj darani buči.</p>
-    <p type="title" xml:lang="swe">Buflol te kamel pe</p>
-    <p xml:lang="swe">O manus kerdol šingesko, te khelel pe peska korkoro vaj te kamel pe e jek kaver fjalo aj lel orgazmo angla so kerdile murš vaj žuvli. Numa kana si murš aj žuvli buflol aj roden te kamen pe. Vi te khelde pe pesa korkora kana aba sas terne, si kana kerdon ternimata aj kana khelen pe pesa korkoro si kaj ačaren so keren. But manuš den pe gindo butivar pe želi kaj si pa buledimos aj normalno si te lel pe o manuš te del pe gindos ar site ačardol e angluni data.</p>
-    <p xml:lang="swe">Kaj murš šaj le gindori pa buledimos avel lenge maj vušoro te važdel pe. Univar šaj maladol ke godo kerdol anda peste korkoro. Godo sar eksemplo šaj avel kan jek murš bešel pe o buso kaj trintol pe vaj kana traden pe cikla pe jek drom kaj si kišaj. O tritimos kerel te žal signalori anda jek data kaj o kar, bi te nakhel khatar o šero. Godo šaj pherel lenge lažav aj o manuš gindil ke ferdi lende si godo, ke važdel pe o kar bi te kamen, numa čačes si godo de fjal normalno.</p>
-    <p type="title" xml:lang="swe">Morči</p>
-    <p xml:lang="swe">Vorta sar le bal kerdon maj čikenale, kerdol vi e morči maj čikenalo. Godo si ke le statoske čikenale kombori lašaren maj but čiken sar maj anglal, univar vi maj but so trubúl. O manuš dikhel godo ke e morči maj strefjal, maj but kruglom o nakh aj pe e čikat, numa vi pe le buši aj pe le zejia. E morči kaj kerdol čikenali šaj kerel te lel o manuš phugnalo aj cinoře phugna.</p>
-    <p xml:lang="swe">Tela o ternimos šaj lel vi o manuš pařadi morči, godo bušol pařadi morči. E morči cirdel maj but avri kana baron aj naj vramja le statos te malavel kana baron. Pe šeja si normalno ke len pařadi morči khatar le čuča, pe le kičori aj pe le pulpi. Pe le murš si normalno pe le zeja aj pe le dume. E pařadi morči hulel tele vramjsa.</p>
-    <p type="title" xml:lang="swe">Paja</p>
-    <p xml:lang="swe">O manuš lel pe vi te šurel les paja maj but kana si ternemata, ando godo si važno te xalavel pe o manuš svako džes. Te si te ačarela o manuš ke trubúla te phiraves deodoranto telal le takha, šaj kerel o manuš godo.</p>
-    <p type="title" xml:lang="swe">Hango</p>
-    <p xml:lang="swe">Vorta sar antrego stato pařudol pe, pařudol pe vi o hango tela o ternimos. La koŕako šero barol aj o hango kerdol vi maj lungo aj o hango kerdol maj tunaričo, godo si e vramja kaj bušol hangosko pařudinomos. Vi pe murš aj vi pe žuvlia kerdol godo. Pe le murš maj but pařudol pe sar pe šeja aj sar jek murš si leske univar phares te puřočil opral pa o hango. Univar šaj ašundol sera staxome vaj pařudol pe maškar sano aj tunariko tela jek vramja angla so kerdol tunariko aj zuralo.</p>
-    <p type="title" xml:lang="swe">O stato barol aj pařudol pe</p>
-    <p xml:lang="swe">Anda gor anda ternimos barol butivar le vast aj le purne de fjal sigo. Purme baron le vast aj le purne. Pala godo vučol o manuš. O manuš šaj vučol pherdo centimetri pe ferdi uni šona. Butivar phenel o manuš ke si sigo vučimos.</p>
-    <p xml:lang="swe">Stato či ferdi barol po vučimos numa vi pařuvel vi e forma. Le šeja butivar buflon lenge kičori aj le murš buflon opral pa o kolin.</p>
-    <p type="title" xml:lang="swe">Vramja aj purme ternimos</p>
-    <p xml:lang="swe">Kana lel pe o ternimos naj sa jek fjalo aj maladol pe pala le manušeski vica. Te avel o manuš ande sigo ternimos šaj avel vi den drag aj vi phares. Te avel o manuš pra sigo ando ternimos, angla so pherdila oxto beršengo sar jek šej vaj inja beršengo sar jek murš, si de fjal čuda. Te lela o manuš semnori sar jek ternimata ande godola berš trubúl o manuš te del duma le njamonsa vaj jek aver manuš kaj puřončil pe tute aj te les kontakto la školaki lugerica vaj kaj e špita.</p>
-    <p xml:lang="swe">Te či la o manuš le semnori te kerdon ternimata kana si o manuš 14 beršengo, bušol godo ke pra pozno si e ternims pe o manuš. Atunči šaj o manuš del duma peske njamonsa vaj jek kaver manuš kaj puřončil pe tute aj ande jek than lensa vaj vi korkoro šaj len kontakto me la školaki lugerica, ternimatengi špita vaj kaj e špita. Te trubúla šaj thon o ternimos te del pe jag maj sigo ažutimasa drabensa. O manuš korkoro či biril te kerel vareso te del jag o ternimos.</p>
-    <p xml:lang="swe">Te ačarela o manuš ke phares si ke ci barol o manuš sa jek fjalo sar le baratori, šaj avel mišto te den pe duma varekasa, sar eksemplo si la školaki lugerica kaj si jek lašo manuš kaj šaj boldel pe karing. Žal pe te rodel o manuš ažutimos kaj ternimatengi špita vaj špita.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>2115</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Kana-e-glata-kerdol-ternimata</origFileName><parallel_text xml:lang="fin" location="murrosika.html"/><parallel_text xml:lang="fit" location="pyberteetti.html"/><parallel_text xml:lang="sma" location="puberteete.html"/><parallel_text xml:lang="sme" location="ravasmanahki.html"/><parallel_text xml:lang="smj" location="pubertahtta.html"/><parallel_text xml:lang="swe" location="puberteten.html"/><parallel_text location="puberteten.html" xml:lang="rmu"/><parallel_text location="puberiteti.html" xml:lang="rmf"/><parallel_text location="puberteto.html" xml:lang="rmy-rlo"/><parallel_text location="puberteti.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kana e glata kerdol ternimata</p>
+<p type="title">Kana e glata kerdol ternimata</p>
+<p>Maškar kana o manuš si 10 aj 13 beršengo, atunči but žene den andre te kerdon ternimata. Kana o manuš kerdol ternimata pařudol pe o stato khatar jek glata aj kerdol jek ternimata. Sar eksemplo pařudol pe o hango, o manuš šaj lel phugňa aj o manuš lel pe te avel lenge intresantno pa kamlimos.</p>
+<p>O ternimos del pe jag khatar hormonori. Hormonori si jek khotor kaj kerdol ando statoske masore. Le hormonori mezajin le statos te phirel pe pherdo fjalori. Sar eksemplo puřončin von e lindri, ce vučo si o rat, sar si le manušeske aj sode paj si le manušes ando stato. Le hormonori si vi kaj puřončin sode aj kana o stato te pařudol pe.</p>
+<p>Kana o manuš kerdol ternimata aj sar o manuš ačarel pe, godo maladol pe pala manušeste. Uni manuš ažukeren te avel o žuvlikano šon aj uni te kerdon šorvale jipon aver žene si lenge čino.</p>
+<p>Te avela sigo vaj te lela lungo vramja te kerdol o manuš ternimata, naj vareso kaj o manuš dashtil te puřončil opral. Kaj šeja te kerdon ternimata si kana von si maškar 10 aj 12 beršenge aj pe šave si maškar 11 aj 13 beršenge. Normalno si te kerdol vi sigo aj lel vi vramja. Sode phuro si o manuš kana kerdon ternimata si vi but pala e vica.</p>
+<p>Antrego vramja te kerdos ternimata lel ži khatar panž zi kaj šov berš aj antrego vramja maladol pe če sigo žal vaj ke niči. Kana o manuš lundžol sigo si kana lel pe te kerdos ternimata. Univar šaj ačarel pe o manuš ke sa pherel anda le manušeske vast, numa godo si ke uni khotora pe o stato či barol sa ande jek data. Sar eksemplo butivar barol le vast aj le purne pherdo anglunes.</p>
+<p>Kana o manus del avri anda ternimos atunči o manuš barila gata pe vučimos.</p>
+<p type="title">Te aves ternimata</p>
+<p>Butivar ašunel o manuš ke phares si e vramja kana kerdos ternimata. Godo šaj avel kaj uni manuš, numa na kaj sa le manuš. Kaj uni si lenge den drag aj laši vramja ando traijo, kana kerdol neve bučia le manušesa aj vi kruglom le manušes. Kaj but manuš si lenge drago te baron aj te avel len maj phuro stato aj muj, numa na svako manuš. Univar šaj ačardol zavarimos kana o stato pařudol pe, aj univar šaj avel ke o manuš či ačarel.</p>
+<p>Univar šaj ačardol ke si gindori aj si le manušeske mušaj, sar eksemplo sar trubúl o manuš te anel, te anel sar jek šej vaj ke murš. Phure šaj avel len gindori sar ternimata trubún te <span type="quote">”aven”</span>, kaj šaj avel jek negativno vorba, sar ternimata si čino aj maren pe. O manuš trubúl te serel ke naj slobodo te aves čořo khatar jek aver manuš, aj o manuš si les čačimos te avel godo sar vo kamel.</p>
+<p>Te si te ačarelo o manuš ke pharimos si, šaj avel mišto te del duma o manuš varekasa. Godo šaj avel sar eksemplo la školaki lugerica, školako kuratori vaj varekon pe ternimatengi špita.</p>
+<p type="title">So kerdol kana o manuš si ternimata?</p>
+<p type="title">Čuča</p>
+<p>Pe šeja si o angluno semno ke barol pe lende le čuča kana kerdon ternimata. Godo šaj dikhel o manuš ke barila sar cinoře xorale kompori palal e nok. O kombo ande čuči si kaj barol. Na le čuča baron šaj xaronden aj dukhade le. Vi normalno si te dukhal te malavela pe o manuš vaj avel vareso karing le čucča pra zurales.</p>
+<p>Butivar barol jek čuči anglunes angla e aver čuči. Normalno si te baron le čuča ande pesko takto, jek šaj barol maj sigo aj e aver le jek vramja, numa vi le duj čuča baron.</p>
+<p>Pašte dopaš anda sa le murš barol lenge čučake kombori aj vi o manuš biril te dikhel aj vi ačardol sar jek cinořo kombo telal jek muk vaj vi le muka. La čučiake kombori šaj ačardon jek sera dukhade, numa naj bajo. Pala jek vramja kerdol la čučaki kombo pale cinořo. Godo šaj lel duj kaj trin berš.</p>
+<p type="title">Bal pe o stato</p>
+<p>Kana kerdos ternimata barol vi bal telal, pe miš aj pe o kar. Le bal len pe te baron opral aj kring i ija. Vi murš aj šeja šaj barol lenge bal khatar o buriko.</p>
+<p>Le manušeske barol vi bal telal e takh aj normalno barol le bal pe o stato maj but sar pe kaver thana pe o stato, sar eksemplo pe le vast aj le purne. Murš šaj barol lenge bal vi pe le zeja aj pe o kolin.</p>
+<p>Pe le murš barol lenge šor. Godo lel pe butivar pe le vuš opral purme žal godo pe le buši aj pe e falka. Kaj uni murš barol le bal te butol aj zuravol vi kana si phure.</p>
+<p>Kana manuš si ternimata erdon le bal pe o šero vušoro melale aj čikenale sar maj anglal. Godo si ke le kombori pe o statosko čiken lašaren maj but čiken. Anda godo trubúl o manuš te xalaven maj butivar le bal.</p>
+<p type="title" xml:lang="swe">Miš</p>
+<p>E miš pařudol pe kana kerdos ternimata, vi o barimos aj farba. Le statoske čikeneske kombori len pe te dičon maj but, aj maj dičol pe ke si semnori aj cinoře, cinoře kombori kaj si normalno aj naj darane. Paja aj kaver statoske pixa len pe te kerdon telal ande miš aj vi khandel vi kaver fjalo sar angla.</p>
+<p>Pe šeja kerdon le avral aj le andral le mišake vuš te kerdon maj zurale aj tunaričo. Butivar barol o andralono mišaki vuš da dičol vi avral. Vi o lindiko barol. E miš, materica aj le žuvlikane anreske droma kaj si andral ando stato vi barol. Le žuvlikane anre len pe.</p>
+<p>Pe murš si le pele te baron. Vi o pelo aj o kar barol aj kerdol baro aj le pele kerdon maj tunariča. Sode barol o kar maladol pe pala svako manuš. Vi andral le kombori kaj bušol prostata aj getzoske gone baron. Le kareski morči buflol aj barol aj telal le kareski morči lel pe smegman, jek parno paj sar pixa, te barol</p>
+<p type="title">Getzo</p>
+<p>Kana le pele baron šaj aven jek sera dukhade. Godo si jek semno ke lel pe te kerdol getzo. Godo kerdol kana si jek murš 14-15 beršengo, numa vi šaj lel pe vi maj sigo vaj lel vramja. Te avela getzo kana mukhel pe jek murš, atunči si gata murš. Atunči biril jek murš te kerel jek žuvlia ande Devleske vast. Tela ternimata si normalno ke mukhel pe o murš tela e ŕat kana o murš sovel. Kaj uni murš kerdol godo jek vaj ke duvar jipon aver murš si len svako ŕat mukhen pe kana soven tela pherdo berš.</p>
+<p type="title" xml:lang="swe">Pixa</p>
+<p>Angla so avel o žuvlikano šon pičal pixa. Godo dikhel o manuš ke kerdol sar parno aj galbeno pixa ande le sost’a. Le pixa keren ke le pixa ande miš inkerdon činge, aj inkerel e miš vuži aj lel sama te na lel o manuš infektatcija.</p>
+<p type="title">Žuvlikano šon</p>
+<p>Kana avel o žuvlikano šon si ke lel pe le zuvlikane anre te aven. Godo si ke kerdilan žuvli, atunči šaj kerdol e žuvli ande Devleske vast aj šaj avel la glati.</p>
+<p>Angluno žuvlikano šon avel pašte pala duj berš kana aba barile le čuča. Butivar lel pe te avel jek sera rat ande le sost’a vaj pe e hirtija kana o manuš kosel pe.</p>
+<p>Vi normalno si te avel melaxno pixa angla so avel o žuvlikano šon. Godo si ke o stato phenel ke akanaš avel o žuvlikano šon. Hamime rat ande pixa si butivar tunariča aj melaxne, godo si ke o rat šučol jek sera angla so avel avri.</p>
+<p>Anda gor si normalno ke či avel o žuvlikano šon pe vramja. Sar eksemplo šaj avel o zuvlikano šon aj purme lel pherdo šona kana avel palpale o žuvlikano šon. Godo si normalno aj naj darani buči.</p>
+<p type="title">Buflol te kamel pe</p>
+<p>O manus kerdol šingesko, te khelel pe peska korkoro vaj te kamel pe e jek kaver fjalo aj lel orgazmo angla so kerdile murš vaj žuvli. Numa kana si murš aj žuvli buflol aj roden te kamen pe. Vi te khelde pe pesa korkora kana aba sas terne, si kana kerdon ternimata aj kana khelen pe pesa korkoro si kaj ačaren so keren. But manuš den pe gindo butivar pe želi kaj si pa buledimos aj normalno si te lel pe o manuš te del pe gindos ar site ačardol e angluni data.</p>
+<p>Kaj murš šaj le gindori pa buledimos avel lenge maj vušoro te važdel pe. Univar šaj maladol ke godo kerdol anda peste korkoro. Godo sar eksemplo šaj avel kan jek murš bešel pe o buso kaj trintol pe vaj kana traden pe cikla pe jek drom kaj si kišaj. O tritimos kerel te žal signalori anda jek data kaj o kar, bi te nakhel khatar o šero. Godo šaj pherel lenge lažav aj o manuš gindil ke ferdi lende si godo, ke važdel pe o kar bi te kamen, numa čačes si godo de fjal normalno.</p>
+<p type="title">Morči</p>
+<p>Vorta sar le bal kerdon maj čikenale, kerdol vi e morči maj čikenalo. Godo si ke le statoske čikenale kombori lašaren maj but čiken sar maj anglal, univar vi maj but so trubúl. O manuš dikhel godo ke e morči maj strefjal, maj but kruglom o nakh aj pe e čikat, numa vi pe le buši aj pe le zejia. E morči kaj kerdol čikenali šaj kerel te lel o manuš phugnalo aj cinoře phugna.</p>
+<p>Tela o ternimos šaj lel vi o manuš pařadi morči, godo bušol pařadi morči. E morči cirdel maj but avri kana baron aj naj vramja le statos te malavel kana baron. Pe šeja si normalno ke len pařadi morči khatar le čuča, pe le kičori aj pe le pulpi. Pe le murš si normalno pe le zeja aj pe le dume. E pařadi morči hulel tele vramjsa.</p>
+<p type="title">Paja</p>
+<p>O manuš lel pe vi te šurel les paja maj but kana si ternemata, ando godo si važno te xalavel pe o manuš svako džes. Te si te ačarela o manuš ke trubúla te phiraves deodoranto telal le takha, šaj kerel o manuš godo.</p>
+<p type="title">Hango</p>
+<p>Vorta sar antrego stato pařudol pe, pařudol pe vi o hango tela o ternimos. La koŕako šero barol aj o hango kerdol vi maj lungo aj o hango kerdol maj tunaričo, godo si e vramja kaj bušol hangosko pařudinomos. Vi pe murš aj vi pe žuvlia kerdol godo. Pe le murš maj but pařudol pe sar pe šeja aj sar jek murš si leske univar phares te puřočil opral pa o hango. Univar šaj ašundol sera staxome vaj pařudol pe maškar sano aj tunariko tela jek vramja angla so kerdol tunariko aj zuralo.</p>
+<p type="title">O stato barol aj pařudol pe</p>
+<p>Anda gor anda ternimos barol butivar le vast aj le purne de fjal sigo. Purme baron le vast aj le purne. Pala godo vučol o manuš. O manuš šaj vučol pherdo centimetri pe ferdi uni šona. Butivar phenel o manuš ke si sigo vučimos.</p>
+<p>Stato či ferdi barol po vučimos numa vi pařuvel vi e forma. Le šeja butivar buflon lenge kičori aj le murš buflon opral pa o kolin.</p>
+<p type="title">Vramja aj purme ternimos</p>
+<p>Kana lel pe o ternimos naj sa jek fjalo aj maladol pe pala le manušeski vica. Te avel o manuš ande sigo ternimos šaj avel vi den drag aj vi phares. Te avel o manuš pra sigo ando ternimos, angla so pherdila oxto beršengo sar jek šej vaj inja beršengo sar jek murš, si de fjal čuda. Te lela o manuš semnori sar jek ternimata ande godola berš trubúl o manuš te del duma le njamonsa vaj jek aver manuš kaj puřončil pe tute aj te les kontakto la školaki lugerica vaj kaj e špita.</p>
+<p>Te či la o manuš le semnori te kerdon ternimata kana si o manuš 14 beršengo, bušol godo ke pra pozno si e ternims pe o manuš. Atunči šaj o manuš del duma peske njamonsa vaj jek kaver manuš kaj puřončil pe tute aj ande jek than lensa vaj vi korkoro šaj len kontakto me la školaki lugerica, ternimatengi špita vaj kaj e špita. Te trubúla šaj thon o ternimos te del pe jag maj sigo ažutimasa drabensa. O manuš korkoro či biril te kerel vareso te del jag o ternimos.</p>
+<p>Te ačarela o manuš ke phares si ke ci barol o manuš sa jek fjalo sar le baratori, šaj avel mišto te den pe duma varekasa, sar eksemplo si la školaki lugerica kaj si jek lašo manuš kaj šaj boldel pe karing. Žal pe te rodel o manuš ažutimos kaj ternimatengi špita vaj špita.</p>
+</body></document>

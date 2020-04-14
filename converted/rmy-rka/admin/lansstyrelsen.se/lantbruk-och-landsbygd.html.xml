@@ -1,57 +1,19 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>358</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-kr/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Gaveski buci taj gav - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Gaveski buci &amp; gav</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Gaveski buci taj gav</p>
-    <p xml:lang="swe"><em type="italic">Länsstyrelsen buciazi te djal e politka katar o EU taj Shvedo pe politika pe agrikultura taj forosko kerajipe te del kodja pe jek regionalno nevelo.Kodja si o gindo te avel kadi buci maj lashi te aresel ande tan te birij te konkuril maj angle taj te djal e naturaki buci angle kana zelenipe bariol ande puv taj pasha kodja te trajil maj dur o barvalo naturako- taj kulturako safo maj angle. Jek zuvindi buci znaci ke avna vi kaver alternativne bucia, lasio serviso taj attraktivne miljö pe kera. </em></p>
-    <p type="title" xml:lang="swe">Animalongo protekcia</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci pushimosa so si pa buci sar te inkrel pe zigenji. Ame keras kontrolli te avel jek lashi zigenji miljö te birin von te trajin maj dur vramasa taj dikas sar von inkerdjion katar penge gazdi pe farmi. Te djal sa kadi buci angle trobuj o habe lenge te avel producirime, kerde taj te aven kodol bucia transportitime. Kadi buci si vi kontrollovano butivar katar Länsstyrelsen taj Jordbruksverket.pe tana so inkren maj but sar 400 vaj maj but animalura trobuj jek slobodia katar Länsstyrelsen. Ame das vi kaver permissi kaj kaver tana so keren buci animalonca, sar exemplo djuklenge skoli taj grastenge skoli.</p>
-    <p type="title" xml:lang="swe">Evulutcia pe gava</p>
-    <p xml:lang="swe">Ame las sama pala svako gav taj pala lenge dikimos so birij te vadel opre jek maj lasio tan. Landsbygdsprogrammet si jek EU-program so del aktoron taj entreprenoron jek psooibilita te birin von te mangen love te birin te startulin firmi vaj te bararen penge firmi taj vi te vazden opre e kompetencia ande firmi.</p>
-    <p type="title" xml:lang="swe">Gaveske bucia</p>
-    <p xml:lang="swe">Länsstyrelsen kerel bucia te kerdjiol evulutcia ande kodja län. Jek zuvindi agrikultura trobuj te avel te avel kado gindo zuvindo kusa tana kaj dashtilte bararel pe zelenipe. Amari sherutni buci si te inkras jek buci so inkerdjiol, si effektivnot haj lasio karring o miljö pala shvedosko taj EU agrikulturaki politika. Kadalesa das ame informatcia kaj e gavutne ando län. Ame las vi mangimos katar manush kana von mangen love katar EU, dikas perdal kodol applikatci, keras kontrolli taj las decizi katar e reguli so aven katar o EU.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>358</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-kr/lantbruk-och-landsbygd/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gaveski buci taj gav - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Gaveski buci &amp; gav</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Gaveski buci taj gav</p>
+<p><em type="italic">Länsstyrelsen buciazi te djal e politka katar o EU taj Shvedo pe politika pe agrikultura taj forosko kerajipe te del kodja pe jek regionalno nevelo.Kodja si o gindo te avel kadi buci maj lashi te aresel ande tan te birij te konkuril maj angle taj te djal e naturaki buci angle kana zelenipe bariol ande puv taj pasha kodja te trajil maj dur o barvalo naturako- taj kulturako safo maj angle. Jek zuvindi buci znaci ke avna vi kaver alternativne bucia, lasio serviso taj attraktivne miljö pe kera. </em></p>
+<p type="title">Animalongo protekcia</p>
+<p>Länsstyrelsen kerel buci pushimosa so si pa buci sar te inkrel pe zigenji. Ame keras kontrolli te avel jek lashi zigenji miljö te birin von te trajin maj dur vramasa taj dikas sar von inkerdjion katar penge gazdi pe farmi. Te djal sa kadi buci angle trobuj o habe lenge te avel producirime, kerde taj te aven kodol bucia transportitime. Kadi buci si vi kontrollovano butivar katar Länsstyrelsen taj Jordbruksverket.pe tana so inkren maj but sar 400 vaj maj but animalura trobuj jek slobodia katar Länsstyrelsen. Ame das vi kaver permissi kaj kaver tana so keren buci animalonca, sar exemplo djuklenge skoli taj grastenge skoli.</p>
+<p type="title">Evulutcia pe gava</p>
+<p>Ame las sama pala svako gav taj pala lenge dikimos so birij te vadel opre jek maj lasio tan. Landsbygdsprogrammet si jek EU-program so del aktoron taj entreprenoron jek psooibilita te birin von te mangen love te birin te startulin firmi vaj te bararen penge firmi taj vi te vazden opre e kompetencia ande firmi.</p>
+<p type="title">Gaveske bucia</p>
+<p>Länsstyrelsen kerel bucia te kerdjiol evulutcia ande kodja län. Jek zuvindi agrikultura trobuj te avel te avel kado gindo zuvindo kusa tana kaj dashtilte bararel pe zelenipe. Amari sherutni buci si te inkras jek buci so inkerdjiol, si effektivnot haj lasio karring o miljö pala shvedosko taj EU agrikulturaki politika. Kadalesa das ame informatcia kaj e gavutne ando län. Ame las vi mangimos katar manush kana von mangen love katar EU, dikas perdal kodol applikatci, keras kontrolli taj las decizi katar e reguli so aven katar o EU.</p>
+</body></document>

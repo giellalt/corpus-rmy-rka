@@ -1,72 +1,32 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1057</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Infektacija-makar-le-purne</origFileName>
-    <parallel_text xml:lang="fin" location="hiivatulehdus.html"/>
-    <parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/>
-    <parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/>
-    <parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/>
-    <parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/>
-    <parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/>
-    <parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/>
-    <parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-    <parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Infektacija maškar le purne</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Infektacija maškar le purne</p>
-    <p xml:lang="swe">Infektacija telal si normalno pašte kaj svako jek. Univar maj butol aj atunči šaj kerdol čino tuke. Gado si maj but kaj žuvlia. Trin khatar štar žuvlia len infektacija telal varekana ando traijo aj kaj but źene avel gado čino palpale maj butivar. Vi murš šaj len gado infektacija. E infektacija naj baro nasvalimos numa šaj avel čino ke butivar xarundel aj votcil.</p>
-    <p type="title" xml:lang="swe">Sostar les čino kana les infektacija</p>
-    <p xml:lang="swe">Konik inke či źanel sostar o manuš le gado infektacija. Šaj avel jek gor, ke kana les draba, sar eksemplo antibiotika, atunči mudarel le laśi bakteriori kaj si normalno telal maškar le purne aj atunči butol e infektacija.</p>
-    <p xml:lang="swe">Infektacija šaj avel ke kana vušoro kerdos nasvali anda varesosko gor, sar eksemplo kerdos nasvaličoso vaj ke pra but bući si tut.</p>
-    <p xml:lang="swe">O kintari pe le hormonori ando stato mešajil univar o balanso. Anda godo si normalno ke les infektacija angla so avel o śon pe e žuvli vaj kana e žuvli si ando Devlesko vast.</p>
-    <p xml:lang="swe">E infektacija naj jek nasvalimos kana jek murš aj žuvlia soven ande jek than. Kana jek murš aj žuvli soven ande jek than šaj pherdon numa naj normalno. E infektacija naštis te pherdos khatar mujesko kamlimos vaj kana źas pe toaleta naštis te pherdos khatar e infektacija varekastar.</p>
-    <p type="title" xml:lang="swe">Sar dikhes ke si tut infektacija?</p>
-    <p xml:lang="swe">Le žuvlia prinžaren kana si len infektacija ke xarundel aj votcil ande miš aj pe le mišake vuš. Le mišake vuš šaj kerdon vi lole aj vi šuvlon. La mišake pixa šaj kerdon parno, šuko aj sar thulo, vi univar šaj avel sano aj vi univar čina naj pix kana si le manušes infektacija.</p>
-    <p xml:lang="swe">Infektacija kerel vi te votcil vaj dukhal kana mutres vaj kana kames tut. Univar šaj les eksema pe le mišake vuš vaj kaj ija.</p>
-    <p xml:lang="swe">Pe jek murš kerdol lesko karesko šero, kar, pele vaj e ija lolo, šuko aj šuki morći kana si les infektacija. Univar šaj kerdol parno pix opral vaj kruglom le karesko šero, telal e kareski morći vaj pe o kar. O pix šaj avel phares te xalaves tele khatar e normalno pix kaj si telal e kareski morći.</p>
-    <p type="title" xml:lang="swe">Sar sastos khatar e infektacija?</p>
-    <p xml:lang="swe">Te si le manušes cinořo čino khatar e infektacija pe miš vaj pe o kar butivar źaltar godo pestar korkoro pala duj-trin džesa bi drabengo. Univar či sastol, vaj xarundel aj votcil kači pherdo ke kames ando sigo te sastol. Te si e angluni data kana les o problemo šaj les kontakto pe jek ternimatengi špita, morći- vaj špita pe murš aj žuvli vaj kaj jek špita te dikhen čačes ke si le manušes infektacija. Te źasa kaj špita von keren atunči rodijimos pe nasvalimata. Butivar sigo źal o rodijimos pe nasvalimata ke von vušoro dikhen te si le manušes infektacija.</p>
-    <p xml:lang="swe">Te sas tut infektacija maj anglal aj prinžares o problemo šaj kines le draba pe patika kaj si pe ivja recepta karing e infektacija. Si sar kremori kaj šaj makhes e miš aj le mišake vuš vaj o kar aj le pele. Kaj žuvlia si vi tableti, kaj bušol vagitorium, kaj makhes le najesa andre ande miš, o kremo si sar jek suv kaj thos andre ande jek cinořo plastikako suv. Pala jek skurto vramja kana thonda le draba šaj votcil aj te xarundol inke maj but, numa butivar načol godo sigo.</p>
-    <p xml:lang="swe">Te thosa o kremo ande sa godola džes atunči butivar ažutil o drab khatar e ivja recepta. Te či načola vaj ke e infektacija avel palpale maj butivar sar duvar dela jek dopaš berš trubos atunči te les kontakto kaj jek ternimatengi špita, morći- vaj špita pe murš aj žuvli vaj kaj jek špita te les ažutimos.</p>
-    <p xml:lang="swe">Važno si te na les le draba pe infektacija pra butivar vaj intajne ke maj phares kerdol te sastos khatar e infektacija delal vaj avel palpale pala jek skurto vramja. Vi šaj šutol avri le mišake pixa aj kerdol dukhadi kaj šaj boldel-pe karing kaver problemori.</p>
-    <p type="title" xml:lang="swe">So keres te na les infektacija?</p>
-    <p xml:lang="swe">Konik inke či źanel sostar o manuš le infektacija telal, phares si te protekcijis tut khatar godo.</p>
-    <p xml:lang="swe">Butivar phenen ke maj sigo les infektacija delal ke či xalaves e miš sapojesa maj butivar. Numa konik či źanel ke si čačes. Te si le manušes infektacija vaj lel butivar infektacija delal aj xalavel butivar šaj avel maj mišto te na xalaves pra butivar. Vaj te si vaj ke naj dosta si te xalaves tut delal jek data ando džes ando na pra tato paj. Te na thos normalno sapoj telal ke šaj šutol avri. Te kamesa maj feder šaj thos vuloj bi parfymako.</p>
-    <p type="title" xml:lang="swe">Pušimata aj advetori pa infektacija telal le purne</p>
-    <p type="title" xml:lang="swe">Šaj les infektacija khatar sost’а, tate aj čidine cali?</p>
-    <p xml:lang="swe">Naj jek čačo profundo ke khatar tate, čidine cali vaj sost’а ke saste avel vaj vušoro te les infektacija telal. Numa te si tut infektacija telal kaj votcil vaj xarundel, maj xanci xarundel te phiraves sost’а kaj si anda bumbako aj te na avel pra čidine cali. Vi šaj ažutil te soves bi sost’аngo aj te san žuvli te na phiraves žuvlikane pharne.</p>
-    <p type="title" xml:lang="swe">Načol e infektacija te makhes tut delal ando šuklo thud?</p>
-    <p xml:lang="swe">Šuklo thud te ažutil karing e infektacija delal naj čačes sa gada sar naj jek čačo profundo ando godo. Numa o šuklo thud šaj aćardol laśo, te na xarundes.</p>
-    <p type="title" xml:lang="swe">Šaj pherdos khatar e infektacija?</p>
-    <p xml:lang="swe">E infektacija naštis te pherdos sar eksemplo khatar e toaleta. Numa šaj pherdos kana kames tut vi te naj normalno źela.</p>
-    <p type="title" xml:lang="swe">Šaj les infektacija te xasa pra but zaro?</p>
-    <p xml:lang="swe">Naj jek čačo profundo ke e infektacija si phanglo ande jek than te xasa pra but zaro. Numa te si tut problemo pe infektacija šaj zumaves te pařuves o xabe te šaj avel tuke maj mišto.</p>
-    <p type="title" xml:lang="swe">Šaj kamel pe o manuš kana si le manušes infektacija?</p>
-    <p xml:lang="swe">Naj bajo te kames tut kana si le manušes infektacija numa le mišake pixa šaj aven jek sera dukhade aj šaj les cinoře pařadimos aj šaj dukhal kana kames tut. Te kames tut si jek cinoři riska ke šaj pheres le kavres ande infektacija. Vi maj bari riska <em type="italic"></em>si te les vaj te pheres le avres ande nasvalimata te kamesa tut, ke e infektacija telal le purne si la cinoře pařadimata pe le mišake pixa kaj šaj kerel maj vušoro te les nasvalimata. </p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1052</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Infektacija-makar-le-purne</origFileName><parallel_text xml:lang="fin" location="hiivatulehdus.html"/><parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/><parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/><parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/><parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/><parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/><parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/><parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/><parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/><parallel_text location="parnothavdipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Infektacija maškar le purne</p>
+<p type="title">Infektacija maškar le purne</p>
+<p>Infektacija telal si normalno pašte kaj svako jek. Univar maj butol aj atunči šaj kerdol čino tuke. Gado si maj but kaj žuvlia. Trin khatar štar žuvlia len infektacija telal varekana ando traijo aj kaj but źene avel gado čino palpale maj butivar. Vi murš šaj len gado infektacija. E infektacija naj baro nasvalimos numa šaj avel čino ke butivar xarundel aj votcil.</p>
+<p type="title">Sostar les čino kana les infektacija</p>
+<p>Konik inke či źanel sostar o manuš le gado infektacija. Šaj avel jek gor, ke kana les draba, sar eksemplo antibiotika, atunči mudarel le laśi bakteriori kaj si normalno telal maškar le purne aj atunči butol e infektacija.</p>
+<p>Infektacija šaj avel ke kana vušoro kerdos nasvali anda varesosko gor, sar eksemplo kerdos nasvaličoso vaj ke pra but bući si tut.</p>
+<p>O kintari pe le hormonori ando stato mešajil univar o balanso. Anda godo si normalno ke les infektacija angla so avel o śon pe e žuvli vaj kana e žuvli si ando Devlesko vast.</p>
+<p>E infektacija naj jek nasvalimos kana jek murš aj žuvlia soven ande jek than. Kana jek murš aj žuvli soven ande jek than šaj pherdon numa naj normalno. E infektacija naštis te pherdos khatar mujesko kamlimos vaj kana źas pe toaleta naštis te pherdos khatar e infektacija varekastar.</p>
+<p type="title">Sar dikhes ke si tut infektacija?</p>
+<p>Le žuvlia prinžaren kana si len infektacija ke xarundel aj votcil ande miš aj pe le mišake vuš. Le mišake vuš šaj kerdon vi lole aj vi šuvlon. La mišake pixa šaj kerdon parno, šuko aj sar thulo, vi univar šaj avel sano aj vi univar čina naj pix kana si le manušes infektacija.</p>
+<p>Infektacija kerel vi te votcil vaj dukhal kana mutres vaj kana kames tut. Univar šaj les eksema pe le mišake vuš vaj kaj ija.</p>
+<p>Pe jek murš kerdol lesko karesko šero, kar, pele vaj e ija lolo, šuko aj šuki morći kana si les infektacija. Univar šaj kerdol parno pix opral vaj kruglom le karesko šero, telal e kareski morći vaj pe o kar. O pix šaj avel phares te xalaves tele khatar e normalno pix kaj si telal e kareski morći.</p>
+<p type="title">Sar sastos khatar e infektacija?</p>
+<p>Te si le manušes cinořo čino khatar e infektacija pe miš vaj pe o kar butivar źaltar godo pestar korkoro pala duj-trin džesa bi drabengo. Univar či sastol, vaj xarundel aj votcil kači pherdo ke kames ando sigo te sastol. Te si e angluni data kana les o problemo šaj les kontakto pe jek ternimatengi špita, morći- vaj špita pe murš aj žuvli vaj kaj jek špita te dikhen čačes ke si le manušes infektacija. Te źasa kaj špita von keren atunči rodijimos pe nasvalimata. Butivar sigo źal o rodijimos pe nasvalimata ke von vušoro dikhen te si le manušes infektacija.</p>
+<p>Te sas tut infektacija maj anglal aj prinžares o problemo šaj kines le draba pe patika kaj si pe ivja recepta karing e infektacija. Si sar kremori kaj šaj makhes e miš aj le mišake vuš vaj o kar aj le pele. Kaj žuvlia si vi tableti, kaj bušol vagitorium, kaj makhes le najesa andre ande miš, o kremo si sar jek suv kaj thos andre ande jek cinořo plastikako suv. Pala jek skurto vramja kana thonda le draba šaj votcil aj te xarundol inke maj but, numa butivar načol godo sigo.</p>
+<p>Te thosa o kremo ande sa godola džes atunči butivar ažutil o drab khatar e ivja recepta. Te či načola vaj ke e infektacija avel palpale maj butivar sar duvar dela jek dopaš berš trubos atunči te les kontakto kaj jek ternimatengi špita, morći- vaj špita pe murš aj žuvli vaj kaj jek špita te les ažutimos.</p>
+<p>Važno si te na les le draba pe infektacija pra butivar vaj intajne ke maj phares kerdol te sastos khatar e infektacija delal vaj avel palpale pala jek skurto vramja. Vi šaj šutol avri le mišake pixa aj kerdol dukhadi kaj šaj boldel-pe karing kaver problemori.</p>
+<p type="title">So keres te na les infektacija?</p>
+<p>Konik inke či źanel sostar o manuš le infektacija telal, phares si te protekcijis tut khatar godo.</p>
+<p>Butivar phenen ke maj sigo les infektacija delal ke či xalaves e miš sapojesa maj butivar. Numa konik či źanel ke si čačes. Te si le manušes infektacija vaj lel butivar infektacija delal aj xalavel butivar šaj avel maj mišto te na xalaves pra butivar. Vaj te si vaj ke naj dosta si te xalaves tut delal jek data ando džes ando na pra tato paj. Te na thos normalno sapoj telal ke šaj šutol avri. Te kamesa maj feder šaj thos vuloj bi parfymako.</p>
+<p type="title">Pušimata aj advetori pa infektacija telal le purne</p>
+<p type="title">Šaj les infektacija khatar sost’а, tate aj čidine cali?</p>
+<p>Naj jek čačo profundo ke khatar tate, čidine cali vaj sost’а ke saste avel vaj vušoro te les infektacija telal. Numa te si tut infektacija telal kaj votcil vaj xarundel, maj xanci xarundel te phiraves sost’а kaj si anda bumbako aj te na avel pra čidine cali. Vi šaj ažutil te soves bi sost’аngo aj te san žuvli te na phiraves žuvlikane pharne.</p>
+<p type="title">Načol e infektacija te makhes tut delal ando šuklo thud?</p>
+<p>Šuklo thud te ažutil karing e infektacija delal naj čačes sa gada sar naj jek čačo profundo ando godo. Numa o šuklo thud šaj aćardol laśo, te na xarundes.</p>
+<p type="title">Šaj pherdos khatar e infektacija?</p>
+<p>E infektacija naštis te pherdos sar eksemplo khatar e toaleta. Numa šaj pherdos kana kames tut vi te naj normalno źela.</p>
+<p type="title">Šaj les infektacija te xasa pra but zaro?</p>
+<p>Naj jek čačo profundo ke e infektacija si phanglo ande jek than te xasa pra but zaro. Numa te si tut problemo pe infektacija šaj zumaves te pařuves o xabe te šaj avel tuke maj mišto.</p>
+<p type="title">Šaj kamel pe o manuš kana si le manušes infektacija?</p>
+<p>Naj bajo te kames tut kana si le manušes infektacija numa le mišake pixa šaj aven jek sera dukhade aj šaj les cinoře pařadimos aj šaj dukhal kana kames tut. Te kames tut si jek cinoři riska ke šaj pheres le kavres ande infektacija. Vi maj bari riska <em type="italic"></em>si te les vaj te pheres le avres ande nasvalimata te kamesa tut, ke e infektacija telal le purne si la cinoře pařadimata pe le mišake pixa kaj šaj kerel maj vušoro te les nasvalimata. </p>
+</body></document>

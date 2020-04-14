@@ -1,74 +1,29 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>658</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Vardgaranti</origFileName>
-    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
-    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
-    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
-    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
-    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
-    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
-    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
-    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sastarimaski garantcija / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Sastarimaski garantcijaVårdgaranti</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sastarimos dela jek vramja</p>
-    <p type="title" xml:lang="swe">Sastarimaski garantcija kaj si pe antrego them</p>
-    <p xml:lang="swe">Sastarimaski garantcija si ke šaj lel o manuš sastarimos telal jek vramja. Godo si jek khotor ando zakono pe sastarimasko aj špitako zakono. Sastarimaski garantcija phenel tela savi vramja šaj den le manušes sastarimos khatar o foro vaj regiona. Numa či phenel e sastarimaski garantcija savo sastarimos kaj trubúl vaj savo sastarimos te den.</p>
-    <p xml:lang="swe">Sastarimaski garantcija phenel sode vramja trubúl o manuš te ažukerel te šaj lel o manuš sastarimos. Si pherdo fjaluri vramjake granici pe savo sastarimos trubúl le manušes, sar eksemplo 7 džesa te šaj žas kaj jek doktoro kaj jek špita vaj 90 džesa te aven tute khere, alternativno te lel o manuš sastarimos pe jek specialno sastarimos. Te či lel o manuš godo sastarimos ande godo vramjake granici pe godo sastarimasko gor kaj rodan, šaj te lel le manušes godo ažutimos vaj sastarimos pe jek kaver špitako gor. Univar šaj phenen le manušeske te šaj žal kaj jek kaver špita ande jek kaver regiona. O manuš korkoro šaj alol te kamela vaj ke niči kana den le manuš te žas maj fugo kaj jek kaver špita de khatar goda špita kaj rodan.</p>
-    <p xml:lang="swe">Sastarimos ando fugo či džindol ande sastarimaski garantcija. Te fugo nasvavol o manuš vaj te malavel pe atunči trubúl kaj godo manuš sastarimos ando sigo.</p>
-    <p type="title" xml:lang="swe">Nationalno sastarimaski garantcija 0-7-90-90</p>
-    <p xml:lang="swe">Pala sastarimaski garantcija si le manušes čačimos kaj:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">0 – kontakto kaj angluni špita godo džes. Sa godo džes kana rodes ažutimos šaj les kontakto kaj e angluni špita, sar eksemplo špita vaj špitako ažutimos. Godo šaj avel kana mares telefono vaj kana žas khote.</p>
-      <p type="listitem" xml:lang="swe">7 – te źas kaj jek doktoro tela efta džesa. Te aćarela la špitako personalo ke trubos te źas kaj o doktoro trubun te den tut jek vrjamja maj anglal de sar efta džes kaj jek špita vaj kaj la familjako doktoro.</p>
-      <p type="listitem" xml:lang="swe">90 – Te źas kaj specialno sastarimos maj angla de sar 90 džes. Te lel o manuš jek remisa kaj jek specialno sastarimos trubúl o manuš te lel jek vramja angla le 90 džesa. Godo vi džindol te rodan godo sastarimos bi la remisasa.</p>
-      <p type="listitem" xml:lang="swe">90 – sastarimos lel pe ande 90 džesa. Te phende te lel o manuš jek sastarimos, sar eksemplo operatcija, trubúl o manuš te den les vramja ande 90 džesa.</p>
-    </list>
-    <p xml:lang="swe">Kana či džindol e sastjarimaski garantia</p>
-    <p xml:lang="swe">Sastarimaski garantcija či džindol</p>
-    <list>
-      <p type="listitem" xml:lang="swe">kana žas palpale kaj e špitate</p>
-      <p type="listitem" xml:lang="swe">si pala sastarimasko profundo ke mušaj o manuš te ažukerel maj lungo vramja khatar e garantcija pe e vramja</p>
-      <p type="listitem" xml:lang="swe">sastarimasko service, sar eksemplo laboratorie- aj glindasko rodijimos</p>
-      <p type="listitem" xml:lang="swe">dikhimos aj rodijimos</p>
-      <p type="listitem" xml:lang="swe">ažutimaske bućia, numa na kana jek manuš rodel avri jek kaneski aparato</p>
-      <p type="listitem" xml:lang="swe">te phenda o manuš ke či kamel godo ažutimos kaj sastarimos kaj jek kaver špita ( aj pala jek vramja keil pe o manuš aj akana kamel godo sastjarimos.</p>
-    </list>
-    <p type="title" xml:lang="swe">Kana ažukerimaske vramja ande špita</p>
-    <p xml:lang="swe">Si jek nacionalno webrig kaj sikhavel la sastarimaski garantcija aj vramja kana ažukeres, Vantetider.se. Pe webrig sikhaven sar de but vrjamja trubus te ažukeres ande sa le forura aj regionura.</p>
-    <p type="title" xml:lang="swe">Sastarimos pe kaver than</p>
-    <p xml:lang="swe">Te si te dine le manušes te žal kaj jek kaver špita vaj jek kaver sastarimos, kaj naštin te den ande sastarimaski garantcija pe vramja, trubún te den le manušes sastarimos kaj jek kaver špita. Šaj avel kaj jek špita paša tute, vaj kaj e bari špita vaj ande uni privatne špiti. Šaj phenes ke manges korkoro te alos kaj te źas, numa atunči či džindol e sastarimaski garantcija naštis korkoro te alos. Te či kamel o manuš godo sastjarimos khote kaj rodan pervo data, šaj phenes ke či kames e sastjarimaski garantia . Numa atunči mušaj te ažukeres maj lungo vrjámja. Numa te keisajlan šaj boldel pe o manuš palpale kaj la špitako ažutimos. Sastjarimaski garantia džindol atunči khatar godo džes.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>649</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Vardgaranti</origFileName><parallel_text xml:lang="eng" location="vardgaranti.html"/><parallel_text xml:lang="fin" location="vardgaranti.html"/><parallel_text xml:lang="fit" location="vardgaranti.html"/><parallel_text xml:lang="sma" location="vardgaranti.html"/><parallel_text xml:lang="sme" location="vardgaranti.html"/><parallel_text xml:lang="smj" location="vardgaranti.html"/><parallel_text xml:lang="swe" location="vardgarantier.html"/><parallel_text location="vardgaranti.html" xml:lang="rmn"/><parallel_text location="vardgaranti.html" xml:lang="rmu"/><parallel_text location="vardgaranti.html" xml:lang="yid"/><parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/><parallel_text location="vardgaranti.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sastarimaski garantcija / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sastarimaski garantcijaVårdgaranti</p>
+<p xml:lang="swe"></p>
+<p type="title">Sastarimos dela jek vramja</p>
+<p type="title">Sastarimaski garantcija kaj si pe antrego them</p>
+<p>Sastarimaski garantcija si ke šaj lel o manuš sastarimos telal jek vramja. Godo si jek khotor ando zakono pe sastarimasko aj špitako zakono. Sastarimaski garantcija phenel tela savi vramja šaj den le manušes sastarimos khatar o foro vaj regiona. Numa či phenel e sastarimaski garantcija savo sastarimos kaj trubúl vaj savo sastarimos te den.</p>
+<p>Sastarimaski garantcija phenel sode vramja trubúl o manuš te ažukerel te šaj lel o manuš sastarimos. Si pherdo fjaluri vramjake granici pe savo sastarimos trubúl le manušes, sar eksemplo 7 džesa te šaj žas kaj jek doktoro kaj jek špita vaj 90 džesa te aven tute khere, alternativno te lel o manuš sastarimos pe jek specialno sastarimos. Te či lel o manuš godo sastarimos ande godo vramjake granici pe godo sastarimasko gor kaj rodan, šaj te lel le manušes godo ažutimos vaj sastarimos pe jek kaver špitako gor. Univar šaj phenen le manušeske te šaj žal kaj jek kaver špita ande jek kaver regiona. O manuš korkoro šaj alol te kamela vaj ke niči kana den le manuš te žas maj fugo kaj jek kaver špita de khatar goda špita kaj rodan.</p>
+<p>Sastarimos ando fugo či džindol ande sastarimaski garantcija. Te fugo nasvavol o manuš vaj te malavel pe atunči trubúl kaj godo manuš sastarimos ando sigo.</p>
+<p type="title">Nationalno sastarimaski garantcija 0-7-90-90</p>
+<p>Pala sastarimaski garantcija si le manušes čačimos kaj:</p>
+<list><p type="listitem">0 – kontakto kaj angluni špita godo džes. Sa godo džes kana rodes ažutimos šaj les kontakto kaj e angluni špita, sar eksemplo špita vaj špitako ažutimos. Godo šaj avel kana mares telefono vaj kana žas khote.</p>
+<p type="listitem">7 – te źas kaj jek doktoro tela efta džesa. Te aćarela la špitako personalo ke trubos te źas kaj o doktoro trubun te den tut jek vrjamja maj anglal de sar efta džes kaj jek špita vaj kaj la familjako doktoro.</p>
+<p type="listitem">90 – Te źas kaj specialno sastarimos maj angla de sar 90 džes. Te lel o manuš jek remisa kaj jek specialno sastarimos trubúl o manuš te lel jek vramja angla le 90 džesa. Godo vi džindol te rodan godo sastarimos bi la remisasa.</p>
+<p type="listitem">90 – sastarimos lel pe ande 90 džesa. Te phende te lel o manuš jek sastarimos, sar eksemplo operatcija, trubúl o manuš te den les vramja ande 90 džesa.</p>
+</list><p>Kana či džindol e sastjarimaski garantia</p>
+<p>Sastarimaski garantcija či džindol</p>
+<list><p type="listitem">kana žas palpale kaj e špitate</p>
+<p type="listitem">si pala sastarimasko profundo ke mušaj o manuš te ažukerel maj lungo vramja khatar e garantcija pe e vramja</p>
+<p type="listitem">sastarimasko service, sar eksemplo laboratorie- aj glindasko rodijimos</p>
+<p type="listitem">dikhimos aj rodijimos</p>
+<p type="listitem">ažutimaske bućia, numa na kana jek manuš rodel avri jek kaneski aparato</p>
+<p type="listitem">te phenda o manuš ke či kamel godo ažutimos kaj sastarimos kaj jek kaver špita ( aj pala jek vramja keil pe o manuš aj akana kamel godo sastjarimos.</p>
+</list><p type="title">Kana ažukerimaske vramja ande špita</p>
+<p>Si jek nacionalno webrig kaj sikhavel la sastarimaski garantcija aj vramja kana ažukeres, Vantetider.se. Pe webrig sikhaven sar de but vrjamja trubus te ažukeres ande sa le forura aj regionura.</p>
+<p type="title">Sastarimos pe kaver than</p>
+<p>Te si te dine le manušes te žal kaj jek kaver špita vaj jek kaver sastarimos, kaj naštin te den ande sastarimaski garantcija pe vramja, trubún te den le manušes sastarimos kaj jek kaver špita. Šaj avel kaj jek špita paša tute, vaj kaj e bari špita vaj ande uni privatne špiti. Šaj phenes ke manges korkoro te alos kaj te źas, numa atunči či džindol e sastarimaski garantcija naštis korkoro te alos. Te či kamel o manuš godo sastjarimos khote kaj rodan pervo data, šaj phenes ke či kames e sastjarimaski garantia . Numa atunči mušaj te ažukeres maj lungo vrjámja. Numa te keisajlan šaj boldel pe o manuš palpale kaj la špitako ažutimos. Sastjarimaski garantia džindol atunči khatar godo džes.</p>
+</body></document>

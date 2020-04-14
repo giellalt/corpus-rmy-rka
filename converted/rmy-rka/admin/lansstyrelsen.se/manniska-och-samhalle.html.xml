@@ -1,86 +1,48 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1100</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-kr/manniska-och-samhalle/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Manush taj them - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Manush &amp; them</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Manush taj them</p>
-    <p xml:lang="swe"><em type="italic">Länsstyrelsen kerel buci ketanes kusa e kommuni te kerel pe lashie tana e e citizentonge so trajin kote vi e privatne mansuh taj vi e firmi. Sa si te trajin pe sa kodol konditci kaj si paca, mishto taj sekurno te trajin taj te keren buci. </em></p>
-    <p type="title" xml:lang="swe">Manushikane chachimata</p>
-    <p xml:lang="swe">E buci te avel savorren sa kasave chachimata taj shajimata si te sikaven perdal e organizacia taj buci so si ande Länsstyrelsens. Pala o diskrimineringslagen – zakono pa diskriminatci naj slobodo te kerel pe diskriminacia pe manush katar lengo, murshipe/djuvlipe, etniciteto, religia sexuallno dikipe, nasvalimos, bersh, vaj kaver sexualne identitetura.</p>
-    <p type="title" xml:lang="swe">Jekipe</p>
-    <p xml:lang="swe">O nationalno cello si te aven e djuvljian taj e mushen sa kasavi zor ande lengi buci taj ande lenge trajura. Länsstyrelsen si te kerel buci te avel mishto ande kommuni, temeske tana taj vi ande kaver regionalne tana kaj mansuh keren buci. Länsstyrelserna ando Svedo kerel buci karring e murshengo marimos karring e djuvlia taj karring prostitutcia taj manushikano handlo kodoles ke azutin bucia so si te azutin kasave problemura mashkar organizatci taj föreningura.</p>
-    <p type="title" xml:lang="swe">Nationalne minoritetura</p>
-    <p xml:lang="swe">Länsstyrelsen andoi Stockolms län taj Sametinget si sherutne te inkren ketanes taj te diken sar e politika djal pa Svedoske nationalne minoritetura ando tem. Minoritetno politika inkrel pushimata pa sekurita taj azutimos pe e nationalne minoritetura taj lengi chib. E pansh pindjarde nationalne minoritetura ando Svedo si zidevura, rom, samer (so si vi purianimaske manush), sverigefinnar taj tornedalingar. E nationalne minoritetne chiba si jiddisch, romani chib, samiska, finska taj meänkieli.</p>
-    <p type="title" xml:lang="swe">Manushengo sastipe - Folkälsa</p>
-    <p xml:lang="swe">Länsstyrelsen kamel te kerel mishtipe krujak te avel maj feder savorrenge te birin von te aven maj saste pe sa kodol kondidci. Manushengo sastipe si pa manushenge alosarimata numa vi pa kodja so kerel pe krujak taj demokraticne chachimata ando tem. Ame keras maj but ande bucia sar jekipe, integratcia, miljö, kerengo planeringo, socialno trajo, antidiskriminatcia taj pushimata so si pa drogi taj alkoholo.</p>
-    <p type="title" xml:lang="swe">Integratcia</p>
-    <p xml:lang="swe">O sherutnipe pe integratciaki politika si savorren te avel sa kasave chachimata, obligatci taj shajimata bi dikimasko pala etnicno dikimos vaj kulturako dikipe. Länsstyrelsen si te lashiarel koperatci mashkar differentne aktorura te avel jek mishtipe taj kapaciteta ande länet te lel pe karring pende e nashutne manushen taj kaver manushen kas trobuj azutipe.</p>
-    <p type="title" xml:lang="swe">Alosarimos</p>
-    <p xml:lang="swe">Länsstyrelsen si regionalno alosarimasko tan. Kodja znacil pe ke ame las reponsebilita sar te kerel pe taj te inkrel pe puterde alosarimata, alosarimata kaj Europakoparlamento taj te avas kodjal kon del azutipe pasha nationalne alosarimata.</p>
-    <p xml:lang="swe">Angla alosarimos lel o Länsstyrelsen decizia sar ei e alosarimaske tana te mezin taj sar te lel pe karring pende e anava pe kodol so avna opre pe alosarimaske listi. Tela e alosarimaski raci rapportulin e differentne alosarimaske tana peske resultatura kaj o Länsstyrelsen. Pala kodja keras amen o maj paluno ginajipe pa o alosarimos.</p>
-    <p type="title" xml:lang="swe">Krisvako azutimos</p>
-    <p xml:lang="swe">Tela e vrama kana si kris vaj vazdino dikimos anda dar si o Länsstyrelsen te del vast taj te inkrel e koperatcia mashkar organizatci, temeske tana taj kaver vazne institutci ando länet.Amen si vi o responsebilita te das informatcia pa krisa e manushenge taj kaj e media. Te kerdas pe jek accidenta vaj te das avri nuklarne bucia avri si te len sa e länsstyrelser jek responsebilita azutimasa taj e länsstyrelserna i Uppsala, Kalmar taj Hallands län jek maj bari buci azutimasa sar kaver.</p>
-    <p type="title" xml:lang="swe">Kontrolla taj permissi</p>
-    <p xml:lang="swe">Ande uni differentne tana del o permissi vaj kerel kontrollik e manushengo sastipe taj chachipe si po tan taj naj rigate shutino.</p>
-    <p type="title" xml:lang="swe">Prahomos</p>
-    <p xml:lang="swe">Länsstyrelsen lel avri jekes te dikel perdal e församlingar taj te diken ke vi kodol kaj naj tela Svenska kyrkan dashtilte aven prahome kade sar len passulij. Ame dashti lvi te das permissia te mukel pe o praho pala jek mulo manush.</p>
-    <p type="title" xml:lang="swe">Deponerisaras love</p>
-    <p xml:lang="swe">Länsstyrelsen dashtilte mukel tut te deponiris love pe jek specialno konto. Kodja znacil ke ame dashtilte inkras chire love kaj tu kames te pocines. Kodja dashtilte avel sar exemplo te si tut holji chire kereske gazdasa vaj te kames varikaske love taj chi djanes kaske te pocines le. Te si chire love amende pe vrama ginadjiol kodja sar te pocinanas e love kote.</p>
-    <p type="title" xml:lang="swe">Kamerakolishipe</p>
-    <p xml:lang="swe">Länsstyrelsen dashtilte mokel jek permissia pe kamerako lishipe po puterdo drom kodja bushiol allmän kameraövervakning. Allmän kameraövervakning si kodja ke e kamera si boldini pe kasave tana kaj civilne manush piren. Si duj zakonura so inkren e kamerako lishipe lagen om allmän kameraövervakning taj personuppgiftslagen,taj o Länsstyrelsen dikel ke kado inkerdjiol pe.</p>
-    <p type="title" xml:lang="swe">Habeski kontrolla</p>
-    <p xml:lang="swe">Primerno kontrolla si anglunes ande habeski linja taj kote dikel pe e produktcia pa mas, tut, kas taj transporto e habesa. Primerno produktcia pa habe nakel kontrollip e bute tanende katar o Länsstyrelsen taj Jordbruksverket. Ame dikas vi te aven lashie kontrolli katar e kommuni pe kodol so produculin taj biknen habe te avel kade te avel odolen lashi djanglimos pa habe taj lashie lokalura pe kado.</p>
-    <p type="title" xml:lang="swe">Pocinimaski garantcia</p>
-    <p xml:lang="swe">Te san jek buciari pe jek firma so djal ando konkurso peres tu andre ando zakono pa pocinimaski garantcia. Länsstyrelsen inkrel responsebilita te pocinel avri kado pocin e manushenge so kernas buci ande firmi so gele ando konkurso vaj naken jek firmaki rekonstruktcia.</p>
-    <p type="title" xml:lang="swe">Citizento</p>
-    <p xml:lang="swe">Länsstyrelsen lel jek mangimos manushendar so kamen te aven citizentura ando svedo te san citizento ande Danmark, Finland, Norge vaj Island. Jek mangimos si jek drom kaj o lil kaj san citizento. Te san citizento ande kaver tem musaj te boldes tut kaj e Migrationsverket. Te si kade ke hasardan chiro pravo sar citizento dashtilatunci te manges les palpale katar jek mangipe katar o Länsstyrelsen.</p>
-    <p type="title" xml:lang="swe">Notarius publicus</p>
-    <p xml:lang="swe">Länsstyrelsen alosarel kodolen so ashion notarius publicus. Titlo si pe latin taj si <span type="quote" xml:lang="swe">”puterdo sekretari”</span>. Notarius publicus si te azutij e manushen peske anavesa kana von si te diken perdal anava, translatci, pasha lotteria taj kaver bucia so trobuj te avel varikon sar jek vittne .</p>
-    <p type="title" xml:lang="swe">Ansurimos</p>
-    <p xml:lang="swe">Länsstyrelsen alosarel manushen so si borgerliga vigselförrättare taj kodol dashtilte den ansurimos taj pasha kado si jek lista pe save manush kaj dashtilte keren kado. Te si kade ke san 18 bershengo vaj maj puro trobuj te manges shajimos katar o Länsstyrelsen.</p>
-    <p type="title" xml:lang="swe">Gazda</p>
-    <p xml:lang="swe">Manush kaj si nasvale taj chi birin te len sama pala pengi ekonomia anda kodja ke von si nasvale, pure vaj kaver bucia birin te len azutimos katar jek god man eller en förvaltare. Ande svako kommuna si te avel jek manush so dashtilte ashiol gazda vaj jek överförmyndarnämnd kaj dikel ke kadal manush keren pengi buci sar kaj trobuj te keren. Länsstyrelsen kerel inspektci kaj kadal manush vaj kerel jek rodimos taj dikipe pala jek lil kana varikon mothol ke von keren chorri buci.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1100</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-kr/manniska-och-samhalle/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/><parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Manush taj them - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Manush &amp; them</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Manush taj them</p>
+<p><em type="italic">Länsstyrelsen kerel buci ketanes kusa e kommuni te kerel pe lashie tana e e citizentonge so trajin kote vi e privatne mansuh taj vi e firmi. Sa si te trajin pe sa kodol konditci kaj si paca, mishto taj sekurno te trajin taj te keren buci. </em></p>
+<p type="title">Manushikane chachimata</p>
+<p>E buci te avel savorren sa kasave chachimata taj shajimata si te sikaven perdal e organizacia taj buci so si ande Länsstyrelsens. Pala o diskrimineringslagen – zakono pa diskriminatci naj slobodo te kerel pe diskriminacia pe manush katar lengo, murshipe/djuvlipe, etniciteto, religia sexuallno dikipe, nasvalimos, bersh, vaj kaver sexualne identitetura.</p>
+<p type="title">Jekipe</p>
+<p>O nationalno cello si te aven e djuvljian taj e mushen sa kasavi zor ande lengi buci taj ande lenge trajura. Länsstyrelsen si te kerel buci te avel mishto ande kommuni, temeske tana taj vi ande kaver regionalne tana kaj mansuh keren buci. Länsstyrelserna ando Svedo kerel buci karring e murshengo marimos karring e djuvlia taj karring prostitutcia taj manushikano handlo kodoles ke azutin bucia so si te azutin kasave problemura mashkar organizatci taj föreningura.</p>
+<p type="title">Nationalne minoritetura</p>
+<p>Länsstyrelsen andoi Stockolms län taj Sametinget si sherutne te inkren ketanes taj te diken sar e politika djal pa Svedoske nationalne minoritetura ando tem. Minoritetno politika inkrel pushimata pa sekurita taj azutimos pe e nationalne minoritetura taj lengi chib. E pansh pindjarde nationalne minoritetura ando Svedo si zidevura, rom, samer (so si vi purianimaske manush), sverigefinnar taj tornedalingar. E nationalne minoritetne chiba si jiddisch, romani chib, samiska, finska taj meänkieli.</p>
+<p type="title">Manushengo sastipe - Folkälsa</p>
+<p>Länsstyrelsen kamel te kerel mishtipe krujak te avel maj feder savorrenge te birin von te aven maj saste pe sa kodol kondidci. Manushengo sastipe si pa manushenge alosarimata numa vi pa kodja so kerel pe krujak taj demokraticne chachimata ando tem. Ame keras maj but ande bucia sar jekipe, integratcia, miljö, kerengo planeringo, socialno trajo, antidiskriminatcia taj pushimata so si pa drogi taj alkoholo.</p>
+<p type="title">Integratcia</p>
+<p>O sherutnipe pe integratciaki politika si savorren te avel sa kasave chachimata, obligatci taj shajimata bi dikimasko pala etnicno dikimos vaj kulturako dikipe. Länsstyrelsen si te lashiarel koperatci mashkar differentne aktorura te avel jek mishtipe taj kapaciteta ande länet te lel pe karring pende e nashutne manushen taj kaver manushen kas trobuj azutipe.</p>
+<p type="title">Alosarimos</p>
+<p>Länsstyrelsen si regionalno alosarimasko tan. Kodja znacil pe ke ame las reponsebilita sar te kerel pe taj te inkrel pe puterde alosarimata, alosarimata kaj Europakoparlamento taj te avas kodjal kon del azutipe pasha nationalne alosarimata.</p>
+<p>Angla alosarimos lel o Länsstyrelsen decizia sar ei e alosarimaske tana te mezin taj sar te lel pe karring pende e anava pe kodol so avna opre pe alosarimaske listi. Tela e alosarimaski raci rapportulin e differentne alosarimaske tana peske resultatura kaj o Länsstyrelsen. Pala kodja keras amen o maj paluno ginajipe pa o alosarimos.</p>
+<p type="title">Krisvako azutimos</p>
+<p>Tela e vrama kana si kris vaj vazdino dikimos anda dar si o Länsstyrelsen te del vast taj te inkrel e koperatcia mashkar organizatci, temeske tana taj kaver vazne institutci ando länet.Amen si vi o responsebilita te das informatcia pa krisa e manushenge taj kaj e media. Te kerdas pe jek accidenta vaj te das avri nuklarne bucia avri si te len sa e länsstyrelser jek responsebilita azutimasa taj e länsstyrelserna i Uppsala, Kalmar taj Hallands län jek maj bari buci azutimasa sar kaver.</p>
+<p type="title">Kontrolla taj permissi</p>
+<p>Ande uni differentne tana del o permissi vaj kerel kontrollik e manushengo sastipe taj chachipe si po tan taj naj rigate shutino.</p>
+<p type="title">Prahomos</p>
+<p>Länsstyrelsen lel avri jekes te dikel perdal e församlingar taj te diken ke vi kodol kaj naj tela Svenska kyrkan dashtilte aven prahome kade sar len passulij. Ame dashti lvi te das permissia te mukel pe o praho pala jek mulo manush.</p>
+<p type="title">Deponerisaras love</p>
+<p>Länsstyrelsen dashtilte mukel tut te deponiris love pe jek specialno konto. Kodja znacil ke ame dashtilte inkras chire love kaj tu kames te pocines. Kodja dashtilte avel sar exemplo te si tut holji chire kereske gazdasa vaj te kames varikaske love taj chi djanes kaske te pocines le. Te si chire love amende pe vrama ginadjiol kodja sar te pocinanas e love kote.</p>
+<p type="title">Kamerakolishipe</p>
+<p>Länsstyrelsen dashtilte mokel jek permissia pe kamerako lishipe po puterdo drom kodja bushiol allmän kameraövervakning. Allmän kameraövervakning si kodja ke e kamera si boldini pe kasave tana kaj civilne manush piren. Si duj zakonura so inkren e kamerako lishipe lagen om allmän kameraövervakning taj personuppgiftslagen,taj o Länsstyrelsen dikel ke kado inkerdjiol pe.</p>
+<p type="title" xml:lang="swe">Habeski kontrolla</p>
+<p>Primerno kontrolla si anglunes ande habeski linja taj kote dikel pe e produktcia pa mas, tut, kas taj transporto e habesa. Primerno produktcia pa habe nakel kontrollip e bute tanende katar o Länsstyrelsen taj Jordbruksverket. Ame dikas vi te aven lashie kontrolli katar e kommuni pe kodol so produculin taj biknen habe te avel kade te avel odolen lashi djanglimos pa habe taj lashie lokalura pe kado.</p>
+<p type="title">Pocinimaski garantcia</p>
+<p>Te san jek buciari pe jek firma so djal ando konkurso peres tu andre ando zakono pa pocinimaski garantcia. Länsstyrelsen inkrel responsebilita te pocinel avri kado pocin e manushenge so kernas buci ande firmi so gele ando konkurso vaj naken jek firmaki rekonstruktcia.</p>
+<p type="title">Citizento</p>
+<p>Länsstyrelsen lel jek mangimos manushendar so kamen te aven citizentura ando svedo te san citizento ande Danmark, Finland, Norge vaj Island. Jek mangimos si jek drom kaj o lil kaj san citizento. Te san citizento ande kaver tem musaj te boldes tut kaj e Migrationsverket. Te si kade ke hasardan chiro pravo sar citizento dashtilatunci te manges les palpale katar jek mangipe katar o Länsstyrelsen.</p>
+<p type="title" xml:lang="swe">Notarius publicus</p>
+<p>Länsstyrelsen alosarel kodolen so ashion notarius publicus. Titlo si pe latin taj si <span type="quote">”puterdo sekretari”</span>. Notarius publicus si te azutij e manushen peske anavesa kana von si te diken perdal anava, translatci, pasha lotteria taj kaver bucia so trobuj te avel varikon sar jek vittne .</p>
+<p type="title">Ansurimos</p>
+<p>Länsstyrelsen alosarel manushen so si borgerliga vigselförrättare taj kodol dashtilte den ansurimos taj pasha kado si jek lista pe save manush kaj dashtilte keren kado. Te si kade ke san 18 bershengo vaj maj puro trobuj te manges shajimos katar o Länsstyrelsen.</p>
+<p type="title">Gazda</p>
+<p>Manush kaj si nasvale taj chi birin te len sama pala pengi ekonomia anda kodja ke von si nasvale, pure vaj kaver bucia birin te len azutimos katar jek god man eller en förvaltare. Ande svako kommuna si te avel jek manush so dashtilte ashiol gazda vaj jek överförmyndarnämnd kaj dikel ke kadal manush keren pengi buci sar kaj trobuj te keren. Länsstyrelsen kerel inspektci kaj kadal manush vaj kerel jek rodimos taj dikipe pala jek lil kana varikon mothol ke von keren chorri buci.</p>
+</body></document>

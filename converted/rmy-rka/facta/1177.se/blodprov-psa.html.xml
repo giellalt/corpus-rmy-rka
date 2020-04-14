@@ -1,85 +1,43 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1237</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Blodprov-PSA</origFileName>
-    <parallel_text xml:lang="eng" location="psa.html"/>
-    <parallel_text xml:lang="fin" location="psa.html"/>
-    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="rus" location="psa.html"/>
-    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="swe" location="psa.html"/>
-    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
-    <parallel_text location="blodprov.html" xml:lang="rmn"/>
-    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
-    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Rateskiproba: PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Rateskiproba: PSABlodprov: PSA</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sostar trubul o manús te del proba?</p>
-    <p type="title" xml:lang="swe">Kana del pe jekh proba po PSA?</p>
-    <p xml:lang="swe">PSA si jek rateski proba savi si ando dikhimos kaj šaj te kerel pe kana dikhel pe e prostata.</p>
-    <p xml:lang="swe">Vunivar del pe jekh PSA-proba te si muteresko dukhimos kaj o doktoro gindol ke si pa prostata, sar kana trobul te žal pe te mutrel pe butivar aj jokhvarsa kovles žal o muter.</p>
-    <p xml:lang="swe">Šaj vi te del pe jekh PSA-proba te ačarel o doktoro ke si varesosko pařudimos pe prostata kana dikhel pe, pařudimata save šaj keren but fjealura dukha aj nasvalimos.</p>
-    <p xml:lang="swe">Kodo si važno te žanel pe ke jekh vazdo PSA-resultáto naj sa gadea sar te avel varekas prostataraka/raka. Naj čuda te avel cigne ži kaj ciřa vazdinimos po PSA anda kavera buča.</p>
-    <p xml:lang="swe">Ando sa jekh dikhimos naštil phenel pe šel pe šel ke naj prostataraka kana si normalno učimos. O rezultato musaj kana godi te dikhle pe pala save dukhimata si haj so le kavér dikhimata sikavel.</p>
-    <p xml:lang="swe">Te si duj vaj trin paše muršikane sar njamuri kas si len prostata raka, si o riziko maj baro telel o manuš o nasvalimos. Te si gadea rekomendiril pe te lel pe ande vrjami PSA-probi khatar 40-50 berš ži kaj 70 berš</p>
-    <p xml:lang="swe">O PSA dikhel pe vi kana satjarel pe anda prostataraka. Te ažutila o sastarimos lel pe sama kado kana xancol o PSA-resultáto.</p>
-    <p type="title" xml:lang="swe">Mištimos aj na/bi mištimos ande jekh PSA-proba</p>
-    <p xml:lang="swe">PSA-proba či kerel pe ande rutina/normalno ande jekh sastarimski kontrola pe murš te dikhel pe te si len nevo kezdimos/forma anda prostataraka. Kodo si ke naj kanagodi maj feder te lel pe sama aj te sastarele pe pe le neve formi anda prostataraka. O Sastarimos šaj kerel te avel kaver nasvalimos sar impotento aj inkontineto kaj Le murš kaste o prostataraka šoha či areslo te kerel baro bajo ando nasvalimos.</p>
-    <p xml:lang="swe">Jekh rakakotumori ando prostata šaj te barol lokes bi te kerel varesosko bajo vaj te barol sigo aj te žal pe maj buth kotora ando stato. Ande jekh nevi vrjama ando nasvalimos, naštil te dikhel pe savi anda leduj rakakeformi si aj o riziko si ke o sastarimos žal anda jekh rakakiforma savi naj či sosko bajo ando pesko trajo.</p>
-    <p xml:lang="swe">Buth murš kamen gadea te dikhen aj te žanen te si len prostataraka. Maj anglal sigo sarso del pe jekh proba po PSA, si mišto te žanel o manuš so si mišto aj so naj mišto jekhe sastarimasa ando jekh nevo sama lino tumoro. Te kamel pe te žal pe maj dur aj te vorbis jekh doktoresa, trobul te manges jekh vrjama po vårdcentralo vaj pe jekh företagshälsovårdo/firmakosastarimos.</p>
-    <p type="title" xml:lang="swe">Soj si PSA aj kaj si kodo?</p>
-    <p xml:lang="swe">PSA si jekh skurtimos anda prostataspecialno antigen. Kodo si jekh proteino savo kerdol ando prostatathan aj kaj žal kusa o mago kana žal avri aj kaj kerel o mago te kerdon maj žuvinde/miškime.</p>
-    <p xml:lang="swe">PSA si normalno te avel ciřa ando rat, aj kodo so si miril pe perdal o PSA-proba. Vi bi raka si maj buth normalno pařudimos ande prostata kaj šaj kerel o PSA-zor ando rat te vazdel pe. Sar te phenel pe šaj lašo barardo-prostata aj inflamacija ando prostata-punza, akhardo prostatit, ingrel te pičal maj buth PSA ando rat khatar prostata.</p>
-    <p xml:lang="swe">Ande berš vazdel pe o PSA-zor vareso kaj e maj bute muršenge ke e prostatapunza barol ciřa le maj phure beršenca.</p>
-    <p xml:lang="swe">O maj baro butimos PSA ando rat si phanglo pe but fjelora proteinura. De si vi jekh ciřa butimos slobodni, biphanglo PSA. Kana si kaver doša sar raka ande jekh prosto/vareso PSA-vazdimos, maladol ke te avel maj but anda puterdo PSA ando rat. Anda kodo šaj del kado le doktoros jekh sikajimos te mesuril o phanglimos maškar o phanglo aj puterdo PSA.</p>
-    <p type="title" xml:lang="swe">Sar lel pe/kerel pe e proba?</p>
-    <p xml:lang="swe">Proba lel pe anda o vas jekha sani suvasa savi pusavel pe ande jekh rateski vuna, jekh vuna. Anda kodo phenel pe kadale tiposke sar rateski-proba pe jekh vunasli/vunaki proba.</p>
-    <p xml:lang="swe">Proba šaj te lel pe sar kana godi ando djes vaj rjat. O manuš si te bešel tele ande 15 minuci mai anglal e proba te lel pe. Bi kadaleske či trobul khanči kaver anglal getomos.</p>
-    <p xml:lang="swe">Te kerel o manuš jekh kirurgicko šindimos ando prostata vazdel o PSA-resultáto O manuš atunči musaj te ažukerel maj xanci 10 džes angla kodo te avel hazna/mišto te lel pe jekh PSA-proba. Te o doktoro ferdi te azbal pe prostata o PSA-resultáto či vazdel pe.</p>
-    <p type="title" xml:lang="swe">Kana lel o manuš vorba/atveto?</p>
-    <p xml:lang="swe">E proba bišavel pe kaj jekh špitakolaboratoriumo kote kerel pe analiza/dikhimos. O manuš šaj te avel pe jekheste peske doktorosa pa sar aj kana o manuš te žanel le rezultatura pa e proba. O doktoro butivar lel e vorba/atveto katar o laboratorio ande jekh vaj duj džesa.</p>
-    <p type="title" xml:lang="swe">Sar tolmačil pe o kodo so sikavel e proba?</p>
-    <p xml:lang="swe">Jekh probako-sikajimos trobul kana godi te žal ande kodolesa ande save dukha si le manušes aj so e kaver dikhimos sikaven.</p>
-    <p xml:lang="swe">PSA-učimos ando rat si variacija maškar le murš, vi maškar e murš kaste naj prostatadukha. Te avela le doktoros varesoste te žal kana dikhela/tolmačil kodo so sikavel e proba sar kaj phenel pe lašo učimos. Pe PSA butivar si učimos perdal 3 mikrogramura po litro žinavel pe sar jekh vazdimos/učimos.</p>
-    <p type="title" xml:lang="swe">Baro učimos, anda soste šaj te avel?</p>
-    <p xml:lang="swe">Karing jekh anda deš murš ande penge berš si len vazdo/maj učo PSA-resultáto. Jekh prosto/normalno doš pe jekh cigno vazdino učimos si lašo/sasto prostata-barimos.</p>
-    <p xml:lang="swe">O manuš šaj vi te lel maj baro učimos te si les ekh prostatainflamacija, sar so bušol/phenel pe kroniskoprostatit.</p>
-    <p xml:lang="swe">Jekh prosto bešikako/urinako infekcija šaj kerel jekh zuralo vazdimos/učimos po PSA, núma vrjamása nakhél. Te si gadea ke o manuš anda varesoste te či naštil te mutrel pe vaj te nandžarel šuđarel e bešika sarso trobul, šaj te avel le manušes jekh učardo PSA-resultáto ande skurto vrama. Te si le manušeske phares te nandžarel e bešika mutrasa aj kanagodi ašel maj buth mutra, ande bešika, phenel pe kadaleske urinstämma.</p>
-    <p xml:lang="swe">Maj baro učimos šaj avel vi anda prostataraka. Anda kodola kas si maj baro PSA arakhel pe raka kaj karing jekh tritokotor. O phanglimos maškar o puterdo aj phanglo PSA šaj del le doktoros jekh sikadimos kana si pa kodo te alol avri lašo prostata-bajo/dukh khatar prostataraka.</p>
-    <p xml:lang="swe">Anda kodola kaj butivar, aj ande but berš den andre zumavimaski probi, anda kodola manuš si te avela karing jekh anda štar kaj si te avela les jekh PSA-resultáto kaj musaj te lel sama kaj o doktoro.</p>
-    <p xml:lang="swe">Te si jekh rezultato anda jekh PSA-resultáto proba kaj sikavel jekh baro učimos, o doktoro butivar kerel inke jekh dikhimos kusa ultrahango aj maseski proba anda prostata glandula. Te arakhela o doktoro raka šaj o manuš te lel sastarimos pe operacia, radiacija, vaj pe hormonosko sastarimos.</p>
-    <p type="title" xml:lang="swe">Cigne učaimata, anda soste šaj avel kado?</p>
-    <p xml:lang="swe">Cigno učimos sikavel ke le manušes naj prostataraka, vi te si ferdi jekh PSA-proba kaj či sikavel šel pe šel šaj kado te phenel pe ke (naj) či avla.</p>
-    <p xml:lang="swe">Te len le manušeke prostala avri ande jekh operacia si te perel o PSA-resultáto gadea but ta pašti naštin te musurin la. Jekh xanci PSA-resultáto šaj avel sar jekh mesura, ke e operacia sas la lašo efekto. Vi kana den duj kaver sastjarimaske metodurja sar radiaca aj hormonosko sastarimos, sikavel butivar, ke jekh cignardo/xancilo PSA-resultáto si jekh semno ke gelas mišto o satjarimos.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1228</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Blodprov-PSA</origFileName><parallel_text xml:lang="eng" location="psa.html"/><parallel_text xml:lang="fin" location="psa.html"/><parallel_text xml:lang="fit" location="blodprov-psa.html"/><parallel_text xml:lang="rus" location="psa.html"/><parallel_text xml:lang="sma" location="blodprov-psa.html"/><parallel_text xml:lang="sme" location="blodprov-psa.html"/><parallel_text xml:lang="smj" location="blodprov-psa.html"/><parallel_text xml:lang="swe" location="psa.html"/><parallel_text location="blodprov-psa1.html" xml:lang="rmu"/><parallel_text location="blodprov.html" xml:lang="rmn"/><parallel_text location="psa-blodprov.html" xml:lang="yid"/><parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/><parallel_text location="psa-blodprov.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Rateskiproba: PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Rateskiproba: PSABlodprov: PSA</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sostar trubul o manús te del proba?</p>
+<p type="title">Kana del pe jekh proba po PSA?</p>
+<p>PSA si jek rateski proba savi si ando dikhimos kaj šaj te kerel pe kana dikhel pe e prostata.</p>
+<p>Vunivar del pe jekh PSA-proba te si muteresko dukhimos kaj o doktoro gindol ke si pa prostata, sar kana trobul te žal pe te mutrel pe butivar aj jokhvarsa kovles žal o muter.</p>
+<p>Šaj vi te del pe jekh PSA-proba te ačarel o doktoro ke si varesosko pařudimos pe prostata kana dikhel pe, pařudimata save šaj keren but fjealura dukha aj nasvalimos.</p>
+<p>Kodo si važno te žanel pe ke jekh vazdo PSA-resultáto naj sa gadea sar te avel varekas prostataraka/raka. Naj čuda te avel cigne ži kaj ciřa vazdinimos po PSA anda kavera buča.</p>
+<p>Ando sa jekh dikhimos naštil phenel pe šel pe šel ke naj prostataraka kana si normalno učimos. O rezultato musaj kana godi te dikhle pe pala save dukhimata si haj so le kavér dikhimata sikavel.</p>
+<p>Te si duj vaj trin paše muršikane sar njamuri kas si len prostata raka, si o riziko maj baro telel o manuš o nasvalimos. Te si gadea rekomendiril pe te lel pe ande vrjami PSA-probi khatar 40-50 berš ži kaj 70 berš</p>
+<p>O PSA dikhel pe vi kana satjarel pe anda prostataraka. Te ažutila o sastarimos lel pe sama kado kana xancol o PSA-resultáto.</p>
+<p type="title">Mištimos aj na/bi mištimos ande jekh PSA-proba</p>
+<p>PSA-proba či kerel pe ande rutina/normalno ande jekh sastarimski kontrola pe murš te dikhel pe te si len nevo kezdimos/forma anda prostataraka. Kodo si ke naj kanagodi maj feder te lel pe sama aj te sastarele pe pe le neve formi anda prostataraka. O Sastarimos šaj kerel te avel kaver nasvalimos sar impotento aj inkontineto kaj Le murš kaste o prostataraka šoha či areslo te kerel baro bajo ando nasvalimos.</p>
+<p>Jekh rakakotumori ando prostata šaj te barol lokes bi te kerel varesosko bajo vaj te barol sigo aj te žal pe maj buth kotora ando stato. Ande jekh nevi vrjama ando nasvalimos, naštil te dikhel pe savi anda leduj rakakeformi si aj o riziko si ke o sastarimos žal anda jekh rakakiforma savi naj či sosko bajo ando pesko trajo.</p>
+<p>Buth murš kamen gadea te dikhen aj te žanen te si len prostataraka. Maj anglal sigo sarso del pe jekh proba po PSA, si mišto te žanel o manuš so si mišto aj so naj mišto jekhe sastarimasa ando jekh nevo sama lino tumoro. Te kamel pe te žal pe maj dur aj te vorbis jekh doktoresa, trobul te manges jekh vrjama po vårdcentralo vaj pe jekh företagshälsovårdo/firmakosastarimos.</p>
+<p type="title">Soj si PSA aj kaj si kodo?</p>
+<p>PSA si jekh skurtimos anda prostataspecialno antigen. Kodo si jekh proteino savo kerdol ando prostatathan aj kaj žal kusa o mago kana žal avri aj kaj kerel o mago te kerdon maj žuvinde/miškime.</p>
+<p>PSA si normalno te avel ciřa ando rat, aj kodo so si miril pe perdal o PSA-proba. Vi bi raka si maj buth normalno pařudimos ande prostata kaj šaj kerel o PSA-zor ando rat te vazdel pe. Sar te phenel pe šaj lašo barardo-prostata aj inflamacija ando prostata-punza, akhardo prostatit, ingrel te pičal maj buth PSA ando rat khatar prostata.</p>
+<p>Ande berš vazdel pe o PSA-zor vareso kaj e maj bute muršenge ke e prostatapunza barol ciřa le maj phure beršenca.</p>
+<p>O maj baro butimos PSA ando rat si phanglo pe but fjelora proteinura. De si vi jekh ciřa butimos slobodni, biphanglo PSA. Kana si kaver doša sar raka ande jekh prosto/vareso PSA-vazdimos, maladol ke te avel maj but anda puterdo PSA ando rat. Anda kodo šaj del kado le doktoros jekh sikajimos te mesuril o phanglimos maškar o phanglo aj puterdo PSA.</p>
+<p type="title">Sar lel pe/kerel pe e proba?</p>
+<p>Proba lel pe anda o vas jekha sani suvasa savi pusavel pe ande jekh rateski vuna, jekh vuna. Anda kodo phenel pe kadale tiposke sar rateski-proba pe jekh vunasli/vunaki proba.</p>
+<p>Proba šaj te lel pe sar kana godi ando djes vaj rjat. O manuš si te bešel tele ande 15 minuci mai anglal e proba te lel pe. Bi kadaleske či trobul khanči kaver anglal getomos.</p>
+<p>Te kerel o manuš jekh kirurgicko šindimos ando prostata vazdel o PSA-resultáto O manuš atunči musaj te ažukerel maj xanci 10 džes angla kodo te avel hazna/mišto te lel pe jekh PSA-proba. Te o doktoro ferdi te azbal pe prostata o PSA-resultáto či vazdel pe.</p>
+<p type="title">Kana lel o manuš vorba/atveto?</p>
+<p>E proba bišavel pe kaj jekh špitakolaboratoriumo kote kerel pe analiza/dikhimos. O manuš šaj te avel pe jekheste peske doktorosa pa sar aj kana o manuš te žanel le rezultatura pa e proba. O doktoro butivar lel e vorba/atveto katar o laboratorio ande jekh vaj duj džesa.</p>
+<p type="title">Sar tolmačil pe o kodo so sikavel e proba?</p>
+<p>Jekh probako-sikajimos trobul kana godi te žal ande kodolesa ande save dukha si le manušes aj so e kaver dikhimos sikaven.</p>
+<p>PSA-učimos ando rat si variacija maškar le murš, vi maškar e murš kaste naj prostatadukha. Te avela le doktoros varesoste te žal kana dikhela/tolmačil kodo so sikavel e proba sar kaj phenel pe lašo učimos. Pe PSA butivar si učimos perdal 3 mikrogramura po litro žinavel pe sar jekh vazdimos/učimos.</p>
+<p type="title">Baro učimos, anda soste šaj te avel?</p>
+<p>Karing jekh anda deš murš ande penge berš si len vazdo/maj učo PSA-resultáto. Jekh prosto/normalno doš pe jekh cigno vazdino učimos si lašo/sasto prostata-barimos.</p>
+<p>O manuš šaj vi te lel maj baro učimos te si les ekh prostatainflamacija, sar so bušol/phenel pe kroniskoprostatit.</p>
+<p>Jekh prosto bešikako/urinako infekcija šaj kerel jekh zuralo vazdimos/učimos po PSA, núma vrjamása nakhél. Te si gadea ke o manuš anda varesoste te či naštil te mutrel pe vaj te nandžarel šuđarel e bešika sarso trobul, šaj te avel le manušes jekh učardo PSA-resultáto ande skurto vrama. Te si le manušeske phares te nandžarel e bešika mutrasa aj kanagodi ašel maj buth mutra, ande bešika, phenel pe kadaleske urinstämma.</p>
+<p>Maj baro učimos šaj avel vi anda prostataraka. Anda kodola kas si maj baro PSA arakhel pe raka kaj karing jekh tritokotor. O phanglimos maškar o puterdo aj phanglo PSA šaj del le doktoros jekh sikadimos kana si pa kodo te alol avri lašo prostata-bajo/dukh khatar prostataraka.</p>
+<p>Anda kodola kaj butivar, aj ande but berš den andre zumavimaski probi, anda kodola manuš si te avela karing jekh anda štar kaj si te avela les jekh PSA-resultáto kaj musaj te lel sama kaj o doktoro.</p>
+<p>Te si jekh rezultato anda jekh PSA-resultáto proba kaj sikavel jekh baro učimos, o doktoro butivar kerel inke jekh dikhimos kusa ultrahango aj maseski proba anda prostata glandula. Te arakhela o doktoro raka šaj o manuš te lel sastarimos pe operacia, radiacija, vaj pe hormonosko sastarimos.</p>
+<p type="title">Cigne učaimata, anda soste šaj avel kado?</p>
+<p>Cigno učimos sikavel ke le manušes naj prostataraka, vi te si ferdi jekh PSA-proba kaj či sikavel šel pe šel šaj kado te phenel pe ke (naj) či avla.</p>
+<p>Te len le manušeke prostala avri ande jekh operacia si te perel o PSA-resultáto gadea but ta pašti naštin te musurin la. Jekh xanci PSA-resultáto šaj avel sar jekh mesura, ke e operacia sas la lašo efekto. Vi kana den duj kaver sastjarimaske metodurja sar radiaca aj hormonosko sastarimos, sikavel butivar, ke jekh cignardo/xancilo PSA-resultáto si jekh semno ke gelas mišto o satjarimos.</p>
+</body></document>

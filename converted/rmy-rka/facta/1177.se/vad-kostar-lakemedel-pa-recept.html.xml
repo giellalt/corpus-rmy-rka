@@ -1,115 +1,72 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2107</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
-    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sode kerel pe drabenge rama? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Sode kerel pe drabenge rama?Vad kostar läkemedel på recept?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So si kaj džinel pe?</p>
-    <p type="title" xml:lang="swe">Protekcija karing vuče koštori</p>
-    <p xml:lang="swe">O them kerel subventacija, godo si ke von ažutin lovensa, kana trubol pe draba aj kaver źeli kana si jek specialno nasvalimata. But anda le draba kaj si ramome pe recepta si pe subventacija. Subventacija si ramome ando Źakono pa drabengo mištimos. E protekcija karing vuže koštori si o źakono kaj phenas svako džes vužo koštosko-protekcija.</p>
-    <p xml:lang="swe">O źakono phenel:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Maj lesni kerdol pala jek kaj bušol vužo koštosko trapta kaj si pe pherdo draba, peventivne drab, stomia-artiklori</p>
-      <p type="listitem" xml:lang="swe">Či trubús te počines kanči pe le dželi kaj trubúl kana si te des o stat drab, aj kana tu korkoro trubús te dikhes sar de but draba si te les, naprimer le suvjora kana si te mesuris sode zaro si ando rat</p>
-      <p type="listitem" xml:lang="swe">Jek specialno protekcija si pe vuže koštori pe uni xabenata le glatenge telal 16 berš.</p>
-    </list>
-    <p type="title" xml:lang="swe">Košto aj subventacija</p>
-    <p xml:lang="swe">Dandisto- aj Drabengo koštosko-protekcija organitacija, TLV, si o autoriteto kaj porunčin sar de but love si te len pe le draba sode subventacija si te den. Kana TVL len pengi dezicia pa e subventacija dikhen te del le draba hažna contra sar de but si te den subventacija pe le draba. E hažna šaj avel sar naprimer le draba del jek maj laśo sastimos aj maj lungo trajo. TVL vi len sama te le draba šaj xancjarel le themeski košto, naprimer pa operatcija , aj kana doktoro skipisarda manušes khatar e buči vaj pa le phurenge ažutimos.</p>
-    <p xml:lang="swe">Le drabengo organitacija šaj alon korkoro te bičinen le draba rigate khatar vužo koštosko-protekcija. Atunči von korkoro thon sode love si te len pa le draba. Draba kaj naj žinde andre ando vužo koštosko-protekcija mušaj tu korkoro te počinen sa le draba.</p>
-    <p xml:lang="swe">Uni draba si granica pe subventacija. Godo si ke o drab ferdi si la subventacija pe uni pacient grupura vaj pe uni nasvalimata.</p>
-    <p xml:lang="swe">TLV aj FASS si len webriga kaj šaj dikhes te si subventacija pe jek drab vaj niči.</p>
-    <p type="title" xml:lang="swe">O maj lesni alternativno kaj šaj pařuves avri</p>
-    <p xml:lang="swe">Univar si pherdo alternativne draba kaj si pašte sa jek fjalo. Godo bušol genericka draba. Andre andre ande le draba si sa jek fjalo supstancija kaj del sa jek fjalo efekto. Numa šaj mjazon kaver fjalo aj šaj avel andre kaver supstancije, naprimer sar drab kaj konservil le draba. Le draba šaj aven khatar but fjalo drabenge fabriči, aj svako porunčil sode love si te kerel le draba. Le alternativno šaj pařuvel pe avri ande patika. O Drabengo organitacija porunčin save draba šaj pařuvel pe avri pe kaver fjalo draba kaj si pašte sa jek fjalo.</p>
-    <p xml:lang="swe">Te si maj but genericka draba aj godo so ašel pe e recepta naj o maj lesni, mušaj e patika te pařuvel pe jek kaver alternativno drab kaj si maj lesni. Ferdi kaj o maj lesni alternativno si totalno subventatcija. Šaj alos korkoro te kames te čines o naj kuči drab te sar so ašel ande recepta, numa atunči mušaj te pučines korkoro godola love so si maškar lesni aj kuči, godo či žinel pe andre ando vučo koštosko-protekcija. Te či kamesa godo alternativno kaj e patika pařuvel aj godo či ašel ande tecepta, atunči šaj alos jek kaver genericko alternativno. Numa atunči mušaj te pučines o antrego drab korkoro. Ferdi godo so ašel pe e recepta aj godo kaj si maj lesni kaj šaj pařuves jek drab kaj či žindol ando subvenatcija. O gor si, ke konik te na pučinel maj but so trubúl pe jek drab te si draba anda sa jek fjalo pe kaver koštori.</p>
-    <p xml:lang="swe">Te si le drabesko profundo ke si mušaj te les jek drab anda jek specialno fabrika atunči šaj ramol o doktoro andre ande recepta ke naj slobodo te pařuven la avri. Atunči či trubús te pučines maj but love te si o drab žindo andre ando vučo koštosko-protekcija. Drabesko profundo šaj avel sar eksemplo te si o manuš alergia anda godo ke si jek specialno farba ando drab pe jek farba ande tableta vaj te si le manušeske phares te putrel e pačka.</p>
-    <p type="title" xml:lang="swe">O periodo sikhavel adveto</p>
-    <p xml:lang="swe">TVL alon le koštori kaj si pala drabengo fabrika te roden te šaj pařuven le koštori. O košto pe le draba, pala o rodimos, šaj pařudol pe pala svako śon.</p>
-    <p xml:lang="swe">Kana si pa genetricko draba bušol godo alternativno kaj lel o maj lesni košto e periodo kaj sikhavel adveto. TLV del informatcija savo alternativno kaj sikhavel adveto pe e perioda aj savi si kaj von trubon te pařuven avri. TLV vi alon avri duj alternatinvo kaj si pe rig kaj šaj pařuven avri kana del gata o periodo kaj sikhavel adveto. Godo šaj pařodol-pe śon khatar śon savo alternativno kaj e patika pařuvel avri.</p>
-    <p xml:lang="swe">O gindo kaj e periodo kaj sikhavel adveto, si te arasel le foroske love kaj le subventatcijake draba dela jek lungo vramja.</p>
-    <p xml:lang="swe">Periodo kaj sihavel adveto si sa jek fjalo pe sa le e patiki. Numa univar šaj kerdol ke e patika line prja but khatar periodake kaj sikhavel adveto. E patika šaj bičinel godola draba tela godo śon. Atunči e patika šaj del tut o produkto kaj sas maj lesni ando kaver śon aj godo śonesko produkto šaj avel pe vareso kaver. Vi le duj produktori šaj avel len kaver koštori.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Vučo koštosko-protekcija</p>
-    <p type="title" xml:lang="swe">2 200 kroni pučines pe jek berš</p>
-    <p xml:lang="swe">Vučo koštosko-protekcija si ke ferdi mušaj te pušines 2 200 kroni pe jek perioda kaj si pe jek berš. Godo berš bušol vužo koštosko-protekcija perioda.</p>
-    <p xml:lang="swe">Vužo koštosko-protekcija si pe draba kaj les pe recepta aj godo so TLV phende te avel pe subventacija. Godo si vi pe o konzumacijake artiklori kaj šaj les pe jek kaj bušol ažutimasko karta.</p>
-    <p xml:lang="swe">But anda le draba pučines vi godo kaj bušol čiro-košto svako data kana anes avri vareso pe recepta ji pon avilan źi kaj 2 200 kroni. Vi godo źindol pe konzumacijake artiklori kaj trubúl kaj stomi.</p>
-    <p xml:lang="swe">Pe uni draba či trubús te pučines čiro-košto. Te trubúla le manušes insulina pe diabetes atunči naj koštori pe e insulina. Te si le manušes jek nasvalimos kaj źal telal infektatcijako protekcija zakono či trubús te pušines ke e regiona pučinel antrego košto pe le draba te na pherdol kaver źene pe e infektatcija, sar eksemplo drab kaj xansarel tele o viruso karing hiv.</p>
-    <p xml:lang="swe">Uni regionori pučinel antrego košto vaj uni khotora khatar čiro-košto pe uni draba aj uni grupake patientori, sar eksemplo peventivno drab kaj terne žuvlia.</p>
-    <p xml:lang="swe">Či trubos te pučines pe konzumacijake artiklori kana trubúl le statos draba vaj kan biris korkoro te les le draba, sar eksemplo suva kana le mužora pe o źaro.</p>
-    <p type="title" xml:lang="swe">Čiro-košto pala e vučo koštosko-trepti</p>
-    <p xml:lang="swe">Kana les tut pe jek vužo koštosko perioda pe jek berš pučines antrego košto korkoro pe le draba aj stomia artiklori ji pon čidan ande jek than 1 100 kroni. Purme xansol čiro-košto pe khotor aj khotor, aj godo bušol vučo koštosko-trepti. Svako data kana čines les tut anda gor khatar godo košto ji pon arises kaj e kaver data kan čindan aj phires opre pe le trepti.</p>
-    <p xml:lang="swe">Kana pučindan 2 200 kroni či maj trubús te pučines maj dela godo vučo koštoski perioda. Godo ferdi źindol pe le draba kaj si andre ando vužo koštoski protekcija. Kana vučo koštoski perioda getol les tut anda gor pe jek nevi perioda kana čines, vi te san opre vaj tele pe le trepti.</p>
-    <p xml:lang="swe">Sar anel e vuči koštoski-trepti</p>
-    <p xml:lang="swe">Antrego drabengo košto</p>
-    <p xml:lang="swe">Sar maj but pučines</p>
-    <p xml:lang="swe">5 400</p>
-    <p xml:lang="swe">2 200</p>
-    <p xml:lang="swe">3 900</p>
-    <p xml:lang="swe">90 % maj lesni</p>
-    <p xml:lang="swe">2 050</p>
-    <p xml:lang="swe">2 100</p>
-    <p xml:lang="swe">75 % maj lesni</p>
-    <p xml:lang="swe">1 600</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">50 % maj lesni</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">0 % maj lesni</p>
-    <p xml:lang="swe"><em type="italic">O tabelo sikhavel sar vučo koštoski-protekcija del khotor pe khotor maj lesni koštori. </em></p>
-    <p type="title" xml:lang="swe">Specialno xabe le glatenge</p>
-    <p xml:lang="swe">Vi xaben le glatenge kaj si tela le berš 16 aj te si len uni nasvalimata, sar eksemplo intoleranto pe dźiv, si pe subventacija. E xabenata ramon avri pe jek ram kaj bušol xabenesko ram, aj pe godo ram šaj lel o manuš avri o xaben anda jek data kaj si te aresel ande 90 džes. O manuš pučinel korkoro 120 kroni svako data, numa gado so pučinel pe, či džindol andre ando vučo koštoski protekcija.</p>
-    <p type="title" xml:lang="swe">Sode šaj čines pe jek data?</p>
-    <p xml:lang="swe">Naštis te čines sode kames andre ando vučo koštoski-protekcija. Godo sé čines trubúl te aresel 90 džesa, godo si pašte trin śon. Preventivno draba, sar eksemplo preventivne draba aj preventivne suv, či źindol pe o trinengo śonesko zakono.</p>
-    <p xml:lang="swe">Te šaj les avri e recepta maj butivar te sar ande jekh data, mušaj te ažukers źi pon nakhlas duj furtari khatar godja vramja so ramol pe ande recepta te khatar godja vramja so von džinde te aresel te khatar lan avri o drab angluni data. Naprimer, te lan avri draba kaj si aresen ande trin śon, mušaj te nakhel duj śon te šaj les avri inke maj jek data.</p>
-    <p xml:lang="swe">Slobodo si te čines jek maj but so si ramome ande recepta, numa atunči mušaj te pučines antrego košto pe godo so čindan maj but so sas o gindo te aresel ande trin śon. Te ramosarda o doktoro ande recepta, ke mušaj te džal jek vramja maškar svako data kana les avri pe e receota, naštis te les avri maj butivar so o doktoro ramosarda ande recepta.</p>
-    <p xml:lang="swe">Te si le manuš jek kaver gor, sar eksemplo te trades ande thema tela jek lungo vramja, atunči šaj les avri draba pe vučo koštosko-protekcija tela maj lungo vramja sar trin śon. Numa atunči trubús te sikhaves, sar eksemplo ke trades ande thema.</p>
-    <p type="title" xml:lang="swe">Kana źindol o vučo koštoski-protekcija?</p>
-    <p xml:lang="swe">Te šaj źindol o vučo koštosko-protekcija mušaj godo manuš te ramol vorta peski bući ande jek pečataki-koda pe e recepta. Te si pe e recepta jek drab pe xansi subventacija mušaj o manuš kaj ramol te kerel jek semno pe e recepta ke si źindo o vučo koštosko-protekcija.</p>
-    <p xml:lang="swe">Vučo koštosko-protekcija źindol ferdi kaj godolenge kaj bešel vaj keren bući ando Švedo vaj godola kaj si len jek ram pe garantcija pe nasvale ande Evropa khatar kaver EES-thema vaj ando Švajci. E ram pe garantcija pe nasvale ande Evropa šaj sikhaves la opre kana źas kaj e špita aj vi ande e patika. O Švedo si les phanglimos pe uni thema kaj si avral e Evropa sar: Algerie, Ostrala aj e regiona Quebec ande Kanada, godo si ke le manuš kaj aven anda gadala thema šaj len o drabengo hažninmos te trubúla len kana von si ando Švedo.</p>
-    <p xml:lang="swe">Sa le glati kaj inke naj 18 beršenge aj trajin khere pe sa godo adreso, von si andre džinde ande vučo koštosko- protekcija. Sa le glatengo košto džinel pe ande jek than. Te si čače prhal aj pheja kaj si ramome pe kaver adreso, svako jek anda lende si len jek vučo koštosko-protekcija.</p>
-    <p type="title" xml:lang="swe">Vužo koštosko-protekcija data registro</p>
-    <p xml:lang="swe">O manuš či trubúl te serel sa so činda. Si jek than kaj bušol vučo koštosko-protekcija data registro, kaj si le themsko Patikako Service AB, kerel registratcija pe sa so čindan ando vužo koštosko-protekcija. O systemo źanel sode pušindan čiro-košto aj ginel avri sode maj lesni te kerel pala e vuči koštoski-trepti svako data kana čines. Sa le patiki si phangle andre ande sa jek fjalo data registro aj šaj źas kaj fer-savi patika te čines.</p>
-    <p xml:lang="swe">Naj tuke mušaj te phandes tut kaj vuži koštoski data registro. So si andre ando regristratcija si anav, manušesko socialno numero, kana čindan, kaj savi patika andan avri e recepta, pe sode pušindan, o košto kaj arislan ando vučo koštosko-protekcija aj o angluno džes pe vučo koštosko perioda. Informatcija kaj si ando registratcija si ferdi slobodo te avel te šaj les maj lesni le draba. Naj informatcija pe save draba kaj les vaj savo doktoro ramonda tuke e recepta si ando registratcija.</p>
-    <p xml:lang="swe">Kana godi šaj manges jek ram ande vučo koštosko registro te dikhes savi informatcija si pa tute aj pa čire glati. Goda pušimata keres karing Patikako Service AB, aj vi khotar arakhes o ram kaj trubús te pheres.</p>
-    <p type="title" xml:lang="swe">Te alos te aves avral</p>
-    <p xml:lang="swe">Šaj alos te na aves andre ando vužo koštosko data registro. Atunči les jek sedula kaj bušol vučo koštosko pečata khatar e patika kana čines draba ando vučo koštosko-protekcija. Pe o vučo koštosko pečata ašel sode pušindan čiro kosto. Važno si te garaves čiro vučo koštosko pečata te šaj sikhaves ande jek than me e recepta kana čines draba. E patika trubúl te źanel pe savo levelo san pe vuči koštoski-trepti te šaj den tu godo kaj si maj lesni.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2098</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName><parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sode kerel pe drabenge rama? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sode kerel pe drabenge rama?Vad kostar läkemedel på recept?</p>
+<p xml:lang="swe"></p>
+<p type="title">So si kaj džinel pe?</p>
+<p type="title">Protekcija karing vuče koštori</p>
+<p>O them kerel subventacija, godo si ke von ažutin lovensa, kana trubol pe draba aj kaver źeli kana si jek specialno nasvalimata. But anda le draba kaj si ramome pe recepta si pe subventacija. Subventacija si ramome ando Źakono pa drabengo mištimos. E protekcija karing vuže koštori si o źakono kaj phenas svako džes vužo koštosko-protekcija.</p>
+<p>O źakono phenel:</p>
+<list><p type="listitem">Maj lesni kerdol pala jek kaj bušol vužo koštosko trapta kaj si pe pherdo draba, peventivne drab, stomia-artiklori</p>
+<p type="listitem">Či trubús te počines kanči pe le dželi kaj trubúl kana si te des o stat drab, aj kana tu korkoro trubús te dikhes sar de but draba si te les, naprimer le suvjora kana si te mesuris sode zaro si ando rat</p>
+<p type="listitem">Jek specialno protekcija si pe vuže koštori pe uni xabenata le glatenge telal 16 berš.</p>
+</list><p type="title">Košto aj subventacija</p>
+<p>Dandisto- aj Drabengo koštosko-protekcija organitacija, TLV, si o autoriteto kaj porunčin sar de but love si te len pe le draba sode subventacija si te den. Kana TVL len pengi dezicia pa e subventacija dikhen te del le draba hažna contra sar de but si te den subventacija pe le draba. E hažna šaj avel sar naprimer le draba del jek maj laśo sastimos aj maj lungo trajo. TVL vi len sama te le draba šaj xancjarel le themeski košto, naprimer pa operatcija , aj kana doktoro skipisarda manušes khatar e buči vaj pa le phurenge ažutimos.</p>
+<p>Le drabengo organitacija šaj alon korkoro te bičinen le draba rigate khatar vužo koštosko-protekcija. Atunči von korkoro thon sode love si te len pa le draba. Draba kaj naj žinde andre ando vužo koštosko-protekcija mušaj tu korkoro te počinen sa le draba.</p>
+<p>Uni draba si granica pe subventacija. Godo si ke o drab ferdi si la subventacija pe uni pacient grupura vaj pe uni nasvalimata.</p>
+<p>TLV aj FASS si len webriga kaj šaj dikhes te si subventacija pe jek drab vaj niči.</p>
+<p type="title">O maj lesni alternativno kaj šaj pařuves avri</p>
+<p>Univar si pherdo alternativne draba kaj si pašte sa jek fjalo. Godo bušol genericka draba. Andre andre ande le draba si sa jek fjalo supstancija kaj del sa jek fjalo efekto. Numa šaj mjazon kaver fjalo aj šaj avel andre kaver supstancije, naprimer sar drab kaj konservil le draba. Le draba šaj aven khatar but fjalo drabenge fabriči, aj svako porunčil sode love si te kerel le draba. Le alternativno šaj pařuvel pe avri ande patika. O Drabengo organitacija porunčin save draba šaj pařuvel pe avri pe kaver fjalo draba kaj si pašte sa jek fjalo.</p>
+<p>Te si maj but genericka draba aj godo so ašel pe e recepta naj o maj lesni, mušaj e patika te pařuvel pe jek kaver alternativno drab kaj si maj lesni. Ferdi kaj o maj lesni alternativno si totalno subventatcija. Šaj alos korkoro te kames te čines o naj kuči drab te sar so ašel ande recepta, numa atunči mušaj te pučines korkoro godola love so si maškar lesni aj kuči, godo či žinel pe andre ando vučo koštosko-protekcija. Te či kamesa godo alternativno kaj e patika pařuvel aj godo či ašel ande tecepta, atunči šaj alos jek kaver genericko alternativno. Numa atunči mušaj te pučines o antrego drab korkoro. Ferdi godo so ašel pe e recepta aj godo kaj si maj lesni kaj šaj pařuves jek drab kaj či žindol ando subvenatcija. O gor si, ke konik te na pučinel maj but so trubúl pe jek drab te si draba anda sa jek fjalo pe kaver koštori.</p>
+<p>Te si le drabesko profundo ke si mušaj te les jek drab anda jek specialno fabrika atunči šaj ramol o doktoro andre ande recepta ke naj slobodo te pařuven la avri. Atunči či trubús te pučines maj but love te si o drab žindo andre ando vučo koštosko-protekcija. Drabesko profundo šaj avel sar eksemplo te si o manuš alergia anda godo ke si jek specialno farba ando drab pe jek farba ande tableta vaj te si le manušeske phares te putrel e pačka.</p>
+<p type="title">O periodo sikhavel adveto</p>
+<p>TVL alon le koštori kaj si pala drabengo fabrika te roden te šaj pařuven le koštori. O košto pe le draba, pala o rodimos, šaj pařudol pe pala svako śon.</p>
+<p>Kana si pa genetricko draba bušol godo alternativno kaj lel o maj lesni košto e periodo kaj sikhavel adveto. TLV del informatcija savo alternativno kaj sikhavel adveto pe e perioda aj savi si kaj von trubon te pařuven avri. TLV vi alon avri duj alternatinvo kaj si pe rig kaj šaj pařuven avri kana del gata o periodo kaj sikhavel adveto. Godo šaj pařodol-pe śon khatar śon savo alternativno kaj e patika pařuvel avri.</p>
+<p>O gindo kaj e periodo kaj sikhavel adveto, si te arasel le foroske love kaj le subventatcijake draba dela jek lungo vramja.</p>
+<p>Periodo kaj sihavel adveto si sa jek fjalo pe sa le e patiki. Numa univar šaj kerdol ke e patika line prja but khatar periodake kaj sikhavel adveto. E patika šaj bičinel godola draba tela godo śon. Atunči e patika šaj del tut o produkto kaj sas maj lesni ando kaver śon aj godo śonesko produkto šaj avel pe vareso kaver. Vi le duj produktori šaj avel len kaver koštori.</p>
+<p xml:lang="swe"></p>
+<p type="title">Vučo koštosko-protekcija</p>
+<p type="title">2 200 kroni pučines pe jek berš</p>
+<p>Vučo koštosko-protekcija si ke ferdi mušaj te pušines 2 200 kroni pe jek perioda kaj si pe jek berš. Godo berš bušol vužo koštosko-protekcija perioda.</p>
+<p>Vužo koštosko-protekcija si pe draba kaj les pe recepta aj godo so TLV phende te avel pe subventacija. Godo si vi pe o konzumacijake artiklori kaj šaj les pe jek kaj bušol ažutimasko karta.</p>
+<p>But anda le draba pučines vi godo kaj bušol čiro-košto svako data kana anes avri vareso pe recepta ji pon avilan źi kaj 2 200 kroni. Vi godo źindol pe konzumacijake artiklori kaj trubúl kaj stomi.</p>
+<p>Pe uni draba či trubús te pučines čiro-košto. Te trubúla le manušes insulina pe diabetes atunči naj koštori pe e insulina. Te si le manušes jek nasvalimos kaj źal telal infektatcijako protekcija zakono či trubús te pušines ke e regiona pučinel antrego košto pe le draba te na pherdol kaver źene pe e infektatcija, sar eksemplo drab kaj xansarel tele o viruso karing hiv.</p>
+<p>Uni regionori pučinel antrego košto vaj uni khotora khatar čiro-košto pe uni draba aj uni grupake patientori, sar eksemplo peventivno drab kaj terne žuvlia.</p>
+<p>Či trubos te pučines pe konzumacijake artiklori kana trubúl le statos draba vaj kan biris korkoro te les le draba, sar eksemplo suva kana le mužora pe o źaro.</p>
+<p type="title">Čiro-košto pala e vučo koštosko-trepti</p>
+<p>Kana les tut pe jek vužo koštosko perioda pe jek berš pučines antrego košto korkoro pe le draba aj stomia artiklori ji pon čidan ande jek than 1 100 kroni. Purme xansol čiro-košto pe khotor aj khotor, aj godo bušol vučo koštosko-trepti. Svako data kana čines les tut anda gor khatar godo košto ji pon arises kaj e kaver data kan čindan aj phires opre pe le trepti.</p>
+<p>Kana pučindan 2 200 kroni či maj trubús te pučines maj dela godo vučo koštoski perioda. Godo ferdi źindol pe le draba kaj si andre ando vužo koštoski protekcija. Kana vučo koštoski perioda getol les tut anda gor pe jek nevi perioda kana čines, vi te san opre vaj tele pe le trepti.</p>
+<p xml:lang="swe">Sar anel e vuči koštoski-trepti</p>
+<p>Antrego drabengo košto</p>
+<p>Sar maj but pučines</p>
+<p xml:lang="swe">5 400</p>
+<p xml:lang="swe">2 200</p>
+<p xml:lang="swe">3 900</p>
+<p>90 % maj lesni</p>
+<p xml:lang="swe">2 050</p>
+<p xml:lang="swe">2 100</p>
+<p>75 % maj lesni</p>
+<p xml:lang="swe">1 600</p>
+<p xml:lang="swe">1 100</p>
+<p>50 % maj lesni</p>
+<p xml:lang="swe">1 100</p>
+<p>0 % maj lesni</p>
+<p><em type="italic">O tabelo sikhavel sar vučo koštoski-protekcija del khotor pe khotor maj lesni koštori. </em></p>
+<p type="title">Specialno xabe le glatenge</p>
+<p>Vi xaben le glatenge kaj si tela le berš 16 aj te si len uni nasvalimata, sar eksemplo intoleranto pe dźiv, si pe subventacija. E xabenata ramon avri pe jek ram kaj bušol xabenesko ram, aj pe godo ram šaj lel o manuš avri o xaben anda jek data kaj si te aresel ande 90 džes. O manuš pučinel korkoro 120 kroni svako data, numa gado so pučinel pe, či džindol andre ando vučo koštoski protekcija.</p>
+<p type="title">Sode šaj čines pe jek data?</p>
+<p>Naštis te čines sode kames andre ando vučo koštoski-protekcija. Godo sé čines trubúl te aresel 90 džesa, godo si pašte trin śon. Preventivno draba, sar eksemplo preventivne draba aj preventivne suv, či źindol pe o trinengo śonesko zakono.</p>
+<p>Te šaj les avri e recepta maj butivar te sar ande jekh data, mušaj te ažukers źi pon nakhlas duj furtari khatar godja vramja so ramol pe ande recepta te khatar godja vramja so von džinde te aresel te khatar lan avri o drab angluni data. Naprimer, te lan avri draba kaj si aresen ande trin śon, mušaj te nakhel duj śon te šaj les avri inke maj jek data.</p>
+<p>Slobodo si te čines jek maj but so si ramome ande recepta, numa atunči mušaj te pučines antrego košto pe godo so čindan maj but so sas o gindo te aresel ande trin śon. Te ramosarda o doktoro ande recepta, ke mušaj te džal jek vramja maškar svako data kana les avri pe e receota, naštis te les avri maj butivar so o doktoro ramosarda ande recepta.</p>
+<p>Te si le manuš jek kaver gor, sar eksemplo te trades ande thema tela jek lungo vramja, atunči šaj les avri draba pe vučo koštosko-protekcija tela maj lungo vramja sar trin śon. Numa atunči trubús te sikhaves, sar eksemplo ke trades ande thema.</p>
+<p type="title">Kana źindol o vučo koštoski-protekcija?</p>
+<p>Te šaj źindol o vučo koštosko-protekcija mušaj godo manuš te ramol vorta peski bući ande jek pečataki-koda pe e recepta. Te si pe e recepta jek drab pe xansi subventacija mušaj o manuš kaj ramol te kerel jek semno pe e recepta ke si źindo o vučo koštosko-protekcija.</p>
+<p>Vučo koštosko-protekcija źindol ferdi kaj godolenge kaj bešel vaj keren bući ando Švedo vaj godola kaj si len jek ram pe garantcija pe nasvale ande Evropa khatar kaver EES-thema vaj ando Švajci. E ram pe garantcija pe nasvale ande Evropa šaj sikhaves la opre kana źas kaj e špita aj vi ande e patika. O Švedo si les phanglimos pe uni thema kaj si avral e Evropa sar: Algerie, Ostrala aj e regiona Quebec ande Kanada, godo si ke le manuš kaj aven anda gadala thema šaj len o drabengo hažninmos te trubúla len kana von si ando Švedo.</p>
+<p>Sa le glati kaj inke naj 18 beršenge aj trajin khere pe sa godo adreso, von si andre džinde ande vučo koštosko- protekcija. Sa le glatengo košto džinel pe ande jek than. Te si čače prhal aj pheja kaj si ramome pe kaver adreso, svako jek anda lende si len jek vučo koštosko-protekcija.</p>
+<p type="title" xml:lang="swe">Vužo koštosko-protekcija data registro</p>
+<p>O manuš či trubúl te serel sa so činda. Si jek than kaj bušol vučo koštosko-protekcija data registro, kaj si le themsko Patikako Service AB, kerel registratcija pe sa so čindan ando vužo koštosko-protekcija. O systemo źanel sode pušindan čiro-košto aj ginel avri sode maj lesni te kerel pala e vuči koštoski-trepti svako data kana čines. Sa le patiki si phangle andre ande sa jek fjalo data registro aj šaj źas kaj fer-savi patika te čines.</p>
+<p>Naj tuke mušaj te phandes tut kaj vuži koštoski data registro. So si andre ando regristratcija si anav, manušesko socialno numero, kana čindan, kaj savi patika andan avri e recepta, pe sode pušindan, o košto kaj arislan ando vučo koštosko-protekcija aj o angluno džes pe vučo koštosko perioda. Informatcija kaj si ando registratcija si ferdi slobodo te avel te šaj les maj lesni le draba. Naj informatcija pe save draba kaj les vaj savo doktoro ramonda tuke e recepta si ando registratcija.</p>
+<p>Kana godi šaj manges jek ram ande vučo koštosko registro te dikhes savi informatcija si pa tute aj pa čire glati. Goda pušimata keres karing Patikako Service AB, aj vi khotar arakhes o ram kaj trubús te pheres.</p>
+<p type="title">Te alos te aves avral</p>
+<p>Šaj alos te na aves andre ando vužo koštosko data registro. Atunči les jek sedula kaj bušol vučo koštosko pečata khatar e patika kana čines draba ando vučo koštosko-protekcija. Pe o vučo koštosko pečata ašel sode pušindan čiro kosto. Važno si te garaves čiro vučo koštosko pečata te šaj sikhaves ande jek than me e recepta kana čines draba. E patika trubúl te źanel pe savo levelo san pe vuči koštoski-trepti te šaj den tu godo kaj si maj lesni.</p>
+</body></document>

@@ -1,86 +1,46 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>2010</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Kana-e-uvli-udel-pestar</origFileName>
-    <parallel_text xml:lang="fin" location="abortti.html"/>
-    <parallel_text xml:lang="fit" location="abortti.html"/>
-    <parallel_text xml:lang="sma" location="abort.html"/>
-    <parallel_text xml:lang="sme" location="aborta.html"/>
-    <parallel_text xml:lang="smj" location="abartta.html"/>
-    <parallel_text xml:lang="swe" location="abort.html"/>
-    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
-    <parallel_text location="abortos.html" xml:lang="rmf"/>
-    <parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kana e žuvli šudel pestar</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Kana e žuvli šudel pestar</p>
-    <p xml:lang="swe">Kana jek žuvli šudel pestar si ke činel kana si ande Devlesko vast. Te sas le manuš gindori te šudel pestar šaj avel ke si le manušes pherdo pušimata. O manuš šaj dikhel jek manušes te šaj lel advetori pe peske pušimata. Vi te kamela godo manuš kaj kerda la žuvlia ande Devleske vast.</p>
-    <p xml:lang="swe">Sostar jek žuvli kamel te šudel pestar la glata kaj inke či arakhadili, šaj avel anda pherdo želi. Šaj avel ke e žuvli inke či dashtil. Šaj avel ke e žuvli ačarel pe pra terni aj či malavel vorta sar voj trajil. Šaj avel ke e žuvli kerdili ande Devleske vast me jek murš kaj voj či kamel te avel la glati godole muršesa.</p>
-    <p xml:lang="swe">O manuš si les čačimos te šudel pestar bi te phenel kaj jek aver manuš, vaj anda sostar. Godo ašel ande zakono kana šudel jek žuvli pestar jekha glata kaj inke či arakhadili. La žuvlia si la čačimos te pařuvel peske gindori angla so šudel pestar.</p>
-    <p xml:lang="swe">Kana jek žuvli šudel pestar naj čačes ke si maj phares te kerdol maj jek data ande Devleske vast maj angle ando trajo. Naj či jek granica če phuri šaj avel e žuvli te šaj šudel pestar.</p>
-    <p type="title" xml:lang="swe">Angla so te šudel pestar</p>
-    <p xml:lang="swe">Te site šudela e žuvli pestar šaj avel ke si la pherdo pušimata aj atunči si mišto te dikhel varekas kaj šaj del duma. Kana jek žuvli site šudel pestar kana si ande Devleske vast atunči kana godi den la žuvlia ažutimos aj zor, vi angla aj pala. Te si jek manuš kaj kerda varekas ande Devleske vast, vi godo manuš šaj žal te del duma varekasa, te kamela.</p>
-    <p type="title" xml:lang="swe">E žuvli si kaj puřončil</p>
-    <p xml:lang="swe">Kana godi si mišto te des duma me godo manuš kaj kerdilan ande Devleske vast, sar te keren. Aj te žala pe si mišto ande jek than te puřončin sar te keren. Te avela ke naštin te puřončin ande jek than kana godi si e žuvli kaj si ande Devleske vast, kaj alol te kamela te šudel vaj ke niči. Godo manuš kaj kerda la ande Devleske vast, naj kaj godo manuš slobodija te alol aj te phenel te žal e žuvli te šudel vaj te avel len e glata.</p>
-    <p type="title" xml:lang="swe">O manuš kaj godo ženo kaj šudel la glata kaj inke či arakhadili</p>
-    <p xml:lang="swe">Vi te alona vi le duj ande jek than vaj ke niči, šaj avel o manuš kaj trajis lesa, šaj avel le manušeske de fjal phares. Kaj žuvlikani špita aj kaj ternimatengi špita šaj dikhel o manuš varekas kaj šaj den duma, te kamena šaj žan vi le duj vaj šaj žal svako korkoro.</p>
-    <p xml:lang="swe">Kana šuda e žuvli aba pstar šaj ačarel pe vušorime aj vi tristo. O ačarimos aj le gindori šaj aven hamim la vramjasa aj univar šaj avel godo pala jek lungo vramja.</p>
-    <p xml:lang="swe">Vi te gela jek lungo vramja o manuš kana godi šaj lel kontakto kaj jek ternimatengi špita te šaj del duma sar ačarel pe o manuš.</p>
-    <p type="title" xml:lang="swe">Kana si slobodo te šudel e žuvli kana si ande Devleske vast</p>
-    <p xml:lang="swe">Ži angle kaj 18 kurko si slobodo la žuvliake te šudel pestar la glata kaj inke či arakhadili, bi te phenel varekaske vaj te phenel anda sostar.</p>
-    <p xml:lang="swe">Pala le 18 kurko mušaj e žuvli te mangel peske slobodija khatar Socialstyrelsen te šaj šuden pestar la glata. Pala godo lestar pača lel o manuš ferdi te si jek lašo profundo palal. Sar eksemplo pe jek pača šaj avel ke si e žuvli de fjal terni, te si la žuvlia problemo me pimos vaj drabensa, vaj kerdili siluvime vaj te si e glata kaj inke či arakhadili dočali vaj nasvali.</p>
-    <p type="title" xml:lang="swe">Kaj žas te šudes tutar</p>
-    <p xml:lang="swe">Kana šudes tutar la glata kaj inke či arakhadili žal o manuš kaj žuvlikani špita vaj kaj jek specialno žuvlikani špita, o manuš či biril te kerel godo kaj jek ternimatengi špita. Numa te žanesa ke san ande Devleske vast aj si tut gindo te šudes tutar šaj boldes tut kaj ternimatengi špita te les ažutimos. O manuš šaj žal kaj špita vaj kaj žuvlikano doktoro. Von šaj ažutin tut te les kontakto kaj jek žuvlikani špita.</p>
-    <p xml:lang="swe">O manuš šaj marel korkoro telefono kaj jek žuvlikani špita aj te lašares tuke vramja. Te žanela o manuš ke site šudes tutar, si mišto sar maj sigo te lašares tuke vramja, ke univar pe uni špiti lel vramja te šaj arises khote. <em type="italic"></em></p>
-    <p type="title" xml:lang="swe">Sar keren te šudes tutar?</p>
-    <p xml:lang="swe">O šudijimos šaj keren les pe pherdo fjalori. Savo drom kaj keren o šudijimos si če dur si e žuvli ande Devleske vast. Te šaj džinel o manuš avri če dur si e žuvli ande Devleske vast si te čines avri kana avila e žuvlikano šon khatar o angluno džes. O manuš či džinel avri e vramja kana kamla pe. <em type="italic"></em></p>
-    <p type="title" xml:lang="swe">Ži angle kaj injato kurko</p>
-    <p xml:lang="swe">Ži angle kaj injato kurko šaj šudel pestar e žuvli ažutimasa drabensa. Godo bušol drabengo šudijimos. Pe uni thana keren godo ži angle kaj dešudujto kurko. Atunči den la žuvlia jek drab kaj nakhavel pe jek žuvlikani špita, godo naj sa jek fjalo sar sigo prevetivno drab. Kana pilan o drab si slobodo te žastar khere.</p>
-    <p xml:lang="swe">Pala jek vaj ke duj džesa žal o manuš palpale kaj špita, te den tut inke maj jek drab, o drab šaj alol te pes la vaj thon la tuke opre ande miš. Atunči bešes ande špita aj pala jek vramja šurdos aj či maj san ande Devleske vast. Šaj dukhal aj atunči den tut jek drab te vušoril pe tuke aj sa godo džes šaj žas khere.</p>
-    <p xml:lang="swe">Vi žal pe te keres gado khere, atunči bušol godo ke šudes tutar kheral. Atunči den la žuvlia o dujto drab aj lel les khere. Te šaj keres godo mušaj e žuvli te aven 18 beršengi aj te avel jek kaver manuš lasa.</p>
-    <p xml:lang="swe">Pala duj trin kurke kana aba kerda e žuvli o šudijimos žal o manuš palpale kaj žuvlikani špita te keren jek nevi testo te dikhen te san ande Develske vast, aj te šaj phenes sar si tuke. Ferdi atunči si kaj žindol o šudijimos pe drabengo ažutimos. Univar vi keren jek rodijimos te dikhen te na avel vareso andral sar eksemplo te si o placenta ande materica. Aj te si inke godo andral atunči keren von kaj bušol o vužimos aj len avri le khotora lokořes. Te trubúla sovlaren la žuvlia.</p>
-    <p type="title" xml:lang="swe">Ži angle kaj dešudujto kurko</p>
-    <p xml:lang="swe">Ži angle kaj dešudujto kurko, kerel o manuš operatcija, atunči vužaren la žuvlia andral. Tela e operatcija si o manuš sovlardo. O doktoro thol andre ande materica jek suv. Andre ande suv si cirdimos. Lokořes cirden avri la glata aj e placenta avri ande materica. O šudijimos lel pašte 20 minutsi. Pala e operatcija bešes ande špita te šaj hudinis. Pala duj trin kurke zal o manuš palpale te dikhen te si sa mišto.</p>
-    <p type="title" xml:lang="swe">Pala dešudujto kurko aj ži angle kaj dešuoxtoto kurko</p>
-    <p xml:lang="swe">Pala dešudujto kurko mušaj o šudijimos te keres pe duj pasori. Atunči pes anglunes jek drab kaj špita kaj si pašte sa jek fjalo sar o angluno šudijimos. Pala duj džesa aves palpale aj den tut inke maj jek drab kaj thon zor pe e materica te arakhadol e glata.</p>
-    <p xml:lang="swe">Anel sera pašte sar kana arakhadol jek glata aj dukhal sa jek fjalo kana arakhadol jek glata. E vramja maldol pe pala o manuš, univar pe uni časori ži kaj džesa, numa butivar kerdol godo tela jek džes. Tela e vramja bešes ande špita. Kana si gata o šudijimos dikehl jek doktoro pe materica te si sa mišto. Te si inke khotora khatar placenta atunči keren jek vužimos ande materica. Pala duj trin kurke žal o manuš palpale kaj špita te dikhen te si sa mišto. <em type="italic"></em></p>
-    <p type="title" xml:lang="swe">Pala dešuoxtoto kurko</p>
-    <p xml:lang="swe">Pala dešuoxtoto kurko si ferdi slobodo te keren šudijimos te si jek profundo. O šudijimos keren sa jek fjal sar pala dešudujto kurko.</p>
-    <p type="title" xml:lang="swe">Sode kerel te šudes tutar kana san ande Develske vast?</p>
-    <p xml:lang="swe">Sode kerel te šudes tutar kana san ande Devleske vast maladol pe kaj ando them trajis. Pe pherdo than či trubús te pušines te si o manuš telal le 20 berš. Te si te trubúsa te pušines atunči kerel 300 kroni, pe sa le berš. Te kamela o manuš te žanel sode kerel khote kaj o manuš bešel, šaj atunči pušes khatar jek ternimatengi špita vaj žuvlikani špita. Vi žal pe te lel o manuš kontakto kaj jek žuvlikani špita.</p>
-    <p type="title" xml:lang="swe">Mušaj o njamo vaj o manuš kaj puřončil pe tute te žanel?</p>
-    <p xml:lang="swe">La špitake bučarne naj lenge slobodo te puřin. Numa te si te kerela o manuš jek šudijimos si mišto te žanela jek manuš te šaj les ažutioms, vi angla aj pala o šudijimos. Te si o manuš terni atunči phenel la špitake bučaren te phenen kaj le njamori vaj kaj o manuš kaj puřončil pe tute te žaenen ke site kerel o manuš jek šudijimos. Te či žala pe te phenes ando kher ke si o manuš ande Devleske vast aj site šudes tutar, kam si mišti te phenes kaj jek kaver manuš kaj si tut pačajimos ande late vaj leste. Šaj avel jek maj phuri pej vaj pral, jek njamo, jek kurator vaj kaj jek lugerica pe škola vaj varekon kaver kaj šaj ažutil tut.</p>
-    <p xml:lang="swe">Te si ke line kontkato le njamonsa vaj kaj o manuš kaj puřončil pe tute, si ke maladol pe pala svako manuš, pala e situatcija aj če phuro si o manuš. Sode maj paše si o manuš kaj 18 beršengo, maj xanci trubúl te puřis kaj le njamori vaj kaj o manuš kaj puřončil pe tute. Butivar šaj inkeren divano sar kames te keres kana dikhes la špitake bučarne. Te si te line kontakto le njamonsa vaj me o manuš kaj puřončil pe tute atunči phenen tuke anglunes godo.</p>
-    <p xml:lang="swe">Te si ke naštil le njamori aj o manuš kaj puřončil pe tute, te žanen ke site žas te šudes tutar, ke site kerdol jek bajo tusa, atunči la špitake bučarne či len kontakto lensa. Te si jek žuvli ande Develske vast aj si la gindo te šudel pestar, atunči te na avel ke thol pe o manuš ande jek situatcija kaj šaj kerdol bajo. Atunči e manuš šaj lel ažutimos khatar jek kurator vaj khatar jek ažutimasko manuš.</p>
-    <p type="title" xml:lang="swe">Pala o šudijimos</p>
-    <p xml:lang="swe">Le džesa pala o šudijimos si mišto te hudinil o manuš. Tela le anglune džesa aj ži kaj jek kurko šaj dukhal le manušes, sar kana si o žuvlikano šon. Kurkensa pala o šudijimos atunči šordol o manuš sar kana avel o žuvlikano šon vaj sera maj but. Sode o manuš šordol maladol pe pala svako manuš aj vi maldol pe savatar šudijimos kerda o manuš. Sode šordol o manuš, te na avel le manušes kamlimos, te phiravel parne ande miš vaj te najol, ke atunči lel o manuš infektatcija. Pala pašte štar ži kaj šov kurke avel o žuvlikano šon palpale.</p>
-    <p xml:lang="swe">Pala jek šudijimos ačarel pe uni ke si vužoro, jipon uni si tristi. Numa vi hamim pe o ačarimos sar si le manušeske aj univar pala jek lungo vramja avel godo pe o manuš.</p>
-    <p xml:lang="swe">Vi te gela jek lungo vramja šaj o manuš lel kontakto la špitasa te šaj den duma sar si le manušeske. O manuš šaj kerel boldel palpale kaj e špita kaj kerdan o šudijimos vaj sar eksemplo kaj jek ternimatengi špita.</p>
-    <p xml:lang="swe">Univar šaj maladol pe ke či ačarel pe o manuš gata, vaj te sas o manuš pra terno vaj te či maladol pe vorta ando traijo te avel le manuš glati. Sijke o manuš kerdili ande Devleske vast me godo manuš kaj či kames te avel tut traijo. So si vaj so naj, si le manušes čačimos te šudel pestar kana si ande Devleske vast bi te phenel anda sostar. Godo ašel ando zakono kana jek žuvli šudel pestar. O manuš šaj pařuvel peske gindori angla o šudijimos aj či trubúl te kerel godo te či kamela maj te šudel pestar. Naj jek granica pe le berš kana šaj šudes tutar.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>2005</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Kana-e-uvli-udel-pestar</origFileName><parallel_text xml:lang="fin" location="abortti.html"/><parallel_text xml:lang="fit" location="abortti.html"/><parallel_text xml:lang="sma" location="abort.html"/><parallel_text xml:lang="sme" location="aborta.html"/><parallel_text xml:lang="smj" location="abartta.html"/><parallel_text xml:lang="swe" location="abort.html"/><parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/><parallel_text location="abortos.html" xml:lang="rmf"/><parallel_text location="abortsia.html" xml:lang="rmy-rlo"/><parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kana e žuvli šudel pestar</p>
+<p type="title">Kana e žuvli šudel pestar</p>
+<p>Kana jek žuvli šudel pestar si ke činel kana si ande Devlesko vast. Te sas le manuš gindori te šudel pestar šaj avel ke si le manušes pherdo pušimata. O manuš šaj dikhel jek manušes te šaj lel advetori pe peske pušimata. Vi te kamela godo manuš kaj kerda la žuvlia ande Devleske vast.</p>
+<p>Sostar jek žuvli kamel te šudel pestar la glata kaj inke či arakhadili, šaj avel anda pherdo želi. Šaj avel ke e žuvli inke či dashtil. Šaj avel ke e žuvli ačarel pe pra terni aj či malavel vorta sar voj trajil. Šaj avel ke e žuvli kerdili ande Devleske vast me jek murš kaj voj či kamel te avel la glati godole muršesa.</p>
+<p>O manuš si les čačimos te šudel pestar bi te phenel kaj jek aver manuš, vaj anda sostar. Godo ašel ande zakono kana šudel jek žuvli pestar jekha glata kaj inke či arakhadili. La žuvlia si la čačimos te pařuvel peske gindori angla so šudel pestar.</p>
+<p>Kana jek žuvli šudel pestar naj čačes ke si maj phares te kerdol maj jek data ande Devleske vast maj angle ando trajo. Naj či jek granica če phuri šaj avel e žuvli te šaj šudel pestar.</p>
+<p type="title">Angla so te šudel pestar</p>
+<p>Te site šudela e žuvli pestar šaj avel ke si la pherdo pušimata aj atunči si mišto te dikhel varekas kaj šaj del duma. Kana jek žuvli site šudel pestar kana si ande Devleske vast atunči kana godi den la žuvlia ažutimos aj zor, vi angla aj pala. Te si jek manuš kaj kerda varekas ande Devleske vast, vi godo manuš šaj žal te del duma varekasa, te kamela.</p>
+<p type="title">E žuvli si kaj puřončil</p>
+<p>Kana godi si mišto te des duma me godo manuš kaj kerdilan ande Devleske vast, sar te keren. Aj te žala pe si mišto ande jek than te puřončin sar te keren. Te avela ke naštin te puřončin ande jek than kana godi si e žuvli kaj si ande Devleske vast, kaj alol te kamela te šudel vaj ke niči. Godo manuš kaj kerda la ande Devleske vast, naj kaj godo manuš slobodija te alol aj te phenel te žal e žuvli te šudel vaj te avel len e glata.</p>
+<p type="title">O manuš kaj godo ženo kaj šudel la glata kaj inke či arakhadili</p>
+<p>Vi te alona vi le duj ande jek than vaj ke niči, šaj avel o manuš kaj trajis lesa, šaj avel le manušeske de fjal phares. Kaj žuvlikani špita aj kaj ternimatengi špita šaj dikhel o manuš varekas kaj šaj den duma, te kamena šaj žan vi le duj vaj šaj žal svako korkoro.</p>
+<p>Kana šuda e žuvli aba pstar šaj ačarel pe vušorime aj vi tristo. O ačarimos aj le gindori šaj aven hamim la vramjasa aj univar šaj avel godo pala jek lungo vramja.</p>
+<p>Vi te gela jek lungo vramja o manuš kana godi šaj lel kontakto kaj jek ternimatengi špita te šaj del duma sar ačarel pe o manuš.</p>
+<p type="title">Kana si slobodo te šudel e žuvli kana si ande Devleske vast</p>
+<p>Ži angle kaj 18 kurko si slobodo la žuvliake te šudel pestar la glata kaj inke či arakhadili, bi te phenel varekaske vaj te phenel anda sostar.</p>
+<p>Pala le 18 kurko mušaj e žuvli te mangel peske slobodija khatar Socialstyrelsen te šaj šuden pestar la glata. Pala godo lestar pača lel o manuš ferdi te si jek lašo profundo palal. Sar eksemplo pe jek pača šaj avel ke si e žuvli de fjal terni, te si la žuvlia problemo me pimos vaj drabensa, vaj kerdili siluvime vaj te si e glata kaj inke či arakhadili dočali vaj nasvali.</p>
+<p type="title">Kaj žas te šudes tutar</p>
+<p>Kana šudes tutar la glata kaj inke či arakhadili žal o manuš kaj žuvlikani špita vaj kaj jek specialno žuvlikani špita, o manuš či biril te kerel godo kaj jek ternimatengi špita. Numa te žanesa ke san ande Devleske vast aj si tut gindo te šudes tutar šaj boldes tut kaj ternimatengi špita te les ažutimos. O manuš šaj žal kaj špita vaj kaj žuvlikano doktoro. Von šaj ažutin tut te les kontakto kaj jek žuvlikani špita.</p>
+<p>O manuš šaj marel korkoro telefono kaj jek žuvlikani špita aj te lašares tuke vramja. Te žanela o manuš ke site šudes tutar, si mišto sar maj sigo te lašares tuke vramja, ke univar pe uni špiti lel vramja te šaj arises khote. <em type="italic"></em></p>
+<p type="title">Sar keren te šudes tutar?</p>
+<p>O šudijimos šaj keren les pe pherdo fjalori. Savo drom kaj keren o šudijimos si če dur si e žuvli ande Devleske vast. Te šaj džinel o manuš avri če dur si e žuvli ande Devleske vast si te čines avri kana avila e žuvlikano šon khatar o angluno džes. O manuš či džinel avri e vramja kana kamla pe. <em type="italic"></em></p>
+<p type="title">Ži angle kaj injato kurko</p>
+<p>Ži angle kaj injato kurko šaj šudel pestar e žuvli ažutimasa drabensa. Godo bušol drabengo šudijimos. Pe uni thana keren godo ži angle kaj dešudujto kurko. Atunči den la žuvlia jek drab kaj nakhavel pe jek žuvlikani špita, godo naj sa jek fjalo sar sigo prevetivno drab. Kana pilan o drab si slobodo te žastar khere.</p>
+<p>Pala jek vaj ke duj džesa žal o manuš palpale kaj špita, te den tut inke maj jek drab, o drab šaj alol te pes la vaj thon la tuke opre ande miš. Atunči bešes ande špita aj pala jek vramja šurdos aj či maj san ande Devleske vast. Šaj dukhal aj atunči den tut jek drab te vušoril pe tuke aj sa godo džes šaj žas khere.</p>
+<p>Vi žal pe te keres gado khere, atunči bušol godo ke šudes tutar kheral. Atunči den la žuvlia o dujto drab aj lel les khere. Te šaj keres godo mušaj e žuvli te aven 18 beršengi aj te avel jek kaver manuš lasa.</p>
+<p>Pala duj trin kurke kana aba kerda e žuvli o šudijimos žal o manuš palpale kaj žuvlikani špita te keren jek nevi testo te dikhen te san ande Develske vast, aj te šaj phenes sar si tuke. Ferdi atunči si kaj žindol o šudijimos pe drabengo ažutimos. Univar vi keren jek rodijimos te dikhen te na avel vareso andral sar eksemplo te si o placenta ande materica. Aj te si inke godo andral atunči keren von kaj bušol o vužimos aj len avri le khotora lokořes. Te trubúla sovlaren la žuvlia.</p>
+<p type="title">Ži angle kaj dešudujto kurko</p>
+<p>Ži angle kaj dešudujto kurko, kerel o manuš operatcija, atunči vužaren la žuvlia andral. Tela e operatcija si o manuš sovlardo. O doktoro thol andre ande materica jek suv. Andre ande suv si cirdimos. Lokořes cirden avri la glata aj e placenta avri ande materica. O šudijimos lel pašte 20 minutsi. Pala e operatcija bešes ande špita te šaj hudinis. Pala duj trin kurke zal o manuš palpale te dikhen te si sa mišto.</p>
+<p type="title">Pala dešudujto kurko aj ži angle kaj dešuoxtoto kurko</p>
+<p>Pala dešudujto kurko mušaj o šudijimos te keres pe duj pasori. Atunči pes anglunes jek drab kaj špita kaj si pašte sa jek fjalo sar o angluno šudijimos. Pala duj džesa aves palpale aj den tut inke maj jek drab kaj thon zor pe e materica te arakhadol e glata.</p>
+<p>Anel sera pašte sar kana arakhadol jek glata aj dukhal sa jek fjalo kana arakhadol jek glata. E vramja maldol pe pala o manuš, univar pe uni časori ži kaj džesa, numa butivar kerdol godo tela jek džes. Tela e vramja bešes ande špita. Kana si gata o šudijimos dikehl jek doktoro pe materica te si sa mišto. Te si inke khotora khatar placenta atunči keren jek vužimos ande materica. Pala duj trin kurke žal o manuš palpale kaj špita te dikhen te si sa mišto. <em type="italic"></em></p>
+<p type="title">Pala dešuoxtoto kurko</p>
+<p>Pala dešuoxtoto kurko si ferdi slobodo te keren šudijimos te si jek profundo. O šudijimos keren sa jek fjal sar pala dešudujto kurko.</p>
+<p type="title">Sode kerel te šudes tutar kana san ande Develske vast?</p>
+<p>Sode kerel te šudes tutar kana san ande Devleske vast maladol pe kaj ando them trajis. Pe pherdo than či trubús te pušines te si o manuš telal le 20 berš. Te si te trubúsa te pušines atunči kerel 300 kroni, pe sa le berš. Te kamela o manuš te žanel sode kerel khote kaj o manuš bešel, šaj atunči pušes khatar jek ternimatengi špita vaj žuvlikani špita. Vi žal pe te lel o manuš kontakto kaj jek žuvlikani špita.</p>
+<p type="title">Mušaj o njamo vaj o manuš kaj puřončil pe tute te žanel?</p>
+<p>La špitake bučarne naj lenge slobodo te puřin. Numa te si te kerela o manuš jek šudijimos si mišto te žanela jek manuš te šaj les ažutioms, vi angla aj pala o šudijimos. Te si o manuš terni atunči phenel la špitake bučaren te phenen kaj le njamori vaj kaj o manuš kaj puřončil pe tute te žaenen ke site kerel o manuš jek šudijimos. Te či žala pe te phenes ando kher ke si o manuš ande Devleske vast aj site šudes tutar, kam si mišti te phenes kaj jek kaver manuš kaj si tut pačajimos ande late vaj leste. Šaj avel jek maj phuri pej vaj pral, jek njamo, jek kurator vaj kaj jek lugerica pe škola vaj varekon kaver kaj šaj ažutil tut.</p>
+<p>Te si ke line kontkato le njamonsa vaj kaj o manuš kaj puřončil pe tute, si ke maladol pe pala svako manuš, pala e situatcija aj če phuro si o manuš. Sode maj paše si o manuš kaj 18 beršengo, maj xanci trubúl te puřis kaj le njamori vaj kaj o manuš kaj puřončil pe tute. Butivar šaj inkeren divano sar kames te keres kana dikhes la špitake bučarne. Te si te line kontakto le njamonsa vaj me o manuš kaj puřončil pe tute atunči phenen tuke anglunes godo.</p>
+<p>Te si ke naštil le njamori aj o manuš kaj puřončil pe tute, te žanen ke site žas te šudes tutar, ke site kerdol jek bajo tusa, atunči la špitake bučarne či len kontakto lensa. Te si jek žuvli ande Develske vast aj si la gindo te šudel pestar, atunči te na avel ke thol pe o manuš ande jek situatcija kaj šaj kerdol bajo. Atunči e manuš šaj lel ažutimos khatar jek kurator vaj khatar jek ažutimasko manuš.</p>
+<p type="title">Pala o šudijimos</p>
+<p>Le džesa pala o šudijimos si mišto te hudinil o manuš. Tela le anglune džesa aj ži kaj jek kurko šaj dukhal le manušes, sar kana si o žuvlikano šon. Kurkensa pala o šudijimos atunči šordol o manuš sar kana avel o žuvlikano šon vaj sera maj but. Sode o manuš šordol maladol pe pala svako manuš aj vi maldol pe savatar šudijimos kerda o manuš. Sode šordol o manuš, te na avel le manušes kamlimos, te phiravel parne ande miš vaj te najol, ke atunči lel o manuš infektatcija. Pala pašte štar ži kaj šov kurke avel o žuvlikano šon palpale.</p>
+<p>Pala jek šudijimos ačarel pe uni ke si vužoro, jipon uni si tristi. Numa vi hamim pe o ačarimos sar si le manušeske aj univar pala jek lungo vramja avel godo pe o manuš.</p>
+<p>Vi te gela jek lungo vramja šaj o manuš lel kontakto la špitasa te šaj den duma sar si le manušeske. O manuš šaj kerel boldel palpale kaj e špita kaj kerdan o šudijimos vaj sar eksemplo kaj jek ternimatengi špita.</p>
+<p>Univar šaj maladol pe ke či ačarel pe o manuš gata, vaj te sas o manuš pra terno vaj te či maladol pe vorta ando traijo te avel le manuš glati. Sijke o manuš kerdili ande Devleske vast me godo manuš kaj či kames te avel tut traijo. So si vaj so naj, si le manušes čačimos te šudel pestar kana si ande Devleske vast bi te phenel anda sostar. Godo ašel ando zakono kana jek žuvli šudel pestar. O manuš šaj pařuvel peske gindori angla o šudijimos aj či trubúl te kerel godo te či kamela maj te šudel pestar. Naj jek granica pe le berš kana šaj šudes tutar.</p>
+</body></document>

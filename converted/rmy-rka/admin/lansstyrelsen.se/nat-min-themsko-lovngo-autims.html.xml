@@ -1,62 +1,28 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>299</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/them%c3%a9sko-lov%c3%a9ngo-a%c5%beutim%c3%b3s.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-stahtadoarrja.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Themésko lovéngo ažutimós - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Themésko lovéngo ažutimós</p>
-    <p xml:lang="swe"><em type="italic">Ánda o totálno budgéto pa 97 miljoner krónurja kaj o autoritéto le themésko (regeringen) diné avrí pa e bučí pa minoritetonénge polítika 2014, žal 70 miliónurja karíng le komúnora thaj landstinget sar themésko lovéngo ažutimós (stadsbidrag). </em></p>
-    <p type="title" xml:lang="swe">Pe sóste šaj žal le lové?</p>
-    <p xml:lang="swe">Le themésko lovéngo ažutimós (stadsbidrag) músaj te žal ánde e házna le minoritetonegne kan vorbín sar te kerén bučí maj anglé, thaj kána váreso kerél maj but de sar sas o gindo la bučáko pa minoritetonénge modo thaj krisá. Núma naj slóbodo te thon lové pe bučá kaj vúze músaj sa te kerén, sar naprimér te róden tolmáča thaj kána den avrí le lové kaj le ciné organacionénge. Koté kaj šaj thon le lové si</p>
-    <list>
-      <p type="listitem" xml:lang="swe">ándo dialólgo thaj ando diváno le minoritetonénsa</p>
-      <p type="listitem" xml:lang="swe">ánde investigacia (forskning)</p>
-      <p type="listitem" xml:lang="swe">ánde la informaciako zor thaj tolmáča</p>
-      <p type="listitem" xml:lang="swe">te len sáma sar kerén le organáci bučí thaj lénge pařudimáta</p>
-      <p type="listitem" xml:lang="swe">kána thon zor ánde é kultúra thaj ánde šibá</p>
-      <p type="listitem" xml:lang="swe">kána thon zor te sikavén le minoritétora thaj lénge šibá ánde rekláma</p>
-      <p type="listitem" xml:lang="swe">kána zumavén te zurarén le bučá, naprimér te činén literatúra thaj pedagogicko materiálo</p>
-      <p type="listitem" xml:lang="swe">te počinén le bučarnáš</p>
-      <p type="listitem" xml:lang="swe">pe bučáko pláno</p>
-    </list>
-    <p type="title" xml:lang="swe">Gadea but lové den le komúnora</p>
-    <p xml:lang="swe">Le fundamentalné lové kaj aresél ánde komúna si 660 000 krónurja sváko berš. Komúnora so silen maj xanci de 50 000 naródo, lel jekvár (1) fundamentalné lové (grundbelopp). Kaste si ži kaj 80 000 naródo, lel 1,5 fundamentálne lové Kaste si ži kaj 100 000 naródo, lel 2 fundamentálne lové Kaste si ži kaj 400 000 naródo, lel 3 fundamentálne lové Kaste si maj but de sar 400 000 naródo, lel 4 fundamentálne lové</p>
-    <p xml:lang="swe">Komúnora kaj aresél ánde maj but so jekh minoritetonénge provínca, lénge den 500 000 krónurja maj but.</p>
-    <p xml:lang="swe">Landsting thaj regiónora len 250 000 krónurja.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>299</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/them%c3%a9sko-lov%c3%a9ngo-a%c5%beutim%c3%b3s.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/><parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/><parallel_text xml:lang="smj" location="nat-min-stahtadoarrja.html"/><parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Themésko lovéngo ažutimós - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Themésko lovéngo ažutimós</p>
+<p><em type="italic">Ánda o totálno budgéto pa 97 miljoner krónurja kaj o autoritéto le themésko (regeringen) diné avrí pa e bučí pa minoritetonénge polítika 2014, žal 70 miliónurja karíng le komúnora thaj landstinget sar themésko lovéngo ažutimós (stadsbidrag). </em></p>
+<p type="title">Pe sóste šaj žal le lové?</p>
+<p>Le themésko lovéngo ažutimós (stadsbidrag) músaj te žal ánde e házna le minoritetonegne kan vorbín sar te kerén bučí maj anglé, thaj kána váreso kerél maj but de sar sas o gindo la bučáko pa minoritetonénge modo thaj krisá. Núma naj slóbodo te thon lové pe bučá kaj vúze músaj sa te kerén, sar naprimér te róden tolmáča thaj kána den avrí le lové kaj le ciné organacionénge. Koté kaj šaj thon le lové si</p>
+<list><p type="listitem">ándo dialólgo thaj ando diváno le minoritetonénsa</p>
+<p type="listitem" xml:lang="swe">ánde investigacia (forskning)</p>
+<p type="listitem">ánde la informaciako zor thaj tolmáča</p>
+<p type="listitem">te len sáma sar kerén le organáci bučí thaj lénge pařudimáta</p>
+<p type="listitem">kána thon zor ánde é kultúra thaj ánde šibá</p>
+<p type="listitem">kána thon zor te sikavén le minoritétora thaj lénge šibá ánde rekláma</p>
+<p type="listitem">kána zumavén te zurarén le bučá, naprimér te činén literatúra thaj pedagogicko materiálo</p>
+<p type="listitem">te počinén le bučarnáš</p>
+<p type="listitem">pe bučáko pláno</p>
+</list><p type="title">Gadea but lové den le komúnora</p>
+<p>Le fundamentalné lové kaj aresél ánde komúna si 660 000 krónurja sváko berš. Komúnora so silen maj xanci de 50 000 naródo, lel jekvár (1) fundamentalné lové (grundbelopp). Kaste si ži kaj 80 000 naródo, lel 1,5 fundamentálne lové Kaste si ži kaj 100 000 naródo, lel 2 fundamentálne lové Kaste si ži kaj 400 000 naródo, lel 3 fundamentálne lové Kaste si maj but de sar 400 000 naródo, lel 4 fundamentálne lové</p>
+<p>Komúnora kaj aresél ánde maj but so jekh minoritetonénge provínca, lénge den 500 000 krónurja maj but.</p>
+<p>Landsting thaj regiónora len 250 000 krónurja.</p>
+</body></document>

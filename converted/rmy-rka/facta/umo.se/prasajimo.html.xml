@@ -1,58 +1,18 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>555</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Prasajimo</origFileName>
-    <parallel_text xml:lang="fin" location="kiusaaminen.html"/>
-    <parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/>
-    <parallel_text xml:lang="sma" location="irhkeme.html"/>
-    <parallel_text xml:lang="sme" location="givssideapmi.html"/>
-    <parallel_text xml:lang="smj" location="nuppastibme.html"/>
-    <parallel_text xml:lang="swe" location="mobbning.html"/>
-    <parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/>
-    <parallel_text location="holjiba.html" xml:lang="rmf"/>
-    <parallel_text location="mobbing.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mobibe.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Prasajimo</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Prasajimo</p>
-    <p xml:lang="swe">Kana jekh manuš si čores inkerdo le manušendar kruglom jekheste, si kado akhardo prasajimo. Jekh ćini prasamaske buči či žindol sar prasajimo. Kana kodo butivar maladjol aj kerel kodoleske kaj dukhadol te avel leske čores, kodo žindolpe sar prasape.</p>
-    <p xml:lang="swe">Kodoleske kaj anklel prasado šaj ačarel pes darado, tristome aj perado. O manuš šaj perel ando tristimos aj te avel leske čores vi te avla kado jekh data, vi tena akhardolape kado prasape. Numa kodoleske kaj si prasado pe jekh lungo vrama šaj kodo te asbal o korkorimasko ačarimo aj te ačarelpe korkoro.</p>
-    <p type="title" xml:lang="swe">So si prasajimo?</p>
-    <p xml:lang="swe">Prasajimo šaj avel vorbi, dikhimos, asamos, dukhumata, malajimo aj nasul vorbi. Šaj avel vi čore sms, mejlura vaj ramol ando facebook vaj te si o manuš rodino po internet.</p>
-    <p xml:lang="swe">Prasape šaj vi te avel varekon te avel avrišudino ferdi anda kodo ke o ženo či huravel pes sar e aver kamen te huravel pes o manuš, vaj ke o manuš dičol/anel varesar aver sar. Šaj te avel ke naštil te avel andre, vaj ke e manuš maren muj pa jekheste. Te si ke varekon dukhadol, si kodo prasape.</p>
-    <p xml:lang="swe">Prasape si jekh zurali vorba butenge. Šajke či ačaren kodola kaj prasan ke čačimasa kado si prasape. Von šajke phenenke ferdi si jekh čingar. Numa ande jekh čingar si o manuš sar te phenelpe maj zurale aj maj čore katar jekhavrende.</p>
-    <p xml:lang="swe">Sa kade si vi e le čore pherasensa. Kodo kaj prasal univar šudel pestar aj phenel ke kodo ferdi jekh pheras sas. Ma te si varekon dukhado kodolestar, si kodo prasape. Univar si o prasape kade zurales ta kodo phagel o zakono. Sar te phenelpe te marelpe varekas, te malavelpe varekas. Trakaseriji (dikhelpe tele) vaj diskriminacija si vi kodo phagimos po zakono. Kodo si phagimos po zakono te pretis varekas, vaj te daraves varekas kaj si maj terno sar 15 berš te kerel seksualni buča po internet.</p>
-    <p xml:lang="swe">O manuš te inkrela varekas čores anda kodo ke murš si vaj žuvlji vaj anda religija, si kodo diskriminacija. Somaj sigo varekon si dukhado, trubul kado te lelpe zuraleske.</p>
-    <p type="title" xml:lang="swe">Anda soste si prasape?</p>
-    <p xml:lang="swe">Butivar šaj avel o prasape kana čori voja si ande jekh grupa manuš. Kodola kaj prasan zumaven te inkeren andekthan ande jekh cini grupa kana von prasan varekas kaveres. Univar si prasamata anda kodo ke naj paše jekh phuro ženo savo trubul te lel sama pe sakojekh te inkerenpe mišto jekhavrensa. Prasape šaj vi te avel ke kodo kaj prasal korkoro leske naj mišto aj anda kodo žal pe kaverende te šaj vo ačarelpe maj zuralo. Univar o prasape šaj avel majbuth ke e manuš kruglom či phenen khanči. Von šajke daran tena aven von korkoro prasande vaj te xasaren frenori/kolegi.</p>
-    <p type="title" xml:lang="swe">Sar šaj te cerarelpe o prasape/prasajimos?</p>
-    <p xml:lang="swe">Šoha naj jekhe terne manušeske musaj te tordjarel/ašavel tele o prasape. Ande škola si e phure kaj si došale/musajime tena avel varekon prasado. Vikade šaj sako te žutil te cerarelpe o prasape.</p>
-    <p xml:lang="swe">Te lelpe sama ke varekon ačarelpe perado vaj ačarelpe avral, šaj sikavel o manuš ke si lesa varekon. Univar dosta te phenelpe hej, vaj te pušelpe vareso sakodjeseski vorba, te šaj ačarel varekon ke si lesa varekon.</p>
-    <p xml:lang="swe">O manuš šaj vi te žutil varekas te phenel varekaske kon kerel buči pe škola te las sama ke varekon si prasado.</p>
-    <p xml:lang="swe">» Te kerdol o manuš belenkerevo</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>550</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-kalderash/Prasajimo</origFileName><parallel_text xml:lang="fin" location="kiusaaminen.html"/><parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/><parallel_text xml:lang="sma" location="irhkeme.html"/><parallel_text xml:lang="sme" location="givssideapmi.html"/><parallel_text xml:lang="smj" location="nuppastibme.html"/><parallel_text xml:lang="swe" location="mobbning.html"/><parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/><parallel_text location="holjiba.html" xml:lang="rmf"/><parallel_text location="mobbing.html" xml:lang="rmy-rlo"/><parallel_text location="mobibe.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Prasajimo</p>
+<p type="title">Prasajimo</p>
+<p>Kana jekh manuš si čores inkerdo le manušendar kruglom jekheste, si kado akhardo prasajimo. Jekh ćini prasamaske buči či žindol sar prasajimo. Kana kodo butivar maladjol aj kerel kodoleske kaj dukhadol te avel leske čores, kodo žindolpe sar prasape.</p>
+<p>Kodoleske kaj anklel prasado šaj ačarel pes darado, tristome aj perado. O manuš šaj perel ando tristimos aj te avel leske čores vi te avla kado jekh data, vi tena akhardolape kado prasape. Numa kodoleske kaj si prasado pe jekh lungo vrama šaj kodo te asbal o korkorimasko ačarimo aj te ačarelpe korkoro.</p>
+<p type="title">So si prasajimo?</p>
+<p>Prasajimo šaj avel vorbi, dikhimos, asamos, dukhumata, malajimo aj nasul vorbi. Šaj avel vi čore sms, mejlura vaj ramol ando facebook vaj te si o manuš rodino po internet.</p>
+<p>Prasape šaj vi te avel varekon te avel avrišudino ferdi anda kodo ke o ženo či huravel pes sar e aver kamen te huravel pes o manuš, vaj ke o manuš dičol/anel varesar aver sar. Šaj te avel ke naštil te avel andre, vaj ke e manuš maren muj pa jekheste. Te si ke varekon dukhadol, si kodo prasape.</p>
+<p>Prasape si jekh zurali vorba butenge. Šajke či ačaren kodola kaj prasan ke čačimasa kado si prasape. Von šajke phenenke ferdi si jekh čingar. Numa ande jekh čingar si o manuš sar te phenelpe maj zurale aj maj čore katar jekhavrende.</p>
+<p>Sa kade si vi e le čore pherasensa. Kodo kaj prasal univar šudel pestar aj phenel ke kodo ferdi jekh pheras sas. Ma te si varekon dukhado kodolestar, si kodo prasape. Univar si o prasape kade zurales ta kodo phagel o zakono. Sar te phenelpe te marelpe varekas, te malavelpe varekas. Trakaseriji (dikhelpe tele) vaj diskriminacija si vi kodo phagimos po zakono. Kodo si phagimos po zakono te pretis varekas, vaj te daraves varekas kaj si maj terno sar 15 berš te kerel seksualni buča po internet.</p>
+<p>O manuš te inkrela varekas čores anda kodo ke murš si vaj žuvlji vaj anda religija, si kodo diskriminacija. Somaj sigo varekon si dukhado, trubul kado te lelpe zuraleske.</p>
+<p type="title">Anda soste si prasape?</p>
+<p>Butivar šaj avel o prasape kana čori voja si ande jekh grupa manuš. Kodola kaj prasan zumaven te inkeren andekthan ande jekh cini grupa kana von prasan varekas kaveres. Univar si prasamata anda kodo ke naj paše jekh phuro ženo savo trubul te lel sama pe sakojekh te inkerenpe mišto jekhavrensa. Prasape šaj vi te avel ke kodo kaj prasal korkoro leske naj mišto aj anda kodo žal pe kaverende te šaj vo ačarelpe maj zuralo. Univar o prasape šaj avel majbuth ke e manuš kruglom či phenen khanči. Von šajke daran tena aven von korkoro prasande vaj te xasaren frenori/kolegi.</p>
+<p type="title">Sar šaj te cerarelpe o prasape/prasajimos?</p>
+<p>Šoha naj jekhe terne manušeske musaj te tordjarel/ašavel tele o prasape. Ande škola si e phure kaj si došale/musajime tena avel varekon prasado. Vikade šaj sako te žutil te cerarelpe o prasape.</p>
+<p>Te lelpe sama ke varekon ačarelpe perado vaj ačarelpe avral, šaj sikavel o manuš ke si lesa varekon. Univar dosta te phenelpe hej, vaj te pušelpe vareso sakodjeseski vorba, te šaj ačarel varekon ke si lesa varekon.</p>
+<p>O manuš šaj vi te žutil varekas te phenel varekaske kon kerel buči pe škola te las sama ke varekon si prasado.</p>
+<p>» Te kerdol o manuš belenkerevo</p>
+</body></document>

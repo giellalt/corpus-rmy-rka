@@ -1,59 +1,25 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>355</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-default.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-default.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-default.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Le Švedóske nationálne minoritétora - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Le Švedóske nationálne minoritétora</p>
-    <p xml:lang="swe"><em type="italic">O Länsstyrelsen ándo Štockholmósko Próvincia thaj Sametinget de katár 1 januari, 2010, pe lénde ašél te thon pénge bučá ánde jekh than, thaj te len sáma sar o Švédo lel sáma pa e polítika pa le minoritetora ándo them. </em></p>
-    <p xml:lang="swe">Ándo december 1999 liné o riksdagen é desícia (beslutet) te ašén pála Eurpásko konsiliósko krisá kaj lel sáma pa le nationálne minoritétora thaj le Europáske módo vaj krisá, pa le themésko minoritetonénge šibá ánde vúni próvincura. O riksdagen ašilé te len pe sáma pála e kris pa minoritetonegne polítika thaj vi diné zor kaj le panš nationálne minoritetonénge thaj lénge šibá. (vaj varitétora.)</p>
-    <p type="title" xml:lang="swe">Le Švedósko nationálne minoritétora thaj minoritetonénge šibá</p>
-    <p xml:lang="swe">Le panš prinžardé nationálne minoritetora ándo Švédo si le žídovora, le řom, le sáme, (von si ánda le pérvi purané švedája), le Švedóske finlandesonénge (sverigefinnar) thaj tornedalníngura (tornedalingar). Le historíake purané minoritetonénge šibá bušón jiddisch, romaní šib, samícka, finlandíska, thaj meänkieli.</p>
-    <p xml:lang="swe">Gadalá minoritetonénge grúpurja bešlé de but vrjeáma pálpale ando Švédo, thaj lénde si but fjálora módora ánde jekh than. Lénde si pénge relígia pénge šib thaj kultúra, thaj vi zuralés kamén te inkerén péngo identitéto.</p>
-    <p type="title" xml:lang="swe">Le themésko minoritetósko polítika</p>
-    <p xml:lang="swe">O minorteósko polítika, lel sáma pa le pušaimáta pa le nacionálne minoritetonénge zor thaj ažutimós pa le historiáke purané minoritetonénge šibá. Te den zor le nacionálne minoritetonénge, si jekh ánda le Švedóske bučá, thaj vi te len sáma pála le manúšikané čačimáta.</p>
-    <p type="title" xml:lang="swe">Jekh minoritetósko strategía</p>
-    <p xml:lang="swe">Ánde le berš 2009, puterdá thaj sikadá o Švédo jekh nevó minoritetonénge polítika. Liné anglé jekh strategía kaj zurarél le nacionálne minoritetonénge čačimáta. De katár o pérvo januari valíl e strategía pa le nacionálne minoritetonénge šibá. Ánde e strategía si but propósi, sar te zurarén nacionálne minoritetonénge čačimáta ánde pratktíka, koté thon zor te:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">dikhén te len pe pála le Europáske minoritetonénge konvénci thaj te maj inkerén le bučá kaj vúze liné pe te vázden</p>
-      <p type="listitem" xml:lang="swe">te kerén bučí kontra diskriminátsia thaj te na avén le nationálne minoritétora hotimé</p>
-      <p type="listitem" xml:lang="swe">te zurarén le nationálne minoritetonénge zor thaj te avén ašundé ándo péngo diváno</p>
-      <p type="listitem" xml:lang="swe">te ažutín te šaj inkerén pénge nationálne šibá</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>355</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/default.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-default.html"/><parallel_text xml:lang="sma" location="nat-min-default.html"/><parallel_text xml:lang="sme" location="nat-min-default.html"/><parallel_text xml:lang="smj" location="nat-min-default.html"/><parallel_text xml:lang="swe" location="nat-min-default.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Le Švedóske nationálne minoritétora - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Le Švedóske nationálne minoritétora</p>
+<p><em type="italic">O Länsstyrelsen ándo Štockholmósko Próvincia thaj Sametinget de katár 1 januari, 2010, pe lénde ašél te thon pénge bučá ánde jekh than, thaj te len sáma sar o Švédo lel sáma pa e polítika pa le minoritetora ándo them. </em></p>
+<p>Ándo december 1999 liné o riksdagen é desícia (beslutet) te ašén pála Eurpásko konsiliósko krisá kaj lel sáma pa le nationálne minoritétora thaj le Europáske módo vaj krisá, pa le themésko minoritetonénge šibá ánde vúni próvincura. O riksdagen ašilé te len pe sáma pála e kris pa minoritetonegne polítika thaj vi diné zor kaj le panš nationálne minoritetonénge thaj lénge šibá. (vaj varitétora.)</p>
+<p type="title">Le Švedósko nationálne minoritétora thaj minoritetonénge šibá</p>
+<p>Le panš prinžardé nationálne minoritetora ándo Švédo si le žídovora, le řom, le sáme, (von si ánda le pérvi purané švedája), le Švedóske finlandesonénge (sverigefinnar) thaj tornedalníngura (tornedalingar). Le historíake purané minoritetonénge šibá bušón jiddisch, romaní šib, samícka, finlandíska, thaj meänkieli.</p>
+<p>Gadalá minoritetonénge grúpurja bešlé de but vrjeáma pálpale ando Švédo, thaj lénde si but fjálora módora ánde jekh than. Lénde si pénge relígia pénge šib thaj kultúra, thaj vi zuralés kamén te inkerén péngo identitéto.</p>
+<p type="title">Le themésko minoritetósko polítika</p>
+<p>O minorteósko polítika, lel sáma pa le pušaimáta pa le nacionálne minoritetonénge zor thaj ažutimós pa le historiáke purané minoritetonénge šibá. Te den zor le nacionálne minoritetonénge, si jekh ánda le Švedóske bučá, thaj vi te len sáma pála le manúšikané čačimáta.</p>
+<p type="title">Jekh minoritetósko strategía</p>
+<p>Ánde le berš 2009, puterdá thaj sikadá o Švédo jekh nevó minoritetonénge polítika. Liné anglé jekh strategía kaj zurarél le nacionálne minoritetonénge čačimáta. De katár o pérvo januari valíl e strategía pa le nacionálne minoritetonénge šibá. Ánde e strategía si but propósi, sar te zurarén nacionálne minoritetonénge čačimáta ánde pratktíka, koté thon zor te:</p>
+<list><p type="listitem">dikhén te len pe pála le Europáske minoritetonénge konvénci thaj te maj inkerén le bučá kaj vúze liné pe te vázden</p>
+<p type="listitem">te kerén bučí kontra diskriminátsia thaj te na avén le nationálne minoritétora hotimé</p>
+<p type="listitem">te zurarén le nationálne minoritetonénge zor thaj te avén ašundé ándo péngo diváno</p>
+<p type="listitem">te ažutín te šaj inkerén pénge nationálne šibá</p>
+</list></body></document>

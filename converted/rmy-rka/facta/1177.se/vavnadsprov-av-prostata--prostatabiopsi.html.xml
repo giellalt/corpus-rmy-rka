@@ -1,101 +1,57 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1554</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Vavnadsprov-av-prostata--prostatabiopsi</origFileName>
-    <parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Proba khatar e morči pe prostata – prostatabiopsi / Vävnadsprov av prostata – prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib kalderašickoRomska kalderash</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Proba khatar e morči pe prostata – prostatabiopsiVävnadsprov av prostata – prostatabiopsi</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Skurto divano</p>
-    <p type="title" xml:lang="swe">Buflo divano</p>
-    <p xml:lang="swe">Proba khatar morči pe prostata, vaj prostatabiopsi, si kana jek doktoro lel de-fjalo cinoře khotora morči khatar prostata te šaj kerel rodimos.</p>
-    <p xml:lang="swe">Te kamela o doktoro šaj kerel jek rodijimos te dikhel te si raka ande le cellori ando prostata masořo.</p>
-    <p xml:lang="swe">Le probi traden kaj jek laboratcija te keren o rodimos. Purme o doktoro phenel tuke o resultato khatar o proba.</p>
-    <p type="title" xml:lang="swe">E angluni bući</p>
-    <p xml:lang="swe">Kana jek manuš kerel morčako proba si normalno ke den drab pe antibiotika. Univar šaj den drab pe antibiotika te šaj phes la khere pala duj-trin časuri, pala o rodimos. Važno si te les o drab te na lel o manuš infektacija.</p>
-    <p xml:lang="swe">Te si le manušes alergia karing varesoski antibiotika, važno si te phenel o manuš godo maj angla so keren o rodimos.</p>
-    <p xml:lang="swe">Te si le manušes zaro, te arakhadilo pe ileski doš vaj varesosko problemo me le ileske vudara važno si te phenel kaj la špitake jek lungo vramja maj angla so kerel pe o rodimos. Vi kana te la o manuš o drab kaj ciňarel o rat vaj pe o drab kortison.</p>
-    <p xml:lang="swe">Anglal o rodimos źal o manuš pe e toaleta te vužares le pořa aj te mutres.</p>
-    <p type="title" xml:lang="swe">Sar keren o rodimos?</p>
-    <p xml:lang="swe">Kana keren o rodimos pašlol o manuš pe stingo rig po pato. O doktoro lel-pe te thol vast pe o prostata le najesa ande bul. Purme thon jek glindako rovli lokořes andre ande bul uni centimetri opre ferdi. Či dukhal numa aćardol čuda. Khatar jek kanalo ande glindako rovli thol o doktoro jek suv kana si te lel o testo khatar o prostata. But źene aćaren jek cinoři dukh aj kaj uni či dukhal len. Numa te aćarela o manuš dukh šaj mangen peske jek drab te na dukhal.</p>
-    <p xml:lang="swe">O rodimos lel pašte 15 minutsi.</p>
-    <p type="title" xml:lang="swe">Sar si le manušeske pala o rodimos?</p>
-    <p xml:lang="swe">Normalno si kana šaj avel le manušeske rat ando getzo, ande le mutra aj kana xeles pala o rodimos. Godo naj jek semno ke si vareso čořes. Šaj dukhal pala o rodimos aj šaj aćarel o manuš ke kamel te mutrel pe anda jek data.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sostar trubol o rodijimos?</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p type="title" xml:lang="swe">Proba les khatar o masořo prostata</p>
-    <p xml:lang="swe">E prostata si jek masořo kaj si kruglom la mutraki cava opral aj vorta telal la mutrako gono. E prostata si laki bući te lašarel jek drom le getzoske. Univar maladol pe ke mušaj te les morčako proba khatar e prostata te keren rodimos te si raka ando masořo.</p>
-    <p xml:lang="swe">La morčiako proba si ken len defjal ciňore khotora khatar e morči, kaj len avri te keren rodimos pe e morči. O testo vi bušol biopsi.</p>
-    <p type="title" xml:lang="swe">Maj angla keren kaver rodimata</p>
-    <p xml:lang="swe">Anglunes si ke duvar keren e morčako proba. O angluno prob si te dikhen te važdinisajlo o levelo kaj bušol PSA-levelo. PSA si jek bući kaj laśarel ande prostata kaj purme phirel aj bilal ando manušesko rat. Pe jek normalno ratesko testo šaj dikhen o PSA-levelo. O PSA-levelo šaj avel vučo te barila le manušesko prostata. Te si le manušes infektacija vaj inflamatcija šaj avel jek profundo te si vučo o PSA-levelo, numa vi šaj avel ke si le manušes raka ande prostata. Te si o PSA levelo vučo pe či trubol te avel raka pe e prostata.</p>
-    <p xml:lang="swe">O dujto si te dikhen te si zurali morči opral e prostata, kaj šaj avel jek semno ke si raka ando prostata. E zurali morći kaj o doktoro arakhla, si kana vo aćarel le najesa ande bul pe e prostata. E prostata si uni centimetri opre khatar e bul aj defjal paše la kaj le pořake zidori. Normalno trubol o masořo kaj e prostata te aćardol kovlo.</p>
-    <p type="title" xml:lang="swe">O rodimos pe la morčake khotora kerel pe ando jek mikroskopo</p>
-    <p xml:lang="swe">Le khotora khatar e morči kaj len avri khatar o prostata masořo traden les kaj jek mikroskoposkpisko rodimos kaj del adveto de si raka ando prostata vaj ke naj. E morći khatar e raka dikhen aj keren rodimos pala jek linja kaj bušol Gleason.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Gadea źal e bući</p>
-    <p type="title" xml:lang="swe">E antibiotika si važno ande e preparimata</p>
-    <p xml:lang="swe">Kana jek manuš kerel morčako proba si normalno ke den drab pe antibiotika. Univar šaj den o drab pe antibiotika te šaj phes la khere pala duj-trin časori, pala o rodimos. Važno si te les e drab te na lel o manuš infektacija.Te si le manušes alergia karing varesoski antibiotika, važno si te les kontakto kaj godo kliniko vaj špita kaj si te keren o rodimos.</p>
-    <p type="title" xml:lang="swe">Šaj avel ke mušaj te pařuves le draba</p>
-    <p xml:lang="swe">Te lel la o manuš tableta kaj cinařel o rat kaj bušol Waran mušaj te phenen kaj e špita o maj sera sar jek kurko angla o rodimos. PK-levelo ando rat mušaj te vortol pe, godo si ke o rat te phirel vorta. O doktoro kaj ramosarda le manušeske o drab Waran, mušaj te xanscarel o drab maja anglal o so kerel rodimos.</p>
-    <p xml:lang="swe">E špita mušaj te źanen jek lungo vramja maj anglal te si le manušes doš pe le ileske vudara, te arakhadilo le ileski došasa vaj te si le manuš xoxamne ileske vudara. Vi te sas kaj o manuš bakteriake infektacija pe ileske vudara. Te si le manušes zaro vaj sastarimos pe kortison draba si važno te phenel o manuš kaj la špitatake. O sastarimos pe antibiotika mušaj te malavel kaj svako manuš vorta aj pala lengo problemo.</p>
-    <p type="title" xml:lang="swe">Rodimos źal sigo</p>
-    <p xml:lang="swe">O rodimos lel pašte 15 minutsi aj butivar keren godo bi te den drab kaj nakhel e dukh. Fugo aj vušoro źal o rodijimos kaj pašte svako manuš šaj keren.</p>
-    <p xml:lang="swe">Vorta anglal o rodimos źal o manuš pe toaleta te vužaren le pořa aj te mutrel pe. Pe uni špiti šaj den le manušes maj anglal o rodimos jek drab kaj bušol mikro lavemango kaj trubos te phes kheral.</p>
-    <p xml:lang="swe">O manuš kaj si te nakhel o rodimos pašlol pe stingo rig po pato. Naj le manušes kalci aj si vušarado ando piškiri. O doktoro lel pe te thol vast pe o prostata le najesa ande bul. Prostata butivar si vorta aj bi borčome, zuralo aj jek ciřa elastiko. Te aćardola e prostata maj but zuralo aj borčome so si normalno šaj avel jek semno pe raka.</p>
-    <p type="title" xml:lang="swe">O ultra hango sikavel jek patreto pe e prostata</p>
-    <p xml:lang="swe">Purme keren o rodimos ažutimasa aj len jek patreto le ultra hangosa pe e prostata. Godo kaj bušol glindako rovli thon les lokořes andre ande bul, kaj o doktoro źal leske duj trin minutsi te kerel o rodijimos. E glindako rovli si pašte 20 centimetri de lungo, numa ferdi o angluno khotor si kaj thon ande bul. O diametro pe e rovli si pašte 2,5 centimetri.</p>
-    <p xml:lang="swe">E glindaki rovli lel patretsi. E glinda sikhavel sar mjazol andral o stato aj biril te lel patretsi pe le organori. Kana e glinda lel le patretsi aven godola patretsi ande jek compiuter kaj biril o doktoro te dikhel. O patreto si kalo aj parno aj sikhavel e prostata šindo pe dopašeste.</p>
-    <p type="title" xml:lang="swe">E morči lel pe avri jekhe biopsopeski suvása</p>
-    <p xml:lang="swe">Pala godo len morčako proba khatar o mašoro. Ande la glindako rovli si jek kanalo kaj thos andre e biopsopeski suv. E suv si duj trin millimetri ando diametro. E suv pusavel khatar le pořake pixa andre ando prostata. Ažutimos lel khatar e glinda aj lel patretsi te šaj dikhel o doktoro vorta ando pesko compiuter sar de vorta te pusavel e suv.</p>
-    <p xml:lang="swe">E suv si ande jek cava kaj pusavel fugo andre ando prostata aj lel probi pe e morči. Butivar lel o doktoro pherdo probi aj pe kaver thana pe e prostata. Normalno si ke len maškar oxto źi kaj dešoduj testori.</p>
-    <p type="title" xml:lang="swe">Šaj aćardol čuda</p>
-    <p xml:lang="swe">E glindaki rovli či dukhavel le manušes numa šaj aćardol čuda. Kana e glinake rovli del andre aj azbal e prostata, aćarel pe o manuš ke kamel te mutrel pe. Anda godo si mišto te źas pe toaleta maj anglal so keres o rodimos. Kana len le probi la suvasa šaj aćardol čuda aj univar šaj dukhal. Pašte sa le manuš kaj kerde o rodimos phende ke aćarde ciřa dukh vaj či aćarde kanči. Te kamela o manuš šaj den les drab te pagel e dukh te aárela e dukh prja but.</p>
-    <p type="title" xml:lang="swe">Pe soste te des tu godži maj anglal o rodimos</p>
-    <p xml:lang="swe">Te na nasvavol o manuš aj te lel mutrango infektacija si mišto te phes pherdo paj maj anglal te vužol o mutrango gono.</p>
-    <p type="title" xml:lang="swe">Komplikatcija aj dar</p>
-    <p xml:lang="swe">Rat ando getzo, aj ande le mutra aj kana nandžares le pořa si normalno pala kasavo rodimos aj naj jek semno ke si doš. Vorta kana si gata o rodimos šaj dukhal aj kamel o manuš te mutrel pe.</p>
-    <p xml:lang="swe">Šaj avel le manušes rat ando getzo ando lungo vramja, univar kurkénsa. Rat ande le mutra aj kana nandžares le pořa, nakhel butivar pala duj trin džesa.</p>
-    <p xml:lang="swe">Vi te la o manuš antibiotika te na nasvavol šaj lel o manuš infektacija khatar le bakteriori. O angluno kurko trubúl te lel o manuš sama. Te la o manuš vuče goronša aj aćarel pe nasvalo trubúl anda jek data te lel kontakto kaj o doktoro vaj te źal kaj špita.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1545</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kalderash/Undersokningar--prover/Vavnadsprov-av-prostata--prostatabiopsi</origFileName><parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Proba khatar e morči pe prostata – prostatabiopsi / Vävnadsprov av prostata – prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Proba khatar e morči pe prostata – prostatabiopsiVävnadsprov av prostata – prostatabiopsi</p>
+<p xml:lang="swe"></p>
+<p type="title">Skurto divano</p>
+<p type="title">Buflo divano</p>
+<p>Proba khatar morči pe prostata, vaj prostatabiopsi, si kana jek doktoro lel de-fjalo cinoře khotora morči khatar prostata te šaj kerel rodimos.</p>
+<p>Te kamela o doktoro šaj kerel jek rodijimos te dikhel te si raka ande le cellori ando prostata masořo.</p>
+<p>Le probi traden kaj jek laboratcija te keren o rodimos. Purme o doktoro phenel tuke o resultato khatar o proba.</p>
+<p type="title">E angluni bući</p>
+<p>Kana jek manuš kerel morčako proba si normalno ke den drab pe antibiotika. Univar šaj den drab pe antibiotika te šaj phes la khere pala duj-trin časuri, pala o rodimos. Važno si te les o drab te na lel o manuš infektacija.</p>
+<p>Te si le manušes alergia karing varesoski antibiotika, važno si te phenel o manuš godo maj angla so keren o rodimos.</p>
+<p>Te si le manušes zaro, te arakhadilo pe ileski doš vaj varesosko problemo me le ileske vudara važno si te phenel kaj la špitake jek lungo vramja maj angla so kerel pe o rodimos. Vi kana te la o manuš o drab kaj ciňarel o rat vaj pe o drab kortison.</p>
+<p>Anglal o rodimos źal o manuš pe e toaleta te vužares le pořa aj te mutres.</p>
+<p type="title">Sar keren o rodimos?</p>
+<p>Kana keren o rodimos pašlol o manuš pe stingo rig po pato. O doktoro lel-pe te thol vast pe o prostata le najesa ande bul. Purme thon jek glindako rovli lokořes andre ande bul uni centimetri opre ferdi. Či dukhal numa aćardol čuda. Khatar jek kanalo ande glindako rovli thol o doktoro jek suv kana si te lel o testo khatar o prostata. But źene aćaren jek cinoři dukh aj kaj uni či dukhal len. Numa te aćarela o manuš dukh šaj mangen peske jek drab te na dukhal.</p>
+<p>O rodimos lel pašte 15 minutsi.</p>
+<p type="title">Sar si le manušeske pala o rodimos?</p>
+<p>Normalno si kana šaj avel le manušeske rat ando getzo, ande le mutra aj kana xeles pala o rodimos. Godo naj jek semno ke si vareso čořes. Šaj dukhal pala o rodimos aj šaj aćarel o manuš ke kamel te mutrel pe anda jek data.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sostar trubol o rodijimos?</p>
+<list><p type="listitem" xml:lang="swe"></p>
+</list><p type="title">Proba les khatar o masořo prostata</p>
+<p>E prostata si jek masořo kaj si kruglom la mutraki cava opral aj vorta telal la mutrako gono. E prostata si laki bući te lašarel jek drom le getzoske. Univar maladol pe ke mušaj te les morčako proba khatar e prostata te keren rodimos te si raka ando masořo.</p>
+<p>La morčiako proba si ken len defjal ciňore khotora khatar e morči, kaj len avri te keren rodimos pe e morči. O testo vi bušol biopsi.</p>
+<p type="title">Maj angla keren kaver rodimata</p>
+<p>Anglunes si ke duvar keren e morčako proba. O angluno prob si te dikhen te važdinisajlo o levelo kaj bušol PSA-levelo. PSA si jek bući kaj laśarel ande prostata kaj purme phirel aj bilal ando manušesko rat. Pe jek normalno ratesko testo šaj dikhen o PSA-levelo. O PSA-levelo šaj avel vučo te barila le manušesko prostata. Te si le manušes infektacija vaj inflamatcija šaj avel jek profundo te si vučo o PSA-levelo, numa vi šaj avel ke si le manušes raka ande prostata. Te si o PSA levelo vučo pe či trubol te avel raka pe e prostata.</p>
+<p>O dujto si te dikhen te si zurali morči opral e prostata, kaj šaj avel jek semno ke si raka ando prostata. E zurali morći kaj o doktoro arakhla, si kana vo aćarel le najesa ande bul pe e prostata. E prostata si uni centimetri opre khatar e bul aj defjal paše la kaj le pořake zidori. Normalno trubol o masořo kaj e prostata te aćardol kovlo.</p>
+<p type="title">O rodimos pe la morčake khotora kerel pe ando jek mikroskopo</p>
+<p>Le khotora khatar e morči kaj len avri khatar o prostata masořo traden les kaj jek mikroskoposkpisko rodimos kaj del adveto de si raka ando prostata vaj ke naj. E morći khatar e raka dikhen aj keren rodimos pala jek linja kaj bušol Gleason.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Gadea źal e bući</p>
+<p type="title" xml:lang="swe">E antibiotika si važno ande e preparimata</p>
+<p>Kana jek manuš kerel morčako proba si normalno ke den drab pe antibiotika. Univar šaj den o drab pe antibiotika te šaj phes la khere pala duj-trin časori, pala o rodimos. Važno si te les e drab te na lel o manuš infektacija.Te si le manušes alergia karing varesoski antibiotika, važno si te les kontakto kaj godo kliniko vaj špita kaj si te keren o rodimos.</p>
+<p type="title">Šaj avel ke mušaj te pařuves le draba</p>
+<p>Te lel la o manuš tableta kaj cinařel o rat kaj bušol Waran mušaj te phenen kaj e špita o maj sera sar jek kurko angla o rodimos. PK-levelo ando rat mušaj te vortol pe, godo si ke o rat te phirel vorta. O doktoro kaj ramosarda le manušeske o drab Waran, mušaj te xanscarel o drab maja anglal o so kerel rodimos.</p>
+<p>E špita mušaj te źanen jek lungo vramja maj anglal te si le manušes doš pe le ileske vudara, te arakhadilo le ileski došasa vaj te si le manuš xoxamne ileske vudara. Vi te sas kaj o manuš bakteriake infektacija pe ileske vudara. Te si le manušes zaro vaj sastarimos pe kortison draba si važno te phenel o manuš kaj la špitatake. O sastarimos pe antibiotika mušaj te malavel kaj svako manuš vorta aj pala lengo problemo.</p>
+<p type="title">Rodimos źal sigo</p>
+<p>O rodimos lel pašte 15 minutsi aj butivar keren godo bi te den drab kaj nakhel e dukh. Fugo aj vušoro źal o rodijimos kaj pašte svako manuš šaj keren.</p>
+<p>Vorta anglal o rodimos źal o manuš pe toaleta te vužaren le pořa aj te mutrel pe. Pe uni špiti šaj den le manušes maj anglal o rodimos jek drab kaj bušol mikro lavemango kaj trubos te phes kheral.</p>
+<p>O manuš kaj si te nakhel o rodimos pašlol pe stingo rig po pato. Naj le manušes kalci aj si vušarado ando piškiri. O doktoro lel pe te thol vast pe o prostata le najesa ande bul. Prostata butivar si vorta aj bi borčome, zuralo aj jek ciřa elastiko. Te aćardola e prostata maj but zuralo aj borčome so si normalno šaj avel jek semno pe raka.</p>
+<p type="title">O ultra hango sikavel jek patreto pe e prostata</p>
+<p>Purme keren o rodimos ažutimasa aj len jek patreto le ultra hangosa pe e prostata. Godo kaj bušol glindako rovli thon les lokořes andre ande bul, kaj o doktoro źal leske duj trin minutsi te kerel o rodijimos. E glindako rovli si pašte 20 centimetri de lungo, numa ferdi o angluno khotor si kaj thon ande bul. O diametro pe e rovli si pašte 2,5 centimetri.</p>
+<p>E glindaki rovli lel patretsi. E glinda sikhavel sar mjazol andral o stato aj biril te lel patretsi pe le organori. Kana e glinda lel le patretsi aven godola patretsi ande jek compiuter kaj biril o doktoro te dikhel. O patreto si kalo aj parno aj sikhavel e prostata šindo pe dopašeste.</p>
+<p type="title">E morči lel pe avri jekhe biopsopeski suvása</p>
+<p>Pala godo len morčako proba khatar o mašoro. Ande la glindako rovli si jek kanalo kaj thos andre e biopsopeski suv. E suv si duj trin millimetri ando diametro. E suv pusavel khatar le pořake pixa andre ando prostata. Ažutimos lel khatar e glinda aj lel patretsi te šaj dikhel o doktoro vorta ando pesko compiuter sar de vorta te pusavel e suv.</p>
+<p>E suv si ande jek cava kaj pusavel fugo andre ando prostata aj lel probi pe e morči. Butivar lel o doktoro pherdo probi aj pe kaver thana pe e prostata. Normalno si ke len maškar oxto źi kaj dešoduj testori.</p>
+<p type="title">Šaj aćardol čuda</p>
+<p>E glindaki rovli či dukhavel le manušes numa šaj aćardol čuda. Kana e glinake rovli del andre aj azbal e prostata, aćarel pe o manuš ke kamel te mutrel pe. Anda godo si mišto te źas pe toaleta maj anglal so keres o rodimos. Kana len le probi la suvasa šaj aćardol čuda aj univar šaj dukhal. Pašte sa le manuš kaj kerde o rodimos phende ke aćarde ciřa dukh vaj či aćarde kanči. Te kamela o manuš šaj den les drab te pagel e dukh te aárela e dukh prja but.</p>
+<p type="title">Pe soste te des tu godži maj anglal o rodimos</p>
+<p>Te na nasvavol o manuš aj te lel mutrango infektacija si mišto te phes pherdo paj maj anglal te vužol o mutrango gono.</p>
+<p type="title">Komplikatcija aj dar</p>
+<p>Rat ando getzo, aj ande le mutra aj kana nandžares le pořa si normalno pala kasavo rodimos aj naj jek semno ke si doš. Vorta kana si gata o rodimos šaj dukhal aj kamel o manuš te mutrel pe.</p>
+<p>Šaj avel le manušes rat ando getzo ando lungo vramja, univar kurkénsa. Rat ande le mutra aj kana nandžares le pořa, nakhel butivar pala duj trin džesa.</p>
+<p>Vi te la o manuš antibiotika te na nasvavol šaj lel o manuš infektacija khatar le bakteriori. O angluno kurko trubúl te lel o manuš sama. Te la o manuš vuče goronša aj aćarel pe nasvalo trubúl anda jek data te lel kontakto kaj o doktoro vaj te źal kaj špita.</p>
+</body></document>

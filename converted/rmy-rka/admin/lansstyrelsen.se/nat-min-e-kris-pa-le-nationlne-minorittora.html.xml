@@ -1,62 +1,26 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>425</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/e-kris-pa-le-nation%c3%a1lne-minorit%c3%a9tora.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-ny-lag-om-nationella-minoriteter.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">E kris pa le nationálne minoritétora - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">E kris pa le nationálne minoritétora</p>
-    <p xml:lang="swe"><em type="italic">E kris pa le nationálne minoritétora thaj pa le minoritetonénge šibá aresló phangló ándo 1 januarí 2010. Godó pařuvél le kavér krisá kaj sas maj anglál pa o čačimós te šaj vorbís vaj te ramós pe finlandícka, meänkieli vaj samícka, re provinciósko autoritéto vaj ando le krisá. Pařudimós kerdiné vi ánde le krisá ando sametinget thaj socialtjänstlagen. </em></p>
-    <p xml:lang="swe">Le Švedósko internacionálne ramá kaj o them fermisardá, phenélpe ke vúni ánda le minoritetonénge čačimáta músaj te implementerín (genomföras) ándo antrégo them. Ánde e neví kris, aresél sa le panš nacionálne minoritétora (2009:724).</p>
-    <p type="title" xml:lang="swe">Fundamentálno čačimáta</p>
-    <p xml:lang="swe">Ánde le fundamentálne čačimáta si ke:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">le minoritetonénge provinciásko autoritétora músaj te den avrí informácia le minoritetonénge pe jekh lašó módo pa lénge čačimáta kána trubúlpe,</p>
-      <p type="listitem" xml:lang="swe">le autoritétora kaj kerén bučí le minoritetonénca músaj te len sáma thaj te protektóin le minoritetonénge šibá, thaj vi músaj te len sáma te na xasávol thaj vi te šaj baravén péski kultúra ándo Švédo,</p>
-      <p type="listitem" xml:lang="swe">vi músaj lénge, te mukén le glaténge te šaj baravén pénge kulturáko identitéto, thaj vi šaj te ten dúma pénge minoritetonénge šib,</p>
-      <p type="listitem" xml:lang="swe">le provinciásko autoritétora músaj te den le minoritetonénge práva te šaj vázden péngo diváno pa le nationálne minoritétora, thaj vi te zumavén te mukén len te den dúma representantonénsa kaj kerén bučí le minoritetonénca, ánde pénge pušaimáta.</p>
-    </list>
-    <p type="title" xml:lang="swe">Speciálne barardé čačimáta</p>
-    <p xml:lang="swe">Vi valíl speciálne barardé čačimáta kaj den le manúš kaj den dúma finlandícka, samícka thaj meänkieli ánde respektívne autoritetonénge provínci. Gadalá čačimáta si maškár le kavér si ke:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Sváko manúš si les vaj la o čačimós te del dúma vaj te ramól lilá kána kamél kontákto le autoritetonénsa, ánde bučá koté kaj o autoritéto purúnčíl,</p>
-      <p type="listitem" xml:lang="swe">O autoritéto músaj te del pésko informácia pálpale ándo mujésko diváno, pe sa godea šib, thaj vi kána kamés pálpale e informácia músaj te den la pálpale pe godea šib ánde le ramá koté kaj von si te den tut e informácia pa če desísia von liné vaj e motíva sóstar. O autoritéto purúnčíl kaj šaj den tut informácia, vi den tut jekh časósko vrjeáma, thai vi phenén túke pe savó adréso kaj šaj den tut gadó ažutimós pe minoritetonénge šibá,</p>
-      <p type="listitem" xml:lang="swe">Le minoritetonénge provinciásko autoritéto músaj te avél len manúš kaj šaj del dúma le minoritetonénge šibá,</p>
-      <p type="listitem" xml:lang="swe">Pe le komúnora ašél ke músaj te len sáma kána si te kerén bučí ánde le phurénge thaj le glaténgo lašimós (äldre- och barnomsorg) pe le minoritetonénge šibá kána varékon kaj traíl ándo le minoritetonénge provínco kamél te del duma pésko šib.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>425</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/e-kris-pa-le-nation%c3%a1lne-minorit%c3%a9tora.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/><parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/><parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/><parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/><parallel_text xml:lang="swe" location="nat-min-ny-lag-om-nationella-minoriteter.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>E kris pa le nationálne minoritétora - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">E kris pa le nationálne minoritétora</p>
+<p><em type="italic">E kris pa le nationálne minoritétora thaj pa le minoritetonénge šibá aresló phangló ándo 1 januarí 2010. Godó pařuvél le kavér krisá kaj sas maj anglál pa o čačimós te šaj vorbís vaj te ramós pe finlandícka, meänkieli vaj samícka, re provinciósko autoritéto vaj ando le krisá. Pařudimós kerdiné vi ánde le krisá ando sametinget thaj socialtjänstlagen. </em></p>
+<p>Le Švedósko internacionálne ramá kaj o them fermisardá, phenélpe ke vúni ánda le minoritetonénge čačimáta músaj te implementerín (genomföras) ándo antrégo them. Ánde e neví kris, aresél sa le panš nacionálne minoritétora (2009:724).</p>
+<p type="title">Fundamentálno čačimáta</p>
+<p xml:lang="swe">Ánde le fundamentálne čačimáta si ke:</p>
+<list><p type="listitem">le minoritetonénge provinciásko autoritétora músaj te den avrí informácia le minoritetonénge pe jekh lašó módo pa lénge čačimáta kána trubúlpe,</p>
+<p type="listitem">le autoritétora kaj kerén bučí le minoritetonénca músaj te len sáma thaj te protektóin le minoritetonénge šibá, thaj vi músaj te len sáma te na xasávol thaj vi te šaj baravén péski kultúra ándo Švédo,</p>
+<p type="listitem">vi músaj lénge, te mukén le glaténge te šaj baravén pénge kulturáko identitéto, thaj vi šaj te ten dúma pénge minoritetonénge šib,</p>
+<p type="listitem">le provinciásko autoritétora músaj te den le minoritetonénge práva te šaj vázden péngo diváno pa le nationálne minoritétora, thaj vi te zumavén te mukén len te den dúma representantonénsa kaj kerén bučí le minoritetonénca, ánde pénge pušaimáta.</p>
+</list><p type="title">Speciálne barardé čačimáta</p>
+<p>Vi valíl speciálne barardé čačimáta kaj den le manúš kaj den dúma finlandícka, samícka thaj meänkieli ánde respektívne autoritetonénge provínci. Gadalá čačimáta si maškár le kavér si ke:</p>
+<list><p type="listitem">Sváko manúš si les vaj la o čačimós te del dúma vaj te ramól lilá kána kamél kontákto le autoritetonénsa, ánde bučá koté kaj o autoritéto purúnčíl,</p>
+<p type="listitem">O autoritéto músaj te del pésko informácia pálpale ándo mujésko diváno, pe sa godea šib, thaj vi kána kamés pálpale e informácia músaj te den la pálpale pe godea šib ánde le ramá koté kaj von si te den tut e informácia pa če desísia von liné vaj e motíva sóstar. O autoritéto purúnčíl kaj šaj den tut informácia, vi den tut jekh časósko vrjeáma, thai vi phenén túke pe savó adréso kaj šaj den tut gadó ažutimós pe minoritetonénge šibá,</p>
+<p type="listitem">Le minoritetonénge provinciásko autoritéto músaj te avél len manúš kaj šaj del dúma le minoritetonénge šibá,</p>
+<p type="listitem">Pe le komúnora ašél ke músaj te len sáma kána si te kerén bučí ánde le phurénge thaj le glaténgo lašimós (äldre- och barnomsorg) pe le minoritetonénge šibá kána varékon kaj traíl ándo le minoritetonénge provínco kamél te del duma pésko šib.</p>
+</list></body></document>

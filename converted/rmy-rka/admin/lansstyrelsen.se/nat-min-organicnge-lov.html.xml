@@ -1,52 +1,18 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>172</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/organic%c3%a9nge-lov%c3%a9.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-organisasjavnnadoarjja.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Organicénge lové - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Organicénge lové</p>
-    <p xml:lang="swe"><em type="italic">O Länsstyrelsen počinél sváko berš organacionénge lové (organisationsbidrag) karíng le organáci kaj representín le nacionálne minoritétora, žídovura, řom, Švedóske finlandesonénge thaj le tornedalonénge. O gíndo le lovénge si, te ažutín thaj te kerén maj vušóro e bučí ánde le organacionénge bučá. </em></p>
-    <p xml:lang="swe">Le ažutimáske lové si reglerimé ánda la krisáko paragráfo (2005:765) themésko ažutimós, le nacionálne minoritetonénge.</p>
-    <p type="title" xml:lang="swe">Savé šaj róden le lové?</p>
-    <p xml:lang="swe">Le organáci kaj šaj mangén organacionénge (organisationsbidrag) lové, si le theméske organáci (riksorganisationer) kaj lénge interésa si te kerén bučí pe antrégo them sar kána</p>
-    <list>
-      <p type="listitem" xml:lang="swe">si representánto ánda várekon ánda le nacionálne minoritétora thaj te avel majoritéto maškár le membrura ánde le organáci vaj ánde le lokálne organáci kaj sin ánda le nacionálne minoritétora, thaj</p>
-      <p type="listitem" xml:lang="swe">godolá kaj kerén bučí sar te zurarén péngo čačimós thaj pačaimós pa le nacionálne minoritétora, thaj te ažutín te zurarén pésko nacionálno grupásko minoritetósko identitéto, kultúra, thaj e šib, thaj te kerén prótivno bučí pa diskriminátsia, thaj vi te den avrí informácia pa pénge grúpa katár von avén.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>172</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-kelderas/Pages/organic%c3%a9nge-lov%c3%a9.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/><parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/><parallel_text xml:lang="smj" location="nat-min-organisasjavnnadoarjja.html"/><parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Organicénge lové - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Organicénge lové</p>
+<p><em type="italic">O Länsstyrelsen počinél sváko berš organacionénge lové (organisationsbidrag) karíng le organáci kaj representín le nacionálne minoritétora, žídovura, řom, Švedóske finlandesonénge thaj le tornedalonénge. O gíndo le lovénge si, te ažutín thaj te kerén maj vušóro e bučí ánde le organacionénge bučá. </em></p>
+<p>Le ažutimáske lové si reglerimé ánda la krisáko paragráfo (2005:765) themésko ažutimós, le nacionálne minoritetonénge.</p>
+<p type="title">Savé šaj róden le lové?</p>
+<p>Le organáci kaj šaj mangén organacionénge (organisationsbidrag) lové, si le theméske organáci (riksorganisationer) kaj lénge interésa si te kerén bučí pe antrégo them sar kána</p>
+<list><p type="listitem">si representánto ánda várekon ánda le nacionálne minoritétora thaj te avel majoritéto maškár le membrura ánde le organáci vaj ánde le lokálne organáci kaj sin ánda le nacionálne minoritétora, thaj</p>
+<p type="listitem">godolá kaj kerén bučí sar te zurarén péngo čačimós thaj pačaimós pa le nacionálne minoritétora, thaj te ažutín te zurarén pésko nacionálno grupásko minoritetósko identitéto, kultúra, thaj e šib, thaj te kerén prótivno bučí pa diskriminátsia, thaj vi te den avrí informácia pa pénge grúpa katár von avén.</p>
+</list></body></document>

@@ -1,88 +1,51 @@
-<document xml:lang="rmy-rka" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>572</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rka"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_romanikelderash.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/>
-    <parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/>
-    <parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/>
-    <parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/>
-    <parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/>
-    <parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/>
-    <parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/>
-    <parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe"><em type="bold">E KRIS DEL LE </em></p>
-    <p xml:lang="swe"><em type="bold">NACIONÁLNE   MINORITETONÉNGE ČAČIMÓSGINDORA THAJ LINJI </em></p>
-    <p xml:lang="swe"><em type="bold">MINORITÉTORA ÁNDO ŠVÉDO</em> </p>
-    <p xml:lang="swe"><em type="bold">Le theméske gíndo le minoritetonénge politikása si, te len sáma thaj te protektoín le nacionálne minoritétora, te zurarén lénge šajimós te šaj vázden thaj te barvarén le historikané minoritétonenge šibá, te šaj inkerén le šibá žuvindé.</em> </p>
-    <p xml:lang="swe"><em type="bold">LE NACIONÁLNE  MINORITÉTONENGE  NACIONÁLNE </em></p>
-    <p xml:lang="swe"><em type="bold"> DISKRIMINÁTSIA THAJ TRAKASERIMÁTA</em> </p>
-    <p xml:lang="swe"><em type="bold">O Švédo da žesára sas jekh them kaj diné duma but šibá thaj kaj si butékulturálne. (Mångkulturell). Le Same, finlandésura, tornedalingurá, le řom thaj le žídovura, bešlé ándo them de but berš pálpale. Léngi šib thaj léngi kultúra del andré ánde le švedítsko kulturáko historia.</em> </p>
-    <p xml:lang="swe">Diskriminátsia, trakaserimáta, thaj bi lašajimós (missgynnade) pa le manúš kaj si ánda le nacionálne minoritétora, músaj te marén telé. Lénde músaj te avél sa godo čačimós sar sa o naródora ándo le themésko trájo (samhällslivet).</p>
-    <p xml:lang="swe">Le theméske thaj le komunonénge autori</p>
-    <p xml:lang="swe">tétora ( förvaltningsmyndigheterna) Músaj kána varekána trubúl, te del avrí informácia le</p>
-    <p xml:lang="swe">LE SAME: Si pašti 20 000- 35 000 same ándo Švédo</p>
-    <p xml:lang="swe">kaj den dúma but varitétora ánda léngo šib samítska. Le same si jekh ánda le maj phurikané naródura ándo them.</p>
-    <p xml:lang="swe"><em type="bold"> ČAČIMÓS THAJ PRÁVA TE  DEN ANDRÉ ÁNDO </em></p>
-    <p xml:lang="swe"><em type="bold">PÉNGO SVÁTO</em> </p>
-    <p xml:lang="swe">Le autoritétora músaj te kerén bučí ánde jekh than le nacionálne minoritetonénsa te den le čačimós thaj práva te šaj zurarén pénge pártja. Músaj te den barí zor te šaj den andé ánde le divánura kaj žal pa lénde.</p>
-    <p xml:lang="swe">Ánde e kris le šibéngo ( språklagen)</p>
-    <p xml:lang="swe">(2009:600) ramólpe, ke ašél pe le autoritétora te protektoín  thaj te ažutín le nacionálne</p>
-    <p xml:lang="swe">LE ŠVEDÓSKE FINLANDESURA::Si pašti 450 000- 600 000 švedoskefinlandesura ándo Švédo. But</p>
-    <p xml:lang="swe">ánda lénde bešén ándo Štockholmo - Mälardalen. Léngi minoritetonéngo šib si finlandítska.</p>
-    <p xml:lang="swe">LE TORNEDALINGURA: Si pašti 50 000 tornedalin</p>
-    <p xml:lang="swe"><em type="bold"> SPRÅK OCH KULTURELL IDENTITET</em> </p>
-    <p xml:lang="swe">gura bešén maj but ándo Norrbotten. Léngi minori-tetonéngo šib bušól meänkieli.</p>
-    <p xml:lang="swe">LE ŘOM::Si pašti 50 000- 100 000 řom kaj bešén pe</p>
-    <p xml:lang="swe">Le nacionálne minoritetonénge šibá thaj kultúra músaj te avél protektimé thaj zurardé. Le manúš kaj si ánda le nacionálne minoritétora te avél len o čačimós thaj é práva te den duma pénge dejáski šib, thaj te barvarén péngi kulturáko identitéto. Le nacionálne minoritetonénge šibá trubúl te avel žuvindé šibá ándo Švédo.</p>
-    <p xml:lang="swe">Le theméske thaj le komunonénge autoritétora ( förvaltningsmyndigheterna) Músaj te den le nationálne minoritétora ažutimós</p>
-    <p xml:lang="swe">but thaná ándo them.Ánde léngi minoritetonéngo šib si but varitétora ánda e řomaní šib.</p>
-    <p xml:lang="swe">ŽÍDOVURA:<em type="bold"> </em>Si pašti 20 000 – 25 000 žídovura kaj bešén ándo Švédo. Léngi minoritetonéngo šib bušól jiddisch. </p>
-    <p xml:lang="swe"><em type="bold">JEKH INFORMACIAKO RAM KATÁR</em> </p>
-    <p xml:lang="swe"><em type="bold">NORVEGO</em> </p>
-    <p xml:lang="swe"><em type="bold">SVERIGE</em> </p>
-    <p xml:lang="swe"> Kvänitska  Romani  Samitska</p>
-    <p xml:lang="swe"> Samitska  Finlanditska  Meänkielitska  Řomani šib  Židovitska</p>
-    <p xml:lang="swe"><em type="bold">BARI BRITANIA</em> Kornitska </p>
-    <p xml:lang="swe"><em type="bold">FINLAND</em> </p>
-    <p xml:lang="swe"> Romani  Řusitska  Samitska  Šveditska  Tataritska  Židovitska  Karelitska</p>
-    <p xml:lang="swe"><em type="bold">NJÁMCO</em> </p>
-    <p xml:lang="swe">Irlanditska  Manxitska  Telatuni skotitska  Skocísko gaelitska  Ulster skotitska  Kymritska (waeleitska)</p>
-    <p xml:lang="swe"> Danemarkitska  Telatuninjamcitska  Telatunisorbitska  Nordfrisitska  Romani  Saterfrisitska  Vučisorbitska<em type="bold">DENEMÁRKA</em> </p>
-    <p xml:lang="swe">Njamcitska</p>
-    <p xml:lang="swe"><em type="bold">ÚNGRIKO</em> </p>
-    <p xml:lang="swe"> Armenitska  Beašitska  Bulgaritska  Kroatsitska  Njamcitska  Grekitska  Polskitska</p>
-    <p xml:lang="swe"><em type="bold">HOLANDIA</em> </p>
-    <p xml:lang="swe">Frisitska  Limburgitska  Telatuni saxitska  Řomanés  Židovitska</p>
-    <p xml:lang="swe"> Rumunitska  Romani  Rusinska/Rutenska  Serbitska  Slovakitska  Slovenitska  Ukrainitska</p>
-    <p xml:lang="swe"><em type="bold">RUMENIA</em> </p>
-    <p xml:lang="swe"><em type="bold">ŠPANIA</em> </p>
-    <p xml:lang="swe"> Arabitsko  Aragonitska  Aranesitska  Austuritska/</p>
-    <p xml:lang="swe">Bableitska</p>
-    <p xml:lang="swe"> Baskitska  Beberitska  Katalanitska  Galicitska  Portugitska  Valecianitska</p>
-    <p xml:lang="swe"> Albansitska  Armenitska  Bulgaritska  Kroatsitska  Tjeckitska  Njamcitska  Ungrikitska  Italianitska  Makedonitska  Polskitska  Romani  Řusitska  Rusinska/Rutenska  Serbitska  Slovakitska  Tataritska  Tutkitska  Ukrainitska  Židovitska</p>
-  </body>
-</document>
+<document xml:lang="rmy-rka" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>572</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rka"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_romanikelderash.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"><em type="bold">E KRIS DEL LE </em></p>
+<p><em type="bold">NACIONÁLNE   MINORITETONÉNGE ČAČIMÓSGINDORA THAJ LINJI </em></p>
+<p xml:lang="swe"><em type="bold">MINORITÉTORA ÁNDO ŠVÉDO</em> </p>
+<p><em type="bold">Le theméske gíndo le minoritetonénge politikása si, te len sáma thaj te protektoín le nacionálne minoritétora, te zurarén lénge šajimós te šaj vázden thaj te barvarén le historikané minoritétonenge šibá, te šaj inkerén le šibá žuvindé.</em> </p>
+<p><em type="bold">LE NACIONÁLNE  MINORITÉTONENGE  NACIONÁLNE </em></p>
+<p xml:lang="swe"><em type="bold"> DISKRIMINÁTSIA THAJ TRAKASERIMÁTA</em> </p>
+<p><em type="bold">O Švédo da žesára sas jekh them kaj diné duma but šibá thaj kaj si butékulturálne. (Mångkulturell). Le Same, finlandésura, tornedalingurá, le řom thaj le žídovura, bešlé ándo them de but berš pálpale. Léngi šib thaj léngi kultúra del andré ánde le švedítsko kulturáko historia.</em> </p>
+<p>Diskriminátsia, trakaserimáta, thaj bi lašajimós (missgynnade) pa le manúš kaj si ánda le nacionálne minoritétora, músaj te marén telé. Lénde músaj te avél sa godo čačimós sar sa o naródora ándo le themésko trájo (samhällslivet).</p>
+<p>Le theméske thaj le komunonénge autori</p>
+<p>tétora ( förvaltningsmyndigheterna) Músaj kána varekána trubúl, te del avrí informácia le</p>
+<p>LE SAME: Si pašti 20 000- 35 000 same ándo Švédo</p>
+<p>kaj den dúma but varitétora ánda léngo šib samítska. Le same si jekh ánda le maj phurikané naródura ándo them.</p>
+<p xml:lang="swe"><em type="bold"> ČAČIMÓS THAJ PRÁVA TE  DEN ANDRÉ ÁNDO </em></p>
+<p xml:lang="swe"><em type="bold">PÉNGO SVÁTO</em> </p>
+<p>Le autoritétora músaj te kerén bučí ánde jekh than le nacionálne minoritetonénsa te den le čačimós thaj práva te šaj zurarén pénge pártja. Músaj te den barí zor te šaj den andé ánde le divánura kaj žal pa lénde.</p>
+<p xml:lang="swe">Ánde e kris le šibéngo ( språklagen)</p>
+<p>(2009:600) ramólpe, ke ašél pe le autoritétora te protektoín  thaj te ažutín le nacionálne</p>
+<p>LE ŠVEDÓSKE FINLANDESURA::Si pašti 450 000- 600 000 švedoskefinlandesura ándo Švédo. But</p>
+<p>ánda lénde bešén ándo Štockholmo - Mälardalen. Léngi minoritetonéngo šib si finlandítska.</p>
+<p>LE TORNEDALINGURA: Si pašti 50 000 tornedalin</p>
+<p xml:lang="swe"><em type="bold"> SPRÅK OCH KULTURELL IDENTITET</em> </p>
+<p>gura bešén maj but ándo Norrbotten. Léngi minori-tetonéngo šib bušól meänkieli.</p>
+<p>LE ŘOM::Si pašti 50 000- 100 000 řom kaj bešén pe</p>
+<p>Le nacionálne minoritetonénge šibá thaj kultúra músaj te avél protektimé thaj zurardé. Le manúš kaj si ánda le nacionálne minoritétora te avél len o čačimós thaj é práva te den duma pénge dejáski šib, thaj te barvarén péngi kulturáko identitéto. Le nacionálne minoritetonénge šibá trubúl te avel žuvindé šibá ándo Švédo.</p>
+<p>Le theméske thaj le komunonénge autoritétora ( förvaltningsmyndigheterna) Músaj te den le nationálne minoritétora ažutimós</p>
+<p>but thaná ándo them.Ánde léngi minoritetonéngo šib si but varitétora ánda e řomaní šib.</p>
+<p>ŽÍDOVURA:<em type="bold"> </em>Si pašti 20 000 – 25 000 žídovura kaj bešén ándo Švédo. Léngi minoritetonéngo šib bušól jiddisch. </p>
+<p xml:lang="swe"><em type="bold">JEKH INFORMACIAKO RAM KATÁR</em> </p>
+<p xml:lang="swe"><em type="bold">NORVEGO</em> </p>
+<p xml:lang="swe"><em type="bold">SVERIGE</em> </p>
+<p xml:lang="swe"> Kvänitska  Romani  Samitska</p>
+<p> Samitska  Finlanditska  Meänkielitska  Řomani šib  Židovitska</p>
+<p xml:lang="swe"><em type="bold">BARI BRITANIA</em> Kornitska </p>
+<p><em type="bold">FINLAND</em> </p>
+<p xml:lang="swe"> Romani  Řusitska  Samitska  Šveditska  Tataritska  Židovitska  Karelitska</p>
+<p xml:lang="swe"><em type="bold">NJÁMCO</em> </p>
+<p xml:lang="swe">Irlanditska  Manxitska  Telatuni skotitska  Skocísko gaelitska  Ulster skotitska  Kymritska (waeleitska)</p>
+<p xml:lang="swe"> Danemarkitska  Telatuninjamcitska  Telatunisorbitska  Nordfrisitska  Romani  Saterfrisitska  Vučisorbitska<em type="bold">DENEMÁRKA</em> </p>
+<p xml:lang="swe">Njamcitska</p>
+<p xml:lang="swe"><em type="bold">ÚNGRIKO</em> </p>
+<p xml:lang="swe"> Armenitska  Beašitska  Bulgaritska  Kroatsitska  Njamcitska  Grekitska  Polskitska</p>
+<p><em type="bold">HOLANDIA</em> </p>
+<p>Frisitska  Limburgitska  Telatuni saxitska  Řomanés  Židovitska</p>
+<p xml:lang="swe"> Rumunitska  Romani  Rusinska/Rutenska  Serbitska  Slovakitska  Slovenitska  Ukrainitska</p>
+<p xml:lang="swe"><em type="bold">RUMENIA</em> </p>
+<p xml:lang="swe"><em type="bold">ŠPANIA</em> </p>
+<p> Arabitsko  Aragonitska  Aranesitska  Austuritska/</p>
+<p xml:lang="swe">Bableitska</p>
+<p> Baskitska  Beberitska  Katalanitska  Galicitska  Portugitska  Valecianitska</p>
+<p xml:lang="swe"> Albansitska  Armenitska  Bulgaritska  Kroatsitska  Tjeckitska  Njamcitska  Ungrikitska  Italianitska  Makedonitska  Polskitska  Romani  Řusitska  Rusinska/Rutenska  Serbitska  Slovakitska  Tataritska  Tutkitska  Ukrainitska  Židovitska</p>
+</body></document>
